@@ -18,7 +18,7 @@ python -m spacy download en_core_web_sm
 python pii_redactor.py
 ```
 
-Open `http://127.0.0.1:5000`. Upload a supported document and use **Redact & Download**, or click **Run Accuracy Evaluation** for the included 1,500-record Faker dataset and 1,500-record Presidio Research dataset. Dataset provenance and label mapping are recorded in [datasets/faker/SOURCE.md](datasets/faker/SOURCE.md) and [datasets/presidio/SOURCE.md](datasets/presidio/SOURCE.md).
+Open `luxury-kataifi-2a56d1.netlify.app`. Upload a supported document and use **Redact & Download**, or click **Run Accuracy Evaluation** for the included 1,500-record Faker dataset and 1,500-record Presidio Research dataset. Dataset provenance and label mapping are recorded in [datasets/faker/SOURCE.md](datasets/faker/SOURCE.md) and [datasets/presidio/SOURCE.md](datasets/presidio/SOURCE.md).
 
 Each labels file is a JSON array. Every item contains `file` and an `entities` array with `label` and `text` fields. Add a document under the matching `original/` directory and its labels to extend the benchmark.
 
