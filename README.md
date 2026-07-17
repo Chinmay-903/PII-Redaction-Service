@@ -28,10 +28,10 @@ redeploy:
 
 ```text
 pip install -r requirements.txt && python -m spacy download en_core_web_sm
-gunicorn --bind 0.0.0.0:$PORT --workers 1 --timeout 300 --graceful-timeout 30 pii_redactor:app
+gunicorn --bind 0.0.0.0:$PORT --workers 1 --timeout 600 --graceful-timeout 30 pii_redactor:app
 ```
 
-The five-minute Gunicorn timeout is intentional: PDF redaction is synchronous
+The ten-minute Gunicorn timeout is intentional: PDF redaction is synchronous
 and a large document can exceed Gunicorn's 30-second default timeout. One
 worker prevents simultaneous large PDFs from exhausting the service's memory.
 

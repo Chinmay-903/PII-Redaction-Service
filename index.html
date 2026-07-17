@@ -37,7 +37,7 @@ redact.onclick = async () => {
     const link = Object.assign(document.createElement('a'), {href:URL.createObjectURL(await response.blob()), download:`redacted_${file.name}`});
     link.click(); setTimeout(() => URL.revokeObjectURL(link.href), 1000); message('Your redacted file is ready.');
   } catch (error) {
-    message(error.name === 'AbortError' ? 'Redaction timed out after five minutes. Try a smaller text-based file.' : `Redaction failed: ${error.message}`);
+    message(error.name === 'AbortError' ? 'Redaction timed out after ten minutes. Try a smaller text-based file.' : `Redaction failed: ${error.message}`);
   } finally {
     clearTimeout(timeout); redact.disabled = false;
   }
