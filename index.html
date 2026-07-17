@@ -26,7 +26,7 @@ const status = document.querySelector('#status'), redact = document.querySelecto
 const message = text => status.textContent = text;
 redact.onclick = async () => {
   const file = document.querySelector('#file').files[0]; if (!file) return message('Choose a file first.');
-  const controller = new AbortController(), timeout = setTimeout(() => controller.abort(), 300000);
+  const controller = new AbortController(), timeout = setTimeout(() => controller.abort(), 30000000);
   redact.disabled = true; message('Redacting…'); const body = new FormData(); body.append('file', file);
   try {
     const response = await fetch('/redact', {method:'POST', body, signal:controller.signal});
