@@ -19,7 +19,6 @@ os.environ.setdefault("OMP_NUM_THREADS", "1")
 os.environ.setdefault("OPENBLAS_NUM_THREADS", "1")
 
 import pandas as pd
-import pdfplumber
 import spacy
 import fitz
 from docx import Document
@@ -72,9 +71,9 @@ class FileExtractor:
         return DocumentData(path, ".docx", "\n".join(parts), document)
 
     def _pdf(self, path: Path) -> DocumentData:
-        with pdfplumber.open(path) as pdf:
-            text = "\n".join(page.extract_text() or "" for page in pdf.pages)
-        return DocumentData(path, ".pdf", text)
+        # PDF writing extracts text from each page below. Avoid doing a second,
+        # otherwise unused, full-document extraction before that work starts.
+        return DocumentData(path, ".pdf", "")
 
     def _table(self, path: Path) -> DocumentData:
         table = pd.read_csv(path, dtype=str, keep_default_na=False) if path.suffix == ".csv" else pd.read_excel(path, dtype=str, keep_default_na=False)
@@ -415,20 +414,25 @@ class FileWriter:
     @staticmethod
     def _pdf(document: DocumentData, output: Path, detector: PIIDetector, replacer: PIIReplacer) -> None:
         pdf = fitz.open(document.path)
-        for page in pdf:
-            replacements = FileWriter._pdf_replacements(page, detector, replacer)
-            for rect, _ in replacements:
-                page.add_redact_annot(rect, fill=(1, 1, 1), cross_out=False)
-            if replacements:
-                page.apply_redactions()
-                for rect, value in replacements:
-                    FileWriter._insert_pdf_text(page, rect, value)
-        pdf.save(output, garbage=4, deflate=True)
-        pdf.close()
+        try:
+            # spaCy's batch API greatly reduces NER overhead for multi-page PDFs
+            # while each page retains its own redaction coordinates.
+            page_texts = [page.get_text("text") for page in pdf]
+            page_entities = detector.detect_many(page_texts)
+            for page, entities in zip(pdf, page_entities):
+                replacements = FileWriter._pdf_replacements(page, entities, replacer)
+                for rect, _ in replacements:
+                    page.add_redact_annot(rect, fill=(1, 1, 1), cross_out=False)
+                if replacements:
+                    page.apply_redactions()
+                    for rect, value in replacements:
+                        FileWriter._insert_pdf_text(page, rect, value)
+            pdf.save(output, garbage=4, deflate=True)
+        finally:
+            pdf.close()
 
     @staticmethod
-    def _pdf_replacements(page: Any, detector: PIIDetector, replacer: PIIReplacer) -> list[tuple[Any, str]]:
-        entities = detector.detect(page.get_text("text"))
+    def _pdf_replacements(page: Any, entities: list[Entity], replacer: PIIReplacer) -> list[tuple[Any, str]]:
         replacements = []
         seen = set()
         for entity in entities:
@@ -556,6 +560,8 @@ class Evaluator:
 
 
 app = Flask(__name__)
+for directory in (INPUT_DIR, OUTPUT_DIR):
+    directory.mkdir(parents=True, exist_ok=True)
 extractor, detector, writer = FileExtractor(), PIIDetector(), FileWriter()
 
 
@@ -573,12 +579,20 @@ def redact():
     if Path(filename).suffix.lower() not in ALLOWED_EXTENSIONS:
         return jsonify(error="This file format is not supported."), 400
     source = INPUT_DIR / f"{uuid.uuid4().hex}_{filename}"
-    upload.save(source)
     try:
+        upload.save(source)
         document = extractor.read(source)
         result = writer.write(document, detector, PIIReplacer())
-        return send_file(result, as_attachment=True, download_name=f"redacted_{filename}")
+        response = send_file(result, as_attachment=True, download_name=f"redacted_{filename}")
+
+        def remove_temporary_files() -> None:
+            source.unlink(missing_ok=True)
+            result.unlink(missing_ok=True)
+
+        response.call_on_close(remove_temporary_files)
+        return response
     except Exception as error:
+        source.unlink(missing_ok=True)
         return jsonify(error=str(error)), 400
 
 
@@ -588,5 +602,4 @@ def evaluate():
 
 
 if __name__ == "__main__":
-    for directory in (INPUT_DIR, OUTPUT_DIR): directory.mkdir(exist_ok=True)
-    app.run()
+    app.run(host="0.0.0.0", port=int(os.environ.get("PORT", "5000")))

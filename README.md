@@ -20,6 +20,21 @@ python pii_redactor.py
 
 Open `luxury-kataifi-2a56d1.netlify.app`. Upload a supported document and use **Redact & Download**, or click **Run Accuracy Evaluation** for the included 1,500-record Faker dataset and 1,500-record Presidio Research dataset. Dataset provenance and label mapping are recorded in [datasets/faker/SOURCE.md](datasets/faker/SOURCE.md) and [datasets/presidio/SOURCE.md](datasets/presidio/SOURCE.md).
 
+## Deploy on Render
+
+Use the included `render.yaml` when creating a Render Blueprint. For an existing
+Web Service, set its Build Command and Start Command to the values below, then
+redeploy:
+
+```text
+pip install -r requirements.txt && python -m spacy download en_core_web_sm
+gunicorn --bind 0.0.0.0:$PORT --workers 1 --timeout 300 --graceful-timeout 30 pii_redactor:app
+```
+
+The five-minute Gunicorn timeout is intentional: PDF redaction is synchronous
+and a large document can exceed Gunicorn's 30-second default timeout. One
+worker prevents simultaneous large PDFs from exhausting the service's memory.
+
 Each labels file is a JSON array. Every item contains `file` and an `entities` array with `label` and `text` fields. Add a document under the matching `original/` directory and its labels to extend the benchmark.
 
 ## Design
