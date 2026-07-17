@@ -1,0 +1,7 @@
+Customer: Walter Garcia
+Company: Dunn, Wood and Reed
+Email: angelajohnson@example.com | Phone: 091-110-4700
+Address: 686 York Spur, East Eric, PR 87364
+SSN: 039-92-5248
+Card: 4507607236650547 | DOB: 06/24/1978
+Last login IP: 10.145.145.36

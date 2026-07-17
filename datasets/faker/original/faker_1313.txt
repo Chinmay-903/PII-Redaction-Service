@@ -1,0 +1,7 @@
+Customer: Bianca Mejia
+Company: Richardson-Levy
+Email: melindamartinez@example.com | Phone: 714-735-9176
+Address: 2230 Watkins Rue, Casehaven, NC 04193
+SSN: 115-35-8851
+Card: 4845409392696286 | DOB: 03/30/1962
+Last login IP: 10.41.94.52

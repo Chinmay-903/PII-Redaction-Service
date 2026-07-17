@@ -1,0 +1,7 @@
+Customer: Jennifer Burns
+Company: Green, Pittman and Lopez
+Email: susanrojas@example.com | Phone: 411-354-4442
+Address: 7045 Sue Glens, East Brent, SD 37313
+SSN: 797-46-9321
+Card: 4649800491199602 | DOB: 07/28/1971
+Last login IP: 10.4.30.235

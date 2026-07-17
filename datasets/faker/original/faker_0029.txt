@@ -1,0 +1,7 @@
+Customer: Gail Young
+Company: Flores, Brown and Adams
+Email: wjohnson@example.org | Phone: 236-156-8760
+Address: 082 Dixon Meadow, Curtisborough, DC 54928
+SSN: 869-24-5259
+Card: 4488657845077403 | DOB: 09/03/1973
+Last login IP: 10.16.159.6

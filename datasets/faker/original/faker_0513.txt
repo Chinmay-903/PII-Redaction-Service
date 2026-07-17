@@ -1,0 +1,7 @@
+Customer: Michael Morris
+Company: Townsend, Hamilton and Willis
+Email: ahall@example.org | Phone: 741-652-0748
+Address: 34103 John Station, Port Amberside, IA 54147
+SSN: 229-05-0820
+Card: 4462620807865298 | DOB: 08/03/1977
+Last login IP: 192.168.221.4

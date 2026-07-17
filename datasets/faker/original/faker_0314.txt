@@ -1,0 +1,7 @@
+Customer: Kathleen Hayes
+Company: Smith LLC
+Email: ryangarcia@example.com | Phone: 656-886-0423
+Address: 3438 Obrien Oval, Garciachester, NC 92083
+SSN: 266-09-9749
+Card: 4859145431206520 | DOB: 06/09/2001
+Last login IP: 172.26.221.141

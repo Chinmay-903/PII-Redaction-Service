@@ -1,0 +1,7 @@
+Customer: Deborah Robles
+Company: Bautista-Ramirez
+Email: shawn73@example.net | Phone: 949-487-7976
+Address: 162 Tanya Freeway, Guerrerochester, RI 75805
+SSN: 549-67-3876
+Card: 4273272624355654 | DOB: 02/03/2002
+Last login IP: 192.168.129.236

@@ -1,0 +1,7 @@
+Customer: Bradley Cowan
+Company: Kim, Larson and Hicks
+Email: lynchaaron@example.com | Phone: 239-660-1551
+Address: 69312 Donald Club, Sydneyshire, MP 59989
+SSN: 345-66-5757
+Card: 4435378431365144 | DOB: 06/18/1959
+Last login IP: 192.168.13.243

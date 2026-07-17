@@ -1,0 +1,7 @@
+Customer: Victoria Torres
+Company: Lewis, Patterson and Herrera
+Email: cmcclure@example.net | Phone: 159-050-9140
+Address: 788 Joanna Springs, Coxmouth, AL 50306
+SSN: 291-35-2634
+Card: 4160119025102928 | DOB: 10/20/1989
+Last login IP: 172.21.104.159

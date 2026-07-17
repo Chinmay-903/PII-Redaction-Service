@@ -1,0 +1,7 @@
+Customer: Jennifer Blake
+Company: Stephenson, Daniels and Poole
+Email: kellysamantha@example.com | Phone: 146-448-4852
+Address: 549 Heather Ridges, West Jenniferberg, CA 40526
+SSN: 207-41-5592
+Card: 4805940979798093 | DOB: 04/06/1992
+Last login IP: 192.168.79.47

@@ -1,0 +1,7 @@
+Customer: Mitchell Molina
+Company: Sanford-Riley
+Email: tmitchell@example.net | Phone: 152-909-6715
+Address: 87268 Curry Harbors, South Triciaton, NM 29920
+SSN: 364-29-7071
+Card: 4827885782309733 | DOB: 05/19/2006
+Last login IP: 172.26.146.199

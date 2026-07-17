@@ -1,0 +1,7 @@
+Customer: Emily Cantu
+Company: Yu, Davis and Lewis
+Email: cadams@example.com | Phone: 954-849-2157
+Address: 88967 Ortega Lake, Sampsonbury, CO 58738
+SSN: 167-74-9658
+Card: 4989805235410569 | DOB: 10/20/1999
+Last login IP: 192.168.112.133

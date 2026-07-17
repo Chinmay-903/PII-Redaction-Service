@@ -1,0 +1,7 @@
+Customer: Justin Young
+Company: Coleman-Perry
+Email: robertslaura@example.net | Phone: 039-098-4509
+Address: 58845 Christopher Plain, New Kelly, CA 72191
+SSN: 409-56-7490
+Card: 4018097634527392 | DOB: 10/11/1953
+Last login IP: 172.24.171.114

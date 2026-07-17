@@ -1,0 +1,7 @@
+Customer: Robin Taylor
+Company: Fitzgerald LLC
+Email: gainesrichard@example.net | Phone: 912-589-5698
+Address: 8074 Mark Villages, Port Ana, ME 41449
+SSN: 349-84-1458
+Card: 4320499931905649 | DOB: 05/31/1956
+Last login IP: 192.168.120.145

@@ -1,0 +1,7 @@
+Customer: Ronald Beard
+Company: Black-Murray
+Email: nelsonrebecca@example.com | Phone: 531-030-5541
+Address: 83444 Moreno Junctions, Port Sydney, VT 67965
+SSN: 678-96-5842
+Card: 4464422755701403 | DOB: 01/04/2006
+Last login IP: 172.25.48.30

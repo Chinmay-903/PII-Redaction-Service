@@ -1,0 +1,7 @@
+Customer: John Jones
+Company: Schroeder, Pena and Bernard
+Email: melissa53@example.com | Phone: 242-355-5864
+Address: 9239 Mary Mission, Gallagherville, CO 85602
+SSN: 410-67-4562
+Card: 4011967281721869 | DOB: 03/24/1957
+Last login IP: 10.121.74.221

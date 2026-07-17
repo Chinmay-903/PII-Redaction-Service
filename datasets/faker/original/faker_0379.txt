@@ -1,0 +1,7 @@
+Customer: George Patterson
+Company: Martinez LLC
+Email: john37@example.com | Phone: 733-992-3971
+Address: 51544 Brian Turnpike, South Monica, IL 51712
+SSN: 485-11-4399
+Card: 4222607552947851 | DOB: 03/30/2006
+Last login IP: 172.23.241.199

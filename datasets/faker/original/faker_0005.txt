@@ -1,0 +1,7 @@
+Customer: Amanda Navarro
+Company: Mooney and Sons
+Email: coxjasmine@example.com | Phone: 822-017-8440
+Address: 5356 Christopher Mountain, West Shirley, MO 47766
+SSN: 634-66-9026
+Card: 4744501362961906 | DOB: 09/21/2006
+Last login IP: 192.168.19.63

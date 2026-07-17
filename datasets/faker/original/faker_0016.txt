@@ -1,0 +1,7 @@
+Customer: William Wilson
+Company: Garrison-French
+Email: jackmcguire@example.com | Phone: 013-110-0759
+Address: 012 Daniel Summit, Dennisshire, NH 95805
+SSN: 654-98-3068
+Card: 4360648402947636 | DOB: 08/08/1997
+Last login IP: 10.114.4.160

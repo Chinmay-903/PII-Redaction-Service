@@ -1,0 +1,7 @@
+Customer: Jennifer Hooper
+Company: Jones-Hernandez
+Email: benjaminlindsey@example.com | Phone: 616-668-9032
+Address: 0185 Winters Curve, Reynoldsville, LA 63285
+SSN: 135-56-2584
+Card: 4937566876525643 | DOB: 10/16/2006
+Last login IP: 192.168.108.4

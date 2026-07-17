@@ -1,0 +1,7 @@
+Customer: Amy Vaughn
+Company: Duncan Inc
+Email: jeanne32@example.com | Phone: 652-586-6380
+Address: 05264 Kaufman Squares, Port Jeffrey, AZ 75616
+SSN: 745-46-6710
+Card: 4787172358339107 | DOB: 07/15/1954
+Last login IP: 192.168.27.100

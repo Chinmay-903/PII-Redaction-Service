@@ -1,0 +1,7 @@
+Customer: Bethany Nixon
+Company: Mitchell-Smith
+Email: phillipsstacey@example.org | Phone: 476-192-3106
+Address: 9957 Ronnie Path, East Stacey, MN 01004
+SSN: 112-41-9920
+Card: 4358653060301914 | DOB: 02/24/1950
+Last login IP: 10.18.3.82

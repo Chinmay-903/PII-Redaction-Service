@@ -1,0 +1,7 @@
+Customer: Joel Smith
+Company: Lee LLC
+Email: kristinemayer@example.net | Phone: 056-739-5646
+Address: 61286 Michael Hills, South John, NM 11177
+SSN: 308-95-4625
+Card: 4511682153545909 | DOB: 01/09/1991
+Last login IP: 172.28.108.164

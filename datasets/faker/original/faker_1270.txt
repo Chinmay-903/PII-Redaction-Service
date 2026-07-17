@@ -1,0 +1,7 @@
+Customer: Juan Lawrence
+Company: Brock PLC
+Email: misty44@example.org | Phone: 250-073-1137
+Address: 5505 Smith Mountains, Jenningsburgh, DC 47032
+SSN: 241-53-9106
+Card: 4028881779822413 | DOB: 06/12/1996
+Last login IP: 172.16.179.96

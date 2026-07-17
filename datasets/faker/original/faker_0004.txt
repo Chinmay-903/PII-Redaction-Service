@@ -1,0 +1,7 @@
+Customer: Julie Cochran
+Company: Alexander, Blackwell and Wells
+Email: michelle96@example.com | Phone: 436-893-9182
+Address: 41254 Tammy Canyon, Heatherburgh, FM 58319
+SSN: 199-76-9583
+Card: 4857446672737583 | DOB: 05/12/1957
+Last login IP: 192.168.56.194

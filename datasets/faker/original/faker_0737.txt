@@ -1,0 +1,7 @@
+Customer: Jose Villa
+Company: Reynolds, Carey and Spears
+Email: taylorchristopher@example.com | Phone: 416-675-5289
+Address: 8233 Reeves Lake, West Alexisland, WY 27126
+SSN: 268-50-5820
+Card: 4592195931075745 | DOB: 01/26/1985
+Last login IP: 192.168.229.241

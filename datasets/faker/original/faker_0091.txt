@@ -1,0 +1,7 @@
+Customer: Amanda Ramirez
+Company: Delgado and Sons
+Email: cbrown@example.net | Phone: 086-606-0937
+Address: 7262 Tyler Bypass, Lake Amandamouth, FM 26030
+SSN: 098-69-8584
+Card: 4342786431130122 | DOB: 11/12/1950
+Last login IP: 10.36.10.247

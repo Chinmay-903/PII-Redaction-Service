@@ -1,0 +1,7 @@
+Customer: Bradley Harris
+Company: Aguilar-Whitaker
+Email: lindsey94@example.org | Phone: 200-582-4333
+Address: 23790 Caitlin Flats, Carrieside, VT 22339
+SSN: 828-02-7369
+Card: 4490505926708360 | DOB: 04/22/1961
+Last login IP: 192.168.159.237

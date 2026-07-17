@@ -1,0 +1,7 @@
+Customer: Mitchell Silva
+Company: Williams, Randall and Hammond
+Email: laneclinton@example.com | Phone: 124-978-4392
+Address: 4048 Henderson Prairie, Meaganburgh, OK 30040
+SSN: 545-74-8149
+Card: 4819962421276894 | DOB: 06/28/1975
+Last login IP: 172.31.122.64

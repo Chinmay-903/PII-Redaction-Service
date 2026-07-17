@@ -1,0 +1,7 @@
+Customer: Stephanie Fuentes
+Company: Rodriguez-Brooks
+Email: samantha86@example.com | Phone: 316-259-7088
+Address: 7310 Beck Crossing, Wrightton, VA 63224
+SSN: 725-35-6485
+Card: 4911956417665950 | DOB: 05/21/1951
+Last login IP: 10.248.102.41

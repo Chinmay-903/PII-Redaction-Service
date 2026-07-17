@@ -1,0 +1,7 @@
+Customer: Peter Olson
+Company: Goodwin-Stanton
+Email: hugheskimberly@example.net | Phone: 347-402-8239
+Address: 36853 Timothy Summit, Lake Nicholefort, PW 47134
+SSN: 465-40-5795
+Card: 4575854790093709 | DOB: 12/11/2005
+Last login IP: 172.18.39.80

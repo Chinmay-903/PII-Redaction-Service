@@ -1,0 +1,7 @@
+Customer: Nancy Randall
+Company: Fields, Wright and Gilbert
+Email: xstewart@example.com | Phone: 885-580-1620
+Address: 7282 Fernandez Gardens, Fisherstad, PA 03521
+SSN: 854-07-3167
+Card: 4831738764342780 | DOB: 12/05/1988
+Last login IP: 192.168.102.66

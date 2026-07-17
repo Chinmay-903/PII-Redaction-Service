@@ -1,0 +1,7 @@
+Customer: Garrett Brown
+Company: Chavez-Gill
+Email: joshua84@example.com | Phone: 719-507-3482
+Address: 4713 Jerome Spurs, Ericamouth, MH 58865
+SSN: 663-52-7438
+Card: 4890951656622841 | DOB: 05/29/1980
+Last login IP: 192.168.245.139

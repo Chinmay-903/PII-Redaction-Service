@@ -1,0 +1,7 @@
+Customer: Robert Johnson
+Company: Weber-Stone
+Email: uburke@example.net | Phone: 837-143-3219
+Address: 936 Bartlett Mill, Kelseyside, NE 82840
+SSN: 368-15-2396
+Card: 4102838762458539 | DOB: 01/07/1974
+Last login IP: 192.168.195.139

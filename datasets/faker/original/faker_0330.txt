@@ -1,0 +1,7 @@
+Customer: Jonathan Anderson
+Company: Roberts-Parker
+Email: kimberly85@example.com | Phone: 823-167-7773
+Address: 8830 Melissa Roads, Santiagofurt, MO 89896
+SSN: 768-62-9081
+Card: 4949466963083430 | DOB: 07/02/1947
+Last login IP: 10.133.147.235

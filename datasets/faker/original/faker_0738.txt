@@ -1,0 +1,7 @@
+Customer: Roger Aguilar
+Company: Fletcher, Villa and Nielsen
+Email: snyderfrancis@example.net | Phone: 485-428-8991
+Address: 549 Williams Viaduct, Josephstad, NC 77234
+SSN: 036-68-0619
+Card: 4838976655409291 | DOB: 11/12/1965
+Last login IP: 192.168.161.93

@@ -1,0 +1,7 @@
+Customer: Stacey Sawyer
+Company: Brown Group
+Email: amandajones@example.com | Phone: 982-140-8301
+Address: 163 Donna Wells, Jonathanborough, MH 65208
+SSN: 837-19-5262
+Card: 4916945133673823 | DOB: 12/22/1958
+Last login IP: 192.168.96.5

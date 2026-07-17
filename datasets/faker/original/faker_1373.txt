@@ -1,0 +1,7 @@
+Customer: Alexandria Barry
+Company: Hawkins, Hunter and Clark
+Email: andrea00@example.com | Phone: 127-974-9206
+Address: 326 Delgado Meadow, Cobbtown, MI 02991
+SSN: 106-63-3854
+Card: 4770071745610072 | DOB: 04/16/1965
+Last login IP: 10.46.209.115

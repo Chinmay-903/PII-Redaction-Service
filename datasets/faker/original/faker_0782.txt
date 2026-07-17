@@ -1,0 +1,7 @@
+Customer: Alan Sanchez
+Company: Thompson-Pineda
+Email: rachel57@example.org | Phone: 240-032-0473
+Address: 325 Steven Center, Osborneside, TN 63857
+SSN: 671-52-0887
+Card: 4100825463416694 | DOB: 06/16/1988
+Last login IP: 172.26.133.165

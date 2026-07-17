@@ -1,0 +1,7 @@
+Customer: Kevin Walker
+Company: Vargas-Howard
+Email: gtorres@example.org | Phone: 082-877-5055
+Address: 022 House Glens, West Amanda, MO 09212
+SSN: 722-52-7942
+Card: 4680774187129258 | DOB: 08/04/1959
+Last login IP: 192.168.12.253

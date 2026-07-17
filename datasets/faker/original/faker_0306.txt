@@ -1,0 +1,7 @@
+Customer: Raymond Nolan
+Company: Kane Inc
+Email: richard37@example.org | Phone: 145-511-3963
+Address: 3055 Joanna Shoal, Miguelberg, VA 34197
+SSN: 853-22-0078
+Card: 4120184439281873 | DOB: 08/02/1968
+Last login IP: 10.162.157.89

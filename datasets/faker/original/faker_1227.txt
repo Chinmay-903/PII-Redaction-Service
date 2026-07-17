@@ -1,0 +1,7 @@
+Customer: Jared Molina
+Company: Moore, Kennedy and Mcintosh
+Email: tiffany89@example.net | Phone: 059-071-8797
+Address: 26057 Parsons Harbor, Anthonyland, MN 42858
+SSN: 787-73-6057
+Card: 4353450259301580 | DOB: 06/05/2001
+Last login IP: 192.168.143.55

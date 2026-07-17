@@ -1,0 +1,7 @@
+Customer: Theresa Stone
+Company: Mccullough Inc
+Email: april52@example.org | Phone: 784-462-1837
+Address: 5238 Jenny Highway, Anthonyport, ID 49403
+SSN: 006-37-2870
+Card: 4230403047730957 | DOB: 07/14/2002
+Last login IP: 192.168.59.119

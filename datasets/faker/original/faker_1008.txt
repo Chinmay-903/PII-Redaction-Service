@@ -1,0 +1,7 @@
+Customer: Emily Morgan
+Company: Serrano Ltd
+Email: lori41@example.com | Phone: 862-704-3093
+Address: 48681 Malone Field, East Williamton, FL 95511
+SSN: 638-91-5766
+Card: 4105089846636115 | DOB: 11/18/1951
+Last login IP: 192.168.74.180

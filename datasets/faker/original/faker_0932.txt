@@ -1,0 +1,7 @@
+Customer: Richard Murphy
+Company: Montes LLC
+Email: davidrobinson@example.org | Phone: 131-661-8912
+Address: 7248 Doris Keys, New Michael, RI 79576
+SSN: 048-56-3013
+Card: 4232223538188483 | DOB: 09/15/2004
+Last login IP: 172.28.11.9

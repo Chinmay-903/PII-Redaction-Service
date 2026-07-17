@@ -1,0 +1,7 @@
+Customer: Michelle Sullivan
+Company: Parker-Rodgers
+Email: riveravirginia@example.com | Phone: 201-822-6552
+Address: 4847 Long Skyway, Lake James, WV 88192
+SSN: 701-51-1415
+Card: 4076504553049810 | DOB: 10/05/1967
+Last login IP: 172.18.42.174

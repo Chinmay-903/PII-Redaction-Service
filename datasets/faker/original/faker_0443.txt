@@ -1,0 +1,7 @@
+Customer: Christopher Kirk
+Company: Thomas-Perez
+Email: kirkmark@example.org | Phone: 941-777-8813
+Address: 22415 Guzman Club, East Anthonyhaven, NH 69646
+SSN: 488-01-9058
+Card: 4345694681566077 | DOB: 10/03/1951
+Last login IP: 192.168.30.79

@@ -1,0 +1,7 @@
+Customer: Kelsey Rose
+Company: Villegas and Sons
+Email: harrisbenjamin@example.com | Phone: 425-210-4637
+Address: 09600 Love Wells, Smithchester, SD 05914
+SSN: 291-14-3427
+Card: 4261445547968001 | DOB: 05/07/1968
+Last login IP: 172.24.75.44

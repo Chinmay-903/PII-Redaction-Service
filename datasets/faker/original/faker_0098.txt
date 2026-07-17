@@ -1,0 +1,7 @@
+Customer: Marcia Sharp
+Company: Johnson Ltd
+Email: davidmarquez@example.net | Phone: 582-762-2320
+Address: 9472 Andrea Plaza, Wendyborough, LA 48871
+SSN: 645-06-9192
+Card: 4039633351487975 | DOB: 11/10/1976
+Last login IP: 192.168.28.130

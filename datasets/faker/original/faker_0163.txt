@@ -1,0 +1,7 @@
+Customer: Scott Marks
+Company: Howell-Lopez
+Email: dkerr@example.com | Phone: 455-892-9696
+Address: 0804 Stephen Greens, Lake Ashley, IA 18860
+SSN: 399-36-4358
+Card: 4041212882472206 | DOB: 09/01/1988
+Last login IP: 10.143.186.223

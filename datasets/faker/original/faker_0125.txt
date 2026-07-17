@@ -1,0 +1,7 @@
+Customer: Robert Hill
+Company: Kelly-Miller
+Email: barneskevin@example.com | Phone: 508-090-9518
+Address: 5394 Sherry Plaza, Evansstad, CA 48521
+SSN: 399-60-0683
+Card: 4883470076645091 | DOB: 07/29/1985
+Last login IP: 192.168.46.206

@@ -1,0 +1,7 @@
+Customer: Stephanie Lee
+Company: Mueller-Andersen
+Email: jennifercoleman@example.net | Phone: 237-108-0645
+Address: 810 Micheal Shoal, Simmonsville, ND 74430
+SSN: 114-23-0094
+Card: 4379628284871319 | DOB: 01/25/1993
+Last login IP: 10.181.19.65

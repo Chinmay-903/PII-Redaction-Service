@@ -1,0 +1,7 @@
+Customer: Ashley Garner
+Company: Martinez-Sharp
+Email: danielle35@example.com | Phone: 553-458-4125
+Address: 81273 Laura Extension, Mezachester, KY 29644
+SSN: 291-90-9217
+Card: 4851810991202999 | DOB: 01/28/1965
+Last login IP: 172.26.16.240

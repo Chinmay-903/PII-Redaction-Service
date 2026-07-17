@@ -1,0 +1,7 @@
+Customer: Timothy Mccoy
+Company: Mendoza, Alexander and Dixon
+Email: crystal54@example.net | Phone: 762-543-4657
+Address: 157 Howard Crossroad, Jonesfurt, IL 02237
+SSN: 011-70-3439
+Card: 4843729562026952 | DOB: 08/31/1974
+Last login IP: 10.3.144.20

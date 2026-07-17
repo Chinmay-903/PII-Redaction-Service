@@ -1,0 +1,7 @@
+Customer: Steven Garza
+Company: Le Ltd
+Email: griffintina@example.net | Phone: 848-003-7522
+Address: 297 Barbara Trail, South Adamhaven, AZ 39416
+SSN: 227-62-6619
+Card: 4625224866914628 | DOB: 08/12/1947
+Last login IP: 10.163.149.202

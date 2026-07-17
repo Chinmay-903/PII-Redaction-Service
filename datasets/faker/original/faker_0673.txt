@@ -1,0 +1,7 @@
+Customer: Diane Jones
+Company: Pace-Young
+Email: sarah08@example.net | Phone: 342-764-4777
+Address: 0853 Johnson Cliff, Pamelafurt, MP 35031
+SSN: 437-54-2224
+Card: 4662606850180907 | DOB: 09/17/1947
+Last login IP: 10.106.211.203

@@ -1,0 +1,7 @@
+Customer: Javier Kirk
+Company: Richardson-Sanders
+Email: hward@example.com | Phone: 258-695-8381
+Address: 0862 Joshua Rapid, South Denise, ND 29429
+SSN: 419-25-0486
+Card: 4366299409012497 | DOB: 07/08/1960
+Last login IP: 192.168.2.35

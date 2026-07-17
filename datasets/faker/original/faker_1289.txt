@@ -1,0 +1,7 @@
+Customer: Ariana Moore
+Company: York LLC
+Email: taylor47@example.net | Phone: 207-704-2846
+Address: 38206 Roberto Fields, Delgadoton, AR 22786
+SSN: 411-65-3991
+Card: 4568508952317475 | DOB: 05/04/1953
+Last login IP: 172.28.67.220

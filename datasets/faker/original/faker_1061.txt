@@ -1,0 +1,7 @@
+Customer: Alisha Parks
+Company: Cooper LLC
+Email: paul38@example.com | Phone: 487-876-7506
+Address: 38660 Christopher Throughway, Lake Hannah, DC 78788
+SSN: 352-40-3160
+Card: 4100346915226086 | DOB: 02/01/1959
+Last login IP: 192.168.17.118

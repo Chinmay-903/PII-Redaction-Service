@@ -1,0 +1,7 @@
+Customer: Brian Harris
+Company: Howard Inc
+Email: browndevon@example.net | Phone: 011-341-2628
+Address: 086 Ray Freeway, Paulfurt, AS 40903
+SSN: 353-06-1262
+Card: 4336597810544025 | DOB: 09/30/1966
+Last login IP: 192.168.79.215

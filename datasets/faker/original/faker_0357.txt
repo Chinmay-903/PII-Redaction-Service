@@ -1,0 +1,7 @@
+Customer: Edward Gibson
+Company: Murray PLC
+Email: hhernandez@example.org | Phone: 143-178-6567
+Address: 7630 Lyons Mill, Mendozabury, DE 84740
+SSN: 165-89-5228
+Card: 4927087960630712 | DOB: 07/06/1950
+Last login IP: 192.168.64.113

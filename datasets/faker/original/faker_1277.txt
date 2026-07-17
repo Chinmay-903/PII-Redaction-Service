@@ -1,0 +1,7 @@
+Customer: Erica Harris
+Company: Green PLC
+Email: ecruz@example.org | Phone: 854-208-3637
+Address: 94076 Jesus View, North Nancyville, KS 15471
+SSN: 844-52-4738
+Card: 4055278444782310 | DOB: 12/14/1989
+Last login IP: 10.240.101.110

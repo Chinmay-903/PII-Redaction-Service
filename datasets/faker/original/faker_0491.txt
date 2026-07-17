@@ -1,0 +1,7 @@
+Customer: Michael Gutierrez
+Company: Hernandez, Ortiz and Williams
+Email: lopezdanielle@example.org | Phone: 672-172-9134
+Address: 9468 Christopher Lodge, New Crystalhaven, MS 58310
+SSN: 129-14-6281
+Card: 4735665892245477 | DOB: 03/27/1958
+Last login IP: 172.23.113.110

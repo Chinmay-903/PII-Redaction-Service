@@ -1,0 +1,7 @@
+Customer: Bradley Carroll
+Company: Davis, Preston and Jones
+Email: jsmith@example.org | Phone: 886-278-6684
+Address: 866 Don Divide, Port Kennethburgh, MS 65139
+SSN: 109-15-7483
+Card: 4210437850035934 | DOB: 11/05/1980
+Last login IP: 10.33.110.60

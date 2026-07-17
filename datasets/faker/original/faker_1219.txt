@@ -1,0 +1,7 @@
+Customer: Phillip Watson
+Company: Acosta, Fox and Wright
+Email: bblevins@example.org | Phone: 702-658-5388
+Address: 632 Jamie Mountain, North Amy, KY 19894
+SSN: 583-76-1183
+Card: 4711382508580606 | DOB: 10/15/1945
+Last login IP: 10.42.179.7

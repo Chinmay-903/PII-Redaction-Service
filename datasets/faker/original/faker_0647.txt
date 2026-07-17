@@ -1,0 +1,7 @@
+Customer: Christopher Blair
+Company: Watkins-Elliott
+Email: dgarcia@example.net | Phone: 663-711-9517
+Address: 1953 Brown Valley, Waltersberg, OK 15665
+SSN: 173-61-9445
+Card: 4096183575366266 | DOB: 08/14/1990
+Last login IP: 10.210.128.221

@@ -1,0 +1,7 @@
+Customer: Carlos Parsons
+Company: Ward, Cook and Liu
+Email: carlmontgomery@example.net | Phone: 220-606-9469
+Address: 09642 Martinez Landing, Kanechester, UT 14496
+SSN: 583-45-5922
+Card: 4567793958237122 | DOB: 05/02/1954
+Last login IP: 172.27.203.238

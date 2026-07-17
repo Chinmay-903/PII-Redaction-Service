@@ -1,0 +1,7 @@
+Customer: Richard Green
+Company: Wilcox, Simpson and Roberson
+Email: rodneysmith@example.net | Phone: 903-037-6310
+Address: 0707 Mclaughlin Port, Jamiemouth, FL 47805
+SSN: 637-75-2373
+Card: 4645805144688525 | DOB: 12/26/1977
+Last login IP: 172.24.189.172

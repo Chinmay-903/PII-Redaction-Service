@@ -1,0 +1,7 @@
+Customer: Joseph Lester
+Company: Novak, Mullins and Kim
+Email: cathy86@example.com | Phone: 584-846-4547
+Address: 2863 Short Forest, Joshuamouth, HI 71212
+SSN: 720-52-1928
+Card: 4620023893678262 | DOB: 04/22/1947
+Last login IP: 10.86.201.128

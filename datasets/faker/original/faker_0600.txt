@@ -1,0 +1,7 @@
+Customer: Michael Stafford
+Company: Chase, Payne and Green
+Email: othomas@example.org | Phone: 548-658-0990
+Address: 13198 Justin Forge, West Beth, UT 18585
+SSN: 667-02-6204
+Card: 4353113913472110 | DOB: 10/02/2002
+Last login IP: 10.50.213.205

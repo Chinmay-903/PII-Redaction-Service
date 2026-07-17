@@ -1,0 +1,7 @@
+Customer: Carla Jones
+Company: Bishop-Walker
+Email: veronica79@example.net | Phone: 620-336-7007
+Address: 0746 Lance Drives, New Devin, VT 18724
+SSN: 871-56-9662
+Card: 4587571277891183 | DOB: 08/28/1979
+Last login IP: 10.44.92.151

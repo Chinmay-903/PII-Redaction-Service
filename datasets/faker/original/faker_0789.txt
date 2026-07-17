@@ -1,0 +1,7 @@
+Customer: Ariel Leonard
+Company: Flynn-Schwartz
+Email: lynn23@example.org | Phone: 588-735-2302
+Address: 30026 Emily Lake, Lopezstad, MI 46037
+SSN: 626-21-9374
+Card: 4258643278087174 | DOB: 08/14/1999
+Last login IP: 172.16.86.167

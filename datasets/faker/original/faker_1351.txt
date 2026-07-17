@@ -1,0 +1,7 @@
+Customer: Jamie Carrillo
+Company: Welch, Holmes and Chase
+Email: danielkatherine@example.net | Phone: 092-708-4865
+Address: 3671 Abbott Station, Jennifermouth, MA 69160
+SSN: 154-83-0964
+Card: 4335745775659392 | DOB: 05/31/1984
+Last login IP: 192.168.158.243

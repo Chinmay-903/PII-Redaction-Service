@@ -1,0 +1,7 @@
+Customer: Frank Lester
+Company: Nicholson, Jackson and Patton
+Email: reginamejia@example.org | Phone: 571-680-0893
+Address: 66414 Natasha Cliff, Jeffreyview, HI 64387
+SSN: 271-93-9204
+Card: 4417322370199140 | DOB: 01/09/2005
+Last login IP: 10.83.172.62

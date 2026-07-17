@@ -1,0 +1,7 @@
+Customer: Stanley Huff
+Company: Lindsey and Sons
+Email: laurie40@example.com | Phone: 704-101-9757
+Address: 58877 Osborn Lodge, Haleymouth, OK 03885
+SSN: 373-50-5548
+Card: 4735295760309526 | DOB: 07/29/1959
+Last login IP: 172.24.23.58

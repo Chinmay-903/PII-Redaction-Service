@@ -1,0 +1,7 @@
+Customer: Jeffery Ward
+Company: Saunders, Lawrence and Gibson
+Email: melindawilson@example.net | Phone: 715-507-4797
+Address: 5882 Cox Squares, Lake Benjamin, MO 31138
+SSN: 725-60-2695
+Card: 4177516371490594 | DOB: 01/08/1958
+Last login IP: 10.80.65.232

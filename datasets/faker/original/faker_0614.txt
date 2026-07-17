@@ -1,0 +1,7 @@
+Customer: Leonard Black
+Company: Phelps-Moore
+Email: debbiebrooks@example.org | Phone: 514-135-8540
+Address: 8349 Michael Well, New Tinabury, VI 74948
+SSN: 798-69-0147
+Card: 4602055603848415 | DOB: 04/26/1997
+Last login IP: 192.168.19.91

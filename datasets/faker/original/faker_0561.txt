@@ -1,0 +1,7 @@
+Customer: Sergio Lewis
+Company: Gonzalez-Mills
+Email: allisonrichmond@example.net | Phone: 081-027-1813
+Address: 452 Alexander Mews, South Henryview, SD 33704
+SSN: 100-42-3785
+Card: 4677814943507945 | DOB: 12/13/1998
+Last login IP: 10.192.40.243

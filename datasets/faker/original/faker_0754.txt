@@ -1,0 +1,7 @@
+Customer: Christopher Moore
+Company: Richardson-Camacho
+Email: gchang@example.net | Phone: 327-533-1713
+Address: 02510 Schmidt Glen, New Michaelburgh, VT 58700
+SSN: 382-92-9995
+Card: 4999959294228434 | DOB: 05/04/1995
+Last login IP: 172.21.91.36

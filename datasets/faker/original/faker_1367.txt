@@ -1,0 +1,7 @@
+Customer: Robert Andrews
+Company: Cohen, Collins and Smith
+Email: matthewvalentine@example.com | Phone: 846-075-8967
+Address: 1088 Emily Crossing, East Hannah, OK 11008
+SSN: 318-69-6485
+Card: 4013460275585704 | DOB: 04/11/1969
+Last login IP: 192.168.216.9

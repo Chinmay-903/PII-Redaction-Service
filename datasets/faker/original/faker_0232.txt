@@ -1,0 +1,7 @@
+Customer: Kathryn Santana
+Company: Black, Gonzales and Morales
+Email: zfoster@example.org | Phone: 068-557-6676
+Address: 7903 Jessica Fork, Christopherfurt, DE 57447
+SSN: 008-47-3661
+Card: 4621341330302000 | DOB: 01/09/1970
+Last login IP: 10.218.192.92

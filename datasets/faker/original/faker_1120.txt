@@ -1,0 +1,7 @@
+Customer: Judy Chang
+Company: Clark-Andersen
+Email: simmonskimberly@example.org | Phone: 987-282-2680
+Address: 75795 David Brook, Port Christineport, IL 06517
+SSN: 027-09-6523
+Card: 4865975658821334 | DOB: 04/28/1954
+Last login IP: 172.17.106.15

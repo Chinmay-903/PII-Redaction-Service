@@ -1,0 +1,7 @@
+Customer: Michael Williams
+Company: Huang LLC
+Email: michelle56@example.net | Phone: 583-817-7715
+Address: 6495 Edwards Knoll, Durhamstad, SD 64950
+SSN: 628-35-9203
+Card: 4873954654770050 | DOB: 06/10/1992
+Last login IP: 10.10.68.214

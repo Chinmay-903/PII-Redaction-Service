@@ -1,0 +1,7 @@
+Customer: Anthony Kim
+Company: Cook, Carter and Hayes
+Email: eric18@example.com | Phone: 204-182-4535
+Address: 251 Paul Corner, Perezfurt, ID 08657
+SSN: 393-78-0995
+Card: 4152979383763631 | DOB: 11/22/1962
+Last login IP: 192.168.48.202

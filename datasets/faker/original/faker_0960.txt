@@ -1,0 +1,7 @@
+Customer: Javier Gray
+Company: Wells, Moreno and Hayes
+Email: walltyler@example.org | Phone: 574-758-2328
+Address: 5277 Thompson Avenue, Velasquezchester, GU 44990
+SSN: 110-93-8688
+Card: 4780016311798494 | DOB: 01/15/1952
+Last login IP: 192.168.249.222

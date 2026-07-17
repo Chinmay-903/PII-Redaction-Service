@@ -1,0 +1,7 @@
+Customer: Maria Mcbride
+Company: Griffin PLC
+Email: knightkatherine@example.com | Phone: 704-333-2434
+Address: 642 Diaz Flat, Mooreburgh, NE 51027
+SSN: 812-45-0227
+Card: 4157673633780876 | DOB: 02/20/1990
+Last login IP: 192.168.141.242

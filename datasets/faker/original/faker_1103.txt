@@ -1,0 +1,7 @@
+Customer: Jordan Harrison
+Company: Harmon, Reese and Gomez
+Email: timothy55@example.net | Phone: 933-958-8668
+Address: 12735 Keith Hills, New Joshuafort, NH 18355
+SSN: 815-83-5656
+Card: 4063439090356003 | DOB: 11/06/1982
+Last login IP: 10.235.116.98

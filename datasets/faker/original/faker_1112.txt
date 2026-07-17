@@ -1,0 +1,7 @@
+Customer: Shelley Crosby
+Company: Middleton, Mayo and Nguyen
+Email: rebekah96@example.net | Phone: 519-508-1759
+Address: 48504 Howard Loaf, East Janiceberg, IN 57641
+SSN: 612-33-6551
+Card: 4733875933828692 | DOB: 03/17/1957
+Last login IP: 192.168.37.23

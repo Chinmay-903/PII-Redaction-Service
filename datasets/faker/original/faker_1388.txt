@@ -1,0 +1,7 @@
+Customer: Anthony Schmidt
+Company: Nelson, Coleman and Armstrong
+Email: smithbenjamin@example.org | Phone: 088-381-8257
+Address: 47912 Smith Harbors, Gomezshire, IL 93874
+SSN: 577-66-4693
+Card: 4930629591403053 | DOB: 06/10/1996
+Last login IP: 192.168.110.16

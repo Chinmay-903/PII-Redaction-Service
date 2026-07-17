@@ -1,0 +1,7 @@
+Customer: Renee Knight
+Company: Rodriguez-Williams
+Email: bmartinez@example.net | Phone: 242-287-1358
+Address: 9652 Andrea Throughway, Port Eileenmouth, SD 67677
+SSN: 698-17-7606
+Card: 4236160765524913 | DOB: 02/01/1956
+Last login IP: 172.28.169.6

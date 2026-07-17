@@ -1,0 +1,7 @@
+Customer: Nathan Lozano
+Company: Copeland-Griffin
+Email: juliehenderson@example.com | Phone: 835-120-5218
+Address: 134 Tracy Village, South Scott, WV 95546
+SSN: 562-16-3389
+Card: 4511734988190391 | DOB: 11/04/1996
+Last login IP: 172.18.228.175

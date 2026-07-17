@@ -1,0 +1,7 @@
+Customer: Brandi Cochran
+Company: Brown, Andrews and Navarro
+Email: sbond@example.net | Phone: 496-390-5332
+Address: 94511 Smith Isle, Toddchester, WV 10376
+SSN: 721-80-0616
+Card: 4788339298362791 | DOB: 04/29/1977
+Last login IP: 192.168.189.57

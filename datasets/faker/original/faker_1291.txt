@@ -1,0 +1,7 @@
+Customer: Brittney Holt
+Company: King-Morton
+Email: gregory08@example.com | Phone: 864-132-1179
+Address: 5299 Derek Plain, Port Chelseachester, FL 91138
+SSN: 814-13-6685
+Card: 4935767421848967 | DOB: 11/06/1964
+Last login IP: 10.222.121.68

@@ -1,0 +1,7 @@
+Customer: Grant Williamson
+Company: Cooper and Sons
+Email: brownmonica@example.org | Phone: 059-698-9158
+Address: 83650 Frank Ferry, New Brandonland, OH 23757
+SSN: 659-53-3410
+Card: 4490119320146209 | DOB: 06/13/1976
+Last login IP: 172.24.54.62

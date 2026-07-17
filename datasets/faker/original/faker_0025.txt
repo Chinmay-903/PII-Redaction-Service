@@ -1,0 +1,7 @@
+Customer: James Hood
+Company: Cline, Williams and Oliver
+Email: ffarmer@example.org | Phone: 849-479-9676
+Address: 09927 Butler Fort, North Jenniferbury, TN 85828
+SSN: 266-44-1501
+Card: 4993027786880264 | DOB: 10/02/1950
+Last login IP: 10.34.195.215

@@ -1,0 +1,7 @@
+Customer: Kyle Allen
+Company: Johnson Group
+Email: kimberly49@example.org | Phone: 062-476-2858
+Address: 57138 Black Neck, Perezfort, NH 17768
+SSN: 188-12-5244
+Card: 4158587142397320 | DOB: 12/22/1964
+Last login IP: 192.168.159.137

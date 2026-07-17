@@ -1,0 +1,7 @@
+Customer: Hannah Pratt
+Company: Hopkins, Gregory and Boyd
+Email: james21@example.org | Phone: 272-628-4624
+Address: 216 Rodriguez Lights, Port Stephenshire, MA 42611
+SSN: 219-25-8693
+Card: 4428291451261599 | DOB: 10/30/1962
+Last login IP: 172.27.113.203

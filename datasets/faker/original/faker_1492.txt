@@ -1,0 +1,7 @@
+Customer: Manuel White
+Company: Evans LLC
+Email: janet14@example.net | Phone: 455-934-2559
+Address: 9949 Jacqueline Greens, Sarahshire, CO 83821
+SSN: 259-53-2867
+Card: 4460358532414569 | DOB: 09/13/2000
+Last login IP: 172.16.0.71

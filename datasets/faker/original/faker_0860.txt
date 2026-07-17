@@ -1,0 +1,7 @@
+Customer: Shannon Holt
+Company: Cook PLC
+Email: derrick24@example.org | Phone: 933-971-8745
+Address: 16076 Taylor Shores, Port Kevin, AS 35282
+SSN: 655-02-7012
+Card: 4036841684845081 | DOB: 10/24/1965
+Last login IP: 172.23.218.236

@@ -1,0 +1,7 @@
+Customer: Jeremy Jackson
+Company: Petersen Group
+Email: lee00@example.com | Phone: 814-463-1316
+Address: 483 Wilson Mills, Powellview, KS 66588
+SSN: 823-55-0177
+Card: 4709929126185301 | DOB: 10/07/1989
+Last login IP: 10.184.245.184

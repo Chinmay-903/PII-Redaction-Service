@@ -1,0 +1,7 @@
+Customer: Stephanie Anthony
+Company: Robinson-Robinson
+Email: inguyen@example.com | Phone: 076-205-0356
+Address: 59375 Frazier Dale, Maciastown, CT 86265
+SSN: 701-37-5311
+Card: 4789719523357311 | DOB: 09/26/1986
+Last login IP: 172.26.42.114

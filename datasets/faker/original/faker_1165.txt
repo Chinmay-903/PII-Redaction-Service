@@ -1,0 +1,7 @@
+Customer: Jeffrey Smith
+Company: Williams, Moore and Hunt
+Email: jhurst@example.com | Phone: 947-129-2004
+Address: 018 Carol Brook, Johnsonfort, HI 68432
+SSN: 736-29-7535
+Card: 4132412169170693 | DOB: 03/01/1953
+Last login IP: 192.168.108.124

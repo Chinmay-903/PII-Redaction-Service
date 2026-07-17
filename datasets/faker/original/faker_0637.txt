@@ -1,0 +1,7 @@
+Customer: James Watkins
+Company: Smith-Morris
+Email: wardjavier@example.net | Phone: 435-645-4953
+Address: 637 Thomas Fields, Ericburgh, TX 47532
+SSN: 619-31-6116
+Card: 4030892375687791 | DOB: 03/05/1951
+Last login IP: 172.23.218.158

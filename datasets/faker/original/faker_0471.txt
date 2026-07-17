@@ -1,0 +1,7 @@
+Customer: Frank Anderson
+Company: Faulkner, Jones and Henry
+Email: jamesray@example.org | Phone: 263-092-0117
+Address: 9640 Melanie Ways, Johnsonbury, MT 57802
+SSN: 092-43-7372
+Card: 4652289692937339 | DOB: 01/30/1979
+Last login IP: 172.25.145.122

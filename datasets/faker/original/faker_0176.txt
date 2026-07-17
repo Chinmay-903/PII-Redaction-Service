@@ -1,0 +1,7 @@
+Customer: Anne Jacobs
+Company: Haynes, Spencer and Summers
+Email: emily16@example.com | Phone: 907-738-7742
+Address: 454 Townsend Plains, Charlesshire, UT 06842
+SSN: 246-11-4843
+Card: 4737303671745719 | DOB: 01/27/1982
+Last login IP: 172.18.190.219

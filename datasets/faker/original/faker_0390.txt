@@ -1,0 +1,7 @@
+Customer: Tony Watson
+Company: Garza-Mcdonald
+Email: gevans@example.com | Phone: 160-791-9104
+Address: 59453 Lopez Lodge, Lake Abigailmouth, ID 51048
+SSN: 496-64-9908
+Card: 4334499641707198 | DOB: 06/19/1972
+Last login IP: 192.168.32.7

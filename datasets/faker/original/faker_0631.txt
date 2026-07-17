@@ -1,0 +1,7 @@
+Customer: Melissa Johnson
+Company: Thompson, Prince and Adams
+Email: jennifer31@example.com | Phone: 037-623-0921
+Address: 31000 Todd Walks, Schwartzstad, FL 57090
+SSN: 327-15-1989
+Card: 4927797335295492 | DOB: 07/25/2003
+Last login IP: 172.24.40.12

@@ -1,0 +1,7 @@
+Customer: Mark Jones
+Company: Bradford Inc
+Email: eduardo74@example.com | Phone: 221-949-5786
+Address: 2332 Jacqueline Plaza, Doyleburgh, PW 23418
+SSN: 608-70-3649
+Card: 4049375767034268 | DOB: 03/02/1970
+Last login IP: 192.168.186.149

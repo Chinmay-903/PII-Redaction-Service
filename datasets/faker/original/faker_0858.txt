@@ -1,0 +1,7 @@
+Customer: Laura Barton
+Company: Bender and Sons
+Email: mooneyelizabeth@example.com | Phone: 159-630-4709
+Address: 51977 Hernandez Villages, North Jason, AK 88686
+SSN: 283-89-7744
+Card: 4908336933713086 | DOB: 02/09/1980
+Last login IP: 172.20.34.196

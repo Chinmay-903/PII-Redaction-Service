@@ -1,0 +1,7 @@
+Customer: Edward Kerr
+Company: Barajas-Moore
+Email: stephenlowe@example.org | Phone: 406-622-4721
+Address: 31148 Madeline Circle, West Jamie, FL 22332
+SSN: 845-68-2982
+Card: 4205872379445734 | DOB: 04/22/2008
+Last login IP: 172.26.159.152

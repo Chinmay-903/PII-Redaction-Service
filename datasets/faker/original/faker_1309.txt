@@ -1,0 +1,7 @@
+Customer: Jason Lopez
+Company: Ward, Clark and Moran
+Email: taylorcharles@example.com | Phone: 981-590-1387
+Address: 83720 Sims Falls, Royfurt, AZ 52484
+SSN: 021-68-1821
+Card: 4645509480151037 | DOB: 08/18/2002
+Last login IP: 10.174.191.231

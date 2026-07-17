@@ -1,0 +1,7 @@
+Customer: Carla Whitney
+Company: Mckinney and Sons
+Email: lampaul@example.net | Phone: 894-976-3063
+Address: 5439 Matthew Roads, West Peter, MP 91205
+SSN: 202-99-4539
+Card: 4417363062448551 | DOB: 09/01/1948
+Last login IP: 10.0.227.77

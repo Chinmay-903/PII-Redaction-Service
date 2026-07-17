@@ -1,0 +1,7 @@
+Customer: Tyler Calderon
+Company: Newman-Smith
+Email: tiffanycallahan@example.org | Phone: 088-629-6586
+Address: 529 Jamie Creek, Kevinton, MD 33876
+SSN: 423-03-3151
+Card: 4024775441350270 | DOB: 01/11/1952
+Last login IP: 172.19.199.236

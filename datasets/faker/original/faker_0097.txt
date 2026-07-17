@@ -1,0 +1,7 @@
+Customer: Amy Moody
+Company: Martinez, Williams and Ibarra
+Email: murphymichael@example.org | Phone: 299-492-9651
+Address: 905 Bob Mission, Riddlestad, OH 88074
+SSN: 072-50-7103
+Card: 4705011420364561 | DOB: 04/26/1996
+Last login IP: 192.168.253.133

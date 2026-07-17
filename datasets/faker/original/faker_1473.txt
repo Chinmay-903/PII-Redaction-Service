@@ -1,0 +1,7 @@
+Customer: Taylor Oconnor
+Company: Jones, Green and Powell
+Email: ichan@example.net | Phone: 134-953-0142
+Address: 680 Craig Dam, East Elizabethtown, DC 88689
+SSN: 305-40-1002
+Card: 4083521060584668 | DOB: 08/31/1971
+Last login IP: 10.218.55.69

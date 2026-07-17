@@ -1,0 +1,7 @@
+Customer: Stephen Grimes
+Company: Myers Inc
+Email: walkerthomas@example.org | Phone: 298-600-0053
+Address: 99710 Mitchell Trace, Wubury, MP 55534
+SSN: 379-47-1985
+Card: 4011623187790611 | DOB: 04/07/1985
+Last login IP: 192.168.96.90

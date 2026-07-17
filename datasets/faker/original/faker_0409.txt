@@ -1,0 +1,7 @@
+Customer: Tracy Juarez
+Company: Martinez, Thompson and James
+Email: jessicawood@example.net | Phone: 484-374-5928
+Address: 39989 Laura Creek, West Terri, KS 64921
+SSN: 243-16-0469
+Card: 4657665067630812 | DOB: 12/11/1961
+Last login IP: 172.31.186.100

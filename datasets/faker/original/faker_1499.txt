@@ -1,0 +1,7 @@
+Customer: Grace Lee
+Company: Hill Group
+Email: brian10@example.com | Phone: 655-297-7247
+Address: 192 Morgan Spring, North Willieport, ND 66612
+SSN: 702-03-3015
+Card: 4175114103244562 | DOB: 05/06/1999
+Last login IP: 192.168.27.116

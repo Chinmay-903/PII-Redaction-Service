@@ -1,0 +1,7 @@
+Customer: Thomas Chavez
+Company: Leonard-Smith
+Email: ohernandez@example.net | Phone: 121-502-2387
+Address: 114 Christopher Plaza, Natashaberg, FM 02571
+SSN: 006-92-7711
+Card: 4351726718038828 | DOB: 11/23/1998
+Last login IP: 172.21.6.246

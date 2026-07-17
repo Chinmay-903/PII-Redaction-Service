@@ -1,0 +1,7 @@
+Customer: Derrick Williamson
+Company: Morgan-Scott
+Email: combsstephanie@example.com | Phone: 691-050-7275
+Address: 543 Tony Motorway, North David, OR 04793
+SSN: 368-75-9275
+Card: 4206143861658120 | DOB: 02/17/1975
+Last login IP: 172.25.84.76

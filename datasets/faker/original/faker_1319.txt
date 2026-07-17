@@ -1,0 +1,7 @@
+Customer: Keith Richardson
+Company: Odonnell, Potter and Cook
+Email: hnichols@example.org | Phone: 046-160-0658
+Address: 43063 Henderson Mountain, Collinsmouth, TN 02350
+SSN: 014-22-9671
+Card: 4073346481414929 | DOB: 07/16/1985
+Last login IP: 10.142.4.182

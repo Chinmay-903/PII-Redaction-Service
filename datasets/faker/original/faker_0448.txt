@@ -1,0 +1,7 @@
+Customer: Leslie Mills
+Company: Hernandez LLC
+Email: eric15@example.com | Phone: 364-163-6971
+Address: 85477 Miller Trail, Markville, MP 85347
+SSN: 240-09-0840
+Card: 4769622672759879 | DOB: 06/07/1987
+Last login IP: 10.198.76.46

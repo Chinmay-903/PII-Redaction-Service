@@ -1,0 +1,7 @@
+Customer: Cody Taylor
+Company: Delacruz LLC
+Email: kristiewilliams@example.net | Phone: 286-739-2070
+Address: 8080 Jack Spur, Jenningsburgh, MO 13005
+SSN: 825-49-0590
+Card: 4366339468293198 | DOB: 03/31/1996
+Last login IP: 192.168.210.6

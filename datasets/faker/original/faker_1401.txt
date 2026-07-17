@@ -1,0 +1,7 @@
+Customer: Susan Bridges
+Company: Allen Group
+Email: wyattclark@example.com | Phone: 473-354-7312
+Address: 494 Johnson Courts, New Maryside, SD 72643
+SSN: 417-26-8694
+Card: 4502931821824969 | DOB: 11/17/1965
+Last login IP: 192.168.107.52

@@ -1,0 +1,7 @@
+Customer: Samantha Myers
+Company: Morales, Bond and Larson
+Email: elizabeth73@example.com | Phone: 178-972-5663
+Address: 6776 Kevin Gateway, Jeffshire, TN 51973
+SSN: 097-08-4474
+Card: 4114625040000720 | DOB: 10/12/1987
+Last login IP: 10.254.97.80

@@ -1,0 +1,7 @@
+Customer: Dustin Fletcher
+Company: Stanton-Boyd
+Email: dawsonamanda@example.org | Phone: 729-384-9425
+Address: 49679 Marcia Junction, Scottfurt, FL 50232
+SSN: 792-13-0251
+Card: 4371327300132024 | DOB: 12/11/1947
+Last login IP: 192.168.18.64

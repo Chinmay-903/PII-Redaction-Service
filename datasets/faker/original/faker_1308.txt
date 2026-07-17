@@ -1,0 +1,7 @@
+Customer: Mitchell Pena
+Company: Flores-Castillo
+Email: sherry61@example.com | Phone: 207-136-4406
+Address: 7729 Justin Cape, Harrisberg, MD 30506
+SSN: 831-26-9276
+Card: 4721666458017835 | DOB: 08/25/1950
+Last login IP: 192.168.179.164

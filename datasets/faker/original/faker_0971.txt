@@ -1,0 +1,7 @@
+Customer: Walter Griffin
+Company: Kelly-Ramirez
+Email: philliplawson@example.com | Phone: 626-471-2589
+Address: 941 David Land, West Kyleton, VT 38005
+SSN: 375-83-3830
+Card: 4912846815905323 | DOB: 05/11/1951
+Last login IP: 10.157.204.220

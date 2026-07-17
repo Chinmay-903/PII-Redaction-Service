@@ -1,0 +1,7 @@
+Customer: Emily Frazier
+Company: Neal, Bennett and Houston
+Email: derekrichmond@example.com | Phone: 105-634-4628
+Address: 585 Webster Crossroad, Cooperfurt, MI 51341
+SSN: 569-24-6222
+Card: 4190413830277478 | DOB: 03/03/2002
+Last login IP: 172.18.3.114

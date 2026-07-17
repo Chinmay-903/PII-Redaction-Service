@@ -1,0 +1,7 @@
+Customer: Robert Wilson
+Company: Knox, Ortega and Hart
+Email: sarahschneider@example.org | Phone: 224-143-9323
+Address: 219 Lee Court, Port Charleston, OH 04047
+SSN: 777-18-1738
+Card: 4441500023390410 | DOB: 10/14/1965
+Last login IP: 10.118.233.96

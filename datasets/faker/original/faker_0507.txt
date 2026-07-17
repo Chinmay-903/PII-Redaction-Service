@@ -1,0 +1,7 @@
+Customer: Ashley Morrow
+Company: Ramos Group
+Email: hammondjames@example.org | Phone: 763-716-9351
+Address: 573 Kendra Stravenue, West Paul, DC 25033
+SSN: 834-29-6081
+Card: 4698876053832368 | DOB: 01/19/1983
+Last login IP: 10.244.162.162

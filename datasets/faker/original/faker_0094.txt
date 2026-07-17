@@ -1,0 +1,7 @@
+Customer: Daniel Calderon
+Company: Robinson-Grant
+Email: kimberlyjones@example.net | Phone: 974-634-3224
+Address: 585 Welch Port, Villarrealview, MD 76745
+SSN: 202-66-5269
+Card: 4026777592136308 | DOB: 01/22/2001
+Last login IP: 172.30.53.19

@@ -1,0 +1,7 @@
+Customer: Jessica Mayer
+Company: Hanna-Hurley
+Email: lopezkirk@example.com | Phone: 528-280-5304
+Address: 3078 Thompson Road, Briantown, AL 64692
+SSN: 380-05-1709
+Card: 4482662713417554 | DOB: 02/26/1991
+Last login IP: 10.74.6.45

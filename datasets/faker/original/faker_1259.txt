@@ -1,0 +1,7 @@
+Customer: Andrea Guerrero
+Company: Howard PLC
+Email: medinaraymond@example.com | Phone: 165-775-1750
+Address: 11415 Garcia Shore, South Anita, MS 22905
+SSN: 583-26-4900
+Card: 4585191523933861 | DOB: 11/07/1958
+Last login IP: 192.168.231.114

@@ -1,0 +1,7 @@
+Customer: Scott James
+Company: Suarez, Johnson and Daniel
+Email: clarkjeffrey@example.net | Phone: 339-049-1011
+Address: 2254 Judith Centers, Emilymouth, KY 29592
+SSN: 345-82-0950
+Card: 4269094442454881 | DOB: 12/02/1960
+Last login IP: 10.195.170.3

@@ -1,0 +1,7 @@
+Customer: James Mcdonald
+Company: Mccall PLC
+Email: sarah68@example.net | Phone: 530-492-3359
+Address: 2134 Joseph Track, North Yvette, MH 03130
+SSN: 532-51-0469
+Card: 4397502511069591 | DOB: 03/21/1952
+Last login IP: 172.18.124.225

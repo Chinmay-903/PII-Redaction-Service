@@ -1,0 +1,7 @@
+Customer: Tracy Small
+Company: Harrison, Torres and Blankenship
+Email: jenniferdouglas@example.net | Phone: 216-661-8860
+Address: 131 Shelby Stravenue, Whitneystad, AS 44826
+SSN: 054-08-6767
+Card: 4109685672515392 | DOB: 01/02/2006
+Last login IP: 10.214.152.200

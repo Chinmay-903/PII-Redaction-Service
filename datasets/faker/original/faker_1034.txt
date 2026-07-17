@@ -1,0 +1,7 @@
+Customer: Michael George
+Company: Jackson, Mcgrath and Larson
+Email: ashley20@example.net | Phone: 953-583-7332
+Address: 651 Christopher Greens, Malonechester, TN 10466
+SSN: 069-09-5603
+Card: 4938889715226762 | DOB: 01/30/1992
+Last login IP: 172.25.92.147

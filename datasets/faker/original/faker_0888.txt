@@ -1,0 +1,7 @@
+Customer: Sergio Cook
+Company: Jacobs-Torres
+Email: samuel34@example.org | Phone: 081-865-7468
+Address: 1633 Moreno Shoals, South Thomas, AS 45218
+SSN: 299-10-6608
+Card: 4728359296320172 | DOB: 09/22/1990
+Last login IP: 172.31.75.182

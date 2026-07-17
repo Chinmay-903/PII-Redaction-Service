@@ -1,0 +1,7 @@
+Customer: Amber Clark
+Company: Johnson-Cannon
+Email: flemingkaren@example.com | Phone: 035-467-9658
+Address: 357 Hawkins Bridge, Lake Brettmouth, PR 63177
+SSN: 620-67-8744
+Card: 4175177684076646 | DOB: 06/01/1974
+Last login IP: 172.21.31.103

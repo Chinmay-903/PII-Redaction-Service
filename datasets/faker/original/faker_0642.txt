@@ -1,0 +1,7 @@
+Customer: John Leon
+Company: Boyd PLC
+Email: katherinereed@example.net | Phone: 222-275-3418
+Address: 1442 Carrie Rapids, Samanthafort, MA 55169
+SSN: 636-38-6682
+Card: 4704957165062730 | DOB: 01/26/1971
+Last login IP: 10.233.242.89

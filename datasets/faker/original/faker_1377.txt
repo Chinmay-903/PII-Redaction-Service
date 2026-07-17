@@ -1,0 +1,7 @@
+Customer: Hunter Taylor
+Company: Morgan Inc
+Email: vwilliams@example.net | Phone: 722-562-6767
+Address: 6986 Jason Rest, West Robynchester, WY 70861
+SSN: 314-60-8232
+Card: 4409922269310177 | DOB: 05/16/1954
+Last login IP: 10.13.23.196

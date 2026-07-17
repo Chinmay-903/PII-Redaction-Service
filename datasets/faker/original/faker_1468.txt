@@ -1,0 +1,7 @@
+Customer: Alyssa Frye
+Company: Adams and Sons
+Email: nicoledavidson@example.org | Phone: 550-200-3256
+Address: 842 Jessica Club, Daviesmouth, NM 24782
+SSN: 112-08-1562
+Card: 4546317268131324 | DOB: 12/20/1987
+Last login IP: 10.125.159.54

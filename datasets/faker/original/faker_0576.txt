@@ -1,0 +1,7 @@
+Customer: Nathan Hull
+Company: Flores-Mckinney
+Email: pfigueroa@example.org | Phone: 779-938-0685
+Address: 22899 Campbell Orchard, Matthewfurt, NJ 74534
+SSN: 556-33-4664
+Card: 4876265099100911 | DOB: 05/02/1993
+Last login IP: 10.199.169.156

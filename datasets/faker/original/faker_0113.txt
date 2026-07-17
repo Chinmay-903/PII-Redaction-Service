@@ -1,0 +1,7 @@
+Customer: Kenneth Hoover
+Company: Lee-Morrow
+Email: moranlori@example.org | Phone: 327-777-9056
+Address: 7357 Johnson Locks, North Timothymouth, MT 23998
+SSN: 391-85-0348
+Card: 4883028551192888 | DOB: 02/23/1991
+Last login IP: 192.168.42.131

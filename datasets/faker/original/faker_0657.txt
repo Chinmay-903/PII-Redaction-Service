@@ -1,0 +1,7 @@
+Customer: David Williams
+Company: Ford, Durham and Baker
+Email: brendathomas@example.org | Phone: 637-759-9402
+Address: 86797 Brown Rest, Quinnville, IA 24438
+SSN: 579-91-1476
+Card: 4797710410342995 | DOB: 01/28/1983
+Last login IP: 10.144.182.101

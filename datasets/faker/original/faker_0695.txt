@@ -1,0 +1,7 @@
+Customer: Gregory Jones
+Company: Martinez-Simmons
+Email: huynhmark@example.com | Phone: 872-515-2307
+Address: 768 Garcia Ferry, East David, ND 85205
+SSN: 112-11-6769
+Card: 4556955134721294 | DOB: 10/11/1964
+Last login IP: 192.168.126.14

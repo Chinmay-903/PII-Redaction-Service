@@ -1,0 +1,7 @@
+Customer: Brian Erickson
+Company: Obrien Inc
+Email: brittanydavenport@example.org | Phone: 626-599-2785
+Address: 6238 Ward Mews, East Roger, FL 36154
+SSN: 473-29-2500
+Card: 4096344427022297 | DOB: 02/20/1984
+Last login IP: 192.168.154.17

@@ -1,0 +1,7 @@
+Customer: Nathan Fuller
+Company: Gray-Mack
+Email: patrick12@example.net | Phone: 320-419-4528
+Address: 491 Martin Walks, New Lauramouth, IN 10898
+SSN: 083-38-7610
+Card: 4405761645170333 | DOB: 10/04/1991
+Last login IP: 10.255.32.172

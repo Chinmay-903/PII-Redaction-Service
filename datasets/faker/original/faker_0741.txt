@@ -1,0 +1,7 @@
+Customer: Brandon Murphy
+Company: Hernandez, Kelley and Ellis
+Email: nicole53@example.net | Phone: 709-499-0919
+Address: 16055 Randall Brooks, Youngmouth, AK 90690
+SSN: 811-22-2904
+Card: 4068587750306893 | DOB: 04/06/1968
+Last login IP: 192.168.117.124

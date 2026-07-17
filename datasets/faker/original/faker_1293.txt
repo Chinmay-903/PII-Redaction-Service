@@ -1,0 +1,7 @@
+Customer: James Estrada
+Company: Walker, Coffey and Mckenzie
+Email: jennifer74@example.org | Phone: 630-338-8005
+Address: 617 Adam Point, Lukefort, MS 21458
+SSN: 457-69-2990
+Card: 4500779542118829 | DOB: 12/23/1982
+Last login IP: 192.168.230.50

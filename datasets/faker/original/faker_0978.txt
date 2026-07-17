@@ -1,0 +1,7 @@
+Customer: Elizabeth Mason
+Company: Stuart-Bartlett
+Email: shane25@example.com | Phone: 428-903-3656
+Address: 72833 Francisco Underpass, South Colton, ME 17873
+SSN: 230-98-0696
+Card: 4025602148559848 | DOB: 01/10/1978
+Last login IP: 172.22.70.216

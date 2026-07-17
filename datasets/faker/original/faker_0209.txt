@@ -1,0 +1,7 @@
+Customer: Kathleen Stone
+Company: Dudley and Sons
+Email: wilsonaaron@example.net | Phone: 115-984-8566
+Address: 827 Bass Falls, West Thomasview, MA 50471
+SSN: 881-20-2603
+Card: 4137631883997637 | DOB: 03/07/1987
+Last login IP: 192.168.85.152

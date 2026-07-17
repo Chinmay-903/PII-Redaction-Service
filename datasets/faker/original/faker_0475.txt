@@ -1,0 +1,7 @@
+Customer: Andrea Gonzalez
+Company: Allen-Riley
+Email: davidhorn@example.net | Phone: 330-027-4564
+Address: 092 Molly Point, Mejiahaven, ME 18089
+SSN: 059-16-1981
+Card: 4112475020553070 | DOB: 03/13/1973
+Last login IP: 192.168.57.192

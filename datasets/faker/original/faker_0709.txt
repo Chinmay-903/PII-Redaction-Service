@@ -1,0 +1,7 @@
+Customer: Kyle Barber
+Company: Moore-Nguyen
+Email: ceaton@example.org | Phone: 658-454-3717
+Address: 07790 Lisa Alley, Cheryltown, FM 35320
+SSN: 237-24-8864
+Card: 4010092006441742 | DOB: 12/10/1955
+Last login IP: 192.168.215.203

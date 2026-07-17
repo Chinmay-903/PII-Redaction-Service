@@ -1,0 +1,7 @@
+Customer: Cynthia Boyd
+Company: Mendoza-Gonzales
+Email: ryanmyers@example.com | Phone: 332-507-4645
+Address: 730 Stephen Field, Porterstad, MA 56353
+SSN: 035-18-0956
+Card: 4650569009843078 | DOB: 02/03/1971
+Last login IP: 192.168.186.234

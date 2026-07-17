@@ -1,0 +1,7 @@
+Customer: Kristina Dennis
+Company: Copeland Ltd
+Email: xyang@example.net | Phone: 650-749-4176
+Address: 883 Christine Plains, Turnermouth, NC 62832
+SSN: 747-26-6613
+Card: 4957399358501006 | DOB: 07/25/1948
+Last login IP: 192.168.33.70

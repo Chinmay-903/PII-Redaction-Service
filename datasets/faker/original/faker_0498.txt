@@ -1,0 +1,7 @@
+Customer: Katherine Valentine
+Company: Crawford-Yoder
+Email: randysaunders@example.com | Phone: 209-681-9616
+Address: 9758 Ashley Run, West Joshua, GA 54106
+SSN: 299-28-4633
+Card: 4638874870450251 | DOB: 10/10/1979
+Last login IP: 172.20.37.250

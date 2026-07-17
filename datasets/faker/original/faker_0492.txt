@@ -1,0 +1,7 @@
+Customer: Roy Love
+Company: Moore Group
+Email: powerssusan@example.org | Phone: 873-025-2733
+Address: 610 Robin Course, South Shannonfurt, LA 30605
+SSN: 131-33-5987
+Card: 4169036833652632 | DOB: 06/21/2007
+Last login IP: 10.110.165.42

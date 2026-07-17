@@ -1,0 +1,7 @@
+Customer: Alexa Butler
+Company: Arroyo-Wright
+Email: hectorsmith@example.net | Phone: 860-917-8122
+Address: 754 Alvin Neck, Harrisonview, NE 20685
+SSN: 738-95-6629
+Card: 4744130460408220 | DOB: 07/14/1954
+Last login IP: 172.27.214.225

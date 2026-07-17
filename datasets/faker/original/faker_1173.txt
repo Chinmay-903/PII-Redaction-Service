@@ -1,0 +1,7 @@
+Customer: Marcus Kennedy
+Company: Miller-Gray
+Email: cooperelizabeth@example.net | Phone: 089-907-0921
+Address: 454 Yvette Ways, South David, TX 88368
+SSN: 213-42-7259
+Card: 4826788059704894 | DOB: 04/18/1951
+Last login IP: 192.168.236.251

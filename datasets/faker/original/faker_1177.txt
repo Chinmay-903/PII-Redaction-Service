@@ -1,0 +1,7 @@
+Customer: Vanessa Clark
+Company: Collins PLC
+Email: hollandcarlos@example.com | Phone: 431-250-1229
+Address: 00579 Hebert Creek, Gardnermouth, KS 30676
+SSN: 066-95-7647
+Card: 4044944818015520 | DOB: 10/29/1987
+Last login IP: 10.201.59.178

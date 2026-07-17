@@ -1,0 +1,7 @@
+Customer: Walter Garcia
+Company: Gomez-Fernandez
+Email: theresa15@example.com | Phone: 408-680-2412
+Address: 29302 Rita Island, Marshmouth, FL 84257
+SSN: 813-70-5327
+Card: 4064989793239699 | DOB: 09/25/1997
+Last login IP: 10.55.253.47

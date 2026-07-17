@@ -1,0 +1,7 @@
+Customer: Adrian Cabrera
+Company: Pratt-Long
+Email: megan72@example.com | Phone: 642-100-1672
+Address: 2506 Jose Roads, North Michael, AL 79204
+SSN: 611-33-1399
+Card: 4363482661013295 | DOB: 05/29/1947
+Last login IP: 172.19.250.190

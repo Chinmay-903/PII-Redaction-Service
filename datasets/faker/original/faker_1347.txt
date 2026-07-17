@@ -1,0 +1,7 @@
+Customer: Larry Moreno
+Company: Perez, Diaz and Davis
+Email: victor13@example.net | Phone: 860-928-5451
+Address: 444 Howard Track, Reynoldsborough, GU 01898
+SSN: 399-39-9535
+Card: 4618186772225317 | DOB: 02/21/1962
+Last login IP: 172.23.103.122

@@ -1,0 +1,7 @@
+Customer: Jeremy Bernard
+Company: Robertson PLC
+Email: robertburch@example.com | Phone: 284-552-5062
+Address: 2199 Nixon Spurs, Jackfurt, KS 28696
+SSN: 348-41-7249
+Card: 4304962971135492 | DOB: 11/02/1960
+Last login IP: 192.168.89.21

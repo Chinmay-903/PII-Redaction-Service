@@ -1,0 +1,7 @@
+Customer: Catherine Blake
+Company: Bentley, Butler and James
+Email: margaret48@example.org | Phone: 898-982-3371
+Address: 2149 Eric Ports, Lake Emilyberg, VA 63316
+SSN: 477-39-1880
+Card: 4750905599546094 | DOB: 09/14/1980
+Last login IP: 10.40.207.5

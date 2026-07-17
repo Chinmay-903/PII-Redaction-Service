@@ -1,0 +1,7 @@
+Customer: Lisa Nguyen
+Company: Ross, Wong and Strong
+Email: yrobinson@example.org | Phone: 120-350-2288
+Address: 979 Schmidt Underpass, Ashleyshire, IL 11591
+SSN: 289-24-1442
+Card: 4701767228023154 | DOB: 10/10/1990
+Last login IP: 172.21.120.105

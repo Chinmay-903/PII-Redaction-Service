@@ -1,0 +1,7 @@
+Customer: Tyler Hunter
+Company: Dillon-Saunders
+Email: michael63@example.net | Phone: 439-881-7210
+Address: 00957 Martha Mills, Hatfieldburgh, PW 73073
+SSN: 768-81-1253
+Card: 4043094618892974 | DOB: 10/13/1950
+Last login IP: 10.113.34.248

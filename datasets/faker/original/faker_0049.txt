@@ -1,0 +1,7 @@
+Customer: James Mendez
+Company: Harrison-Davis
+Email: bmarshall@example.org | Phone: 049-842-5654
+Address: 961 Ray Path, Carolynville, NH 69547
+SSN: 004-88-2898
+Card: 4295560534471890 | DOB: 07/04/1961
+Last login IP: 172.22.37.107

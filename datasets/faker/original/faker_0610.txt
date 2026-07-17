@@ -1,0 +1,7 @@
+Customer: Lauren Marks
+Company: Bridges PLC
+Email: milleralbert@example.org | Phone: 518-432-3832
+Address: 1342 Rachael Knolls, Matthewfort, AR 04428
+SSN: 007-29-7804
+Card: 4076592694680957 | DOB: 02/19/1959
+Last login IP: 172.29.69.245

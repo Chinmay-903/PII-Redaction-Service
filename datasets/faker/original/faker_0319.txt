@@ -1,0 +1,7 @@
+Customer: Mandy Lamb
+Company: Haley, Harris and Miller
+Email: michael87@example.com | Phone: 268-228-7303
+Address: 7543 Lewis Shores, Port Monicafort, KS 65401
+SSN: 178-46-7332
+Card: 4359224642595305 | DOB: 07/17/1965
+Last login IP: 172.27.47.111

@@ -1,0 +1,7 @@
+Customer: Matthew Smith
+Company: Soto, Ortiz and Ramos
+Email: danielstokes@example.org | Phone: 406-679-3663
+Address: 549 William Hill, Sarahstad, TN 78720
+SSN: 238-38-6568
+Card: 4560445791348049 | DOB: 09/17/1968
+Last login IP: 10.103.74.11

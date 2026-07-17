@@ -1,0 +1,7 @@
+Customer: Eric Morris
+Company: Curtis-Spence
+Email: craig27@example.org | Phone: 018-673-0027
+Address: 78318 Joshua Plaza, Heatherstad, DC 39180
+SSN: 176-20-5170
+Card: 4947381453300701 | DOB: 12/12/1985
+Last login IP: 10.63.16.207

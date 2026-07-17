@@ -1,0 +1,7 @@
+Customer: Jon Mcdonald
+Company: Soto-Cooper
+Email: harrisbetty@example.net | Phone: 353-873-2444
+Address: 919 James Course, Jasonbury, SC 23215
+SSN: 041-79-8693
+Card: 4701975935470127 | DOB: 11/20/1978
+Last login IP: 172.29.195.162

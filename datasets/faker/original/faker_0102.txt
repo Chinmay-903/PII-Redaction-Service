@@ -1,0 +1,7 @@
+Customer: Mark Harris
+Company: Davis Group
+Email: lisa84@example.net | Phone: 812-327-1535
+Address: 28283 Laura Flat, Hammondbury, VT 42256
+SSN: 787-67-5753
+Card: 4060396340388926 | DOB: 10/21/1970
+Last login IP: 10.0.132.151

@@ -1,0 +1,7 @@
+Customer: Andrew Holmes
+Company: Lewis and Sons
+Email: davidrichards@example.com | Phone: 230-924-0896
+Address: 364 Sandra View, Alexanderborough, NM 44555
+SSN: 133-84-8678
+Card: 4342142933472432 | DOB: 03/29/1974
+Last login IP: 172.26.188.5

@@ -1,0 +1,7 @@
+Customer: Nicole Rodriguez
+Company: Gordon Group
+Email: huertadiane@example.net | Phone: 241-974-9706
+Address: 449 James Trace, Fernandezhaven, OH 53184
+SSN: 315-67-3961
+Card: 4181706155044261 | DOB: 03/10/1985
+Last login IP: 192.168.182.105

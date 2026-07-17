@@ -1,0 +1,7 @@
+Customer: Catherine Yang
+Company: Jones-Zuniga
+Email: anthonywarren@example.net | Phone: 351-758-5571
+Address: 4525 Steven Views, East Stephen, NE 01174
+SSN: 433-19-1101
+Card: 4486371413804485 | DOB: 07/20/1990
+Last login IP: 10.224.58.164

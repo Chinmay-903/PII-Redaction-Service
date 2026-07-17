@@ -1,0 +1,7 @@
+Customer: Abigail Casey
+Company: Terry Group
+Email: susanmorris@example.net | Phone: 512-839-9021
+Address: 447 Noble Unions, New Kathy, CA 22368
+SSN: 885-89-4973
+Card: 4779455159303871 | DOB: 09/06/1977
+Last login IP: 172.19.124.75

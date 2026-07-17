@@ -1,0 +1,7 @@
+Customer: Stephanie Olson
+Company: Yang LLC
+Email: smithchristopher@example.net | Phone: 953-622-7022
+Address: 47969 Lisa Prairie, West Ronaldbury, HI 30394
+SSN: 644-75-8501
+Card: 4721116904129081 | DOB: 04/29/1975
+Last login IP: 172.25.155.168

@@ -1,0 +1,7 @@
+Customer: Jason Dean
+Company: Anthony Ltd
+Email: jeremiahcraig@example.net | Phone: 689-104-9969
+Address: 53841 Allison Ways, North Makayla, OH 38053
+SSN: 269-89-3473
+Card: 4950271816590409 | DOB: 06/02/1965
+Last login IP: 172.21.58.127

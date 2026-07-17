@@ -1,0 +1,7 @@
+Customer: Miss Jane Gonzalez
+Company: Robinson-Green
+Email: jonathan95@example.net | Phone: 333-567-4466
+Address: 1668 Alexis Ramp, Kevinfurt, MI 77562
+SSN: 185-99-4545
+Card: 4356662038217013 | DOB: 01/30/1991
+Last login IP: 192.168.178.9

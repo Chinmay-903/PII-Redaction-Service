@@ -1,0 +1,7 @@
+Customer: Jesse Mcdonald
+Company: Walsh Inc
+Email: logankara@example.org | Phone: 973-598-9672
+Address: 853 Drake Burgs, New Roy, AS 41006
+SSN: 256-78-1242
+Card: 4858539289258461 | DOB: 01/19/1958
+Last login IP: 172.17.108.176

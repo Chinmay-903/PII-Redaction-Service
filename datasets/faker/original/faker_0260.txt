@@ -1,0 +1,7 @@
+Customer: Kyle Reeves
+Company: Gomez, Brooks and Jackson
+Email: thomas54@example.net | Phone: 719-336-1665
+Address: 7030 Angela Shore, South Stephanie, WA 01439
+SSN: 487-22-7363
+Card: 4039985433673174 | DOB: 07/08/2002
+Last login IP: 192.168.251.127

@@ -1,0 +1,7 @@
+Customer: Sierra Johnson
+Company: Harrison LLC
+Email: robert74@example.com | Phone: 453-567-3839
+Address: 50990 Miller Trail, West Danielport, VI 80207
+SSN: 216-83-6920
+Card: 4797724394855302 | DOB: 05/27/2007
+Last login IP: 10.212.101.11

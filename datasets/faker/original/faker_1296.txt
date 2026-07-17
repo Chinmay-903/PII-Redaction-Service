@@ -1,0 +1,7 @@
+Customer: Robert Turner
+Company: Lucas-Stevenson
+Email: megan91@example.net | Phone: 130-392-7274
+Address: 85428 Hernandez Pike, Hensonview, ME 43843
+SSN: 219-19-0526
+Card: 4790303637314471 | DOB: 09/19/1953
+Last login IP: 172.29.146.50

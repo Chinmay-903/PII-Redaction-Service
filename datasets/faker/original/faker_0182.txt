@@ -1,0 +1,7 @@
+Customer: Sarah Miller
+Company: Christensen-Lee
+Email: jbrewer@example.com | Phone: 519-210-6913
+Address: 23147 Stone Groves, Josephmouth, CA 34092
+SSN: 261-34-6025
+Card: 4324155626956109 | DOB: 07/05/1952
+Last login IP: 172.28.201.230

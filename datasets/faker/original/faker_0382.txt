@@ -1,0 +1,7 @@
+Customer: Jacqueline Hudson
+Company: Mckay, Murphy and Barnett
+Email: justinmiller@example.org | Phone: 333-371-2349
+Address: 62879 Gregory Rest, New Jeffrey, MD 30442
+SSN: 505-10-4663
+Card: 4063157696545940 | DOB: 01/14/1991
+Last login IP: 192.168.119.141

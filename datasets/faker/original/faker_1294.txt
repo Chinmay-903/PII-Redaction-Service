@@ -1,0 +1,7 @@
+Customer: Danny Buchanan
+Company: Schaefer, Ford and Chavez
+Email: ericellison@example.com | Phone: 138-579-6875
+Address: 9305 Carson Junctions, Jeffreyberg, AL 55832
+SSN: 133-40-2554
+Card: 4488084096241580 | DOB: 03/04/1966
+Last login IP: 172.30.56.232

@@ -1,0 +1,7 @@
+Customer: Brittney Holland
+Company: Terrell, Nash and Allen
+Email: jason81@example.com | Phone: 261-087-7200
+Address: 668 Torres Mill, West Austin, IA 41897
+SSN: 632-29-7654
+Card: 4224868084138959 | DOB: 10/22/2005
+Last login IP: 10.124.114.223

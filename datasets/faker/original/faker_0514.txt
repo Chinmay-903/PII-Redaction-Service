@@ -1,0 +1,7 @@
+Customer: Rick Wallace
+Company: Ramirez Group
+Email: evelyn91@example.com | Phone: 191-206-7704
+Address: 63980 Travis Port, South Richardland, GU 09040
+SSN: 607-79-5849
+Card: 4577097081239528 | DOB: 09/30/2003
+Last login IP: 10.176.37.85

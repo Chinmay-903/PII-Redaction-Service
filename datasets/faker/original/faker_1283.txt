@@ -1,0 +1,7 @@
+Customer: Jessica Perry
+Company: Singh, Carpenter and Kennedy
+Email: philip05@example.org | Phone: 979-637-5047
+Address: 436 Johnson Cape, West Victoriaville, KS 46887
+SSN: 817-24-4327
+Card: 4717907788963686 | DOB: 08/05/2003
+Last login IP: 172.21.235.69

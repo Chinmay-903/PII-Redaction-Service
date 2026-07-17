@@ -1,0 +1,7 @@
+Customer: Taylor Velasquez
+Company: Garcia, Norris and Buchanan
+Email: sjohnson@example.com | Phone: 852-167-2545
+Address: 22619 Brown Squares, New Kyleton, NE 87500
+SSN: 831-09-5555
+Card: 4373490558153916 | DOB: 02/02/1993
+Last login IP: 172.18.249.118

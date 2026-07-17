@@ -1,0 +1,7 @@
+Customer: Karen Moore
+Company: Pace, Buchanan and Santiago
+Email: chase58@example.org | Phone: 388-669-8484
+Address: 4678 Emily Ways, Dawnmouth, AL 24717
+SSN: 663-22-7489
+Card: 4625641958580910 | DOB: 11/23/1985
+Last login IP: 10.45.171.233

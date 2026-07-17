@@ -1,0 +1,7 @@
+Customer: Shannon Rivera
+Company: Ross-Thompson
+Email: jamespalmer@example.com | Phone: 077-424-1522
+Address: 7295 Linda Bypass, Thompsonburgh, FL 17268
+SSN: 642-67-2328
+Card: 4006512124084278 | DOB: 12/30/1956
+Last login IP: 172.22.229.249

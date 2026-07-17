@@ -1,0 +1,7 @@
+Customer: Tonya Farmer
+Company: Johnson-Waller
+Email: susanhernandez@example.net | Phone: 963-478-7980
+Address: 529 Ashley Court, Lake Michaelfort, GA 85609
+SSN: 664-97-2200
+Card: 4235071299051029 | DOB: 12/10/1977
+Last login IP: 192.168.201.68

@@ -1,0 +1,7 @@
+Customer: Michele Hughes
+Company: Lara-Mendez
+Email: steven89@example.net | Phone: 644-535-7018
+Address: 08148 Hodges Valleys, South Caleb, PR 98667
+SSN: 867-34-0721
+Card: 4331438144527318 | DOB: 10/26/1970
+Last login IP: 10.115.25.150

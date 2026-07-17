@@ -1,0 +1,7 @@
+Customer: Sean Johnson
+Company: Hobbs and Sons
+Email: apowers@example.com | Phone: 090-777-3640
+Address: 6113 Lisa Row, Carrieberg, LA 85245
+SSN: 865-35-9734
+Card: 4531888865399701 | DOB: 12/17/1977
+Last login IP: 10.29.242.79

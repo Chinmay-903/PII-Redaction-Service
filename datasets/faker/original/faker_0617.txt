@@ -1,0 +1,7 @@
+Customer: Paula Day
+Company: Howard, Haynes and Brown
+Email: dawn53@example.net | Phone: 595-315-0990
+Address: 26618 Gordon Light, Lake Melanie, PA 84977
+SSN: 413-81-0887
+Card: 4520326294709938 | DOB: 02/23/1963
+Last login IP: 172.31.25.152

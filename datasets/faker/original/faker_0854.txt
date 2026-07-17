@@ -1,0 +1,7 @@
+Customer: Austin Mcgrath
+Company: Cruz, Lucas and Turner
+Email: amandapratt@example.com | Phone: 708-428-0149
+Address: 5617 Roth Garden, Port Timothy, SC 51554
+SSN: 450-35-9357
+Card: 4278898416207474 | DOB: 04/19/1977
+Last login IP: 10.75.142.24

@@ -1,0 +1,7 @@
+Customer: Jerry Miller
+Company: Fields-Marshall
+Email: matthewfreeman@example.org | Phone: 233-580-9128
+Address: 684 Zachary Ranch, Kerrfurt, GU 68888
+SSN: 433-45-3627
+Card: 4609780164499034 | DOB: 04/17/1966
+Last login IP: 192.168.244.190

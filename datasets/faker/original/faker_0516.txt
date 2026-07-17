@@ -1,0 +1,7 @@
+Customer: Kelly Small
+Company: Jordan-Sanders
+Email: cassie28@example.org | Phone: 996-382-8074
+Address: 15924 Sharon Centers, Port Leslieberg, SC 88886
+SSN: 046-35-8102
+Card: 4808803089892155 | DOB: 05/15/2006
+Last login IP: 10.148.91.14

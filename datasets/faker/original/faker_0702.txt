@@ -1,0 +1,7 @@
+Customer: Deborah Clarke
+Company: Hamilton Group
+Email: leemegan@example.org | Phone: 224-265-2978
+Address: 703 Garcia Mission, Kellyton, ME 51272
+SSN: 280-97-2807
+Card: 4042253423666756 | DOB: 01/13/1953
+Last login IP: 172.28.162.49

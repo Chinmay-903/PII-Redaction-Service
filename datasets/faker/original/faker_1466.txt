@@ -1,0 +1,7 @@
+Customer: Elizabeth Beard
+Company: Perez, Stein and Harris
+Email: donevans@example.com | Phone: 033-159-4463
+Address: 643 Stephen Circle, Wilsonfort, MI 92446
+SSN: 136-78-5211
+Card: 4762462750684344 | DOB: 11/30/1946
+Last login IP: 172.29.123.218

@@ -1,0 +1,7 @@
+Customer: Robert Shelton
+Company: Anderson Ltd
+Email: benjaminmiller@example.com | Phone: 289-895-4953
+Address: 751 Cannon Crossing, New Robertfort, DE 72460
+SSN: 777-85-4413
+Card: 4843222451990868 | DOB: 04/03/1950
+Last login IP: 10.24.219.212

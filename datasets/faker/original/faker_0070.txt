@@ -1,0 +1,7 @@
+Customer: Vincent Frederick
+Company: Holland, Elliott and Martin
+Email: fishermichael@example.org | Phone: 797-852-8396
+Address: 36793 Andrews Track, South Kara, SD 78559
+SSN: 366-02-9611
+Card: 4959620876775907 | DOB: 07/11/1949
+Last login IP: 10.206.255.216

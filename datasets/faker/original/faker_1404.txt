@@ -1,0 +1,7 @@
+Customer: Matthew Kane
+Company: Garza and Sons
+Email: nortonkelsey@example.com | Phone: 970-759-7075
+Address: 311 Doyle Grove, Rodriguezton, MD 27348
+SSN: 555-62-6755
+Card: 4468359304148478 | DOB: 02/24/1977
+Last login IP: 192.168.73.82

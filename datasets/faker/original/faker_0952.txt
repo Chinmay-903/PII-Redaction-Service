@@ -1,0 +1,7 @@
+Customer: Jordan Chambers
+Company: Manning Group
+Email: gsanchez@example.net | Phone: 462-030-6684
+Address: 79601 Rogers Forge, Lake Kristinaland, MI 74953
+SSN: 777-26-5662
+Card: 4188018224107894 | DOB: 08/05/1968
+Last login IP: 10.73.158.104

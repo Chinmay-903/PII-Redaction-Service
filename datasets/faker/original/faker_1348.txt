@@ -1,0 +1,7 @@
+Customer: Barbara Frazier
+Company: Jackson, Ramos and Mccormick
+Email: kristie17@example.net | Phone: 969-994-2677
+Address: 192 Smith Plain, Christinaberg, KS 23829
+SSN: 813-12-6759
+Card: 4437636649360027 | DOB: 05/05/1971
+Last login IP: 10.156.137.2

@@ -1,0 +1,7 @@
+Customer: Nicholas Gonzales
+Company: Scott and Sons
+Email: crystal39@example.net | Phone: 084-397-4501
+Address: 57194 Ariel Circle, South Aaronville, WY 48575
+SSN: 152-79-4111
+Card: 4313332491517737 | DOB: 09/17/1988
+Last login IP: 172.18.225.90

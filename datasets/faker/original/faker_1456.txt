@@ -1,0 +1,7 @@
+Customer: John Morris
+Company: Neal PLC
+Email: bennettcharles@example.com | Phone: 195-716-2754
+Address: 049 Alexander Manors, East Julianborough, WY 21235
+SSN: 604-33-8860
+Card: 4322308133376624 | DOB: 08/07/1998
+Last login IP: 172.21.228.252

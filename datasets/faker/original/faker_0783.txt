@@ -1,0 +1,7 @@
+Customer: Colleen Henry
+Company: Johnson-Lamb
+Email: cherylnelson@example.net | Phone: 463-240-5081
+Address: 15870 Mary Crossroad, Port Danabury, AZ 21020
+SSN: 290-84-2626
+Card: 4362068381594176 | DOB: 11/11/1960
+Last login IP: 192.168.254.153

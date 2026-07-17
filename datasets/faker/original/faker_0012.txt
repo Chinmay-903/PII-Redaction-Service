@@ -1,0 +1,7 @@
+Customer: Katherine Jones
+Company: Johnson-Little
+Email: deborah44@example.org | Phone: 220-169-0968
+Address: 9234 Daniel Port, Benjaminview, NJ 80609
+SSN: 130-78-9294
+Card: 4443678571768555 | DOB: 12/27/1992
+Last login IP: 172.28.216.180

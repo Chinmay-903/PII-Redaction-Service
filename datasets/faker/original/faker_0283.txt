@@ -1,0 +1,7 @@
+Customer: Connie Ward
+Company: Lee, Martinez and Daniel
+Email: bryanbailey@example.org | Phone: 970-305-0496
+Address: 93959 Rodriguez Gateway, East Allen, CA 18225
+SSN: 670-65-7196
+Card: 4081792392658080 | DOB: 05/21/1976
+Last login IP: 10.63.186.201

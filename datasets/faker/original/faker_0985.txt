@@ -1,0 +1,7 @@
+Customer: Kyle Webster
+Company: Barrett-Ray
+Email: carrillokatherine@example.com | Phone: 215-187-1619
+Address: 679 Holloway Villages, Watkinsstad, AZ 79563
+SSN: 442-62-4570
+Card: 4197535855123857 | DOB: 10/10/1975
+Last login IP: 10.97.190.92

@@ -1,0 +1,7 @@
+Customer: Clayton Poole
+Company: Torres-Carey
+Email: oreyes@example.com | Phone: 854-081-3944
+Address: 436 Gonzalez Oval, Beckstad, LA 78271
+SSN: 142-65-1232
+Card: 4977782405180336 | DOB: 09/01/1960
+Last login IP: 192.168.100.248

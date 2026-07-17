@@ -1,0 +1,7 @@
+Customer: Eric Buchanan
+Company: Simpson, Hughes and Walton
+Email: georgesarah@example.net | Phone: 503-578-7072
+Address: 160 Gonzalez Estates, New Vanessa, FM 18868
+SSN: 697-56-5147
+Card: 4522779334439486 | DOB: 06/15/1950
+Last login IP: 10.71.58.56

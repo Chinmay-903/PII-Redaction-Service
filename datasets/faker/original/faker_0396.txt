@@ -1,0 +1,7 @@
+Customer: Eric Fuentes
+Company: Thomas Inc
+Email: matthewevans@example.com | Phone: 996-131-6701
+Address: 186 Santos Stream, Chenville, CO 64582
+SSN: 338-72-4256
+Card: 4612718345534779 | DOB: 03/05/1972
+Last login IP: 192.168.104.3

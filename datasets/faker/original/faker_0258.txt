@@ -1,0 +1,7 @@
+Customer: Gregory Welch
+Company: Williams-Cooper
+Email: vmahoney@example.net | Phone: 154-555-7944
+Address: 5646 Rivera Meadow, New Johnburgh, SD 74902
+SSN: 688-54-0705
+Card: 4961351934462173 | DOB: 04/08/1973
+Last login IP: 10.5.191.101

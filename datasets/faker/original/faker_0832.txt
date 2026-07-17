@@ -1,0 +1,7 @@
+Customer: Brendan Frye
+Company: Tran, Bean and Wallace
+Email: jodimoody@example.com | Phone: 064-364-7025
+Address: 94400 Sanders Causeway, Lake John, CA 39742
+SSN: 287-01-7712
+Card: 4780805930307194 | DOB: 07/23/1992
+Last login IP: 192.168.133.4

@@ -1,0 +1,7 @@
+Customer: Maureen Riddle
+Company: Wilson, Ballard and Williams
+Email: cedwards@example.net | Phone: 919-900-4649
+Address: 362 Gregory Harbor, Nicoleburgh, WV 35307
+SSN: 521-05-6565
+Card: 4730552661387752 | DOB: 10/02/1968
+Last login IP: 192.168.218.55

@@ -1,0 +1,7 @@
+Customer: Danielle Wallace
+Company: Lopez, Wilcox and Morgan
+Email: loribrown@example.net | Phone: 428-686-1983
+Address: 175 Myers Center, West Andrewville, UT 24939
+SSN: 770-07-4971
+Card: 4772824081971088 | DOB: 01/20/1983
+Last login IP: 172.16.73.116

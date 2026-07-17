@@ -1,0 +1,7 @@
+Customer: Sally Ryan
+Company: Eaton-Melton
+Email: james20@example.net | Phone: 816-837-4247
+Address: 0261 Herrera Mountains, Carterview, OR 77597
+SSN: 274-25-3189
+Card: 4322631097583012 | DOB: 05/27/1972
+Last login IP: 10.106.199.88

@@ -1,0 +1,7 @@
+Customer: Nicholas Garcia
+Company: Carpenter-Schneider
+Email: vanessa35@example.org | Phone: 404-326-2631
+Address: 83090 Scott Island, North Annette, MA 77709
+SSN: 659-51-2393
+Card: 4097194647401535 | DOB: 02/26/1960
+Last login IP: 172.25.1.207

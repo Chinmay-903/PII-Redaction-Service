@@ -1,0 +1,7 @@
+Customer: Joshua Blair
+Company: Blanchard and Sons
+Email: hallen@example.org | Phone: 292-221-9280
+Address: 6899 Michael Squares, North Vincentbury, ND 18496
+SSN: 562-61-0081
+Card: 4081042130906874 | DOB: 01/01/1953
+Last login IP: 10.40.230.22

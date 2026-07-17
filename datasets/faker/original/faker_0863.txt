@@ -1,0 +1,7 @@
+Customer: Matthew Little
+Company: Garza Group
+Email: jacksoncarly@example.org | Phone: 873-665-7012
+Address: 60971 James Pines, New Joshua, ME 51949
+SSN: 359-62-2201
+Card: 4461284196192276 | DOB: 10/12/1995
+Last login IP: 10.152.103.47

@@ -1,0 +1,7 @@
+Customer: Erin Hayden
+Company: Case-Liu
+Email: douglas16@example.org | Phone: 956-412-9722
+Address: 240 Dennis Extensions, Tyronebury, SD 98864
+SSN: 443-67-9315
+Card: 4740300485670153 | DOB: 05/04/1993
+Last login IP: 10.35.109.217

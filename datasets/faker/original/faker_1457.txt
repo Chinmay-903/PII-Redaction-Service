@@ -1,0 +1,7 @@
+Customer: Jeffrey Murphy
+Company: Foley-Fisher
+Email: erik75@example.com | Phone: 928-330-1193
+Address: 4378 Stephanie Mount, Cynthiachester, PA 91706
+SSN: 315-53-3676
+Card: 4002735226216910 | DOB: 07/02/1999
+Last login IP: 192.168.94.7

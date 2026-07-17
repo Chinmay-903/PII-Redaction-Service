@@ -1,0 +1,7 @@
+Customer: Blake Romero
+Company: Williams-Drake
+Email: angela42@example.com | Phone: 772-308-2987
+Address: 0929 Williams Curve, Joshuatown, UT 55594
+SSN: 664-35-0599
+Card: 4722374389192343 | DOB: 12/30/2006
+Last login IP: 172.18.16.178

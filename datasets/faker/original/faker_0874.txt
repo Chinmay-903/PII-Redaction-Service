@@ -1,0 +1,7 @@
+Customer: Kelli Beck
+Company: Simon, Young and Vargas
+Email: danielporter@example.com | Phone: 425-858-5668
+Address: 5439 Johnston Freeway, Melissaberg, PW 47381
+SSN: 875-65-0380
+Card: 4491625173812159 | DOB: 07/25/1971
+Last login IP: 192.168.85.164

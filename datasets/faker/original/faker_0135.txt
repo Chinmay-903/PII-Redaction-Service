@@ -1,0 +1,7 @@
+Customer: Paul Turner
+Company: Williams-Hoover
+Email: simskelly@example.org | Phone: 747-387-0812
+Address: 80148 Brown Lock, Lake Joshuastad, MS 55429
+SSN: 074-49-1914
+Card: 4652430544818810 | DOB: 06/27/1992
+Last login IP: 10.130.202.214

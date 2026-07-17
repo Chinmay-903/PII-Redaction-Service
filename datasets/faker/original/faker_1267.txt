@@ -1,0 +1,7 @@
+Customer: Donna Wright
+Company: Lara-Davenport
+Email: justin93@example.net | Phone: 947-018-5337
+Address: 29881 David Trafficway, Pattersonmouth, IN 13600
+SSN: 669-47-6466
+Card: 4215095622091646 | DOB: 10/30/1993
+Last login IP: 172.30.83.162

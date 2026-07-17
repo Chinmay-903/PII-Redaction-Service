@@ -1,0 +1,7 @@
+Customer: Adrian Dickerson
+Company: Avery, Baker and Holder
+Email: oadams@example.org | Phone: 735-783-2531
+Address: 6244 Tracy Village, East Elizabeth, NY 60092
+SSN: 258-73-8912
+Card: 4810899038225808 | DOB: 04/22/1971
+Last login IP: 192.168.15.223

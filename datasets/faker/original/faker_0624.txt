@@ -1,0 +1,7 @@
+Customer: Kathleen Brown
+Company: Johnson, Hernandez and Ayala
+Email: ashleywilliamson@example.org | Phone: 209-789-2139
+Address: 6267 Maria Track, Johnsonview, IA 55123
+SSN: 006-87-7746
+Card: 4273726635830583 | DOB: 02/13/1968
+Last login IP: 192.168.46.105

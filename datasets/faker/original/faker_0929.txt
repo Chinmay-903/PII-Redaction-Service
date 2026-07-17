@@ -1,0 +1,7 @@
+Customer: Andrea Potter
+Company: Higgins-Gonzales
+Email: kempjohn@example.net | Phone: 919-335-3557
+Address: 729 Williams Street, Collinsfurt, AR 93093
+SSN: 236-36-7191
+Card: 4962697812491455 | DOB: 09/30/1976
+Last login IP: 172.20.131.187

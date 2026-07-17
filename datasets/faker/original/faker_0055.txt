@@ -1,0 +1,7 @@
+Customer: Stacey Vargas
+Company: Johnson Group
+Email: griffithlinda@example.net | Phone: 823-054-1322
+Address: 3584 Berry Orchard, North Madison, NV 08342
+SSN: 369-03-8493
+Card: 4275138090399393 | DOB: 12/10/2001
+Last login IP: 10.109.253.157

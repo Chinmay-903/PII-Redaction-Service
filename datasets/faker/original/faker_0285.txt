@@ -1,0 +1,7 @@
+Customer: Elizabeth Diaz
+Company: Smith-Rodriguez
+Email: bgross@example.net | Phone: 322-940-8969
+Address: 58001 Stuart Locks, East Christopher, DC 46180
+SSN: 332-16-9774
+Card: 4594955829724862 | DOB: 01/01/1996
+Last login IP: 192.168.75.167

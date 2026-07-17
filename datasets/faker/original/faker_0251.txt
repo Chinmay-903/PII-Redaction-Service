@@ -1,0 +1,7 @@
+Customer: Stephanie Robles
+Company: Davis Ltd
+Email: brittanyhendricks@example.net | Phone: 237-174-6602
+Address: 41293 Andrew Gateway, South Peterhaven, OK 25628
+SSN: 117-09-5148
+Card: 4541636594782327 | DOB: 01/11/1959
+Last login IP: 172.16.156.192

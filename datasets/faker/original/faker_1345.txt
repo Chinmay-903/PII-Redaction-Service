@@ -1,0 +1,7 @@
+Customer: Kimberly Martin
+Company: Freeman-Cisneros
+Email: melissahill@example.org | Phone: 254-016-8940
+Address: 34526 Stanton Lock, East Brianland, SD 56801
+SSN: 072-92-2211
+Card: 4001826341254885 | DOB: 07/24/1951
+Last login IP: 10.234.240.57

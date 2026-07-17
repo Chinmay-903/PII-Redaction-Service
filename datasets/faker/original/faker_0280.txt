@@ -1,0 +1,7 @@
+Customer: Katherine Reid
+Company: Austin and Sons
+Email: parkzachary@example.net | Phone: 812-923-3823
+Address: 968 Benjamin Light, North Lindsey, PR 48521
+SSN: 843-04-1952
+Card: 4497287768590056 | DOB: 08/04/1960
+Last login IP: 10.220.148.139

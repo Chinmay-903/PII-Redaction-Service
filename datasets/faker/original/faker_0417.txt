@@ -1,0 +1,7 @@
+Customer: Joy Palmer
+Company: Norris LLC
+Email: mallory22@example.com | Phone: 776-354-3226
+Address: 833 Brian Mountain, Taylorstad, AR 98392
+SSN: 318-65-0069
+Card: 4423489030344333 | DOB: 11/15/1997
+Last login IP: 10.74.6.9

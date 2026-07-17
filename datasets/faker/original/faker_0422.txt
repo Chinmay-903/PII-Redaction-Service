@@ -1,0 +1,7 @@
+Customer: Samuel Murphy
+Company: Lewis Group
+Email: lmayo@example.org | Phone: 519-728-4631
+Address: 762 Flowers Extension, Maryborough, OR 11474
+SSN: 842-12-5776
+Card: 4546167563846906 | DOB: 02/20/2006
+Last login IP: 172.24.12.88

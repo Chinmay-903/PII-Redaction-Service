@@ -1,0 +1,7 @@
+Customer: Katherine Gamble
+Company: Perez PLC
+Email: nicholasturner@example.net | Phone: 385-837-1597
+Address: 29616 Adam Plaza, Harrisshire, NE 82709
+SSN: 256-99-5820
+Card: 4276533320525651 | DOB: 05/23/1964
+Last login IP: 192.168.29.123

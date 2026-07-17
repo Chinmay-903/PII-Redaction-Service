@@ -1,0 +1,7 @@
+Customer: Kenneth Rhodes
+Company: Cruz and Sons
+Email: andreahenry@example.com | Phone: 542-590-2463
+Address: 86660 Wagner Roads, West Duaneside, AZ 11980
+SSN: 861-24-5810
+Card: 4587762659953945 | DOB: 11/16/1961
+Last login IP: 10.47.79.3

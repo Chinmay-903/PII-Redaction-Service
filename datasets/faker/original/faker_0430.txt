@@ -1,0 +1,7 @@
+Customer: David Andersen
+Company: Nelson-Hernandez
+Email: silvajason@example.org | Phone: 360-545-3337
+Address: 53661 Rachael Meadow, Martinezview, WY 02988
+SSN: 763-84-5973
+Card: 4413466294394164 | DOB: 06/16/1953
+Last login IP: 10.137.213.24

@@ -1,0 +1,7 @@
+Customer: Kimberly Campbell
+Company: Ochoa and Sons
+Email: graylaura@example.com | Phone: 545-473-2557
+Address: 08166 Smith Crossroad, Laurabury, VI 97004
+SSN: 057-21-2571
+Card: 4735976306234035 | DOB: 06/17/1990
+Last login IP: 192.168.211.21

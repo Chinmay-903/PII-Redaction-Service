@@ -1,0 +1,7 @@
+Customer: Emma Key
+Company: Ford-Campos
+Email: russellgutierrez@example.net | Phone: 773-811-6090
+Address: 92562 Abbott Rest, Bryanbury, SD 03252
+SSN: 432-93-1434
+Card: 4208391779441562 | DOB: 04/03/1968
+Last login IP: 172.21.30.146

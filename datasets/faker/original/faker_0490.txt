@@ -1,0 +1,7 @@
+Customer: Joe Castro
+Company: Walker Ltd
+Email: katrinagutierrez@example.org | Phone: 360-175-9858
+Address: 62238 Gray Orchard, Kimberlyberg, ND 60644
+SSN: 105-82-6913
+Card: 4016793941813259 | DOB: 06/16/1953
+Last login IP: 172.29.90.59

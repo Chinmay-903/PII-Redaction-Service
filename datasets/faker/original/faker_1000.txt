@@ -1,0 +1,7 @@
+Customer: Aaron Jordan
+Company: Fleming Group
+Email: bfritz@example.com | Phone: 257-961-9527
+Address: 62147 Michael Lights, Austinhaven, WY 98020
+SSN: 752-99-5328
+Card: 4148183392954060 | DOB: 10/06/1957
+Last login IP: 172.24.198.2

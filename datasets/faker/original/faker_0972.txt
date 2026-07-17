@@ -1,0 +1,7 @@
+Customer: Ashley Nelson
+Company: Paul, Moore and Mason
+Email: eharris@example.org | Phone: 167-749-6589
+Address: 6961 Alexander Walk, North Richardmouth, AL 71218
+SSN: 846-62-9405
+Card: 4595378153984565 | DOB: 06/10/1953
+Last login IP: 192.168.147.225

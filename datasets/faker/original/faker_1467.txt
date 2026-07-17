@@ -1,0 +1,7 @@
+Customer: Scott Mendoza
+Company: Johns-Soto
+Email: warekenneth@example.net | Phone: 017-749-3159
+Address: 3768 Lisa River, Boydberg, MN 73651
+SSN: 728-63-5117
+Card: 4920910854910303 | DOB: 02/04/2005
+Last login IP: 192.168.169.226

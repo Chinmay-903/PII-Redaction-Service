@@ -1,0 +1,7 @@
+Customer: Ian Ferguson
+Company: Austin and Sons
+Email: tracibrown@example.net | Phone: 828-156-4217
+Address: 9550 James Mall, Morrishaven, ND 59100
+SSN: 024-74-7546
+Card: 4688533628030224 | DOB: 09/15/1966
+Last login IP: 172.29.139.226

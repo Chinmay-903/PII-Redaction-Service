@@ -1,0 +1,7 @@
+Customer: Theresa Marks
+Company: Smith and Sons
+Email: daniellemcintyre@example.com | Phone: 746-211-1750
+Address: 891 Smith Trail, Hooperton, WA 28124
+SSN: 149-41-7606
+Card: 4963835208227054 | DOB: 01/09/2001
+Last login IP: 172.25.163.22

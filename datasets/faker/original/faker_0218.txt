@@ -1,0 +1,7 @@
+Customer: Todd Johnson
+Company: Lawrence-Harper
+Email: larsonderek@example.com | Phone: 295-963-7739
+Address: 151 Horn Turnpike, Lake Richard, MD 44551
+SSN: 689-51-1360
+Card: 4976196255986646 | DOB: 09/07/1960
+Last login IP: 192.168.156.133

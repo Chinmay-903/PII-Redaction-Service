@@ -1,0 +1,7 @@
+Customer: Matthew Harrington
+Company: Lowery LLC
+Email: stacey62@example.org | Phone: 585-058-5479
+Address: 456 Craig Pike, Perezborough, VT 56354
+SSN: 362-80-6957
+Card: 4279475115824864 | DOB: 03/30/1978
+Last login IP: 10.134.12.77

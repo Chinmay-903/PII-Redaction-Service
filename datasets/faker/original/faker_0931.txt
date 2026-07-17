@@ -1,0 +1,7 @@
+Customer: Miss Amy Johnson
+Company: Chandler and Sons
+Email: lmurphy@example.net | Phone: 417-137-0317
+Address: 864 Scott Crossing, New Joe, KS 71752
+SSN: 071-55-2459
+Card: 4240930934220393 | DOB: 04/02/1978
+Last login IP: 192.168.184.107

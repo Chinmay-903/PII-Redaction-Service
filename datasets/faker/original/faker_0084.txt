@@ -1,0 +1,7 @@
+Customer: Cody Moss
+Company: Bailey-Whitehead
+Email: monicahoffman@example.net | Phone: 958-593-7634
+Address: 512 Ricky Vista, Amandaberg, OR 29333
+SSN: 788-28-2024
+Card: 4996279867211698 | DOB: 10/04/1993
+Last login IP: 172.19.37.91

@@ -1,0 +1,7 @@
+Customer: Ronald Cooper
+Company: Grant-Day
+Email: newtoncorey@example.org | Phone: 553-387-8877
+Address: 101 King Orchard, East Patriciaport, IL 34682
+SSN: 419-98-8336
+Card: 4025736359799220 | DOB: 11/17/2003
+Last login IP: 192.168.229.54

@@ -1,0 +1,7 @@
+Customer: Diane Reed
+Company: Aguilar, Scott and Smith
+Email: jacqueline64@example.com | Phone: 885-789-1709
+Address: 5731 Brooks Land, North Donald, WY 80706
+SSN: 189-51-0381
+Card: 4745917597343125 | DOB: 07/23/1974
+Last login IP: 172.27.196.43

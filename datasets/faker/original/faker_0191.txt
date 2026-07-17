@@ -1,0 +1,7 @@
+Customer: Aaron Scott
+Company: Romero-Ryan
+Email: andersonnancy@example.com | Phone: 106-453-8833
+Address: 20082 Robert Underpass, Mathewsburgh, MT 16982
+SSN: 268-95-6429
+Card: 4569209440144774 | DOB: 03/16/1982
+Last login IP: 192.168.110.185

@@ -1,0 +1,7 @@
+Customer: Aaron Garcia
+Company: Gutierrez-Stevenson
+Email: ortegadenise@example.net | Phone: 232-621-9778
+Address: 4506 Moore Roads, South Luisshire, KY 38062
+SSN: 354-20-3428
+Card: 4482717541041255 | DOB: 12/11/1962
+Last login IP: 192.168.212.97

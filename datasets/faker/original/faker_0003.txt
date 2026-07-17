@@ -1,0 +1,7 @@
+Customer: Traci Ramirez
+Company: Bender LLC
+Email: idixon@example.com | Phone: 972-297-2700
+Address: 9513 Kirby Street, East Roseshire, UT 89035
+SSN: 069-87-3091
+Card: 4311230821369013 | DOB: 04/13/1972
+Last login IP: 10.255.36.234

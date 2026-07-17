@@ -1,0 +1,7 @@
+Customer: Ryan Jones
+Company: Rivera LLC
+Email: brandongreer@example.org | Phone: 935-365-2083
+Address: 4147 Smith Lake, Braunshire, NY 81056
+SSN: 687-56-4069
+Card: 4693597791753154 | DOB: 09/28/2007
+Last login IP: 192.168.42.206

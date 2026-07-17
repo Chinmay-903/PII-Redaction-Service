@@ -1,0 +1,7 @@
+Customer: Mrs. Patricia Carpenter
+Company: Baxter, Wright and Murphy
+Email: mallory85@example.com | Phone: 580-636-6152
+Address: 09336 Tony Club, Laurashire, GU 97996
+SSN: 809-75-6893
+Card: 4648198925831242 | DOB: 09/22/1990
+Last login IP: 10.200.101.2

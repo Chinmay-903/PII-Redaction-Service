@@ -1,0 +1,7 @@
+Customer: Andrea Baker
+Company: Frye, Welch and Jordan
+Email: lbennett@example.net | Phone: 140-944-9561
+Address: 587 Morgan Stream, West Amandaport, MN 82683
+SSN: 158-99-9661
+Card: 4831358394516743 | DOB: 12/26/1985
+Last login IP: 10.14.148.220

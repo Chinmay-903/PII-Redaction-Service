@@ -1,0 +1,7 @@
+Customer: Tyler Wallace
+Company: Scott-Carr
+Email: heidiford@example.org | Phone: 255-505-1276
+Address: 9837 Trevino Avenue, North Heatherchester, GU 77595
+SSN: 549-47-9563
+Card: 4279961842266958 | DOB: 02/27/2003
+Last login IP: 10.124.255.1

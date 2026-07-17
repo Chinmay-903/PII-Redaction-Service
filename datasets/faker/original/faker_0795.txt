@@ -1,0 +1,7 @@
+Customer: Angela Martin
+Company: Krueger-Schmidt
+Email: natalie93@example.org | Phone: 698-648-6888
+Address: 0797 Johnson Brook, Whitetown, ME 76199
+SSN: 812-55-4638
+Card: 4885659571614291 | DOB: 09/21/1984
+Last login IP: 192.168.112.119

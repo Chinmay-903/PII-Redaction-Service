@@ -1,0 +1,7 @@
+Customer: Maria Mcintosh
+Company: Chaney Ltd
+Email: kjohnson@example.com | Phone: 719-916-1710
+Address: 87970 Wilcox Mount, Port John, NY 36446
+SSN: 259-30-2623
+Card: 4799114530733399 | DOB: 04/05/1979
+Last login IP: 172.19.111.116

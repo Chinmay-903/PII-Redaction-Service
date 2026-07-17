@@ -1,0 +1,7 @@
+Customer: Angela Roach
+Company: Murphy-Davis
+Email: michaelmalone@example.org | Phone: 439-009-8700
+Address: 1432 Reed Groves, Larsenmouth, NM 13854
+SSN: 344-38-1947
+Card: 4249079251757016 | DOB: 01/04/1997
+Last login IP: 10.240.252.82

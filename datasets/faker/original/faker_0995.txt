@@ -1,0 +1,7 @@
+Customer: Katherine Johnston
+Company: Orr, Little and Black
+Email: susanhogan@example.net | Phone: 757-706-7194
+Address: 296 Brown Light, New Margaret, TX 00831
+SSN: 389-43-1396
+Card: 4251879446819026 | DOB: 05/21/2007
+Last login IP: 192.168.175.141

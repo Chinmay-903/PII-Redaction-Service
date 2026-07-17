@@ -1,0 +1,7 @@
+Customer: Danny Terry
+Company: Morgan, Moran and Gardner
+Email: dcrawford@example.com | Phone: 013-160-3282
+Address: 0735 Crosby Corner, Zunigaton, AR 13978
+SSN: 150-83-6039
+Card: 4242449271774738 | DOB: 04/29/1988
+Last login IP: 10.129.110.19

@@ -1,0 +1,7 @@
+Customer: Shelly Richard
+Company: Jackson, Foster and Moore
+Email: ycallahan@example.com | Phone: 788-037-9710
+Address: 109 Bridges Harbors, Elizabethfort, SC 53959
+SSN: 661-51-3653
+Card: 4097929534190877 | DOB: 07/26/1996
+Last login IP: 10.30.109.9

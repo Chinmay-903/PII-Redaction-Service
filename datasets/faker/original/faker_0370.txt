@@ -1,0 +1,7 @@
+Customer: Michael Contreras
+Company: Hill-Jimenez
+Email: bbarton@example.org | Phone: 833-373-0580
+Address: 60355 Samantha Rest, Clarkbury, ID 91980
+SSN: 865-55-5909
+Card: 4803245550749875 | DOB: 08/30/2005
+Last login IP: 192.168.184.1

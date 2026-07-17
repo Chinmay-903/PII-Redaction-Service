@@ -1,0 +1,7 @@
+Customer: Mr. Ricardo Moyer II
+Company: Munoz Ltd
+Email: wgarner@example.com | Phone: 122-576-9806
+Address: 8450 Kristina Orchard, New Sara, DE 01265
+SSN: 745-13-3669
+Card: 4725958742593879 | DOB: 12/10/1972
+Last login IP: 192.168.40.179

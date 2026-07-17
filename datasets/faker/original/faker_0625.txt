@@ -1,0 +1,7 @@
+Customer: Edward Hudson
+Company: Anderson LLC
+Email: youngbrian@example.org | Phone: 302-838-0080
+Address: 058 Danielle Dale, Port Tammie, MT 63177
+SSN: 760-20-1139
+Card: 4300578606264699 | DOB: 08/21/1983
+Last login IP: 192.168.214.184

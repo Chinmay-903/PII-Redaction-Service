@@ -1,0 +1,7 @@
+Customer: Danielle Wilson
+Company: Lawrence Inc
+Email: jonhernandez@example.net | Phone: 654-322-0544
+Address: 6302 Duran Parkway, Terriburgh, NE 52661
+SSN: 155-82-8666
+Card: 4276712542951966 | DOB: 08/12/1998
+Last login IP: 10.203.213.1

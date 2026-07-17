@@ -1,0 +1,7 @@
+Customer: Leslie Fields
+Company: Huber, Gonzalez and Larsen
+Email: jonesnathan@example.org | Phone: 824-581-3348
+Address: 277 James Court, Port Whitneyfort, VA 44601
+SSN: 015-24-7942
+Card: 4239594326970412 | DOB: 01/11/1955
+Last login IP: 10.168.168.169

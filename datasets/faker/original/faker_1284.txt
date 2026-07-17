@@ -1,0 +1,7 @@
+Customer: Michael Macdonald
+Company: Davis-Schroeder
+Email: simpsonronald@example.net | Phone: 676-743-7054
+Address: 72989 Sharon Throughway, Port Cheryltown, MO 74241
+SSN: 873-21-8765
+Card: 4145918464664136 | DOB: 10/30/1999
+Last login IP: 172.25.129.53

@@ -1,0 +1,7 @@
+Customer: Jon Williams
+Company: Jones-Curry
+Email: brownjavier@example.com | Phone: 227-088-9671
+Address: 654 Lawson Course, South Kevinburgh, KS 99488
+SSN: 323-38-2450
+Card: 4094087483369548 | DOB: 03/15/1950
+Last login IP: 172.28.221.196

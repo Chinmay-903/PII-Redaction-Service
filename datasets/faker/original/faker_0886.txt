@@ -1,0 +1,7 @@
+Customer: Michelle Johnson
+Company: Lloyd-Brown
+Email: michelle66@example.net | Phone: 017-772-3935
+Address: 7460 Sparks Trafficway, Mitchellville, PR 95737
+SSN: 511-22-0247
+Card: 4415640309398653 | DOB: 12/28/1975
+Last login IP: 10.43.51.124

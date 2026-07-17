@@ -1,0 +1,7 @@
+Customer: Carolyn George
+Company: Davis, Richardson and Brewer
+Email: carloshernandez@example.net | Phone: 235-933-1041
+Address: 573 Michael Mission, Petersenbury, SC 67604
+SSN: 510-61-8293
+Card: 4062263427235537 | DOB: 09/22/1965
+Last login IP: 192.168.241.33

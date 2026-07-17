@@ -1,0 +1,7 @@
+Customer: Dustin Miller
+Company: Jones-Kline
+Email: krandall@example.org | Phone: 355-171-6819
+Address: 956 Scott Street, Angelaborough, PA 72865
+SSN: 454-91-0474
+Card: 4695353094189268 | DOB: 10/30/1974
+Last login IP: 172.22.127.41

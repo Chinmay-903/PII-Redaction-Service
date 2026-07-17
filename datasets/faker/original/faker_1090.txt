@@ -1,0 +1,7 @@
+Customer: Levi Smith
+Company: Clark, Young and Hart
+Email: johnnymendoza@example.net | Phone: 334-114-9800
+Address: 566 Susan Dam, Lake Graceburgh, VI 74992
+SSN: 644-08-8000
+Card: 4297044869949703 | DOB: 02/07/1966
+Last login IP: 192.168.25.241

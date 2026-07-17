@@ -1,0 +1,7 @@
+Customer: Scott Morgan
+Company: Cooper Inc
+Email: afuentes@example.org | Phone: 538-182-2714
+Address: 440 Joe Dale, Virginiaport, IL 47820
+SSN: 818-48-6323
+Card: 4268135224603152 | DOB: 08/26/1952
+Last login IP: 172.16.130.65

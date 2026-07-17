@@ -1,0 +1,7 @@
+Customer: Mandy Huff
+Company: Lawrence, Bush and Mason
+Email: selenamartin@example.net | Phone: 766-614-3370
+Address: 607 Brady Crescent, East Jamesburgh, VI 22011
+SSN: 119-79-3043
+Card: 4465851125536645 | DOB: 06/22/1980
+Last login IP: 10.76.26.75

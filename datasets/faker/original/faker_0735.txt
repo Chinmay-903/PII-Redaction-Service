@@ -1,0 +1,7 @@
+Customer: Cheyenne Branch
+Company: Kelly PLC
+Email: sarahwilliams@example.org | Phone: 206-475-2213
+Address: 0892 Karen Spurs, Dennisfort, ND 03837
+SSN: 540-26-8209
+Card: 4433212091748574 | DOB: 06/29/1975
+Last login IP: 172.22.15.73

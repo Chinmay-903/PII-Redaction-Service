@@ -1,0 +1,7 @@
+Customer: Tiffany Holt
+Company: Taylor-Singh
+Email: christophertucker@example.org | Phone: 517-210-9595
+Address: 268 Phillips Courts, New Eric, IN 65014
+SSN: 490-77-8206
+Card: 4807080746933877 | DOB: 06/17/1950
+Last login IP: 172.22.132.205

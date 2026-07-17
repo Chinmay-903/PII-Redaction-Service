@@ -1,0 +1,7 @@
+Customer: Cindy Cole
+Company: Schmidt-Rodriguez
+Email: pjefferson@example.com | Phone: 887-506-9024
+Address: 6382 Norman Mountains, North David, MA 81431
+SSN: 218-49-1081
+Card: 4900439861665944 | DOB: 03/24/1989
+Last login IP: 10.198.135.74

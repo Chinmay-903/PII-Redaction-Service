@@ -1,0 +1,7 @@
+Customer: Michael Jackson
+Company: Hall-Kirk
+Email: carol48@example.org | Phone: 007-616-5459
+Address: 96880 Heather Plains, New Danielberg, NM 37873
+SSN: 559-72-6596
+Card: 4378229334443273 | DOB: 04/20/1994
+Last login IP: 192.168.52.245

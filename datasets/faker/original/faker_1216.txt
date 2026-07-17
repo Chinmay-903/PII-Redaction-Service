@@ -1,0 +1,7 @@
+Customer: Gregory Morgan
+Company: Richardson, Davis and Bolton
+Email: oneillthomas@example.com | Phone: 172-265-7272
+Address: 297 Carroll Hill, West Jeffreytown, SC 08282
+SSN: 625-78-2178
+Card: 4175890230637543 | DOB: 03/09/1976
+Last login IP: 10.240.60.28

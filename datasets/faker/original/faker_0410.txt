@@ -1,0 +1,7 @@
+Customer: Kenneth Anderson
+Company: Richardson Inc
+Email: nguyensarah@example.org | Phone: 661-157-1926
+Address: 3672 Kayla Square, East Donaldport, VI 64892
+SSN: 403-52-0314
+Card: 4190747334149539 | DOB: 07/07/2008
+Last login IP: 172.16.198.199

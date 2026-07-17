@@ -1,0 +1,7 @@
+Customer: Jaclyn Mora
+Company: Rodriguez PLC
+Email: aaron37@example.org | Phone: 047-179-4375
+Address: 268 Peter Fords, Williamberg, WV 83499
+SSN: 291-36-6565
+Card: 4641061085361433 | DOB: 03/24/1984
+Last login IP: 10.140.253.200

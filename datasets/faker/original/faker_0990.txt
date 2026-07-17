@@ -1,0 +1,7 @@
+Customer: Angel Bennett
+Company: Edwards PLC
+Email: wallacejames@example.org | Phone: 172-744-1820
+Address: 90624 Johnson Ford, Smallshire, ND 67209
+SSN: 376-41-3001
+Card: 4014569002067460 | DOB: 05/06/1997
+Last login IP: 192.168.191.92

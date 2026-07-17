@@ -1,0 +1,7 @@
+Customer: Adam Foster
+Company: Clay, Gardner and Day
+Email: shawna50@example.net | Phone: 950-731-4423
+Address: 332 Diana Isle, New Taylor, NM 25081
+SSN: 880-10-9220
+Card: 4591560969905165 | DOB: 01/19/1991
+Last login IP: 10.36.174.134

@@ -1,0 +1,7 @@
+Customer: Melanie Allen
+Company: Gregory Inc
+Email: scotteric@example.net | Phone: 729-915-0046
+Address: 2925 Corey Stream, North Josephfurt, TX 78610
+SSN: 527-51-5009
+Card: 4024077533274140 | DOB: 11/11/1948
+Last login IP: 10.247.153.251

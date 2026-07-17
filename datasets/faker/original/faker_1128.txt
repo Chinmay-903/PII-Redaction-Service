@@ -1,0 +1,7 @@
+Customer: Lisa Wright
+Company: Avery Inc
+Email: courtneyball@example.com | Phone: 816-080-7132
+Address: 1397 Thompson Cliffs, Johnshaven, NM 72853
+SSN: 450-84-3260
+Card: 4894825335533627 | DOB: 10/22/1993
+Last login IP: 192.168.183.86

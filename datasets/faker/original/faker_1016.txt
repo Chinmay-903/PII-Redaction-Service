@@ -1,0 +1,7 @@
+Customer: Tracey Miranda
+Company: Thompson PLC
+Email: patriciarichardson@example.org | Phone: 265-921-1209
+Address: 330 Dickerson Expressway, Davidtown, MD 67395
+SSN: 638-79-6245
+Card: 4713312660404988 | DOB: 12/24/1988
+Last login IP: 192.168.227.72

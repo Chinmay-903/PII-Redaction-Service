@@ -1,0 +1,7 @@
+Customer: David Lopez
+Company: Williams-Cunningham
+Email: taylorpeter@example.com | Phone: 414-644-3214
+Address: 70197 Dominique Camp, Ryanville, AS 05260
+SSN: 151-08-6358
+Card: 4311325856996944 | DOB: 08/01/1998
+Last login IP: 172.31.233.21

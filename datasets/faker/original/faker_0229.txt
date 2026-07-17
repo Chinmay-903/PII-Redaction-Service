@@ -1,0 +1,7 @@
+Customer: Judith Carpenter
+Company: Phillips Group
+Email: chelseamalone@example.org | Phone: 186-464-0901
+Address: 600 Bradley Shoals, West Cheyennefort, NE 99068
+SSN: 448-42-8529
+Card: 4103638484940494 | DOB: 11/17/1975
+Last login IP: 192.168.125.106

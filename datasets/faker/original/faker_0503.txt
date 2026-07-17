@@ -1,0 +1,7 @@
+Customer: Allison Pratt
+Company: Thompson, Montoya and Thompson
+Email: ariasjacob@example.org | Phone: 784-374-2070
+Address: 1170 Nicole Key, Dannyshire, MP 11369
+SSN: 215-16-6072
+Card: 4625503176203032 | DOB: 02/11/1980
+Last login IP: 10.237.183.119

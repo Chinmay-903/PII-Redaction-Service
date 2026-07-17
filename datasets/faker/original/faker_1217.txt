@@ -1,0 +1,7 @@
+Customer: Julie Jones
+Company: Meza PLC
+Email: millerjason@example.com | Phone: 670-691-8879
+Address: 9605 Caldwell Forge, New Phillip, NC 65306
+SSN: 707-53-8171
+Card: 4131990386028597 | DOB: 09/14/1946
+Last login IP: 192.168.45.63

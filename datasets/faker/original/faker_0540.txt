@@ -1,0 +1,7 @@
+Customer: Sonya Harrison
+Company: Perez, Khan and Sims
+Email: leonard35@example.net | Phone: 018-528-4982
+Address: 593 Riddle Highway, Morenoside, NE 53376
+SSN: 335-45-9287
+Card: 4612980924088508 | DOB: 12/14/1989
+Last login IP: 192.168.135.10

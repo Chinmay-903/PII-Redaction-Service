@@ -1,0 +1,7 @@
+Customer: Eric Foster
+Company: Dean LLC
+Email: gstark@example.net | Phone: 906-357-4031
+Address: 12605 Danielle Drive, East Blake, OR 67984
+SSN: 825-58-7438
+Card: 4269481690212469 | DOB: 02/02/1974
+Last login IP: 192.168.5.218

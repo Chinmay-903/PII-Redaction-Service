@@ -1,0 +1,7 @@
+Customer: Tiffany Jones
+Company: Hayden, Hayden and Murphy
+Email: james98@example.net | Phone: 562-074-5877
+Address: 460 Phelps Locks, Kristenton, WV 57940
+SSN: 333-04-6500
+Card: 4144190094608039 | DOB: 10/30/1946
+Last login IP: 172.21.182.100

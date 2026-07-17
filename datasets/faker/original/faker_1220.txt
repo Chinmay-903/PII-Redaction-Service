@@ -1,0 +1,7 @@
+Customer: Julie Mitchell
+Company: Burns, Hampton and Bradford
+Email: qwilliams@example.com | Phone: 965-042-4974
+Address: 53942 Thomas Road, East Steven, IA 95094
+SSN: 886-57-8525
+Card: 4848957248126673 | DOB: 07/10/1995
+Last login IP: 172.31.203.9

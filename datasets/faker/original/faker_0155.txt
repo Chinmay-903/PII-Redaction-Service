@@ -1,0 +1,7 @@
+Customer: Elizabeth Torres
+Company: Goodman Group
+Email: edwardwatson@example.com | Phone: 641-855-1844
+Address: 646 Roberson Hollow, East Bianca, NH 64595
+SSN: 779-24-5508
+Card: 4869946603514825 | DOB: 11/26/1970
+Last login IP: 192.168.58.171

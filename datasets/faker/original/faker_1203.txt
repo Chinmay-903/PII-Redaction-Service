@@ -1,0 +1,7 @@
+Customer: Christine Cooper
+Company: Allen, Green and Dunn
+Email: christine99@example.org | Phone: 009-997-5140
+Address: 5178 Wilson Union, Port Sharonchester, IA 23300
+SSN: 552-46-3169
+Card: 4883529465617159 | DOB: 05/14/1984
+Last login IP: 172.17.38.142

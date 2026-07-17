@@ -1,0 +1,7 @@
+Customer: Maria Mitchell
+Company: Baker and Sons
+Email: carsonjames@example.org | Phone: 112-659-4195
+Address: 076 Lori Union, South Sara, KS 54301
+SSN: 469-91-6073
+Card: 4560766723921409 | DOB: 06/21/1973
+Last login IP: 192.168.20.168

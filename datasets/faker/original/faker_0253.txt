@@ -1,0 +1,7 @@
+Customer: Patricia Moran
+Company: Vega, Meza and Anderson
+Email: kristenestrada@example.com | Phone: 247-758-2332
+Address: 65469 Amber Brooks, North Deniseville, ID 34200
+SSN: 517-66-2573
+Card: 4851087039225809 | DOB: 10/17/1999
+Last login IP: 192.168.70.248

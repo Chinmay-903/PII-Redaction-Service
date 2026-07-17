@@ -1,0 +1,7 @@
+Customer: Patty Turner
+Company: Lewis-Russo
+Email: kpowell@example.com | Phone: 925-486-3671
+Address: 7364 Gonzalez Circles, Brookeville, CT 34900
+SSN: 540-70-0342
+Card: 4001798420636862 | DOB: 11/08/2003
+Last login IP: 10.157.186.118

@@ -1,0 +1,7 @@
+Customer: Taylor Duke
+Company: Rice-Martinez
+Email: daverios@example.com | Phone: 782-824-3048
+Address: 78392 Robert Union, Lake Paulberg, RI 29721
+SSN: 748-02-0716
+Card: 4158066774435393 | DOB: 05/04/1991
+Last login IP: 172.31.235.238

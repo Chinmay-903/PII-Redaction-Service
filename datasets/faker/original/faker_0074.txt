@@ -1,0 +1,7 @@
+Customer: Jason Flores
+Company: Wilson and Sons
+Email: nathanielmoore@example.com | Phone: 941-524-8275
+Address: 8557 Rodney Isle, Castroland, WY 48172
+SSN: 306-40-6622
+Card: 4383890405172050 | DOB: 08/03/1971
+Last login IP: 172.23.107.250

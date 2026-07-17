@@ -1,0 +1,7 @@
+Customer: Jeffrey Duffy
+Company: Figueroa, Vasquez and Liu
+Email: fcombs@example.net | Phone: 310-940-7435
+Address: 4393 Teresa Lodge, Thomasport, AS 92692
+SSN: 353-76-5061
+Card: 4688407789715495 | DOB: 05/31/1996
+Last login IP: 172.24.252.32

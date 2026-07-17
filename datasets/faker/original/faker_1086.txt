@@ -1,0 +1,7 @@
+Customer: Ronnie Andrews
+Company: Tucker-Day
+Email: ajones@example.com | Phone: 680-374-1065
+Address: 27879 Christian Falls, Christianhaven, WI 53953
+SSN: 767-22-1581
+Card: 4838376783619301 | DOB: 04/04/1949
+Last login IP: 10.10.73.8

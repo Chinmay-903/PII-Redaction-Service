@@ -1,0 +1,7 @@
+Customer: Andrew Green
+Company: Gutierrez, Mejia and Waters
+Email: sjohnson@example.org | Phone: 932-935-2536
+Address: 62456 Michelle Mall, West Lisa, TX 23427
+SSN: 425-35-3222
+Card: 4638946044574982 | DOB: 07/30/1963
+Last login IP: 10.119.246.55

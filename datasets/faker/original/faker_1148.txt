@@ -1,0 +1,7 @@
+Customer: Alicia Burton
+Company: Walker Inc
+Email: julia64@example.net | Phone: 550-882-5468
+Address: 0312 Sarah Rapids, East Douglas, OK 30946
+SSN: 442-23-1002
+Card: 4484978994725608 | DOB: 04/07/1978
+Last login IP: 192.168.182.220

@@ -1,0 +1,7 @@
+Customer: Michael Morales
+Company: Stanley-Taylor
+Email: greensarah@example.org | Phone: 713-419-6083
+Address: 171 Luke Islands, Donnaton, VT 92656
+SSN: 328-38-6931
+Card: 4293088028357872 | DOB: 06/18/1988
+Last login IP: 172.24.36.28

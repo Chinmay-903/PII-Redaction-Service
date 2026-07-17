@@ -1,0 +1,7 @@
+Customer: Sandra Wilson
+Company: Anderson, Garcia and Miller
+Email: elizabeth23@example.com | Phone: 367-168-8445
+Address: 0218 Roberts Orchard, New Mary, NM 73187
+SSN: 848-20-5888
+Card: 4250117700308712 | DOB: 04/15/1974
+Last login IP: 192.168.241.242

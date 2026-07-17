@@ -1,0 +1,7 @@
+Customer: Reginald Moore
+Company: Robertson-Barnes
+Email: ayalajulie@example.com | Phone: 145-256-4413
+Address: 62272 Francis Plain, West Jameshaven, WV 94859
+SSN: 227-86-8444
+Card: 4776188541000318 | DOB: 02/02/2004
+Last login IP: 172.20.187.183

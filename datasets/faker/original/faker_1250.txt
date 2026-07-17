@@ -1,0 +1,7 @@
+Customer: Brian Diaz
+Company: Miles LLC
+Email: kinganthony@example.com | Phone: 834-974-1964
+Address: 08044 Smith Pine, Scottburgh, MO 46723
+SSN: 247-74-3546
+Card: 4480072693136749 | DOB: 07/19/1987
+Last login IP: 10.2.49.173

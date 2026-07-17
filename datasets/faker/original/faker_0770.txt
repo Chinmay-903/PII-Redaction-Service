@@ -1,0 +1,7 @@
+Customer: Lori Flores
+Company: Gutierrez, Leon and Fitzgerald
+Email: elliottpaul@example.com | Phone: 506-612-7478
+Address: 4766 Watson Ports, North Matthewberg, MN 14539
+SSN: 266-94-0270
+Card: 4915070997574891 | DOB: 03/14/1967
+Last login IP: 192.168.154.20

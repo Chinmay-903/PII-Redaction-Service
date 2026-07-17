@@ -1,0 +1,7 @@
+Customer: Carrie Montgomery
+Company: Garcia-Andrews
+Email: erin72@example.com | Phone: 147-769-6968
+Address: 847 Cynthia Grove, Edwardsmouth, VT 97017
+SSN: 167-40-1527
+Card: 4231458313634282 | DOB: 05/31/2008
+Last login IP: 192.168.164.92

@@ -1,0 +1,7 @@
+Customer: David Maddox
+Company: Johnston LLC
+Email: nrivera@example.org | Phone: 226-414-5537
+Address: 573 Angie Roads, Stonetown, MP 96401
+SSN: 849-85-6751
+Card: 4781613944884771 | DOB: 10/20/1985
+Last login IP: 10.198.224.72

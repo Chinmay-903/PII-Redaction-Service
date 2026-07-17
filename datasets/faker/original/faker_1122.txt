@@ -1,0 +1,7 @@
+Customer: Allen Diaz
+Company: Thompson-Wagner
+Email: qhorn@example.org | Phone: 329-693-7959
+Address: 12445 Jennifer Park, New Robin, SC 31000
+SSN: 109-95-1680
+Card: 4688292269921486 | DOB: 08/30/1999
+Last login IP: 192.168.127.90

@@ -1,0 +1,7 @@
+Customer: Rebecca Powell
+Company: Lyons-Noble
+Email: terrencejarvis@example.org | Phone: 823-674-2192
+Address: 3585 Melissa Shoals, New Cassie, CO 40056
+SSN: 649-50-2587
+Card: 4299647418708954 | DOB: 10/11/1954
+Last login IP: 192.168.130.250

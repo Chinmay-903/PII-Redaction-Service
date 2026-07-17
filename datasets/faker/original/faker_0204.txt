@@ -1,0 +1,7 @@
+Customer: Mike Cummings
+Company: Joseph Inc
+Email: douglas83@example.net | Phone: 075-493-9610
+Address: 3280 Jay Mill, Sheltonfort, TX 42509
+SSN: 814-16-5781
+Card: 4960863943415688 | DOB: 10/31/1998
+Last login IP: 172.21.76.154

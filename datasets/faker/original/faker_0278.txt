@@ -1,0 +1,7 @@
+Customer: Sabrina Duran
+Company: Adkins-Ramos
+Email: samantha31@example.com | Phone: 016-815-3678
+Address: 94942 Sandra Rapids, South Williambury, TX 73054
+SSN: 696-45-9724
+Card: 4908361435211769 | DOB: 06/02/1989
+Last login IP: 192.168.109.101

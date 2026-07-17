@@ -1,0 +1,7 @@
+Customer: Beth Salazar
+Company: Griffin and Sons
+Email: jameshernandez@example.net | Phone: 009-785-1347
+Address: 074 Craig Shore, Lake Anthonyfort, OK 90472
+SSN: 266-06-5090
+Card: 4800586914585676 | DOB: 03/10/1958
+Last login IP: 10.10.186.95

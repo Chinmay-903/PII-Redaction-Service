@@ -1,0 +1,7 @@
+Customer: Carol James
+Company: Sullivan-Burke
+Email: ohunt@example.com | Phone: 850-158-7394
+Address: 17154 Lori Falls, Port Tinamouth, MI 63009
+SSN: 566-25-4895
+Card: 4301062636747246 | DOB: 10/28/2003
+Last login IP: 192.168.179.207

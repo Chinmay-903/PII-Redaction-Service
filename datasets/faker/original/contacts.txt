@@ -1,0 +1,3 @@
+Contact John Doe at john.doe@example.com or +1 415-555-2671.
+His SSN is 123-45-6789, date of birth is 04/21/1988, and IP is 192.168.1.22.
+Charge the approved card 4111 1111 1111 1111.

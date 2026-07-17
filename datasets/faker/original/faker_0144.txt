@@ -1,0 +1,7 @@
+Customer: Brian Mason
+Company: Duncan, Maxwell and Houston
+Email: jcox@example.com | Phone: 467-753-7894
+Address: 71799 Anderson Mews, Gregoryberg, DC 26151
+SSN: 388-62-8736
+Card: 4516002845443758 | DOB: 05/04/1968
+Last login IP: 10.153.88.152

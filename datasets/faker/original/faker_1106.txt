@@ -1,0 +1,7 @@
+Customer: Christopher Harrison
+Company: Lucas-Brown
+Email: michaelestrada@example.com | Phone: 607-853-1653
+Address: 38964 Ferguson Avenue, Lake John, OR 38483
+SSN: 789-17-2203
+Card: 4928204558778873 | DOB: 02/13/1978
+Last login IP: 192.168.221.128

@@ -1,0 +1,7 @@
+Customer: Daniel Lee
+Company: Osborn, Luna and Shah
+Email: kimberlywagner@example.net | Phone: 091-022-2784
+Address: 2994 Ryan Glen, West Kathleentown, WI 64369
+SSN: 609-01-9076
+Card: 4140189159309321 | DOB: 09/25/2004
+Last login IP: 172.23.215.93

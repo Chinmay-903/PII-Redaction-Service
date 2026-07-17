@@ -1,0 +1,7 @@
+Customer: Austin James
+Company: King Ltd
+Email: vkelly@example.net | Phone: 888-487-9952
+Address: 93485 Powell Lodge, East Scottstad, OH 15290
+SSN: 337-92-8904
+Card: 4511645314726676 | DOB: 03/02/2002
+Last login IP: 192.168.233.138

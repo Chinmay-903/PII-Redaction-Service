@@ -1,0 +1,7 @@
+Customer: Jacob Daniels
+Company: Perez-Myers
+Email: qromero@example.org | Phone: 485-189-0499
+Address: 0002 Shawna Cliffs, Taraport, WI 35308
+SSN: 433-32-3031
+Card: 4280476929329857 | DOB: 05/03/1983
+Last login IP: 10.67.234.90

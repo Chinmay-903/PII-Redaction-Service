@@ -1,0 +1,7 @@
+Customer: Julie Atkinson
+Company: Adams Inc
+Email: robert52@example.net | Phone: 210-893-6449
+Address: 6419 Kimberly Row, Lake Michaelborough, MA 99939
+SSN: 121-11-6328
+Card: 4327308895658081 | DOB: 11/16/1980
+Last login IP: 192.168.175.113

@@ -1,0 +1,7 @@
+Customer: Devin Shepherd
+Company: Hawkins-Coleman
+Email: alexandereugene@example.net | Phone: 352-837-1069
+Address: 830 Martinez Stream, East Loriberg, UT 02193
+SSN: 805-96-9323
+Card: 4075229519845066 | DOB: 07/03/2004
+Last login IP: 10.152.193.118

@@ -1,0 +1,7 @@
+Customer: Nicole Pittman
+Company: Wilkerson-Gonzalez
+Email: christopher94@example.org | Phone: 296-541-9299
+Address: 35167 Booth Square, Lisamouth, HI 31800
+SSN: 259-40-3000
+Card: 4943422027889607 | DOB: 07/02/1952
+Last login IP: 172.30.80.20

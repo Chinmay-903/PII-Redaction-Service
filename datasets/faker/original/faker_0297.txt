@@ -1,0 +1,7 @@
+Customer: Christina Riddle
+Company: Lee, Garcia and Wilson
+Email: keithnewman@example.com | Phone: 398-623-3539
+Address: 300 Gomez Stream, Lake Sueburgh, MS 12592
+SSN: 354-34-4103
+Card: 4011779362810838 | DOB: 01/13/1996
+Last login IP: 172.19.37.234

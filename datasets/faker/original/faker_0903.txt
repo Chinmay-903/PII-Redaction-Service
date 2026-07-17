@@ -1,0 +1,7 @@
+Customer: Tyler Jones
+Company: Miles Inc
+Email: jwatson@example.org | Phone: 491-204-4208
+Address: 918 Lauren Fort, Julietown, GA 59567
+SSN: 301-65-8703
+Card: 4519450954965201 | DOB: 10/08/1955
+Last login IP: 192.168.135.71

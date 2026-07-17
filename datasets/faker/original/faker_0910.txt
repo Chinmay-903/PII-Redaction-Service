@@ -1,0 +1,7 @@
+Customer: Alan Schwartz
+Company: Rodriguez, James and Key
+Email: franklinjerry@example.net | Phone: 497-348-5325
+Address: 27302 Samantha Junction, New Justin, NM 42955
+SSN: 508-64-8809
+Card: 4659125794168766 | DOB: 03/06/1995
+Last login IP: 10.200.250.107

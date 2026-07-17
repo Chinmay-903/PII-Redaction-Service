@@ -1,0 +1,7 @@
+Customer: Charles West
+Company: Davis Inc
+Email: adavis@example.com | Phone: 606-898-1930
+Address: 64242 Kevin Plaza, Burtonburgh, UT 97881
+SSN: 251-85-1649
+Card: 4889143388419356 | DOB: 01/12/2001
+Last login IP: 192.168.237.4

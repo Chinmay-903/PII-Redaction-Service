@@ -1,0 +1,7 @@
+Customer: Francisco Ray
+Company: Gonzalez, Lopez and Parker
+Email: finleyricky@example.net | Phone: 265-929-0566
+Address: 45319 Burton Pine, Lake Allenshire, DE 05349
+SSN: 478-50-0041
+Card: 4011790757890194 | DOB: 07/31/1988
+Last login IP: 172.23.41.233

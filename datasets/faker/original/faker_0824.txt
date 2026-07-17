@@ -1,0 +1,7 @@
+Customer: Eugene Anderson
+Company: Norman-Murray
+Email: arowland@example.com | Phone: 829-506-1089
+Address: 12813 Baker Road, New Xaviershire, VT 78827
+SSN: 608-69-2428
+Card: 4880203550114430 | DOB: 05/26/1997
+Last login IP: 10.84.142.213

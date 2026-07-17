@@ -1,0 +1,7 @@
+Customer: Richard Nicholson
+Company: Andrews-Hall
+Email: christopherevans@example.org | Phone: 499-242-9531
+Address: 14434 Edwards Springs, Victorchester, PR 11171
+SSN: 343-51-8848
+Card: 4036580250713824 | DOB: 05/26/2000
+Last login IP: 172.19.182.114

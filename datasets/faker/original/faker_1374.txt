@@ -1,0 +1,7 @@
+Customer: Nicole Hawkins
+Company: Gonzalez-Chang
+Email: zparker@example.org | Phone: 336-522-7773
+Address: 3072 Janet Walks, South Bonnie, UT 79015
+SSN: 604-80-6733
+Card: 4298751980508908 | DOB: 10/05/1982
+Last login IP: 172.27.92.208

@@ -1,0 +1,7 @@
+Customer: David Fleming
+Company: Reid Ltd
+Email: carlsonlori@example.org | Phone: 367-995-2377
+Address: 692 Frank Dale, Mariaberg, TN 54554
+SSN: 469-15-4253
+Card: 4286845245206722 | DOB: 08/10/1975
+Last login IP: 10.210.185.222

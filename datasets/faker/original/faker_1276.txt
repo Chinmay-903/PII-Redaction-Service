@@ -1,0 +1,7 @@
+Customer: Robert Berger
+Company: Castillo-Mack
+Email: kennetheverett@example.com | Phone: 103-539-1644
+Address: 52155 Mitchell Crest, Tonymouth, MH 89243
+SSN: 435-45-5770
+Card: 4486648350081759 | DOB: 04/05/2001
+Last login IP: 172.22.84.153

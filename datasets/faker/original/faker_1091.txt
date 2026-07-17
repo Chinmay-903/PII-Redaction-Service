@@ -1,0 +1,7 @@
+Customer: Carlos Cobb
+Company: Kelly Inc
+Email: guerrerolisa@example.net | Phone: 211-290-7939
+Address: 28050 Jeffrey Mountains, New Denise, NE 91975
+SSN: 817-25-0080
+Card: 4922091298744075 | DOB: 07/14/1951
+Last login IP: 10.85.48.168

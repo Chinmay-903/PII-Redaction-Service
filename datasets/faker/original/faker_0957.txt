@@ -1,0 +1,7 @@
+Customer: Brian Potts
+Company: Andrews, Woodward and Bartlett
+Email: glassamy@example.com | Phone: 138-788-4370
+Address: 3945 Roth Shore, South Julie, DC 71955
+SSN: 631-82-7802
+Card: 4088497889008525 | DOB: 09/12/1991
+Last login IP: 192.168.102.91

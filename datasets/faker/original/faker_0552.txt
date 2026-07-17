@@ -1,0 +1,7 @@
+Customer: Kathleen Fisher
+Company: Allen, Nguyen and Howard
+Email: hoopermicheal@example.net | Phone: 008-818-7670
+Address: 322 Cory Ville, South Jack, MD 50085
+SSN: 205-26-2259
+Card: 4790989425722139 | DOB: 11/07/1971
+Last login IP: 10.238.95.30

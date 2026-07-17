@@ -1,0 +1,7 @@
+Customer: Lindsey Payne
+Company: Stein, Vazquez and Pennington
+Email: rhernandez@example.org | Phone: 246-713-4716
+Address: 308 Hall Village, Maryview, ND 87906
+SSN: 559-86-0761
+Card: 4326151551658180 | DOB: 12/04/1968
+Last login IP: 192.168.190.251

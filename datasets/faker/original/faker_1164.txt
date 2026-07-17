@@ -1,0 +1,7 @@
+Customer: Barry Farrell
+Company: Johnson-Holt
+Email: tamara42@example.net | Phone: 657-293-5983
+Address: 250 Green Village, Ashleymouth, MA 95458
+SSN: 323-46-1840
+Card: 4397019117610363 | DOB: 06/01/1965
+Last login IP: 172.29.25.109

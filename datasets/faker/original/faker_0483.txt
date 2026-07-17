@@ -1,0 +1,7 @@
+Customer: Andrew Gordon
+Company: Hunter Inc
+Email: anthony76@example.net | Phone: 093-164-0854
+Address: 62108 Schultz Wells, Port Dennis, CA 36796
+SSN: 702-35-0384
+Card: 4253619041704753 | DOB: 01/03/1956
+Last login IP: 10.144.55.137

@@ -1,0 +1,7 @@
+Customer: Samuel Moore
+Company: Thomas and Sons
+Email: ashleybrooks@example.net | Phone: 363-943-2670
+Address: 0121 Andrea Road, East Denise, TX 57604
+SSN: 056-05-1627
+Card: 4930487300810864 | DOB: 11/02/1963
+Last login IP: 172.17.114.216

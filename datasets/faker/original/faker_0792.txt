@@ -1,0 +1,7 @@
+Customer: Meagan Olson
+Company: Morris PLC
+Email: kevinpruitt@example.net | Phone: 499-552-2027
+Address: 0159 Holloway Loop, New Nathaniel, CT 94090
+SSN: 686-79-0020
+Card: 4765529004415324 | DOB: 07/02/1965
+Last login IP: 192.168.153.38

@@ -1,0 +1,7 @@
+Customer: Alexander Melton
+Company: Moore PLC
+Email: vshaw@example.net | Phone: 788-885-8826
+Address: 938 Susan Lock, Johnburgh, DE 52988
+SSN: 171-98-0222
+Card: 4364827222258178 | DOB: 01/23/1982
+Last login IP: 10.148.228.135

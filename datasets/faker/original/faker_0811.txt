@@ -1,0 +1,7 @@
+Customer: Crystal Johnson
+Company: Perry, Jones and Smith
+Email: walkerrebecca@example.net | Phone: 735-493-9383
+Address: 30508 Krystal Estate, Port Jean, KY 99826
+SSN: 446-48-3149
+Card: 4748482898575815 | DOB: 10/03/1975
+Last login IP: 192.168.12.53

@@ -1,0 +1,7 @@
+Customer: James Roberts
+Company: Ford-Caldwell
+Email: mariacollins@example.net | Phone: 604-808-1936
+Address: 317 Mcfarland Knoll, West Jacobstad, OK 59562
+SSN: 817-06-0049
+Card: 4531673858426715 | DOB: 02/21/1982
+Last login IP: 172.27.225.119

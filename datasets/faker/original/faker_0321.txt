@@ -1,0 +1,7 @@
+Customer: Bonnie Lynn
+Company: Smith, Rodgers and Henry
+Email: bruce67@example.com | Phone: 657-404-3784
+Address: 31786 Maria Grove, Lindsayburgh, VI 13102
+SSN: 464-05-5050
+Card: 4769561647532518 | DOB: 05/31/1999
+Last login IP: 172.28.162.94

@@ -1,0 +1,7 @@
+Customer: Rachel Porter
+Company: Bradford, Garcia and Smith
+Email: rwalls@example.net | Phone: 531-716-5585
+Address: 796 Jessica Run, Shawnhaven, NC 68211
+SSN: 277-25-9440
+Card: 4505796710939781 | DOB: 01/30/1946
+Last login IP: 172.19.125.185

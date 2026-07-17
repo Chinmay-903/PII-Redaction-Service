@@ -1,0 +1,7 @@
+Customer: Tanya Berry
+Company: May LLC
+Email: cassandra23@example.com | Phone: 751-969-0464
+Address: 079 Fitzpatrick Corner, Floresberg, ND 74001
+SSN: 726-70-9240
+Card: 4142438684339859 | DOB: 05/17/1947
+Last login IP: 192.168.132.199

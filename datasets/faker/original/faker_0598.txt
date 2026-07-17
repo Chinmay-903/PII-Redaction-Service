@@ -1,0 +1,7 @@
+Customer: Destiny Martinez
+Company: Knight-Christensen
+Email: hebertjason@example.net | Phone: 620-497-6743
+Address: 880 Kim Parks, West Marychester, MA 38183
+SSN: 867-47-4972
+Card: 4910918443532613 | DOB: 06/07/1998
+Last login IP: 10.35.221.221

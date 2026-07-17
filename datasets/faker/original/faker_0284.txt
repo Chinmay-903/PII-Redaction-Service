@@ -1,0 +1,7 @@
+Customer: Michael Murray
+Company: Melton, Norman and Lewis
+Email: jfox@example.com | Phone: 020-553-0535
+Address: 2370 Holland Mill, East Evan, OK 58864
+SSN: 604-33-6648
+Card: 4386577573656017 | DOB: 08/08/1945
+Last login IP: 172.16.110.7

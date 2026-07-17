@@ -1,0 +1,7 @@
+Customer: Brett Foster
+Company: Townsend-Flores
+Email: lmills@example.net | Phone: 791-866-2668
+Address: 637 Sharon Ridge, Port Staceyburgh, NY 86229
+SSN: 063-83-5195
+Card: 4831090431245826 | DOB: 05/07/1962
+Last login IP: 10.26.62.201

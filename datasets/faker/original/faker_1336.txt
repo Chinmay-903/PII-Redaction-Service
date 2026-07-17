@@ -1,0 +1,7 @@
+Customer: Patrick Carson
+Company: Bailey Ltd
+Email: kara44@example.net | Phone: 992-488-2535
+Address: 6146 White Tunnel, Montgomerymouth, MH 16325
+SSN: 880-72-2623
+Card: 4913737985690721 | DOB: 06/07/1980
+Last login IP: 172.24.59.223

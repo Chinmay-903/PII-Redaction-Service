@@ -1,0 +1,7 @@
+Customer: Nicolas Harris
+Company: Estrada-Macdonald
+Email: chadstevens@example.com | Phone: 559-449-4399
+Address: 2612 Brianna Island, New William, FL 17320
+SSN: 438-37-7698
+Card: 4519460187696358 | DOB: 01/12/1968
+Last login IP: 10.98.110.173

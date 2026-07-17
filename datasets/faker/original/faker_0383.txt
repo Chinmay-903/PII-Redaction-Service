@@ -1,0 +1,7 @@
+Customer: Ronald Wilson
+Company: Cantrell and Sons
+Email: hillcraig@example.com | Phone: 009-790-5377
+Address: 9411 Wilkins Parkway, Jasonberg, OK 53030
+SSN: 346-13-9490
+Card: 4669891244486854 | DOB: 11/03/1976
+Last login IP: 172.16.5.91

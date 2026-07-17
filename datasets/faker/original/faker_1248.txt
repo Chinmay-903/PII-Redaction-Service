@@ -1,0 +1,7 @@
+Customer: Amy Wallace
+Company: Dominguez-Vazquez
+Email: dcurtis@example.org | Phone: 873-224-2686
+Address: 181 Harris Mews, Martinburgh, MP 80116
+SSN: 115-46-9957
+Card: 4027828385730176 | DOB: 05/11/1947
+Last login IP: 172.27.118.176

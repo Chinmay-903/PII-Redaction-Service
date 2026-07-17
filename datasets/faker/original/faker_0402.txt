@@ -1,0 +1,7 @@
+Customer: Jeremy Golden
+Company: Klein, Guerrero and Morse
+Email: johnjuarez@example.com | Phone: 897-415-2609
+Address: 3955 Schultz Row, East Jessica, WV 57179
+SSN: 637-69-6151
+Card: 4120466493556716 | DOB: 10/04/1972
+Last login IP: 192.168.81.23

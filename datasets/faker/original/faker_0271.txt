@@ -1,0 +1,7 @@
+Customer: James Peterson
+Company: Morrow-Davis
+Email: lewisvincent@example.com | Phone: 750-367-8644
+Address: 83086 Perry Wells, North Annaside, IN 36163
+SSN: 105-88-7274
+Card: 4879610400835076 | DOB: 04/20/1995
+Last login IP: 172.28.205.147

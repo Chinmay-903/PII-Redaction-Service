@@ -1,0 +1,7 @@
+Customer: Rachel Wilson
+Company: Chandler, Bowman and James
+Email: adriennewilson@example.org | Phone: 047-221-2132
+Address: 40420 Robert Radial, Daviston, VT 05649
+SSN: 678-66-8221
+Card: 4969266054418429 | DOB: 12/24/1985
+Last login IP: 192.168.127.104

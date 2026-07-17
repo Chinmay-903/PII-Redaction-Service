@@ -1,0 +1,7 @@
+Customer: Frank Ramos
+Company: Rose-Jackson
+Email: xross@example.com | Phone: 054-861-8349
+Address: 5035 Vanessa Cliffs, Lake Sheila, WI 58382
+SSN: 338-18-3292
+Card: 4761556013520640 | DOB: 10/25/1953
+Last login IP: 172.25.68.137

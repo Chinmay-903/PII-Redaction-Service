@@ -1,0 +1,7 @@
+Customer: Angela Cruz
+Company: Jackson PLC
+Email: justinrangel@example.com | Phone: 738-745-4584
+Address: 4848 Garrison Groves, West Nathan, WI 47828
+SSN: 592-54-6903
+Card: 4830674169609542 | DOB: 12/27/1968
+Last login IP: 192.168.219.96

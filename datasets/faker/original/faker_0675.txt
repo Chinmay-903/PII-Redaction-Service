@@ -1,0 +1,7 @@
+Customer: Jennifer Nguyen
+Company: Allen, Maxwell and Barton
+Email: beverly75@example.net | Phone: 124-554-8378
+Address: 517 Stephanie Skyway, East Juliatown, MD 02364
+SSN: 099-24-5441
+Card: 4269372623274702 | DOB: 09/21/1971
+Last login IP: 10.23.247.31

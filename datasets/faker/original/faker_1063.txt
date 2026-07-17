@@ -1,0 +1,7 @@
+Customer: Richard Pierce
+Company: Butler, Ramirez and Anderson
+Email: emily38@example.net | Phone: 766-119-1213
+Address: 45795 Amy Valley, North Paige, MA 84583
+SSN: 553-11-1570
+Card: 4955908698557171 | DOB: 02/25/1979
+Last login IP: 192.168.86.150

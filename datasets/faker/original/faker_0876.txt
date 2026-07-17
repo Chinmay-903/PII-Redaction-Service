@@ -1,0 +1,7 @@
+Customer: John Johnson
+Company: Cameron Group
+Email: glopez@example.com | Phone: 918-109-8654
+Address: 9158 Baker Run, Caldwellbury, AZ 74312
+SSN: 206-50-9291
+Card: 4433129126380621 | DOB: 04/19/1973
+Last login IP: 172.16.45.85

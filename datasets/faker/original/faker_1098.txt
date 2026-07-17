@@ -1,0 +1,7 @@
+Customer: Sheila Torres
+Company: Duncan, Smith and Price
+Email: michaelturner@example.net | Phone: 520-436-1303
+Address: 75559 Elizabeth Drive, Lake Carl, MH 57381
+SSN: 586-38-4333
+Card: 4572754106972260 | DOB: 05/02/1975
+Last login IP: 192.168.31.71

@@ -1,0 +1,7 @@
+Customer: Jessica Hill
+Company: Preston PLC
+Email: denise59@example.org | Phone: 147-075-3590
+Address: 94853 Anthony Street, Bruceton, CT 23706
+SSN: 091-33-1008
+Card: 4474115292774143 | DOB: 03/01/1963
+Last login IP: 10.191.50.35

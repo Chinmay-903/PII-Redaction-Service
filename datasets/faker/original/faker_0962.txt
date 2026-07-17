@@ -1,0 +1,7 @@
+Customer: Hannah Peters
+Company: Taylor, Brown and Malone
+Email: iglover@example.net | Phone: 749-636-8893
+Address: 498 Shepard Manor, Christophermouth, IN 48980
+SSN: 171-55-5942
+Card: 4835123850256358 | DOB: 02/25/1968
+Last login IP: 10.182.167.129

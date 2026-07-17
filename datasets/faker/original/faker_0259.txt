@@ -1,0 +1,7 @@
+Customer: Laura Ware
+Company: Baker, Pearson and Kelly
+Email: andrew93@example.net | Phone: 743-064-7153
+Address: 422 Brad Locks, New Michael, KY 93732
+SSN: 133-71-1196
+Card: 4593943376266876 | DOB: 08/07/1990
+Last login IP: 10.113.237.22

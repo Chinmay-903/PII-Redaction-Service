@@ -1,0 +1,7 @@
+Customer: Colleen Walton
+Company: Chavez Ltd
+Email: cartervictoria@example.net | Phone: 135-951-8567
+Address: 9690 Lee Circle, Jeremiahfort, KY 02996
+SSN: 805-86-1555
+Card: 4262629671014646 | DOB: 07/14/1964
+Last login IP: 10.115.169.214

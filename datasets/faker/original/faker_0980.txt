@@ -1,0 +1,7 @@
+Customer: Vanessa King
+Company: Johnson-Brown
+Email: davidwilcox@example.net | Phone: 411-805-9155
+Address: 8955 Lin Forges, Myersville, MH 61633
+SSN: 076-36-1660
+Card: 4789334122544762 | DOB: 06/29/1964
+Last login IP: 192.168.151.178

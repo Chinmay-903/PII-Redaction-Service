@@ -1,0 +1,7 @@
+Customer: Tyler Edwards
+Company: Ferguson PLC
+Email: cummingssandra@example.com | Phone: 946-420-1878
+Address: 45995 Yvonne Islands, North Joseph, MA 54049
+SSN: 212-46-8651
+Card: 4309082367428164 | DOB: 12/17/1995
+Last login IP: 192.168.205.42

@@ -1,0 +1,7 @@
+Customer: Carrie Ross
+Company: Martin Group
+Email: jaime27@example.com | Phone: 181-324-4498
+Address: 184 Amanda Circle, New Michaelfort, MN 24039
+SSN: 568-98-9577
+Card: 4658182589852360 | DOB: 02/21/1974
+Last login IP: 10.21.91.148

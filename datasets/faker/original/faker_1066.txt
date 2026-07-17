@@ -1,0 +1,7 @@
+Customer: Jacob Harris
+Company: Thomas, Williams and Hicks
+Email: hwalker@example.net | Phone: 168-433-7898
+Address: 35300 Joy Passage, New Mark, CA 09539
+SSN: 691-37-8773
+Card: 4001037800504808 | DOB: 03/28/1963
+Last login IP: 192.168.67.28

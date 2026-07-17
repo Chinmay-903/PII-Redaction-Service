@@ -1,0 +1,7 @@
+Customer: Garrett Roberts
+Company: Ortega and Sons
+Email: dcolon@example.com | Phone: 890-739-1586
+Address: 5812 Anthony Fords, Scottborough, TN 40957
+SSN: 316-59-6168
+Card: 4551691490945491 | DOB: 01/01/1947
+Last login IP: 10.10.24.21

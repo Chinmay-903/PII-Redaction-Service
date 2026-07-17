@@ -1,0 +1,7 @@
+Customer: Alicia Everett
+Company: Webster, Young and Myers
+Email: travismcdonald@example.net | Phone: 532-408-5406
+Address: 938 Christopher Stravenue, Lake Scott, MI 53709
+SSN: 524-98-5521
+Card: 4480999291927626 | DOB: 05/20/1965
+Last login IP: 172.17.171.31

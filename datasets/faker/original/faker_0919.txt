@@ -1,0 +1,7 @@
+Customer: Robert Smith
+Company: Lester-Schneider
+Email: marksmith@example.org | Phone: 692-144-3830
+Address: 572 Spencer Island, Joshualand, AS 34056
+SSN: 856-90-7752
+Card: 4010702237451084 | DOB: 06/09/1968
+Last login IP: 172.21.57.141

@@ -1,0 +1,7 @@
+Customer: Marie Eaton
+Company: Crawford, Prince and Bender
+Email: sevans@example.com | Phone: 693-520-1621
+Address: 89694 Brooks Plain, Jillton, KS 63376
+SSN: 279-73-0036
+Card: 4055361005099751 | DOB: 07/29/1987
+Last login IP: 192.168.95.146

@@ -1,0 +1,7 @@
+Customer: Alexander Rose
+Company: Anderson-Nelson
+Email: hadams@example.org | Phone: 231-062-0415
+Address: 65103 Huang Burgs, Gonzaleshaven, ME 86651
+SSN: 473-02-8056
+Card: 4779091194965323 | DOB: 07/07/1985
+Last login IP: 10.10.48.232

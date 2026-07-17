@@ -1,0 +1,7 @@
+Customer: Deborah Robbins
+Company: Rangel and Sons
+Email: qbanks@example.org | Phone: 244-533-8226
+Address: 51029 Darrell Streets, North Joanna, HI 91652
+SSN: 117-51-7949
+Card: 4797961833583422 | DOB: 03/27/2006
+Last login IP: 192.168.213.116

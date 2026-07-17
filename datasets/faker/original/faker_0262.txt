@@ -1,0 +1,7 @@
+Customer: Susan Singh
+Company: Farmer-Moore
+Email: torreskeith@example.org | Phone: 407-835-5939
+Address: 66148 Merritt Corners, Matthewtown, HI 59581
+SSN: 497-86-7696
+Card: 4804310296975744 | DOB: 01/04/1996
+Last login IP: 10.122.9.106

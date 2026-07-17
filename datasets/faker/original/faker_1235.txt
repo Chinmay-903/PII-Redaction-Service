@@ -1,0 +1,7 @@
+Customer: Gregory Hardin
+Company: Smith, Owens and Delacruz
+Email: peter62@example.com | Phone: 219-712-8809
+Address: 9023 Lawrence Vista, Turnerchester, CA 57694
+SSN: 200-24-2043
+Card: 4697325999221220 | DOB: 09/19/1983
+Last login IP: 172.21.174.129

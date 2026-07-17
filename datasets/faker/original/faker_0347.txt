@@ -1,0 +1,7 @@
+Customer: Hannah Kim
+Company: Romero-Frederick
+Email: penny55@example.com | Phone: 334-029-1357
+Address: 8198 Holden Expressway, Lake Michaelfort, AL 21748
+SSN: 443-81-7305
+Card: 4756199825670258 | DOB: 09/22/1963
+Last login IP: 192.168.67.227

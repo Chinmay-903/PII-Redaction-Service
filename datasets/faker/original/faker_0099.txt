@@ -1,0 +1,7 @@
+Customer: Sean Thomas
+Company: Kidd PLC
+Email: anthony54@example.org | Phone: 964-014-7869
+Address: 604 David Rest, New Danachester, KS 56074
+SSN: 160-45-7345
+Card: 4564712761702612 | DOB: 12/15/1992
+Last login IP: 192.168.148.16

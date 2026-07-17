@@ -1,0 +1,7 @@
+Customer: John Decker
+Company: Gilbert-Avila
+Email: jameswise@example.com | Phone: 197-476-0742
+Address: 8199 Michael Extension, West Robert, VA 65349
+SSN: 484-64-0154
+Card: 4597326150154987 | DOB: 02/02/1993
+Last login IP: 192.168.141.93

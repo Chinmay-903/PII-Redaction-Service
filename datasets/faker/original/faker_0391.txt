@@ -1,0 +1,7 @@
+Customer: Debra Watson
+Company: Lloyd PLC
+Email: jennifer61@example.net | Phone: 643-579-8022
+Address: 384 Beth Creek, Toddside, WV 72998
+SSN: 103-98-7606
+Card: 4841763310991102 | DOB: 02/13/1948
+Last login IP: 192.168.62.220

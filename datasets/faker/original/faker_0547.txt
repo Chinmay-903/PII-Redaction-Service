@@ -1,0 +1,7 @@
+Customer: John Sanders
+Company: Anthony Ltd
+Email: xhorton@example.com | Phone: 644-361-1531
+Address: 753 Joshua Unions, North Crystal, MO 92090
+SSN: 083-47-6752
+Card: 4481994556200149 | DOB: 06/23/2003
+Last login IP: 192.168.198.123

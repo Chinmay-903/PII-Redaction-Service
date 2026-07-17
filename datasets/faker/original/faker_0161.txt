@@ -1,0 +1,7 @@
+Customer: Frank Allen
+Company: Austin Inc
+Email: gallowaycarrie@example.org | Phone: 341-593-5302
+Address: 803 Brittney Shore, Maryburgh, IA 21475
+SSN: 016-16-4022
+Card: 4253062576106153 | DOB: 10/23/1987
+Last login IP: 10.63.242.240

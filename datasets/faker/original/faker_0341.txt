@@ -1,0 +1,7 @@
+Customer: Monica Watson
+Company: Oliver Inc
+Email: pearsonrobin@example.com | Phone: 451-710-4282
+Address: 20454 Gregory Unions, Saraberg, CA 73868
+SSN: 752-09-6548
+Card: 4107415897589705 | DOB: 02/28/1993
+Last login IP: 10.28.179.110

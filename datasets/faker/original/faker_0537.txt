@@ -1,0 +1,7 @@
+Customer: Justin Kelley III
+Company: Mullins, Mcbride and Watkins
+Email: joshua18@example.org | Phone: 745-186-7013
+Address: 63731 Norman Light, New Zachary, NH 39986
+SSN: 178-79-3667
+Card: 4313008490031322 | DOB: 11/05/2002
+Last login IP: 192.168.179.125

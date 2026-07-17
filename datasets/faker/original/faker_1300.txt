@@ -1,0 +1,7 @@
+Customer: Mr. Raymond Hunter
+Company: Potter-Watkins
+Email: richardchandler@example.com | Phone: 583-108-9356
+Address: 3744 Mcconnell Mall, West Karen, DC 93319
+SSN: 055-91-7402
+Card: 4318836612507497 | DOB: 10/14/1945
+Last login IP: 172.30.155.182

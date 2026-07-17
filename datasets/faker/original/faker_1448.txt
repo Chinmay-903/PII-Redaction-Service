@@ -1,0 +1,7 @@
+Customer: Jennifer Jordan
+Company: Villa, Dennis and Anderson
+Email: roachaaron@example.org | Phone: 672-726-1104
+Address: 76547 Norman Loop, Harperchester, CA 91522
+SSN: 329-52-3115
+Card: 4356585183942442 | DOB: 07/03/1956
+Last login IP: 10.112.177.137

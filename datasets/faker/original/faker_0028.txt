@@ -1,0 +1,7 @@
+Customer: John Martin
+Company: Pacheco-Kaiser
+Email: agibson@example.net | Phone: 923-092-1425
+Address: 9931 Lopez Place, Blackberg, KS 35598
+SSN: 090-88-8033
+Card: 4698847802743305 | DOB: 08/08/1965
+Last login IP: 172.25.164.62

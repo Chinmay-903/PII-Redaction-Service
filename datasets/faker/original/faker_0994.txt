@@ -1,0 +1,7 @@
+Customer: Elizabeth Maldonado
+Company: Dixon-Murphy
+Email: juangray@example.com | Phone: 336-395-3049
+Address: 0381 David Radial, West Stephen, OK 55722
+SSN: 542-09-9207
+Card: 4837030619876574 | DOB: 04/30/1982
+Last login IP: 192.168.153.121

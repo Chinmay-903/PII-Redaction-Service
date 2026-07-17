@@ -1,0 +1,7 @@
+Customer: Jeffrey Leblanc
+Company: Hernandez, Hughes and Peters
+Email: caitlynweaver@example.net | Phone: 179-189-8025
+Address: 77637 Nicole Mountains, New Russellhaven, NY 55600
+SSN: 152-10-4304
+Card: 4896771610627288 | DOB: 08/04/1979
+Last login IP: 172.23.5.249

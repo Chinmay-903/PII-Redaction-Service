@@ -1,0 +1,7 @@
+Customer: Rebecca Castro
+Company: Walker-Castro
+Email: zcrawford@example.com | Phone: 039-626-2159
+Address: 1009 Benjamin Lodge, Garnermouth, UT 06132
+SSN: 504-66-3107
+Card: 4178113716668511 | DOB: 07/17/1969
+Last login IP: 192.168.236.47

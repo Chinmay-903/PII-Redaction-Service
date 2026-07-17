@@ -1,0 +1,7 @@
+Customer: Robert Wilson
+Company: Herrera-Dennis
+Email: malonebrittany@example.com | Phone: 562-890-3910
+Address: 52565 Payne Mills, New Michellefurt, AR 93870
+SSN: 883-25-0390
+Card: 4061874714044779 | DOB: 07/21/1993
+Last login IP: 10.112.16.60

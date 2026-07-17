@@ -1,0 +1,7 @@
+Customer: Nathan Gates
+Company: Fernandez-Reynolds
+Email: moralesrobert@example.org | Phone: 487-569-0100
+Address: 368 Lori Stream, East Lindsey, NY 38441
+SSN: 047-43-3076
+Card: 4812158501994152 | DOB: 04/12/2006
+Last login IP: 172.18.34.72

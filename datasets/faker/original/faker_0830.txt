@@ -1,0 +1,7 @@
+Customer: Sierra Butler
+Company: Clayton Inc
+Email: amy87@example.org | Phone: 397-879-3421
+Address: 2292 April Stravenue, East Kylebury, DE 32643
+SSN: 223-67-6616
+Card: 4115082701971568 | DOB: 11/06/1985
+Last login IP: 172.26.164.160

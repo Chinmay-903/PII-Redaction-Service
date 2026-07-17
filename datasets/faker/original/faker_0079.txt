@@ -1,0 +1,7 @@
+Customer: William Gentry
+Company: Ortiz-Roberts
+Email: sarah28@example.org | Phone: 467-792-6749
+Address: 388 David Key, Matthewburgh, VI 05796
+SSN: 156-63-3343
+Card: 4810440313501041 | DOB: 08/21/1988
+Last login IP: 10.106.73.48

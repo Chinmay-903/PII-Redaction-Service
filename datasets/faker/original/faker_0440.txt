@@ -1,0 +1,7 @@
+Customer: Elizabeth Oliver
+Company: Reyes, Zavala and Kelley
+Email: imartin@example.net | Phone: 884-579-8648
+Address: 34325 Ricardo Mountains, South Lindsaybury, AK 79150
+SSN: 741-45-7818
+Card: 4528029496194626 | DOB: 08/20/1965
+Last login IP: 192.168.204.18

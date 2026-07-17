@@ -1,0 +1,7 @@
+Customer: Luis Sanchez
+Company: Bishop PLC
+Email: yjohnson@example.com | Phone: 619-441-8560
+Address: 6973 Ross Run, Carlafurt, NC 90494
+SSN: 017-92-8877
+Card: 4671484383958226 | DOB: 06/05/1958
+Last login IP: 192.168.61.206

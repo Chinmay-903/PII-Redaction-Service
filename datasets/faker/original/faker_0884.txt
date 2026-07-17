@@ -1,0 +1,7 @@
+Customer: Brittany Mcneil
+Company: King Ltd
+Email: stephanie02@example.com | Phone: 102-967-8043
+Address: 9454 Lisa Passage, Kevinhaven, WA 13697
+SSN: 165-91-4093
+Card: 4379956500637549 | DOB: 12/07/1961
+Last login IP: 10.188.124.163

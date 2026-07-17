@@ -1,0 +1,7 @@
+Customer: Kimberly Anderson
+Company: Miller-Johnson
+Email: sandrabriggs@example.com | Phone: 845-673-1433
+Address: 8931 Hines Island, East Donaldfurt, UT 86569
+SSN: 699-26-5698
+Card: 4067509106724174 | DOB: 08/28/1972
+Last login IP: 192.168.161.195

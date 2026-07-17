@@ -1,0 +1,7 @@
+Customer: Steven Burton
+Company: Morton-Barnes
+Email: ngibson@example.org | Phone: 694-486-9698
+Address: 4154 Nelson Court, Port Steven, VI 94726
+SSN: 745-66-6300
+Card: 4265925694698069 | DOB: 08/19/1978
+Last login IP: 10.129.213.133

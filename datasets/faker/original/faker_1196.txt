@@ -1,0 +1,7 @@
+Customer: James Rice
+Company: Dean, Nelson and Short
+Email: claytoncurtis@example.org | Phone: 962-080-2475
+Address: 838 Richard Mews, Jessicaton, WY 86490
+SSN: 118-58-2764
+Card: 4511754438267854 | DOB: 03/14/1997
+Last login IP: 172.23.112.183

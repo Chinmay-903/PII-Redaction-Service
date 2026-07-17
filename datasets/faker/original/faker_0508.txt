@@ -1,0 +1,7 @@
+Customer: Paul Harrison
+Company: Coleman-Frazier
+Email: jessicadodson@example.com | Phone: 164-040-4634
+Address: 3629 Davis View, Ericside, NM 49663
+SSN: 532-65-0947
+Card: 4510969451342415 | DOB: 08/11/1948
+Last login IP: 192.168.97.147

@@ -1,0 +1,7 @@
+Customer: Thomas Raymond
+Company: Smith-Lambert
+Email: edward95@example.net | Phone: 558-295-3870
+Address: 56732 Ian Prairie, Wattsfurt, AL 20046
+SSN: 522-18-5536
+Card: 4752222450124344 | DOB: 09/23/1989
+Last login IP: 172.20.111.108

@@ -1,0 +1,7 @@
+Customer: Kevin Hoffman
+Company: Farrell, Edwards and Lewis
+Email: jennifer78@example.com | Phone: 305-610-1926
+Address: 64829 Martin Curve, Donovanburgh, AL 22455
+SSN: 379-39-8702
+Card: 4771840535886186 | DOB: 03/11/1946
+Last login IP: 10.145.235.56

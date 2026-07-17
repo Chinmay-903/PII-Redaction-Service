@@ -1,0 +1,7 @@
+Customer: Mr. Kyle Valentine
+Company: Hamilton Group
+Email: allenjose@example.net | Phone: 408-706-9214
+Address: 38485 Ochoa Turnpike, North Davidmouth, NH 08476
+SSN: 626-41-5530
+Card: 4280107702393709 | DOB: 12/16/1965
+Last login IP: 10.125.46.39

@@ -1,0 +1,7 @@
+Customer: William Davis
+Company: Gray, Williams and Frank
+Email: gomezjennifer@example.com | Phone: 432-104-1450
+Address: 4516 Jennifer Junctions, Ryanchester, MI 88659
+SSN: 013-81-5356
+Card: 4923858590333842 | DOB: 05/23/1986
+Last login IP: 192.168.21.56

@@ -1,0 +1,7 @@
+Customer: Erin Williamson
+Company: Barton-Booker
+Email: pparker@example.com | Phone: 769-048-2184
+Address: 329 Kimberly Spring, Lake Scott, CA 88728
+SSN: 610-08-2331
+Card: 4264892514356214 | DOB: 06/28/1987
+Last login IP: 192.168.52.136

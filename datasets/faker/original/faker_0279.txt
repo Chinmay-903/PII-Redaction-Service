@@ -1,0 +1,7 @@
+Customer: Claudia Blevins
+Company: Martin, Brewer and Wade
+Email: ebrown@example.com | Phone: 556-354-7376
+Address: 7992 Kevin Flat, Taylorbury, IN 40450
+SSN: 048-35-5852
+Card: 4593459564270828 | DOB: 02/20/1955
+Last login IP: 10.53.24.115

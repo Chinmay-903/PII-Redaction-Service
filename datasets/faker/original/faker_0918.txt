@@ -1,0 +1,7 @@
+Customer: Joseph Anderson
+Company: Wise, Martinez and Reynolds
+Email: davidward@example.net | Phone: 358-247-1740
+Address: 8992 Melissa Viaduct, West Sandraview, NV 29750
+SSN: 853-43-0860
+Card: 4944175390494509 | DOB: 07/21/2006
+Last login IP: 10.68.82.55

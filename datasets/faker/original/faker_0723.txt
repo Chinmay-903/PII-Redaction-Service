@@ -1,0 +1,7 @@
+Customer: Kristin Meza
+Company: Norris-Compton
+Email: rbrady@example.com | Phone: 982-769-3860
+Address: 258 Perkins Brook, North Christopherborough, MI 99662
+SSN: 673-32-0267
+Card: 4302527596908961 | DOB: 05/22/1998
+Last login IP: 192.168.21.181

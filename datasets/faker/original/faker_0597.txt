@@ -1,0 +1,7 @@
+Customer: Stephanie Cervantes
+Company: Flores, Yang and Hale
+Email: kennethrowland@example.com | Phone: 012-024-2917
+Address: 270 Madden Drive, Raymondport, NE 01257
+SSN: 316-57-0482
+Card: 4059648363406065 | DOB: 08/14/1993
+Last login IP: 192.168.84.225

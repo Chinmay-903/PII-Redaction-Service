@@ -1,0 +1,7 @@
+Customer: Katherine Jones DVM
+Company: Hoover PLC
+Email: stevenallison@example.com | Phone: 260-593-0779
+Address: 74871 Rhodes Union, Grosston, WA 19417
+SSN: 065-32-3544
+Card: 4042737820794229 | DOB: 07/11/2004
+Last login IP: 172.19.243.8

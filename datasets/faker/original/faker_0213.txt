@@ -1,0 +1,7 @@
+Customer: Stephanie Pierce
+Company: Torres-Anderson
+Email: christensenpreston@example.net | Phone: 783-665-5700
+Address: 30061 Paul Islands, Snowshire, OK 80317
+SSN: 528-14-8980
+Card: 4113141626628380 | DOB: 03/03/1995
+Last login IP: 192.168.141.96

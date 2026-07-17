@@ -1,0 +1,7 @@
+Customer: Michael Long
+Company: Miller, Welch and Nash
+Email: zherrera@example.net | Phone: 092-962-6298
+Address: 1717 Hinton Trafficway, North Thomastown, PA 32321
+SSN: 150-89-4637
+Card: 4562077329836555 | DOB: 04/24/1979
+Last login IP: 10.208.205.236

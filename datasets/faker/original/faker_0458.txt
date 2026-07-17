@@ -1,0 +1,7 @@
+Customer: Ryan Hall
+Company: Baker-Cooper
+Email: salinascatherine@example.net | Phone: 796-626-2949
+Address: 08914 Velasquez Manors, West Jonathanfort, NY 12318
+SSN: 264-45-1638
+Card: 4756705652964927 | DOB: 09/11/2002
+Last login IP: 172.25.128.241

@@ -1,0 +1,7 @@
+Customer: Michael Cox
+Company: Cooper-Henson
+Email: katelyn19@example.com | Phone: 164-065-8937
+Address: 2109 Ann Garden, Port Paulland, CA 30761
+SSN: 427-83-4143
+Card: 4480801281450090 | DOB: 07/01/1989
+Last login IP: 192.168.154.108

@@ -1,0 +1,7 @@
+Customer: Tonya Taylor
+Company: Williams and Sons
+Email: gsalazar@example.org | Phone: 486-038-2255
+Address: 66256 Daniel Cliffs, North Bonnie, RI 77236
+SSN: 471-82-1861
+Card: 4998812852976426 | DOB: 06/19/1964
+Last login IP: 192.168.174.77

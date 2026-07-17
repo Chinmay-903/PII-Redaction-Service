@@ -1,0 +1,7 @@
+Customer: Rick Mcdonald
+Company: Miranda, Hale and Williamson
+Email: hunternelson@example.net | Phone: 787-209-5674
+Address: 87884 Kristy Ville, Lake Juan, OK 15903
+SSN: 767-98-6820
+Card: 4123972713821084 | DOB: 04/20/1989
+Last login IP: 192.168.48.3

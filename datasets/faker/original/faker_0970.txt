@@ -1,0 +1,7 @@
+Customer: Cristian Gaines
+Company: King-Harris
+Email: mrubio@example.com | Phone: 804-507-4456
+Address: 673 Nathan Bridge, North Christopherton, IL 36080
+SSN: 285-94-3979
+Card: 4309182482067861 | DOB: 03/02/1966
+Last login IP: 192.168.87.60

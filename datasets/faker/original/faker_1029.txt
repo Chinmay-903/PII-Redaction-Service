@@ -1,0 +1,7 @@
+Customer: John Peterson
+Company: Davis Ltd
+Email: mbuchanan@example.net | Phone: 769-215-2463
+Address: 464 Stevenson Crescent, South Charlesshire, PR 95778
+SSN: 862-35-3418
+Card: 4683519984663091 | DOB: 06/07/1973
+Last login IP: 192.168.178.31

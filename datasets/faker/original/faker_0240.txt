@@ -1,0 +1,7 @@
+Customer: Meghan Lambert
+Company: Harris, Harper and Nelson
+Email: jennifershea@example.com | Phone: 115-986-6719
+Address: 6739 Jason Loaf, New Elizabethton, ID 43483
+SSN: 740-48-2625
+Card: 4050411213463433 | DOB: 06/20/2008
+Last login IP: 172.23.247.52

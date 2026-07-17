@@ -1,0 +1,7 @@
+Customer: David Kramer
+Company: Zimmerman Group
+Email: joshuamiller@example.org | Phone: 858-254-6008
+Address: 16308 Dillon Fall, Mejiamouth, DC 50089
+SSN: 096-70-0041
+Card: 4352066963284564 | DOB: 12/28/1979
+Last login IP: 192.168.148.54

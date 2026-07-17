@@ -1,0 +1,7 @@
+Customer: Michelle Thompson
+Company: Green Ltd
+Email: randall02@example.org | Phone: 535-241-9675
+Address: 241 Gary Fields, Robertmouth, VT 50752
+SSN: 790-86-5666
+Card: 4110283675878400 | DOB: 10/05/1950
+Last login IP: 10.168.99.182

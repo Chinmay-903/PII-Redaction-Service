@@ -1,0 +1,7 @@
+Customer: Sherry Parker
+Company: Hanna, Garcia and Archer
+Email: mweber@example.org | Phone: 729-256-1346
+Address: 165 Daniel Harbor, North Tyler, WI 46811
+SSN: 453-89-2516
+Card: 4824003017942418 | DOB: 06/14/1996
+Last login IP: 192.168.23.217

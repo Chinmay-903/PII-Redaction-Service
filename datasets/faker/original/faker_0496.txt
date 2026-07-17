@@ -1,0 +1,7 @@
+Customer: Trevor Jones
+Company: Davis-Robertson
+Email: thomaskirby@example.net | Phone: 303-281-4841
+Address: 23734 Joyce Prairie, New William, NH 30471
+SSN: 449-51-2434
+Card: 4717259025434216 | DOB: 10/28/1968
+Last login IP: 192.168.57.135

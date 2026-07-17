@@ -1,0 +1,7 @@
+Customer: Rebekah Burton
+Company: Scott Inc
+Email: valentinejoshua@example.org | Phone: 429-054-6759
+Address: 3854 Richard Garden, New Laurafort, IN 56521
+SSN: 685-27-8006
+Card: 4387931379379036 | DOB: 06/29/1994
+Last login IP: 172.21.116.159

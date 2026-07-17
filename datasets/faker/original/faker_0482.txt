@@ -1,0 +1,7 @@
+Customer: Larry Johnson
+Company: Drake and Sons
+Email: andrew40@example.net | Phone: 891-398-2448
+Address: 54653 Mary Curve, East Amybury, AZ 30979
+SSN: 394-86-7819
+Card: 4219837421115944 | DOB: 09/05/1970
+Last login IP: 192.168.150.201

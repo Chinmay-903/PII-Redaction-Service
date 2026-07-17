@@ -1,0 +1,7 @@
+Customer: William Grant
+Company: Chang Ltd
+Email: kaylabrooks@example.com | Phone: 632-401-1647
+Address: 94773 Cindy Vista, Dustinberg, TN 49931
+SSN: 161-43-6513
+Card: 4712221134428914 | DOB: 01/01/1975
+Last login IP: 10.118.243.248

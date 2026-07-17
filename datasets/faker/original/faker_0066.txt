@@ -1,0 +1,7 @@
+Customer: Duane Mayo
+Company: Stafford Inc
+Email: nmccarthy@example.com | Phone: 730-580-1619
+Address: 916 Jill Gardens, Gomeztown, CT 48504
+SSN: 863-76-3934
+Card: 4998681103250976 | DOB: 08/21/1992
+Last login IP: 172.28.185.208

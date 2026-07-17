@@ -1,0 +1,7 @@
+Customer: Robert Bonilla
+Company: Hart PLC
+Email: autumngarner@example.com | Phone: 635-628-4444
+Address: 21138 Kelly Lodge, Peterborough, AK 41208
+SSN: 620-12-5116
+Card: 4289048598243429 | DOB: 03/27/1986
+Last login IP: 10.100.238.12

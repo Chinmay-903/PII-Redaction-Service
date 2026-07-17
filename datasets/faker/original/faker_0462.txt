@@ -1,0 +1,7 @@
+Customer: Brian Mccarthy
+Company: Wallace-Richard
+Email: ryansampson@example.org | Phone: 185-649-5306
+Address: 7202 Mary Canyon, New Leslie, GA 15738
+SSN: 784-69-7027
+Card: 4428608292174675 | DOB: 10/01/1982
+Last login IP: 10.125.244.29

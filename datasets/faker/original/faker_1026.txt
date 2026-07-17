@@ -1,0 +1,7 @@
+Customer: Kathleen Carter
+Company: Garrett Inc
+Email: mcleankayla@example.net | Phone: 886-130-6595
+Address: 666 Klein Lakes, Port Anthonyport, NV 14817
+SSN: 624-84-4928
+Card: 4937384153518541 | DOB: 08/04/1977
+Last login IP: 10.220.104.181

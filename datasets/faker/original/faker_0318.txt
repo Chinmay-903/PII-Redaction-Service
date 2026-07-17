@@ -1,0 +1,7 @@
+Customer: Michael Thomas
+Company: Knight-Guerrero
+Email: david57@example.com | Phone: 008-931-9483
+Address: 949 Nicole Estate, Rachelmouth, ID 80788
+SSN: 044-53-5719
+Card: 4809225762100434 | DOB: 08/06/1970
+Last login IP: 192.168.96.20

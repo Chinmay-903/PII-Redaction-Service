@@ -1,0 +1,7 @@
+Customer: David Kramer
+Company: Morrison-Potter
+Email: hawkinsamber@example.org | Phone: 915-272-5023
+Address: 03706 Novak Meadows, West Andrea, FL 19041
+SSN: 652-05-4450
+Card: 4973232385218858 | DOB: 04/01/1975
+Last login IP: 10.27.128.145

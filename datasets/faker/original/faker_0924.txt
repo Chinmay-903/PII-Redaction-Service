@@ -1,0 +1,7 @@
+Customer: Laura Banks
+Company: Hill, Harris and Smith
+Email: sandra51@example.org | Phone: 151-202-6763
+Address: 60129 Jennifer Lodge, North Jamieland, OK 36448
+SSN: 324-24-5686
+Card: 4580401010425726 | DOB: 05/29/2002
+Last login IP: 192.168.204.129

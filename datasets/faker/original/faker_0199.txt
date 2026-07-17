@@ -1,0 +1,7 @@
+Customer: Gary Bass
+Company: Baker-Gordon
+Email: lauriejackson@example.net | Phone: 793-650-0625
+Address: 7684 Richard Creek, Hannahland, FL 78625
+SSN: 150-53-1468
+Card: 4142829856205631 | DOB: 03/02/1983
+Last login IP: 172.30.68.10

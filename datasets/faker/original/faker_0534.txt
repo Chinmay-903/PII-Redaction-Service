@@ -1,0 +1,7 @@
+Customer: Marvin Walker
+Company: Bates, Barnes and Banks
+Email: douglaspollard@example.org | Phone: 396-083-6649
+Address: 5330 Yoder Harbors, South Dustinfort, MO 85288
+SSN: 422-41-0138
+Card: 4418001968947123 | DOB: 09/08/1978
+Last login IP: 172.20.62.60

@@ -1,0 +1,7 @@
+Customer: Cynthia Kim
+Company: Rhodes-Jones
+Email: robinsongary@example.com | Phone: 615-986-7708
+Address: 522 Miller Loaf, Port Laurie, NM 35629
+SSN: 529-93-8584
+Card: 4566943467183959 | DOB: 03/05/1984
+Last login IP: 10.189.194.83

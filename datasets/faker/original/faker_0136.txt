@@ -1,0 +1,7 @@
+Customer: Sarah Jimenez
+Company: Johns-Torres
+Email: gregory13@example.net | Phone: 744-251-1641
+Address: 777 Norris Green, Jefferyberg, NJ 08559
+SSN: 392-73-5295
+Card: 4954926227997743 | DOB: 04/18/1997
+Last login IP: 192.168.171.20

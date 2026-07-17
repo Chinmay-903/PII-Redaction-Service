@@ -1,0 +1,7 @@
+Customer: Tyler Thompson
+Company: Craig and Sons
+Email: michaelandersen@example.net | Phone: 524-763-9879
+Address: 987 Morales Prairie, East Shellyfort, FL 10424
+SSN: 160-25-1504
+Card: 4672989041314405 | DOB: 04/11/1963
+Last login IP: 192.168.248.222

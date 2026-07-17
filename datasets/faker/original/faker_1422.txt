@@ -1,0 +1,7 @@
+Customer: Regina Kim
+Company: Prince, Edwards and Copeland
+Email: jpetersen@example.com | Phone: 102-048-4619
+Address: 7830 Smith Corners, East Maria, FM 46238
+SSN: 883-72-9848
+Card: 4707562023355305 | DOB: 02/27/1987
+Last login IP: 10.245.158.178

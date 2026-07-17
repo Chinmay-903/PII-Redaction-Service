@@ -1,0 +1,7 @@
+Customer: Linda Smith
+Company: Jenkins PLC
+Email: millscollin@example.net | Phone: 756-729-9656
+Address: 4348 Williams Plaza, South Susanmouth, AS 44263
+SSN: 797-41-0402
+Card: 4886148700211665 | DOB: 12/14/1987
+Last login IP: 192.168.254.223

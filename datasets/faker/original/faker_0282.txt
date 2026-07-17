@@ -1,0 +1,7 @@
+Customer: Renee Rodriguez
+Company: French Ltd
+Email: jason78@example.org | Phone: 140-993-4030
+Address: 25630 Jennifer Station, Port Renee, OK 76305
+SSN: 221-84-7509
+Card: 4012245228098595 | DOB: 12/06/1988
+Last login IP: 192.168.152.24

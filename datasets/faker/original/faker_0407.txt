@@ -1,0 +1,7 @@
+Customer: Robert Reeves
+Company: Glass Inc
+Email: bridgetrose@example.org | Phone: 751-068-1290
+Address: 792 Rodriguez Junction, South Lesliemouth, MS 64063
+SSN: 556-18-6338
+Card: 4347733807881123 | DOB: 12/01/1947
+Last login IP: 192.168.137.193

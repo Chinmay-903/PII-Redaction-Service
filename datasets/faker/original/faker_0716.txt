@@ -1,0 +1,7 @@
+Customer: Nicole Wright
+Company: Villa, Levy and Mathis
+Email: christian58@example.org | Phone: 575-097-0968
+Address: 1795 Lowe Street, Lake Meagan, ND 95976
+SSN: 179-35-4956
+Card: 4604755747093400 | DOB: 11/26/2007
+Last login IP: 192.168.174.216

@@ -1,0 +1,7 @@
+Customer: Christina Elliott
+Company: Carter Inc
+Email: yterrell@example.com | Phone: 642-983-9359
+Address: 57891 Kyle Curve, Thomasbury, TN 09531
+SSN: 429-58-8248
+Card: 4246864359749798 | DOB: 04/08/1986
+Last login IP: 10.4.95.209

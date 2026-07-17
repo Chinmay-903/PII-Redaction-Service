@@ -1,0 +1,7 @@
+Customer: Christina Blankenship
+Company: Mckenzie, Green and Moore
+Email: fmorales@example.org | Phone: 980-022-8254
+Address: 422 Smith Camp, Jamesstad, CO 85209
+SSN: 354-62-9156
+Card: 4482093189723285 | DOB: 11/09/1979
+Last login IP: 192.168.43.153

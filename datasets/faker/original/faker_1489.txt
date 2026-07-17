@@ -1,0 +1,7 @@
+Customer: Mckenzie Rodriguez
+Company: Anderson-Howell
+Email: youngangela@example.org | Phone: 832-319-5699
+Address: 423 Justin Port, West Pamela, KY 43270
+SSN: 625-34-7838
+Card: 4797701623434752 | DOB: 02/12/1971
+Last login IP: 192.168.124.27

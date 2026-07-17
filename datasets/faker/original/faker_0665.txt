@@ -1,0 +1,7 @@
+Customer: Taylor Aguilar
+Company: May, Steele and Ferguson
+Email: riverashannon@example.org | Phone: 996-994-9619
+Address: 963 Sanchez Landing, East Keith, VI 29007
+SSN: 298-75-9989
+Card: 4228946428616991 | DOB: 02/04/1998
+Last login IP: 192.168.138.29

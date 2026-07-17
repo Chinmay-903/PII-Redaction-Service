@@ -1,0 +1,7 @@
+Customer: Matthew Nguyen
+Company: Moon, Hudson and Swanson
+Email: soneill@example.com | Phone: 631-390-2454
+Address: 41094 Jeff Mission, New Carrieside, AR 55532
+SSN: 760-05-3347
+Card: 4507430020710090 | DOB: 05/02/1977
+Last login IP: 192.168.245.99

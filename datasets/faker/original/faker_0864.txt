@@ -1,0 +1,7 @@
+Customer: Julie Bishop
+Company: Hernandez-Compton
+Email: jameshuang@example.org | Phone: 816-501-5365
+Address: 438 Bradley Plaza, Lake Shaneborough, NH 02433
+SSN: 443-48-1061
+Card: 4540114443148356 | DOB: 07/16/1981
+Last login IP: 172.27.167.183

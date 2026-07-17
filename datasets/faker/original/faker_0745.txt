@@ -1,0 +1,7 @@
+Customer: Dana Rice
+Company: Brennan, Rodriguez and Avila
+Email: hsanders@example.net | Phone: 482-068-9545
+Address: 596 Johnson Road, Lake Haroldland, SD 22004
+SSN: 230-27-6093
+Card: 4274933589842114 | DOB: 05/10/1991
+Last login IP: 10.207.162.221

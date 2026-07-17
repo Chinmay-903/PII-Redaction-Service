@@ -1,0 +1,7 @@
+Customer: Joseph Mccarty
+Company: Hernandez-Ortega
+Email: janiceerickson@example.net | Phone: 975-030-8056
+Address: 9579 Abigail Shoal, South Patricia, TX 50469
+SSN: 438-34-8466
+Card: 4107393095530690 | DOB: 06/25/1980
+Last login IP: 192.168.126.205

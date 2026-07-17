@@ -1,0 +1,7 @@
+Customer: Jamie Carpenter
+Company: Norton and Sons
+Email: mariagonzalez@example.net | Phone: 108-909-4851
+Address: 040 Long Summit, East Thomas, AS 60304
+SSN: 871-20-8905
+Card: 4827042710790846 | DOB: 03/15/1995
+Last login IP: 192.168.252.203

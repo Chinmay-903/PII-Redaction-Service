@@ -1,0 +1,7 @@
+Customer: Cheryl Schmitt
+Company: Johnston Inc
+Email: jestrada@example.com | Phone: 764-425-5750
+Address: 149 Campbell Fords, Riveraborough, CT 33342
+SSN: 378-06-1873
+Card: 4018273969305858 | DOB: 05/01/1952
+Last login IP: 192.168.105.105

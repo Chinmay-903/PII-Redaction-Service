@@ -1,0 +1,7 @@
+Customer: Melanie Knight
+Company: Lee, Baker and Maxwell
+Email: cliu@example.com | Phone: 514-863-4667
+Address: 023 Kenneth Roads, Kaitlynhaven, SC 06404
+SSN: 033-72-5872
+Card: 4105536575065452 | DOB: 03/13/1991
+Last login IP: 172.27.204.199

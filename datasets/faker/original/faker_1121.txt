@@ -1,0 +1,7 @@
+Customer: Hannah Perez
+Company: Ortega PLC
+Email: cpowell@example.com | Phone: 709-223-1013
+Address: 05706 Austin Square, North Hailey, MH 36545
+SSN: 790-21-3678
+Card: 4458194810891226 | DOB: 11/26/1978
+Last login IP: 10.131.182.141

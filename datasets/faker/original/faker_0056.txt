@@ -1,0 +1,7 @@
+Customer: Dawn Donaldson
+Company: Valdez, Bell and Rhodes
+Email: lisa56@example.org | Phone: 585-468-5909
+Address: 5553 Myers Well, Fishermouth, OH 08939
+SSN: 128-93-7657
+Card: 4809524916040276 | DOB: 01/07/1993
+Last login IP: 192.168.12.16

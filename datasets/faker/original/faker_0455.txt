@@ -1,0 +1,7 @@
+Customer: Nicole Murphy
+Company: Gordon, Lane and Brown
+Email: pwatts@example.com | Phone: 960-424-1018
+Address: 8373 Miranda Ville, Lake David, MN 72353
+SSN: 469-80-3620
+Card: 4552322677801286 | DOB: 07/31/1958
+Last login IP: 192.168.96.31

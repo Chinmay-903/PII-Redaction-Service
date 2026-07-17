@@ -1,0 +1,7 @@
+Customer: Sally Smith
+Company: Santos Group
+Email: sarah46@example.com | Phone: 212-424-2484
+Address: 1001 Lloyd Corner, Leviville, VI 27909
+SSN: 300-38-9922
+Card: 4684581645903935 | DOB: 12/22/1951
+Last login IP: 192.168.240.214

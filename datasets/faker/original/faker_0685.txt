@@ -1,0 +1,7 @@
+Customer: Michael Vasquez
+Company: Everett, Sandoval and Humphrey
+Email: ronald85@example.com | Phone: 904-132-5988
+Address: 71123 Aguilar Glens, West Melindamouth, CA 58989
+SSN: 827-15-3276
+Card: 4459669521815936 | DOB: 05/03/1972
+Last login IP: 192.168.50.50

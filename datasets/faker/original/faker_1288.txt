@@ -1,0 +1,7 @@
+Customer: Dustin Henry
+Company: Miller, Carter and Mcconnell
+Email: ngriffin@example.net | Phone: 831-754-3954
+Address: 595 Wilson Summit, South Jacob, PR 88454
+SSN: 032-83-1519
+Card: 4061262953902743 | DOB: 12/10/1979
+Last login IP: 172.17.85.31

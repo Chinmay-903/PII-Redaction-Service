@@ -1,0 +1,7 @@
+Customer: Becky Stevenson
+Company: Clark, Smith and Shea
+Email: deborah77@example.org | Phone: 648-302-4467
+Address: 90162 Gray Ranch, New Todd, AZ 21768
+SSN: 238-53-6241
+Card: 4678499852545653 | DOB: 10/22/1983
+Last login IP: 192.168.149.0

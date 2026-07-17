@@ -1,0 +1,7 @@
+Customer: Justin Hunter
+Company: Swanson, Wilson and Brown
+Email: thomas63@example.net | Phone: 638-657-8731
+Address: 89502 Davis Pine, North Audreyhaven, ME 93716
+SSN: 379-81-8462
+Card: 4546777136097793 | DOB: 10/13/1955
+Last login IP: 172.25.144.69

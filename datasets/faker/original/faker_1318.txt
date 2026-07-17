@@ -1,0 +1,7 @@
+Customer: Ronald Lynch
+Company: Hammond PLC
+Email: lori01@example.com | Phone: 872-106-5544
+Address: 22331 Jason Summit, South Terri, GA 01620
+SSN: 455-30-2371
+Card: 4731446230765201 | DOB: 10/10/1953
+Last login IP: 192.168.197.146

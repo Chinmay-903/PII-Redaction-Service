@@ -1,0 +1,7 @@
+Customer: Melissa Young
+Company: Werner and Sons
+Email: dawn72@example.org | Phone: 922-746-1906
+Address: 0986 Brenda Court, West Annehaven, PW 56179
+SSN: 432-43-8759
+Card: 4947792121003784 | DOB: 03/24/1970
+Last login IP: 172.20.200.49

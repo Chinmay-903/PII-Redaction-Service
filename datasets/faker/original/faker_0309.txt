@@ -1,0 +1,7 @@
+Customer: Jaime Rivera
+Company: Roberson, Hicks and Cochran
+Email: burnsmaurice@example.org | Phone: 287-729-8723
+Address: 95645 Velazquez Ville, Mullinsland, PW 33435
+SSN: 735-77-5784
+Card: 4040737656327369 | DOB: 06/20/1975
+Last login IP: 10.89.190.14

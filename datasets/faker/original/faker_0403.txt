@@ -1,0 +1,7 @@
+Customer: Kenneth Ford
+Company: Martinez, York and Phillips
+Email: raymond94@example.com | Phone: 731-124-9897
+Address: 214 Ritter Bypass, Ryanside, AZ 32497
+SSN: 468-29-2703
+Card: 4633066924441916 | DOB: 03/29/1982
+Last login IP: 172.31.56.16

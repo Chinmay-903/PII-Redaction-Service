@@ -1,0 +1,7 @@
+Customer: Mrs. Pamela Roberson
+Company: Pruitt-Meyer
+Email: wglover@example.org | Phone: 385-805-1554
+Address: 8962 Hamilton Extension, Russostad, ND 73211
+SSN: 617-31-1937
+Card: 4453092454844300 | DOB: 07/06/1946
+Last login IP: 10.79.219.143

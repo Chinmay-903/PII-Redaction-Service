@@ -1,0 +1,7 @@
+Customer: Sandra Woods
+Company: Ortega LLC
+Email: sjackson@example.org | Phone: 044-668-9935
+Address: 27160 Rocha Hill, Hughesfurt, ME 57938
+SSN: 224-25-4238
+Card: 4466209704117379 | DOB: 10/27/2007
+Last login IP: 192.168.76.135

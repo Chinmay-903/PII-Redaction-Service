@@ -1,0 +1,7 @@
+Customer: Steven Robinson
+Company: Vega LLC
+Email: ysnyder@example.org | Phone: 779-148-1762
+Address: 2959 Ryan Crest, Graymouth, NE 49560
+SSN: 401-39-1044
+Card: 4941238070925359 | DOB: 10/27/1968
+Last login IP: 172.29.198.21

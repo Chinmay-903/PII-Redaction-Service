@@ -1,0 +1,7 @@
+Customer: Chelsea Ryan
+Company: Davis, Cook and Taylor
+Email: bradleymartinez@example.com | Phone: 521-850-1120
+Address: 844 Yolanda Tunnel, North Kevin, ME 57337
+SSN: 302-35-2028
+Card: 4470617076692544 | DOB: 08/04/1997
+Last login IP: 192.168.137.79

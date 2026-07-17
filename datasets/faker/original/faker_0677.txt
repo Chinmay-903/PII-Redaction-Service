@@ -1,0 +1,7 @@
+Customer: Ms. Victoria Quinn MD
+Company: Yates-Burke
+Email: racheldavis@example.com | Phone: 549-290-5599
+Address: 235 Rios Light, West Troymouth, NE 52911
+SSN: 354-22-9962
+Card: 4216372998823772 | DOB: 06/09/1972
+Last login IP: 10.48.93.88

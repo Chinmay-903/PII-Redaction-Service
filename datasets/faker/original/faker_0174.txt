@@ -1,0 +1,7 @@
+Customer: Timothy Ortiz
+Company: Jones-Soto
+Email: marysims@example.net | Phone: 832-355-5983
+Address: 3488 Stewart Valleys, Port Mike, UT 53711
+SSN: 637-21-4992
+Card: 4454114249085228 | DOB: 09/12/1995
+Last login IP: 10.26.16.226

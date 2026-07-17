@@ -1,0 +1,7 @@
+Customer: David Vega
+Company: Hartman-Lucas
+Email: nmiller@example.com | Phone: 332-347-4768
+Address: 934 Ramsey Summit, Guerrerostad, DC 25773
+SSN: 080-01-2071
+Card: 4244378758246399 | DOB: 06/17/1965
+Last login IP: 172.21.217.194

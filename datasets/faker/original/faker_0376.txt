@@ -1,0 +1,7 @@
+Customer: Dawn Walton
+Company: Knight-Anderson
+Email: nathanking@example.com | Phone: 834-647-6652
+Address: 15654 Gates Stream, Jeffreyshire, IN 63393
+SSN: 496-53-2211
+Card: 4624069139549078 | DOB: 10/07/1951
+Last login IP: 172.22.48.246

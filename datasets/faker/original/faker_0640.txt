@@ -1,0 +1,7 @@
+Customer: Jocelyn Williams
+Company: Clark-Rodriguez
+Email: ruiztimothy@example.net | Phone: 639-816-3203
+Address: 51785 Allen Oval, Chrisfurt, OH 03142
+SSN: 437-76-5454
+Card: 4472313927796266 | DOB: 10/25/1952
+Last login IP: 192.168.166.249

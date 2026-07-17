@@ -1,0 +1,7 @@
+Customer: Samuel Williams
+Company: Robinson, Patterson and Kelly
+Email: stephen94@example.com | Phone: 533-705-6886
+Address: 2273 Mayer Falls, Timothystad, MT 63584
+SSN: 483-86-1119
+Card: 4955060196738596 | DOB: 01/12/2008
+Last login IP: 10.64.202.150

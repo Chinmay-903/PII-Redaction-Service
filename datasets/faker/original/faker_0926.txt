@@ -1,0 +1,7 @@
+Customer: Diana Sanchez
+Company: Johnson-Mccormick
+Email: leroy21@example.com | Phone: 317-335-9779
+Address: 4600 Christopher Bridge, Port Jeremyburgh, AS 73227
+SSN: 030-46-9891
+Card: 4159489194667958 | DOB: 04/04/1966
+Last login IP: 172.18.200.48

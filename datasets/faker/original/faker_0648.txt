@@ -1,0 +1,7 @@
+Customer: Jill Taylor
+Company: Snow, Green and Donaldson
+Email: fperkins@example.org | Phone: 237-939-9732
+Address: 1247 Yolanda Lane, Hinesburgh, OR 19885
+SSN: 085-23-3083
+Card: 4179556379930041 | DOB: 01/30/1976
+Last login IP: 172.25.102.188

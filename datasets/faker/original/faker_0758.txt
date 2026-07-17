@@ -1,0 +1,7 @@
+Customer: Courtney Macdonald
+Company: Juarez-Wright
+Email: robleslauren@example.net | Phone: 135-664-3764
+Address: 4396 Garcia Junction, Lake Angelview, WA 11247
+SSN: 582-45-5609
+Card: 4320385921063830 | DOB: 07/01/1987
+Last login IP: 192.168.198.242

@@ -1,0 +1,7 @@
+Customer: Lucas Boone
+Company: Wright-Mitchell
+Email: sharicompton@example.net | Phone: 424-084-5905
+Address: 112 Smith Gateway, Riverafurt, GA 10311
+SSN: 329-74-4761
+Card: 4127887242044766 | DOB: 09/15/1985
+Last login IP: 172.22.137.39

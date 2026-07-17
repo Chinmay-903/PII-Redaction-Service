@@ -1,0 +1,7 @@
+Customer: Courtney Gross MD
+Company: Rodriguez-Wheeler
+Email: teresasmith@example.org | Phone: 957-264-6634
+Address: 047 Castaneda Drive, Davisfurt, NJ 36718
+SSN: 227-43-1579
+Card: 4079552192235586 | DOB: 10/07/1983
+Last login IP: 192.168.61.48

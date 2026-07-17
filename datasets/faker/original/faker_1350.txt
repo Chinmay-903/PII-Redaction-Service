@@ -1,0 +1,7 @@
+Customer: Katherine Smith
+Company: Griffin-Garcia
+Email: vanessacochran@example.com | Phone: 131-489-2642
+Address: 15443 Gabrielle Points, Griffithville, NH 93615
+SSN: 698-22-8699
+Card: 4819248353527193 | DOB: 07/19/1945
+Last login IP: 172.24.219.3

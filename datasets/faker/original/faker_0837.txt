@@ -1,0 +1,7 @@
+Customer: Jared Graves
+Company: Young-Roberts
+Email: maria03@example.net | Phone: 618-420-0651
+Address: 7518 Ramirez Coves, South Donna, NV 24570
+SSN: 637-28-8216
+Card: 4386231330936094 | DOB: 04/29/1947
+Last login IP: 172.23.101.25

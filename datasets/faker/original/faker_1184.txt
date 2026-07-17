@@ -1,0 +1,7 @@
+Customer: Patricia Baker
+Company: Watson LLC
+Email: stephen27@example.com | Phone: 167-838-8886
+Address: 944 Marissa Motorway, Port Andrea, FL 77674
+SSN: 695-55-3260
+Card: 4234055759883527 | DOB: 01/24/1956
+Last login IP: 192.168.182.141

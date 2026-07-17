@@ -1,0 +1,7 @@
+Customer: Kevin Lopez
+Company: Harris-Gonzales
+Email: kelleymatthew@example.net | Phone: 482-575-7755
+Address: 132 Tara Estate, Brooksland, DC 10022
+SSN: 138-58-7380
+Card: 4132033974238796 | DOB: 05/24/1994
+Last login IP: 10.128.29.214

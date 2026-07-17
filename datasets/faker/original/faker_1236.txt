@@ -1,0 +1,7 @@
+Customer: Paul Roberson
+Company: Mcguire and Sons
+Email: joseph85@example.net | Phone: 514-609-9939
+Address: 493 Thomas Expressway, East Spencerburgh, NY 43415
+SSN: 414-38-2843
+Card: 4758229573071454 | DOB: 11/08/1961
+Last login IP: 172.27.221.239

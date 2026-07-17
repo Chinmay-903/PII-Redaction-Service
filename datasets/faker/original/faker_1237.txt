@@ -1,0 +1,7 @@
+Customer: Crystal Hernandez
+Company: Williams Ltd
+Email: charles71@example.org | Phone: 000-145-5637
+Address: 3332 Amanda Well, New Jamesburgh, UT 53314
+SSN: 555-52-2434
+Card: 4707326136707335 | DOB: 04/23/1948
+Last login IP: 172.16.221.222

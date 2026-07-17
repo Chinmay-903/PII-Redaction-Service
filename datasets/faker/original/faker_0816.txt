@@ -1,0 +1,7 @@
+Customer: Brian Jordan
+Company: Martin, Wright and Gutierrez
+Email: bonniecruz@example.com | Phone: 203-044-5006
+Address: 729 Rosales Walks, Vincentview, MP 00588
+SSN: 207-28-6464
+Card: 4232778857496353 | DOB: 09/23/1957
+Last login IP: 192.168.235.131

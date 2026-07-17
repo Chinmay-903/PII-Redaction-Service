@@ -1,0 +1,7 @@
+Customer: Lauren Moore
+Company: Johnson Group
+Email: hkeith@example.org | Phone: 466-145-2729
+Address: 383 Shea Knolls, South Karen, KS 82339
+SSN: 828-16-4478
+Card: 4569628956193588 | DOB: 02/11/1976
+Last login IP: 10.131.218.159

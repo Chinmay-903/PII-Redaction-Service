@@ -1,0 +1,7 @@
+Customer: Elizabeth Strickland
+Company: Byrd-Phillips
+Email: edward25@example.com | Phone: 298-979-0279
+Address: 9307 Leon Ranch, South Justin, NE 63307
+SSN: 233-48-2978
+Card: 4433065051021592 | DOB: 01/16/1979
+Last login IP: 10.96.241.245

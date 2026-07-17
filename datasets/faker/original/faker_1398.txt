@@ -1,0 +1,7 @@
+Customer: Karen Griffin
+Company: Wall, Brown and Holland
+Email: ddavis@example.com | Phone: 857-485-9302
+Address: 042 Durham Harbor, Wellsview, MN 51135
+SSN: 585-64-4586
+Card: 4395933009642981 | DOB: 01/02/1986
+Last login IP: 172.19.159.115

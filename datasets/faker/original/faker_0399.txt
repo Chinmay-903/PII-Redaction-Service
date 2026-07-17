@@ -1,0 +1,7 @@
+Customer: Ryan Waters
+Company: Charles-Jones
+Email: williamwilliams@example.org | Phone: 956-062-8458
+Address: 130 Martinez Road, West Julieland, AR 18977
+SSN: 117-51-7996
+Card: 4739980704343063 | DOB: 07/19/2006
+Last login IP: 172.17.117.145

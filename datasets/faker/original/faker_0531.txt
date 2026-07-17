@@ -1,0 +1,7 @@
+Customer: Ashley Warner
+Company: Davis, Clarke and Clark
+Email: hayeslarry@example.org | Phone: 741-256-4208
+Address: 01592 Rodriguez Drive, Levybury, UT 25511
+SSN: 198-12-0377
+Card: 4179693008088659 | DOB: 07/05/1967
+Last login IP: 192.168.174.93

@@ -1,0 +1,7 @@
+Customer: Pam Peterson
+Company: Newton-Jones
+Email: reederin@example.net | Phone: 654-425-0354
+Address: 203 Casey Brooks, Chanfort, KY 76768
+SSN: 148-13-9981
+Card: 4505231580701996 | DOB: 01/19/1987
+Last login IP: 10.68.24.226

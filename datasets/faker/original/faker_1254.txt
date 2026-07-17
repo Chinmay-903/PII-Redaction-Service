@@ -1,0 +1,7 @@
+Customer: Stacy Johnson
+Company: Mercado Ltd
+Email: thomasfreeman@example.org | Phone: 913-845-6024
+Address: 590 Tamara Centers, East Cindy, OR 66686
+SSN: 031-25-6453
+Card: 4926489900486562 | DOB: 08/05/1968
+Last login IP: 10.112.81.137

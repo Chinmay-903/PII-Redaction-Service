@@ -1,0 +1,7 @@
+Customer: Paula Kim
+Company: Hernandez Group
+Email: fchurch@example.net | Phone: 296-483-0895
+Address: 8169 Elizabeth Fort, Henryberg, NC 17685
+SSN: 644-16-5141
+Card: 4751612625701136 | DOB: 11/02/1960
+Last login IP: 172.16.227.200

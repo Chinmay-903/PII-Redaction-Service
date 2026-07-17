@@ -1,0 +1,7 @@
+Customer: Sharon Welch
+Company: Morrison LLC
+Email: jenniferoconnor@example.com | Phone: 542-832-9444
+Address: 533 Mark Lakes, New Colleen, OK 25027
+SSN: 335-48-4262
+Card: 4133146895421942 | DOB: 11/24/1945
+Last login IP: 192.168.56.254

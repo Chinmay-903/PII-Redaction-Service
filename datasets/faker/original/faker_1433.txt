@@ -1,0 +1,7 @@
+Customer: Dominique Spencer
+Company: Macias-Mendez
+Email: aaronwilliams@example.net | Phone: 891-864-4076
+Address: 04018 Wade Avenue, New Patrickbury, CT 14427
+SSN: 245-72-8145
+Card: 4714597387732096 | DOB: 05/08/1999
+Last login IP: 10.216.114.230

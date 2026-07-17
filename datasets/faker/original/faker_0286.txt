@@ -1,0 +1,7 @@
+Customer: Sherry Baker
+Company: Owen Ltd
+Email: kingpeter@example.org | Phone: 924-914-4172
+Address: 98744 Alex Greens, Andrewside, MA 98613
+SSN: 307-85-8268
+Card: 4454050985193406 | DOB: 08/17/1968
+Last login IP: 10.138.236.66

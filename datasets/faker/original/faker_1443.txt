@@ -1,0 +1,7 @@
+Customer: Rebecca Ward
+Company: Rivera-Hernandez
+Email: thompsonstefanie@example.net | Phone: 360-846-6983
+Address: 85414 Erica Meadow, East Jasonton, WI 92340
+SSN: 506-18-2867
+Card: 4708776537601074 | DOB: 02/18/1974
+Last login IP: 10.159.133.212

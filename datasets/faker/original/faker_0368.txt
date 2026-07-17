@@ -1,0 +1,7 @@
+Customer: Laurie Sims
+Company: Everett Ltd
+Email: whitejenna@example.org | Phone: 424-107-5649
+Address: 47392 Dyer Mountains, Mayshire, CA 86081
+SSN: 472-63-4863
+Card: 4863929442676480 | DOB: 06/06/1968
+Last login IP: 172.31.250.102

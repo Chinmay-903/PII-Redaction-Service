@@ -1,0 +1,7 @@
+Customer: Regina Blackburn
+Company: Lawrence, Kerr and Rodriguez
+Email: usmith@example.net | Phone: 717-676-8448
+Address: 1538 Michelle Wells, East Vincent, IL 81228
+SSN: 155-32-9423
+Card: 4834232081838826 | DOB: 05/07/1953
+Last login IP: 172.17.111.177

@@ -1,0 +1,7 @@
+Customer: Kimberly Carrillo
+Company: Miller, Murphy and King
+Email: jonesedward@example.net | Phone: 317-755-0212
+Address: 94823 Garcia Oval, Catherinefurt, VI 47567
+SSN: 202-24-9150
+Card: 4844184760604656 | DOB: 02/25/1999
+Last login IP: 172.31.98.57

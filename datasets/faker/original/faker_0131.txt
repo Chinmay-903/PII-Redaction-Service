@@ -1,0 +1,7 @@
+Customer: David Williams
+Company: Coleman LLC
+Email: david71@example.org | Phone: 479-712-4248
+Address: 577 Robinson Parkways, Joshuaburgh, PR 84912
+SSN: 421-94-6826
+Card: 4665271767062925 | DOB: 11/26/1990
+Last login IP: 192.168.30.20

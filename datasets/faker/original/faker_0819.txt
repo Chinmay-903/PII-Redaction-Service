@@ -1,0 +1,7 @@
+Customer: Kelsey Hatfield
+Company: Estrada-Stewart
+Email: sergio04@example.com | Phone: 723-680-1683
+Address: 8277 Castillo Overpass, North Courtneytown, IA 68508
+SSN: 094-95-7047
+Card: 4295393984927421 | DOB: 09/05/1987
+Last login IP: 192.168.104.200

@@ -1,0 +1,7 @@
+Customer: Michael Manning
+Company: Taylor PLC
+Email: vargasheather@example.net | Phone: 496-420-7572
+Address: 1714 Kenneth Turnpike, Stephanieshire, NY 66888
+SSN: 708-37-7090
+Card: 4784482664539875 | DOB: 05/29/1963
+Last login IP: 172.20.183.206

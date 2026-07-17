@@ -1,0 +1,7 @@
+Customer: Michael Garrett
+Company: Mcfarland, Wong and Hudson
+Email: sarahwang@example.com | Phone: 657-843-2271
+Address: 692 Christopher Village, Port Michael, NY 18097
+SSN: 892-51-8952
+Card: 4010523241247742 | DOB: 09/04/1948
+Last login IP: 192.168.27.7

@@ -1,0 +1,7 @@
+Customer: Darryl Knox
+Company: Collier LLC
+Email: nancy89@example.com | Phone: 094-681-6836
+Address: 34091 Crawford Highway, Reynoldshaven, AL 87181
+SSN: 314-17-6558
+Card: 4458881686270085 | DOB: 08/26/2006
+Last login IP: 172.23.129.130

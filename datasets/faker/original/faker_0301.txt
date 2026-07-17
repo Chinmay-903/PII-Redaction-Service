@@ -1,0 +1,7 @@
+Customer: Sabrina Patterson
+Company: Ramos LLC
+Email: harrismartha@example.com | Phone: 789-877-5481
+Address: 25209 Conrad Course, West Sarahmouth, LA 49112
+SSN: 605-47-6684
+Card: 4497850705255743 | DOB: 01/13/1948
+Last login IP: 10.148.222.84

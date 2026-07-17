@@ -1,0 +1,7 @@
+Customer: James Mckay
+Company: Valencia LLC
+Email: michael94@example.net | Phone: 981-751-9661
+Address: 23226 William Glen, Mcdonaldberg, WY 82719
+SSN: 604-01-5878
+Card: 4756093696365892 | DOB: 04/11/1995
+Last login IP: 192.168.107.126

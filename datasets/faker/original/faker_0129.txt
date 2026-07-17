@@ -1,0 +1,7 @@
+Customer: Joe Hardy
+Company: Logan, Wang and Harvey
+Email: jonesdavid@example.org | Phone: 641-708-8486
+Address: 6222 Glass Course, Samanthaberg, MD 50715
+SSN: 135-99-2048
+Card: 4115958395656716 | DOB: 07/11/1986
+Last login IP: 10.143.168.185

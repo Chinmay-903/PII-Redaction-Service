@@ -1,0 +1,7 @@
+Customer: Deborah Rios
+Company: Cohen Inc
+Email: kevinharrell@example.net | Phone: 004-381-0893
+Address: 3652 Yvonne Gardens, Wilkinsland, MI 20920
+SSN: 756-44-7040
+Card: 4069594657836419 | DOB: 09/06/1962
+Last login IP: 10.67.182.161

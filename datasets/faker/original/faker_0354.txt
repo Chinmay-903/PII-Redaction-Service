@@ -1,0 +1,7 @@
+Customer: Nicholas Barnes
+Company: Diaz-Sanchez
+Email: emilymoore@example.org | Phone: 773-308-0588
+Address: 1319 Patrick Avenue, West Andrew, MD 64920
+SSN: 611-36-4819
+Card: 4700695584800983 | DOB: 07/23/1957
+Last login IP: 10.100.205.94

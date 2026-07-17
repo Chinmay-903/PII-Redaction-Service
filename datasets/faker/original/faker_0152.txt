@@ -1,0 +1,7 @@
+Customer: Joe Pace
+Company: Salazar-Jordan
+Email: meyercolleen@example.net | Phone: 164-657-1101
+Address: 9884 Avila Cape, Nguyenshire, AR 09454
+SSN: 630-51-0169
+Card: 4727407223243644 | DOB: 05/23/2006
+Last login IP: 192.168.38.143

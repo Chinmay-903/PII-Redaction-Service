@@ -1,0 +1,7 @@
+Customer: Jennifer Dudley
+Company: Trevino-Johnson
+Email: tcummings@example.org | Phone: 344-125-6045
+Address: 9212 Macias Oval, Kellybury, AK 99576
+SSN: 180-87-9036
+Card: 4758809829931740 | DOB: 08/22/2007
+Last login IP: 192.168.232.154

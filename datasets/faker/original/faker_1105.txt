@@ -1,0 +1,7 @@
+Customer: Joseph Parker
+Company: Wallace, Moreno and Gonzalez
+Email: sanchezjoann@example.com | Phone: 486-184-2860
+Address: 300 Hannah Stravenue, Diazmouth, HI 83563
+SSN: 778-12-0808
+Card: 4592399522224718 | DOB: 10/08/1974
+Last login IP: 10.128.45.187

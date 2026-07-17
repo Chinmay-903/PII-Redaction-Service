@@ -1,0 +1,7 @@
+Customer: Alexander Coleman
+Company: Barron Group
+Email: jamesjoseph@example.com | Phone: 059-728-8778
+Address: 7087 Dominique Station, Hunterville, FM 12886
+SSN: 851-98-7098
+Card: 4545130797274148 | DOB: 10/25/2007
+Last login IP: 192.168.110.110

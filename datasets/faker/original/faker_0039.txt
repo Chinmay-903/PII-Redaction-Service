@@ -1,0 +1,7 @@
+Customer: Carol Cowan
+Company: Logan, Stuart and Drake
+Email: emilydavis@example.org | Phone: 353-617-8479
+Address: 74883 Hoover Squares, Wongstad, DC 89676
+SSN: 366-40-4298
+Card: 4690925445391456 | DOB: 05/03/2006
+Last login IP: 192.168.206.202

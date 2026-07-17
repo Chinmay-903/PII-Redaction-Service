@@ -1,0 +1,7 @@
+Customer: Katrina Lloyd
+Company: Kirk-Smith
+Email: normankaren@example.com | Phone: 316-189-8099
+Address: 284 Carpenter Forges, New Beth, PA 19918
+SSN: 671-99-2625
+Card: 4779810692537676 | DOB: 09/07/1964
+Last login IP: 192.168.81.155

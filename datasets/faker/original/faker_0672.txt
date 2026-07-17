@@ -1,0 +1,7 @@
+Customer: Ashley Mejia
+Company: Crosby Inc
+Email: wilsonmelissa@example.net | Phone: 266-208-1507
+Address: 056 Barr Radial, Lake Jacqueline, TX 93730
+SSN: 895-98-0131
+Card: 4541120160627380 | DOB: 11/08/1991
+Last login IP: 192.168.106.29

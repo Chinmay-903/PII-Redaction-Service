@@ -1,0 +1,7 @@
+Customer: Jessica Young
+Company: Long, Conner and Walker
+Email: victormcfarland@example.org | Phone: 029-983-6796
+Address: 815 Mikayla Crest, West Stephanieland, MN 52356
+SSN: 781-42-2330
+Card: 4372324651329415 | DOB: 07/03/1971
+Last login IP: 10.86.52.166

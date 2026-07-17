@@ -1,0 +1,7 @@
+Customer: Paul Foster
+Company: Thompson-Grant
+Email: carla88@example.org | Phone: 004-655-3022
+Address: 1190 Price Loaf, Erinmouth, NM 11866
+SSN: 523-50-4959
+Card: 4939756738196547 | DOB: 12/13/2003
+Last login IP: 10.29.90.47

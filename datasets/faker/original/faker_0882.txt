@@ -1,0 +1,7 @@
+Customer: Mr. Kevin Atkinson
+Company: Cuevas Group
+Email: paulgarcia@example.com | Phone: 766-321-6681
+Address: 321 Kirk Forges, South Jackfurt, AK 34300
+SSN: 482-46-1739
+Card: 4314362965846360 | DOB: 12/14/1995
+Last login IP: 172.17.67.228

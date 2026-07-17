@@ -1,0 +1,7 @@
+Customer: Ashlee Miller
+Company: Reynolds Ltd
+Email: robinholder@example.com | Phone: 879-576-9048
+Address: 7159 Martha Land, East Melissaborough, ME 54463
+SSN: 896-80-9532
+Card: 4054250617650567 | DOB: 03/31/1980
+Last login IP: 172.21.234.178

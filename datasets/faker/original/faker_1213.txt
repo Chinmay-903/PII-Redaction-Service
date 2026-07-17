@@ -1,0 +1,7 @@
+Customer: Christopher Morrison
+Company: Taylor and Sons
+Email: hsanders@example.com | Phone: 607-125-8864
+Address: 016 Ball Square, North Briana, KY 17947
+SSN: 224-15-5175
+Card: 4949012875835762 | DOB: 07/15/1979
+Last login IP: 172.27.99.159

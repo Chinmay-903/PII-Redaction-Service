@@ -1,0 +1,7 @@
+Customer: Antonio Alvarez
+Company: Taylor PLC
+Email: ojohnson@example.com | Phone: 670-967-4760
+Address: 8963 Brown Pine, New Denise, AZ 52782
+SSN: 453-52-7807
+Card: 4577151736667227 | DOB: 01/23/1999
+Last login IP: 10.101.244.17

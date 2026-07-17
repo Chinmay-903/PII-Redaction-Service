@@ -1,0 +1,7 @@
+Customer: David Coleman
+Company: Miller, Campbell and Hart
+Email: christophershaffer@example.com | Phone: 845-463-0099
+Address: 229 Jones Drive, South Stephenborough, SD 68744
+SSN: 764-66-0054
+Card: 4939476808801559 | DOB: 01/24/2004
+Last login IP: 10.207.219.131

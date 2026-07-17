@@ -1,0 +1,7 @@
+Customer: Chris Lopez
+Company: Rogers-Shelton
+Email: bryceroberts@example.org | Phone: 025-417-7838
+Address: 8326 Robert Burgs, Carmenton, DC 38508
+SSN: 351-90-1226
+Card: 4302119851559760 | DOB: 02/15/1973
+Last login IP: 172.26.67.64

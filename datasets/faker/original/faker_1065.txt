@@ -1,0 +1,7 @@
+Customer: Christopher Morgan
+Company: Obrien, Watson and Montes
+Email: padilladillon@example.net | Phone: 540-288-8714
+Address: 07336 Jenkins Plaza, East Brianville, AS 19259
+SSN: 247-74-0119
+Card: 4147512745631150 | DOB: 04/18/1984
+Last login IP: 10.177.231.240

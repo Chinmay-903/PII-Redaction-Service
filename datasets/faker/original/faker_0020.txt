@@ -1,0 +1,7 @@
+Customer: David George
+Company: Salas LLC
+Email: daniel11@example.com | Phone: 405-346-5247
+Address: 704 Mccall Hills, New Julieshire, MP 21768
+SSN: 323-05-3645
+Card: 4170031121729538 | DOB: 07/15/1996
+Last login IP: 192.168.176.48

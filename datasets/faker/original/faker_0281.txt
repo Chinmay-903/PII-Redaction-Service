@@ -1,0 +1,7 @@
+Customer: Stacy Allison
+Company: Kelly PLC
+Email: williamsdylan@example.org | Phone: 806-000-3153
+Address: 5754 Mark Creek, West Kristen, AZ 53926
+SSN: 563-81-0012
+Card: 4161633644860509 | DOB: 03/07/1966
+Last login IP: 192.168.145.48

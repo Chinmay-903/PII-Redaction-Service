@@ -1,0 +1,7 @@
+Customer: Antonio Shelton
+Company: Martin-Mccann
+Email: chloe73@example.com | Phone: 285-043-2315
+Address: 0370 Daniel Terrace, Stuarttown, GU 26354
+SSN: 632-47-8338
+Card: 4706076729761642 | DOB: 05/24/1956
+Last login IP: 10.232.174.103

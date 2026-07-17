@@ -1,0 +1,7 @@
+Customer: Matthew Sullivan
+Company: Mills-Smith
+Email: alicharles@example.org | Phone: 663-197-2971
+Address: 49769 Velazquez Spring, Normanside, IL 21714
+SSN: 005-93-5675
+Card: 4654747500159006 | DOB: 02/19/1976
+Last login IP: 192.168.232.247

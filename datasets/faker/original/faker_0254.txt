@@ -1,0 +1,7 @@
+Customer: Kimberly Wheeler
+Company: Bailey and Sons
+Email: gcalderon@example.net | Phone: 036-477-5056
+Address: 7347 Gabriel Junction, Solismouth, DE 65603
+SSN: 061-28-0068
+Card: 4064200815061487 | DOB: 02/09/2008
+Last login IP: 10.239.56.78

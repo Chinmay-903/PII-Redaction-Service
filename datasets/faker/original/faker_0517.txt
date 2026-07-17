@@ -1,0 +1,7 @@
+Customer: Michelle Johnston
+Company: Rose Inc
+Email: scott45@example.net | Phone: 330-329-3615
+Address: 995 Amanda Corners, South William, GA 83206
+SSN: 681-17-6923
+Card: 4642596029711168 | DOB: 10/18/1970
+Last login IP: 172.29.197.150

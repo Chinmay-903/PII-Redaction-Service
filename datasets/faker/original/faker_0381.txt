@@ -1,0 +1,7 @@
+Customer: Corey Campbell
+Company: Chavez-Li
+Email: kanderson@example.org | Phone: 478-825-2951
+Address: 78710 Chaney Expressway, Grimesbury, SC 44205
+SSN: 253-23-9660
+Card: 4952199964734610 | DOB: 06/08/1998
+Last login IP: 10.25.115.202

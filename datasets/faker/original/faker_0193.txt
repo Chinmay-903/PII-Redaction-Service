@@ -1,0 +1,7 @@
+Customer: Nicole Miller MD
+Company: Durham-Patel
+Email: suzannedawson@example.org | Phone: 307-977-8776
+Address: 048 Emma Streets, Samuelberg, KY 36552
+SSN: 686-78-9944
+Card: 4387751745467210 | DOB: 02/02/1977
+Last login IP: 172.24.31.231

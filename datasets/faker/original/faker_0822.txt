@@ -1,0 +1,7 @@
+Customer: William Nelson
+Company: Duran LLC
+Email: cwhite@example.net | Phone: 096-478-6539
+Address: 612 Leah Loaf, Tylerport, AL 33928
+SSN: 430-01-0332
+Card: 4905871293425122 | DOB: 07/31/1965
+Last login IP: 172.22.67.97

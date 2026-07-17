@@ -1,0 +1,7 @@
+Customer: Philip Saunders
+Company: Rivera Ltd
+Email: mdougherty@example.com | Phone: 997-750-2739
+Address: 9694 Owens Dale, East Omar, WV 06368
+SSN: 142-09-2611
+Card: 4239185575074871 | DOB: 10/03/1993
+Last login IP: 192.168.60.1

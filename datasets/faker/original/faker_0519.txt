@@ -1,0 +1,7 @@
+Customer: Ryan Dickson
+Company: Crane-Webster
+Email: jenniferaguirre@example.net | Phone: 636-622-1420
+Address: 8236 Bowers Estates, Rossmouth, CO 20635
+SSN: 259-57-1027
+Card: 4475176057201473 | DOB: 11/28/1983
+Last login IP: 172.19.173.207

@@ -1,0 +1,7 @@
+Customer: Keith Kim
+Company: Manning, Leonard and Shields
+Email: duffymichael@example.com | Phone: 762-258-4775
+Address: 674 Kimberly Summit, East Hectorbury, PA 60403
+SSN: 836-73-2299
+Card: 4189670536446680 | DOB: 08/28/1948
+Last login IP: 172.28.20.66

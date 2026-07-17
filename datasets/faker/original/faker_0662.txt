@@ -1,0 +1,7 @@
+Customer: Maria Sullivan
+Company: Thompson-Ford
+Email: floresjordan@example.net | Phone: 605-392-7659
+Address: 1275 Melissa Fall, Joshuafort, CT 59711
+SSN: 861-93-5412
+Card: 4856129625486398 | DOB: 01/18/1981
+Last login IP: 10.84.240.221

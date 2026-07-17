@@ -1,0 +1,7 @@
+Customer: Vernon Burke
+Company: Petty and Sons
+Email: wscott@example.org | Phone: 453-971-1629
+Address: 91455 John Ford, Davidhaven, PW 92198
+SSN: 127-36-6893
+Card: 4245671727134202 | DOB: 06/20/1955
+Last login IP: 172.28.72.224

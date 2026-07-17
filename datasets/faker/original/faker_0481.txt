@@ -1,0 +1,7 @@
+Customer: Scott Hill
+Company: Allen Ltd
+Email: christineprice@example.org | Phone: 349-684-0354
+Address: 669 Campbell Lakes, West Lindseyfort, MT 88824
+SSN: 816-02-8776
+Card: 4827127003473042 | DOB: 11/27/1968
+Last login IP: 172.31.227.18

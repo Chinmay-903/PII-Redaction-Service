@@ -1,0 +1,7 @@
+Customer: Kara Martin
+Company: Zuniga PLC
+Email: georgenash@example.com | Phone: 408-139-2519
+Address: 54813 Jon Manors, Turnerport, NV 31169
+SSN: 702-21-3609
+Card: 4009513267813611 | DOB: 01/10/1994
+Last login IP: 172.22.53.83

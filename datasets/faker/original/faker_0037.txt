@@ -1,0 +1,7 @@
+Customer: Kelly Marshall
+Company: Davis-Allen
+Email: coleleslie@example.com | Phone: 329-735-2247
+Address: 161 Rodriguez Circles, Stephaniebury, ME 54925
+SSN: 115-19-8232
+Card: 4193608542463699 | DOB: 09/19/1994
+Last login IP: 172.19.11.58

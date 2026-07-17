@@ -1,0 +1,7 @@
+Customer: Jessica Clements
+Company: Parker-Ward
+Email: bvaldez@example.com | Phone: 491-577-5438
+Address: 311 Tanya Parkways, Anthonytown, IL 80670
+SSN: 481-96-1096
+Card: 4898472901942142 | DOB: 10/15/1972
+Last login IP: 10.239.22.28

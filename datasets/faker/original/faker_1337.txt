@@ -1,0 +1,7 @@
+Customer: Deanna Wood
+Company: Smith-Wilson
+Email: watsonchristopher@example.net | Phone: 528-683-7117
+Address: 0060 Ricky Haven, New Jamesside, NH 83194
+SSN: 340-66-3856
+Card: 4894734616276239 | DOB: 12/11/1962
+Last login IP: 172.24.160.52

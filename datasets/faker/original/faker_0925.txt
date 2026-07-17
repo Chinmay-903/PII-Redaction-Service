@@ -1,0 +1,7 @@
+Customer: James Lee
+Company: White-Diaz
+Email: anthonymejia@example.com | Phone: 232-666-5998
+Address: 6179 Baker Key, West Kathleen, VT 33689
+SSN: 495-97-7888
+Card: 4840444191980743 | DOB: 01/04/1970
+Last login IP: 192.168.145.118

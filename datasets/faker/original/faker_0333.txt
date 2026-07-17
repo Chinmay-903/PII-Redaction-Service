@@ -1,0 +1,7 @@
+Customer: Andrew Tapia
+Company: Williams, Walsh and Doyle
+Email: waynemiddleton@example.org | Phone: 234-431-0331
+Address: 60735 Nguyen Green, Lake Rebecca, CA 31587
+SSN: 528-90-0859
+Card: 4384373796059888 | DOB: 08/14/1994
+Last login IP: 192.168.76.212

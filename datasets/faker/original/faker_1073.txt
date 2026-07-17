@@ -1,0 +1,7 @@
+Customer: Danny Hicks
+Company: Gaines-Gray
+Email: abrown@example.com | Phone: 169-830-5259
+Address: 485 Paula Islands, Kevinberg, NM 75614
+SSN: 553-85-4175
+Card: 4122411447791686 | DOB: 03/25/1984
+Last login IP: 192.168.246.117

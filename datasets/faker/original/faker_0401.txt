@@ -1,0 +1,7 @@
+Customer: William Smith
+Company: Eaton Ltd
+Email: joannefoster@example.com | Phone: 595-913-4635
+Address: 35907 Thompson Trail, Coxchester, CO 41583
+SSN: 373-93-3082
+Card: 4657982557756324 | DOB: 04/20/1949
+Last login IP: 172.26.108.6

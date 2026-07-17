@@ -1,0 +1,7 @@
+Customer: Cindy Wood
+Company: Smith-Solis
+Email: williamsscott@example.net | Phone: 770-545-7444
+Address: 0715 Jimmy Point, Port Amberville, MA 38009
+SSN: 587-88-8011
+Card: 4150962054325478 | DOB: 04/20/1957
+Last login IP: 10.198.255.66

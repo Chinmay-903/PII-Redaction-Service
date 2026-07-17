@@ -1,0 +1,7 @@
+Customer: Chad Jones
+Company: Mendez, Rangel and Williams
+Email: jamesberry@example.com | Phone: 925-312-4037
+Address: 744 John Landing, Sanderston, GA 46743
+SSN: 746-73-9888
+Card: 4339041655173456 | DOB: 07/17/1958
+Last login IP: 172.19.146.64

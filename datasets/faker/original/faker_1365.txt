@@ -1,0 +1,7 @@
+Customer: Michelle Park
+Company: Webb, Wood and Medina
+Email: john19@example.net | Phone: 448-948-5752
+Address: 9613 Patel Mountain, Whitehaven, IL 37962
+SSN: 474-13-5640
+Card: 4846426715936487 | DOB: 01/05/2000
+Last login IP: 172.18.200.94

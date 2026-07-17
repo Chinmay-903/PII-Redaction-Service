@@ -1,0 +1,7 @@
+Customer: Kara Brown
+Company: Perez-Jackson
+Email: biancahuber@example.com | Phone: 140-921-2356
+Address: 336 Hampton Point, East Crystal, MP 12302
+SSN: 297-97-1755
+Card: 4241679668963293 | DOB: 08/25/1967
+Last login IP: 10.88.55.102

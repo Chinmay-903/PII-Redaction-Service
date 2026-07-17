@@ -1,0 +1,7 @@
+Customer: Sarah Mayo
+Company: Nolan-Johnson
+Email: craighartman@example.net | Phone: 496-546-4569
+Address: 2340 Casey Mount, Port Jasonhaven, KY 46339
+SSN: 817-42-7479
+Card: 4345088323047531 | DOB: 09/23/1998
+Last login IP: 172.23.236.189

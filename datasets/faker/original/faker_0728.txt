@@ -1,0 +1,7 @@
+Customer: Kristen Barber
+Company: Harmon, Taylor and Brown
+Email: earcher@example.com | Phone: 288-201-7971
+Address: 8492 Bradley Fields, South Brian, MN 97707
+SSN: 841-42-2220
+Card: 4243782458764067 | DOB: 10/15/1994
+Last login IP: 192.168.11.148

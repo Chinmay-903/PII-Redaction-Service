@@ -1,0 +1,7 @@
+Customer: Justin Wood
+Company: Joyce-Dickerson
+Email: mfuller@example.net | Phone: 385-188-0951
+Address: 70183 Renee Spring, Whitestad, GU 25309
+SSN: 820-31-5549
+Card: 4945733921136855 | DOB: 12/31/1969
+Last login IP: 172.22.62.125

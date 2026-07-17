@@ -1,0 +1,7 @@
+Customer: Walter Thomas
+Company: Brown LLC
+Email: brian25@example.org | Phone: 906-400-8499
+Address: 295 Wise Prairie, Russellchester, NM 44742
+SSN: 255-85-7615
+Card: 4552934947807339 | DOB: 12/13/1961
+Last login IP: 10.119.7.243

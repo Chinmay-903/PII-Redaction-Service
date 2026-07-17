@@ -1,0 +1,7 @@
+Customer: Rodney Estrada DVM
+Company: Smith, Ewing and Garrison
+Email: mallorybrown@example.org | Phone: 332-704-8834
+Address: 611 Flynn Street, West Nicole, KY 28873
+SSN: 162-50-9575
+Card: 4796836835584076 | DOB: 07/08/1954
+Last login IP: 172.25.154.84

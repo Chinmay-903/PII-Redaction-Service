@@ -1,0 +1,7 @@
+Customer: Samantha Mccall
+Company: Finley LLC
+Email: lopezkelli@example.net | Phone: 215-724-5593
+Address: 718 Evans Alley, Timothybury, OH 28963
+SSN: 381-32-0622
+Card: 4663456147416493 | DOB: 05/17/1988
+Last login IP: 172.16.13.72

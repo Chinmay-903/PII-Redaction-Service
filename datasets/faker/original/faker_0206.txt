@@ -1,0 +1,7 @@
+Customer: Loretta Paul
+Company: King, Faulkner and Lopez
+Email: watsonpatricia@example.org | Phone: 799-170-3276
+Address: 7589 Erin Field, Lake Juan, SC 77944
+SSN: 022-09-5340
+Card: 4122853345389453 | DOB: 01/04/2008
+Last login IP: 10.20.158.186

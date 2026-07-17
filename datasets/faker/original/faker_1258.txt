@@ -1,0 +1,7 @@
+Customer: Mr. Max Yoder
+Company: Johnson PLC
+Email: kmosley@example.com | Phone: 211-779-2546
+Address: 37014 Derek Squares, North Gordonfort, NY 70808
+SSN: 500-36-1302
+Card: 4379776983801705 | DOB: 01/12/1951
+Last login IP: 10.206.143.77

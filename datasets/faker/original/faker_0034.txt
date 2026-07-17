@@ -1,0 +1,7 @@
+Customer: Lauren Luna
+Company: Collier, Vance and Good
+Email: pbell@example.org | Phone: 219-694-6903
+Address: 47375 Beard Streets, East Jennifer, IA 71798
+SSN: 756-08-8182
+Card: 4555512305720091 | DOB: 10/04/1958
+Last login IP: 172.31.54.125

@@ -1,0 +1,7 @@
+Customer: Adam Morrison
+Company: Rivera LLC
+Email: jameshill@example.com | Phone: 045-594-4089
+Address: 750 April Plains, Johnfort, MA 99481
+SSN: 345-69-8684
+Card: 4068558294157704 | DOB: 12/29/1989
+Last login IP: 172.16.124.59

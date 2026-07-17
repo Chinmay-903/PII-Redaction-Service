@@ -1,0 +1,7 @@
+Customer: Erika Little
+Company: Nunez Ltd
+Email: waltonjared@example.net | Phone: 542-019-7873
+Address: 3281 David Prairie, Emilychester, OK 67653
+SSN: 507-47-5240
+Card: 4353175851225057 | DOB: 07/27/1950
+Last login IP: 10.244.160.133

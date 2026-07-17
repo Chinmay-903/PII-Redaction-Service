@@ -1,0 +1,7 @@
+Customer: Kristina Thomas
+Company: White Inc
+Email: matthew56@example.com | Phone: 320-096-6027
+Address: 6299 Chan Centers, Jonathanburgh, MH 27141
+SSN: 870-91-1931
+Card: 4114394843686793 | DOB: 12/22/2000
+Last login IP: 172.27.75.2

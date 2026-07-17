@@ -1,0 +1,7 @@
+Customer: Donald Harris
+Company: Rios Inc
+Email: daughertypeter@example.org | Phone: 219-693-8009
+Address: 686 Phelps Stravenue, Jenniferberg, NC 45889
+SSN: 072-73-0519
+Card: 4920620642118917 | DOB: 07/05/1958
+Last login IP: 10.225.46.169

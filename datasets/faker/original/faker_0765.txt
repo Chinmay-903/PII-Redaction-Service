@@ -1,0 +1,7 @@
+Customer: Michael Hudson
+Company: Estrada-Baird
+Email: qwest@example.net | Phone: 100-556-3982
+Address: 54612 Sanford Roads, North Katherine, IA 62564
+SSN: 137-66-0062
+Card: 4915779609511865 | DOB: 04/04/1986
+Last login IP: 10.13.32.45

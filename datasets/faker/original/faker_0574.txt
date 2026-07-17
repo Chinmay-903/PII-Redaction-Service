@@ -1,0 +1,7 @@
+Customer: Stephanie Anderson
+Company: Mcdonald-Graham
+Email: dianasanders@example.net | Phone: 102-831-1565
+Address: 244 Reed Springs, Bruceshire, PA 62170
+SSN: 253-56-8382
+Card: 4498061081801501 | DOB: 07/18/2003
+Last login IP: 172.29.245.125

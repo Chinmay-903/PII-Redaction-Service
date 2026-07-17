@@ -1,0 +1,7 @@
+Customer: Tiffany Villa
+Company: Marshall Group
+Email: blakenorton@example.net | Phone: 498-196-1914
+Address: 199 Stevens Coves, Lake Timothy, UT 74008
+SSN: 059-80-8899
+Card: 4445929803805790 | DOB: 06/03/1990
+Last login IP: 172.26.201.141

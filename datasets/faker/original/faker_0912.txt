@@ -1,0 +1,7 @@
+Customer: Joshua Johnson
+Company: Alexander, Wood and Landry
+Email: fflowers@example.net | Phone: 268-587-6092
+Address: 9421 Collins Run, North Jill, GU 90019
+SSN: 351-79-2646
+Card: 4641054437628674 | DOB: 10/17/1990
+Last login IP: 172.17.248.67

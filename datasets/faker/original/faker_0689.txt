@@ -1,0 +1,7 @@
+Customer: Steven Roberts
+Company: Morgan, Holloway and Schultz
+Email: lewisdavid@example.com | Phone: 875-959-7365
+Address: 18798 Matthew Forges, Lindseystad, NE 90195
+SSN: 627-19-7422
+Card: 4662824885880223 | DOB: 11/23/2007
+Last login IP: 192.168.102.89

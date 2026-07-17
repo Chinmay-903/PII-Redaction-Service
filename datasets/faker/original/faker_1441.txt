@@ -1,0 +1,7 @@
+Customer: Michael Mullins
+Company: Norris-Gonzalez
+Email: kristinaking@example.com | Phone: 795-838-2693
+Address: 567 Flynn Corner, Tinaland, ID 11995
+SSN: 486-61-0612
+Card: 4711980911139058 | DOB: 11/05/1955
+Last login IP: 172.26.13.5

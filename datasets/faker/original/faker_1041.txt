@@ -1,0 +1,7 @@
+Customer: Sharon Cantrell
+Company: Franklin-Gonzalez
+Email: jordanmendoza@example.com | Phone: 778-081-7437
+Address: 7062 White Hollow, North Briannaberg, IA 01513
+SSN: 597-51-1995
+Card: 4168207672157220 | DOB: 11/26/1952
+Last login IP: 192.168.28.138

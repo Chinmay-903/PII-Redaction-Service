@@ -1,0 +1,7 @@
+Customer: Theresa Riley
+Company: Baker-Aguilar
+Email: johnsonkelly@example.net | Phone: 986-690-7671
+Address: 25411 Jason Brooks, North Justinborough, PW 66220
+SSN: 058-15-1652
+Card: 4826942531050034 | DOB: 10/30/2002
+Last login IP: 172.18.136.255

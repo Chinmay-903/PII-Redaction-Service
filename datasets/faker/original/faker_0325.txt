@@ -1,0 +1,7 @@
+Customer: Ashley Mcdaniel
+Company: Hawkins and Sons
+Email: caitlin19@example.net | Phone: 112-115-9682
+Address: 7697 Juan Isle, North Matthewtown, MN 21481
+SSN: 141-37-2728
+Card: 4322501122834021 | DOB: 10/23/1986
+Last login IP: 172.28.148.32

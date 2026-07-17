@@ -1,0 +1,7 @@
+Customer: Benjamin Blair
+Company: Sutton and Sons
+Email: glassashley@example.com | Phone: 540-336-8906
+Address: 552 Joseph Overpass, Evelynchester, MT 35921
+SSN: 212-48-8568
+Card: 4011848469668066 | DOB: 05/13/1987
+Last login IP: 172.25.158.25

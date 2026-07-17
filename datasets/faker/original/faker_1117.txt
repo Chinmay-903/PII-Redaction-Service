@@ -1,0 +1,7 @@
+Customer: Timothy Nash
+Company: Murray, Liu and Fernandez
+Email: robertacobb@example.org | Phone: 182-392-9489
+Address: 7065 Omar Trace, Sarahchester, ID 94459
+SSN: 708-51-6242
+Card: 4386133421116794 | DOB: 04/02/1964
+Last login IP: 10.48.224.7

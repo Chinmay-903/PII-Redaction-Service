@@ -1,0 +1,7 @@
+Customer: Walter Hernandez
+Company: Wagner, Zavala and Davis
+Email: martinezkimberly@example.com | Phone: 216-748-0906
+Address: 730 Jill Plains, South Mike, PR 45885
+SSN: 303-72-9910
+Card: 4267863452361505 | DOB: 02/15/1974
+Last login IP: 192.168.169.188

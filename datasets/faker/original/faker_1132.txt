@@ -1,0 +1,7 @@
+Customer: Samuel Mason
+Company: Lewis-Dunn
+Email: rodriguezlisa@example.net | Phone: 989-285-3692
+Address: 8058 Owen Points, West Donna, NC 37041
+SSN: 564-83-2645
+Card: 4889145214048515 | DOB: 03/07/1946
+Last login IP: 10.250.189.100

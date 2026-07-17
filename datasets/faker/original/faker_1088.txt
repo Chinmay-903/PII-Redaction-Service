@@ -1,0 +1,7 @@
+Customer: Rebecca Cannon
+Company: Love-Brooks
+Email: jennifersmith@example.com | Phone: 388-188-5016
+Address: 5438 Torres Islands, South John, CO 49244
+SSN: 444-08-6046
+Card: 4501919285313414 | DOB: 01/21/1979
+Last login IP: 192.168.190.27

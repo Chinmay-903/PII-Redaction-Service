@@ -1,0 +1,7 @@
+Customer: Mark Ballard
+Company: Rodriguez, Casey and Anderson
+Email: connie24@example.net | Phone: 805-965-7431
+Address: 7254 Smith Turnpike, Karinastad, OR 90414
+SSN: 573-21-1464
+Card: 4608818368664796 | DOB: 04/27/1961
+Last login IP: 172.23.59.208

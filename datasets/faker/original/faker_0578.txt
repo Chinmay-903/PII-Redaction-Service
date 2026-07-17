@@ -1,0 +1,7 @@
+Customer: Claudia Simmons
+Company: Price, Garrett and Johnston
+Email: codyhoover@example.org | Phone: 280-603-3899
+Address: 1669 Gregory Junctions, Lake Brandi, WA 89717
+SSN: 667-07-8379
+Card: 4688996264107954 | DOB: 08/13/1998
+Last login IP: 172.18.16.128

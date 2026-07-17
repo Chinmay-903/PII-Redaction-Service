@@ -1,0 +1,7 @@
+Customer: Scott Gaines
+Company: Goodman and Sons
+Email: wbrown@example.org | Phone: 029-390-6338
+Address: 899 Coleman Fords, Brendaland, OR 03480
+SSN: 864-64-6656
+Card: 4944311862752781 | DOB: 05/15/2001
+Last login IP: 172.30.40.237

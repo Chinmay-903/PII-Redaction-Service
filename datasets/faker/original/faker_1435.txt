@@ -1,0 +1,7 @@
+Customer: Justin Hanson
+Company: Jackson, Walker and Quinn
+Email: cstewart@example.org | Phone: 603-662-4337
+Address: 1543 Jacob Bridge, South Kathrynbury, ME 07027
+SSN: 500-88-9447
+Card: 4323060216028726 | DOB: 09/14/1946
+Last login IP: 10.28.60.54

@@ -1,0 +1,7 @@
+Customer: Tammy Evans
+Company: Smith, Hernandez and Pittman
+Email: bsimpson@example.net | Phone: 056-801-0847
+Address: 5762 Lawrence Viaduct, East John, MO 37062
+SSN: 376-28-6520
+Card: 4808064148706718 | DOB: 10/20/1990
+Last login IP: 10.224.169.14

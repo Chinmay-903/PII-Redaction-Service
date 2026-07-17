@@ -1,0 +1,7 @@
+Customer: Terry Horton
+Company: Navarro-Ryan
+Email: carolynnewton@example.com | Phone: 993-364-7902
+Address: 20400 Katrina Vista, Ashleyfort, AZ 86721
+SSN: 409-69-8541
+Card: 4116982546422819 | DOB: 04/27/1955
+Last login IP: 172.22.155.44

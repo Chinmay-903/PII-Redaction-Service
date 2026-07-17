@@ -1,0 +1,7 @@
+Customer: William Brooks
+Company: Reid-Burton
+Email: nelliott@example.com | Phone: 156-372-9728
+Address: 303 Marsh Circles, Bryanttown, FL 19253
+SSN: 456-91-4581
+Card: 4617663980552212 | DOB: 10/14/1972
+Last login IP: 192.168.93.224

@@ -1,0 +1,7 @@
+Customer: Robert Miller
+Company: White-Flores
+Email: michaelmoore@example.net | Phone: 121-496-5588
+Address: 0891 Jason Wall, Johnsonchester, KY 99107
+SSN: 339-09-0604
+Card: 4008042587058351 | DOB: 04/29/1981
+Last login IP: 192.168.190.252

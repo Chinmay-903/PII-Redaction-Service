@@ -1,0 +1,7 @@
+Customer: Jesus Day
+Company: Delgado-Long
+Email: tramirez@example.org | Phone: 379-621-1522
+Address: 4698 Crystal Passage, Port Alexberg, NY 12136
+SSN: 336-15-5002
+Card: 4524198624865201 | DOB: 08/08/1961
+Last login IP: 172.26.64.80

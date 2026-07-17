@@ -1,0 +1,7 @@
+Customer: Benjamin Schmidt
+Company: George Ltd
+Email: abush@example.net | Phone: 037-705-6386
+Address: 608 Lopez Rapid, Kristinemouth, MT 54084
+SSN: 702-85-8725
+Card: 4166965092614847 | DOB: 11/07/1974
+Last login IP: 172.27.35.36

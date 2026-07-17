@@ -1,0 +1,7 @@
+Customer: Karina Young
+Company: Blake-Rodriguez
+Email: johnsonlynn@example.com | Phone: 033-194-2671
+Address: 124 Mary Shoals, Mcfarlandtown, RI 75615
+SSN: 139-14-9330
+Card: 4865566284772098 | DOB: 09/06/1983
+Last login IP: 192.168.233.75

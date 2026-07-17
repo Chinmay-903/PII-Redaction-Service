@@ -1,0 +1,7 @@
+Customer: Erin Fox
+Company: Phillips, Johnson and Frederick
+Email: courtney26@example.net | Phone: 401-865-6424
+Address: 38816 Kayla Run, Katrinaborough, PR 63111
+SSN: 360-08-8362
+Card: 4734351658559341 | DOB: 08/30/1955
+Last login IP: 10.8.39.196

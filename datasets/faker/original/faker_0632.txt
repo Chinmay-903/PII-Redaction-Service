@@ -1,0 +1,7 @@
+Customer: Michael Lewis
+Company: Gonzalez-Hernandez
+Email: williamsmelissa@example.net | Phone: 313-541-2353
+Address: 2098 Campbell Plains, East Zachary, TN 55083
+SSN: 815-02-6615
+Card: 4038989629434707 | DOB: 12/25/1993
+Last login IP: 172.24.60.141

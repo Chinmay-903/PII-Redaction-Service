@@ -1,0 +1,7 @@
+Customer: Michael Villa
+Company: Washington, Glenn and Russell
+Email: chapmanwilliam@example.com | Phone: 019-343-0363
+Address: 063 Spencer Spurs, Jessicaton, CO 59288
+SSN: 891-44-8412
+Card: 4693390143727070 | DOB: 05/07/2000
+Last login IP: 10.52.141.83

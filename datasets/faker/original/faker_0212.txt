@@ -1,0 +1,7 @@
+Customer: Valerie Farmer
+Company: West, Haas and Torres
+Email: qkerr@example.com | Phone: 627-535-3094
+Address: 53165 Ramirez Bridge, North Diane, OR 29072
+SSN: 469-85-6402
+Card: 4482226349300160 | DOB: 06/08/1969
+Last login IP: 192.168.153.13

@@ -1,0 +1,7 @@
+Customer: Diane Palmer DVM
+Company: Rodgers Ltd
+Email: masseynicholas@example.org | Phone: 447-825-5802
+Address: 579 Smith Key, South John, GU 86899
+SSN: 258-62-9742
+Card: 4735473275705898 | DOB: 03/20/1956
+Last login IP: 10.83.89.62

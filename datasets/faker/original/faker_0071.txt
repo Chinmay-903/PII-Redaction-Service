@@ -1,0 +1,7 @@
+Customer: Jesse Carter
+Company: Taylor PLC
+Email: guerrerosheri@example.com | Phone: 674-852-1808
+Address: 683 Peterson Valleys, Jonathanview, IL 28369
+SSN: 127-48-6968
+Card: 4304939369142330 | DOB: 12/20/1996
+Last login IP: 192.168.255.239

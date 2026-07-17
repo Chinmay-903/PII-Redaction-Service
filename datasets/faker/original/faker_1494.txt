@@ -1,0 +1,7 @@
+Customer: Tammy Long
+Company: Christensen-Williams
+Email: sanchezkathleen@example.com | Phone: 421-679-0969
+Address: 33768 Julie Center, South Billy, WY 02889
+SSN: 502-72-6704
+Card: 4457635315898133 | DOB: 01/05/2003
+Last login IP: 10.80.226.223

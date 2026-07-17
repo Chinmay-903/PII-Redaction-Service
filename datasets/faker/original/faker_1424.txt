@@ -1,0 +1,7 @@
+Customer: Fernando Hernandez
+Company: Deleon-Keller
+Email: joshua23@example.net | Phone: 895-235-7669
+Address: 237 Eric Field, Raymondville, OR 35356
+SSN: 721-07-7308
+Card: 4446240458939663 | DOB: 02/18/1950
+Last login IP: 10.203.189.171

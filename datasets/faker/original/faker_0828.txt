@@ -1,0 +1,7 @@
+Customer: Janet Winters
+Company: Simon and Sons
+Email: popecatherine@example.net | Phone: 650-610-4956
+Address: 74525 Hunt Knoll, Julieburgh, FM 58189
+SSN: 798-21-7354
+Card: 4867466727336452 | DOB: 05/27/1972
+Last login IP: 172.19.214.8

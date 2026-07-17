@@ -1,0 +1,7 @@
+Customer: Chase Gonzalez
+Company: Vega, Gomez and Zhang
+Email: jonesricardo@example.net | Phone: 512-283-6888
+Address: 860 Dawn Meadows, Hardyhaven, AR 07768
+SSN: 469-51-3086
+Card: 4976474981780207 | DOB: 02/23/1978
+Last login IP: 192.168.152.0

@@ -1,0 +1,7 @@
+Customer: Eric Harris
+Company: Chapman, Sanders and Lee
+Email: wilsonrobert@example.com | Phone: 149-205-6960
+Address: 154 Edwards Lodge, Kevinfurt, IN 12833
+SSN: 649-55-6835
+Card: 4253941753369256 | DOB: 03/20/1964
+Last login IP: 172.20.2.192

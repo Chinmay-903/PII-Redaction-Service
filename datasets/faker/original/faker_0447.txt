@@ -1,0 +1,7 @@
+Customer: Sarah Harris
+Company: Stevenson Ltd
+Email: huntrhonda@example.com | Phone: 898-645-2042
+Address: 78800 Anthony Locks, Harrisonmouth, HI 92763
+SSN: 672-22-3002
+Card: 4505405131311584 | DOB: 09/16/1983
+Last login IP: 10.31.226.102

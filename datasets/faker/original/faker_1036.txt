@@ -1,0 +1,7 @@
+Customer: David Hicks
+Company: Frank, Butler and Morales
+Email: jasminedavis@example.com | Phone: 446-886-3848
+Address: 306 Vincent Bridge, Michaelfurt, WV 54968
+SSN: 573-61-9785
+Card: 4745359330728462 | DOB: 04/07/1957
+Last login IP: 192.168.148.200

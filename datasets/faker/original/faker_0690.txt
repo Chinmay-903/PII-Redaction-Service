@@ -1,0 +1,7 @@
+Customer: Katie Ramirez
+Company: Wagner Inc
+Email: plin@example.net | Phone: 642-777-2549
+Address: 68123 Zachary Road, Tracyview, MD 73496
+SSN: 255-32-3127
+Card: 4204290239497186 | DOB: 03/02/1985
+Last login IP: 172.28.78.44

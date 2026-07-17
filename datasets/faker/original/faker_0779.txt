@@ -1,0 +1,7 @@
+Customer: Gary Conrad
+Company: Lopez-Elliott
+Email: edgar67@example.com | Phone: 072-419-8193
+Address: 183 Stephanie Mountain, Gordonhaven, AK 55686
+SSN: 687-45-6175
+Card: 4951199562077348 | DOB: 03/10/1998
+Last login IP: 172.16.142.84

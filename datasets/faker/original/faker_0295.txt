@@ -1,0 +1,7 @@
+Customer: Austin Anderson
+Company: Fox and Sons
+Email: jason47@example.net | Phone: 561-140-1795
+Address: 157 Potter Light, Ginafurt, VA 57048
+SSN: 525-17-8953
+Card: 4513787778472948 | DOB: 06/05/2000
+Last login IP: 192.168.121.150

@@ -1,0 +1,7 @@
+Customer: Wayne Gardner
+Company: Walker-Hill
+Email: karendavis@example.org | Phone: 767-850-8071
+Address: 51305 Michael Stravenue, New Patriciafurt, CT 06849
+SSN: 704-57-2947
+Card: 4756873210580666 | DOB: 09/19/1993
+Last login IP: 10.159.172.153

@@ -1,0 +1,7 @@
+Customer: Travis Guerrero
+Company: Hill and Sons
+Email: kjones@example.com | Phone: 962-022-3084
+Address: 999 Harper Mountain, New Elizabeth, AS 27747
+SSN: 560-87-7638
+Card: 4319458766448862 | DOB: 06/19/1982
+Last login IP: 10.101.55.38

@@ -1,0 +1,7 @@
+Customer: Jose Dunlap
+Company: Washington-Pierce
+Email: stephanieblair@example.net | Phone: 375-051-1637
+Address: 8769 Cory Turnpike, Briggschester, TX 62045
+SSN: 319-99-9681
+Card: 4078451802511133 | DOB: 10/05/1975
+Last login IP: 10.251.84.208

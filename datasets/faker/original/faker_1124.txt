@@ -1,0 +1,7 @@
+Customer: Kylie Hartman
+Company: Boyle, Potts and Randall
+Email: smithpatricia@example.com | Phone: 535-952-0709
+Address: 30817 Jacob Forges, Haileyfort, VI 81142
+SSN: 147-11-5916
+Card: 4476740605775509 | DOB: 04/05/1967
+Last login IP: 172.29.189.187

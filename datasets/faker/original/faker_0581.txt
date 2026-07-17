@@ -1,0 +1,7 @@
+Customer: David King
+Company: Le-Best
+Email: kelleybecky@example.net | Phone: 104-135-3342
+Address: 5265 Sarah Neck, West Elizabethview, NE 70571
+SSN: 003-70-8623
+Card: 4711743326572655 | DOB: 08/15/1956
+Last login IP: 172.24.17.180

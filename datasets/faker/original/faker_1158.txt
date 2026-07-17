@@ -1,0 +1,7 @@
+Customer: Kyle Garcia
+Company: Gaines, Summers and Bell
+Email: chadgibson@example.com | Phone: 327-792-5537
+Address: 30666 White Square, Lake Brittanybury, MT 12630
+SSN: 885-15-1674
+Card: 4659732025029418 | DOB: 07/18/1998
+Last login IP: 10.241.145.84

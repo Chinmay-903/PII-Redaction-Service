@@ -1,0 +1,7 @@
+Customer: Marc Murphy
+Company: Moore Group
+Email: brandyharper@example.net | Phone: 366-389-0707
+Address: 6912 Nancy Expressway, Lake Joseph, PA 86987
+SSN: 273-61-0735
+Card: 4789299861577309 | DOB: 08/26/1967
+Last login IP: 192.168.174.144

@@ -1,0 +1,7 @@
+Customer: Amanda Thompson
+Company: Lee-Williams
+Email: pvega@example.org | Phone: 273-482-1411
+Address: 00391 Pennington Street, Loweberg, MP 14834
+SSN: 697-06-2912
+Card: 4838653161501883 | DOB: 09/26/1974
+Last login IP: 10.72.8.166

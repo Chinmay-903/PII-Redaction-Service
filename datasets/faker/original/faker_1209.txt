@@ -1,0 +1,7 @@
+Customer: Savannah Marshall
+Company: Patterson-Sandoval
+Email: carolynmartin@example.org | Phone: 613-001-7042
+Address: 34949 Holloway Forks, Thompsonmouth, DE 22357
+SSN: 338-71-7719
+Card: 4276195724570608 | DOB: 12/06/1973
+Last login IP: 10.202.138.77

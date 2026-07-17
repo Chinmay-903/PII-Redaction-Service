@@ -1,0 +1,7 @@
+Customer: Brittany Beard
+Company: Smith-Jenkins
+Email: zrandolph@example.com | Phone: 393-952-9436
+Address: 699 Potts Port, Port Jeffrey, ND 06862
+SSN: 357-58-1802
+Card: 4303660709298324 | DOB: 04/14/1957
+Last login IP: 172.23.109.27

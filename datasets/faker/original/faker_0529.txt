@@ -1,0 +1,7 @@
+Customer: Donald Coleman
+Company: Evans-Allen
+Email: erin17@example.com | Phone: 673-199-2610
+Address: 547 Lee Plains, Morrisonland, NE 96079
+SSN: 895-52-5489
+Card: 4816751354993119 | DOB: 09/08/1955
+Last login IP: 192.168.175.34

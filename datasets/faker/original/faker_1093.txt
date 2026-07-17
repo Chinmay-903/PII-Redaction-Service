@@ -1,0 +1,7 @@
+Customer: Jonathan Long
+Company: Harrison, Duran and Parsons
+Email: friedmankathleen@example.org | Phone: 807-919-9036
+Address: 7163 Jennifer Hills, Johnsonshire, WY 45281
+SSN: 388-46-5772
+Card: 4603293187376391 | DOB: 05/20/1964
+Last login IP: 192.168.123.231

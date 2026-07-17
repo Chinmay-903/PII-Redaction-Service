@@ -1,0 +1,7 @@
+Customer: Daniel Cruz
+Company: Harris-Nicholson
+Email: alexandra36@example.com | Phone: 775-288-7483
+Address: 5020 David Key, New Michaelstad, FM 08787
+SSN: 036-64-1158
+Card: 4059946347093557 | DOB: 11/22/1958
+Last login IP: 192.168.89.5

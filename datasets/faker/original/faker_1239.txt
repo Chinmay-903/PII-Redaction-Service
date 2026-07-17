@@ -1,0 +1,7 @@
+Customer: Lindsay Haney
+Company: Olson, Evans and Guerrero
+Email: sarahdavis@example.com | Phone: 069-898-8612
+Address: 691 Greene Spring, South Diana, VT 21346
+SSN: 872-16-4242
+Card: 4850471429638063 | DOB: 04/13/1990
+Last login IP: 10.152.124.45

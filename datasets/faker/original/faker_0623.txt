@@ -1,0 +1,7 @@
+Customer: George Curtis
+Company: Simon, Hensley and Wong
+Email: mosleyomar@example.com | Phone: 891-225-5822
+Address: 36537 Hester Plains, North Daniel, VI 59129
+SSN: 365-94-1586
+Card: 4852980603946959 | DOB: 05/03/1967
+Last login IP: 192.168.46.89

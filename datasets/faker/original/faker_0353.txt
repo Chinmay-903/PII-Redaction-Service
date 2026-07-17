@@ -1,0 +1,7 @@
+Customer: Sherry Collins
+Company: Vasquez-Davis
+Email: ylozano@example.com | Phone: 963-027-3704
+Address: 54579 Taylor Plaza, East Ericaton, HI 52458
+SSN: 521-83-2530
+Card: 4650616465078408 | DOB: 10/19/1947
+Last login IP: 172.17.31.125

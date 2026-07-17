@@ -1,0 +1,7 @@
+Customer: Virginia Welch
+Company: Roberts-Green
+Email: griffintodd@example.com | Phone: 871-068-2408
+Address: 450 Carmen Center, South John, KY 91389
+SSN: 685-31-4565
+Card: 4510570242862362 | DOB: 09/11/1983
+Last login IP: 172.19.46.220

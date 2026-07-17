@@ -1,0 +1,7 @@
+Customer: Tonya Foley
+Company: Wu, Hall and Welch
+Email: aparker@example.com | Phone: 657-042-3606
+Address: 919 Craig Viaduct, West Markport, DE 82835
+SSN: 276-41-6854
+Card: 4807936408753541 | DOB: 05/11/1948
+Last login IP: 192.168.192.186

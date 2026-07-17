@@ -1,0 +1,7 @@
+Customer: Victoria Chambers
+Company: Smith, Maddox and Torres
+Email: brianmiller@example.org | Phone: 772-413-6265
+Address: 123 Scott Trafficway, New Katherine, SD 52505
+SSN: 700-87-7862
+Card: 4604773562791594 | DOB: 04/06/1996
+Last login IP: 10.181.255.195

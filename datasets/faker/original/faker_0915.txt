@@ -1,0 +1,7 @@
+Customer: Michael Sparks
+Company: Schmitt-Salinas
+Email: kevinhorn@example.org | Phone: 059-437-5398
+Address: 14081 Martin Dale, Lisastad, AZ 43774
+SSN: 597-88-6611
+Card: 4486968873253101 | DOB: 03/24/1958
+Last login IP: 172.27.149.172

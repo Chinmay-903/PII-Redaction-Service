@@ -1,0 +1,7 @@
+Customer: Daniel Barnes
+Company: Patel PLC
+Email: brian51@example.org | Phone: 286-293-4762
+Address: 349 Madeline Valleys, Walkerport, OR 32064
+SSN: 088-63-3855
+Card: 4720756879502316 | DOB: 11/21/1996
+Last login IP: 192.168.47.83

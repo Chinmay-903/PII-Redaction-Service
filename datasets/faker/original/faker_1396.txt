@@ -1,0 +1,7 @@
+Customer: Donald Gamble
+Company: Lopez-Strong
+Email: shellydunn@example.org | Phone: 852-682-4369
+Address: 654 Williamson Tunnel, Wheelerhaven, CO 02190
+SSN: 566-92-3578
+Card: 4361777474090063 | DOB: 10/01/1955
+Last login IP: 192.168.171.84

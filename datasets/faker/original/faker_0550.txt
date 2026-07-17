@@ -1,0 +1,7 @@
+Customer: Joshua Russell
+Company: Mcmahon PLC
+Email: fmays@example.net | Phone: 454-801-3903
+Address: 43667 Tate Lock, Douglasside, OK 22407
+SSN: 416-65-8148
+Card: 4144335437839599 | DOB: 02/19/1963
+Last login IP: 192.168.66.235

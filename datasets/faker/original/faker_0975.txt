@@ -1,0 +1,7 @@
+Customer: Warren Ramos
+Company: Jones-Stewart
+Email: stephen95@example.net | Phone: 145-350-4338
+Address: 046 Dunlap Spur, Victoriamouth, LA 96450
+SSN: 383-86-1097
+Card: 4278668293676558 | DOB: 07/30/2000
+Last login IP: 192.168.209.247

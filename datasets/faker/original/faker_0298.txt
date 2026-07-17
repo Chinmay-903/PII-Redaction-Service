@@ -1,0 +1,7 @@
+Customer: Maria Wilson
+Company: Jones-Bell
+Email: shanecastaneda@example.net | Phone: 551-078-8302
+Address: 427 Malone Radial, Lisastad, MN 48343
+SSN: 414-40-8789
+Card: 4732667895069410 | DOB: 06/12/2004
+Last login IP: 192.168.162.193

@@ -1,0 +1,7 @@
+Customer: Christine Knight
+Company: Roberts Ltd
+Email: greynolds@example.com | Phone: 734-272-9908
+Address: 120 Mclaughlin Route, West Laurenside, PR 55789
+SSN: 211-57-0559
+Card: 4356626165983473 | DOB: 06/02/1965
+Last login IP: 192.168.17.57

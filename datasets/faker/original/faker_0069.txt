@@ -1,0 +1,7 @@
+Customer: John Hernandez
+Company: Curry-Norton
+Email: trodgers@example.net | Phone: 413-992-5111
+Address: 7717 Teresa Spring, Lake Robert, OK 08923
+SSN: 410-51-4846
+Card: 4609235695040815 | DOB: 12/20/1985
+Last login IP: 172.28.52.219

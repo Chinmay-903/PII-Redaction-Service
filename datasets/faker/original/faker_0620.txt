@@ -1,0 +1,7 @@
+Customer: Cynthia Sexton
+Company: Ross, Mcdowell and Johnson
+Email: cowanamber@example.org | Phone: 581-665-3026
+Address: 1759 Jonathan Mission, Toddfurt, PR 20406
+SSN: 159-16-0490
+Card: 4310829585169104 | DOB: 11/03/1999
+Last login IP: 172.21.201.82

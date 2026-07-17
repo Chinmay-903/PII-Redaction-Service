@@ -1,0 +1,7 @@
+Customer: Dean King
+Company: Camacho-Harris
+Email: mshannon@example.com | Phone: 012-515-0072
+Address: 2155 Ashley Isle, New Jeromemouth, WY 02550
+SSN: 172-81-4091
+Card: 4444110536238044 | DOB: 05/27/2007
+Last login IP: 192.168.217.35

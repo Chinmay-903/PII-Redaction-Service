@@ -1,0 +1,7 @@
+Customer: Brianna Brown
+Company: Clayton LLC
+Email: kingrichard@example.org | Phone: 737-045-3964
+Address: 3267 Baxter Lodge, Port Carriehaven, GU 14246
+SSN: 677-54-9964
+Card: 4108682399078581 | DOB: 11/17/1954
+Last login IP: 10.76.57.167

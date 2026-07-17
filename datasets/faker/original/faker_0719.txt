@@ -1,0 +1,7 @@
+Customer: Joshua Smith
+Company: Howard-Martinez
+Email: melissafry@example.org | Phone: 635-665-7767
+Address: 82500 Sanchez Villages, Bryanton, WA 11159
+SSN: 370-18-6468
+Card: 4158637186287943 | DOB: 07/02/1982
+Last login IP: 192.168.11.249

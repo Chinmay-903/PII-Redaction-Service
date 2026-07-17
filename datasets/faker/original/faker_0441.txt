@@ -1,0 +1,7 @@
+Customer: Jean Herring
+Company: Howard-Taylor
+Email: ericareed@example.com | Phone: 614-274-1745
+Address: 223 Julia Estates, Robertsport, NM 97444
+SSN: 741-44-9399
+Card: 4178803943412200 | DOB: 08/31/1991
+Last login IP: 172.24.180.86

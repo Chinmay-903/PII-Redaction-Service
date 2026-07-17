@@ -1,0 +1,7 @@
+Customer: Brittney Carney
+Company: Mcgrath-Davis
+Email: lonniewilson@example.net | Phone: 029-290-6947
+Address: 5631 Alexandra Fields, Lake Daniel, NC 36605
+SSN: 088-61-2007
+Card: 4435994812017243 | DOB: 03/27/1948
+Last login IP: 172.28.170.6

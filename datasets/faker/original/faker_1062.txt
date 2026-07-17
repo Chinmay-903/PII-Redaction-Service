@@ -1,0 +1,7 @@
+Customer: Mr. Mark Robinson
+Company: Sanchez-Mcclain
+Email: mperry@example.net | Phone: 474-127-9615
+Address: 806 Victoria Crossroad, Deborahfort, MP 16300
+SSN: 183-76-5257
+Card: 4888480946265827 | DOB: 10/30/1989
+Last login IP: 172.16.241.222

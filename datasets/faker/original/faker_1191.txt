@@ -1,0 +1,7 @@
+Customer: Lori Nelson
+Company: Norman-Duke
+Email: olsondiana@example.com | Phone: 560-075-4293
+Address: 15088 Eddie Tunnel, New Keithside, MP 06249
+SSN: 517-24-4793
+Card: 4398165876652499 | DOB: 12/02/2000
+Last login IP: 192.168.45.35

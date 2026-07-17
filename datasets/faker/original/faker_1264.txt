@@ -1,0 +1,7 @@
+Customer: Colton Mccarty
+Company: Salazar, Gonzales and Ross
+Email: johnsontonya@example.net | Phone: 390-442-4544
+Address: 3136 Stacey Drive, Hansonport, IA 30601
+SSN: 116-18-2271
+Card: 4499848785952146 | DOB: 04/16/1979
+Last login IP: 172.19.212.149

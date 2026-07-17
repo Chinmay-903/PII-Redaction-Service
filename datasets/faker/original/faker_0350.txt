@@ -1,0 +1,7 @@
+Customer: Ryan Harris
+Company: Martin, Mcpherson and Baxter
+Email: kellyramirez@example.net | Phone: 087-462-4735
+Address: 125 Avila Cape, Candaceburgh, NH 96868
+SSN: 764-17-5958
+Card: 4301343909864763 | DOB: 03/04/2001
+Last login IP: 172.19.235.20

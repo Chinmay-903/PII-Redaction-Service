@@ -1,0 +1,7 @@
+Customer: Johnathan Phillips
+Company: Williams, Garcia and Schultz
+Email: hphillips@example.net | Phone: 522-905-7284
+Address: 631 Gross Loop, Mistyport, ME 02587
+SSN: 375-04-5374
+Card: 4479134581354512 | DOB: 06/12/1992
+Last login IP: 192.168.91.24

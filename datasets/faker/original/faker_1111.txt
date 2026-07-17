@@ -1,0 +1,7 @@
+Customer: James Booth
+Company: Richardson-Morris
+Email: goodwinronnie@example.org | Phone: 750-902-1813
+Address: 25136 Barbara Springs, North Dianaborough, MP 86955
+SSN: 049-57-7810
+Card: 4742736328343250 | DOB: 05/20/1976
+Last login IP: 10.131.101.213

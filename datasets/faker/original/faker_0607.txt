@@ -1,0 +1,7 @@
+Customer: Mary Garcia
+Company: Sanchez, Adams and Vaughan
+Email: washingtonrhonda@example.net | Phone: 539-611-5689
+Address: 215 Johnson Plaza, Timothyborough, GA 30920
+SSN: 120-84-2187
+Card: 4320534493566742 | DOB: 12/22/2004
+Last login IP: 172.25.15.121

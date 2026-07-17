@@ -1,0 +1,7 @@
+Customer: Douglas Rodgers
+Company: Johnson-Robinson
+Email: turnereric@example.org | Phone: 745-490-0850
+Address: 7503 Logan Springs, South Christopherfurt, MP 12085
+SSN: 001-75-2771
+Card: 4990499780531354 | DOB: 12/24/2004
+Last login IP: 192.168.1.166

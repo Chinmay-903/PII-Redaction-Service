@@ -1,0 +1,7 @@
+Customer: Susan Carroll
+Company: Shaw-Hoover
+Email: iwilliams@example.com | Phone: 786-674-5675
+Address: 846 Tammy Walks, West Loriside, AZ 44654
+SSN: 023-57-0613
+Card: 4270213209151475 | DOB: 02/15/1958
+Last login IP: 192.168.255.251

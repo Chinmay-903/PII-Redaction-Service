@@ -1,0 +1,7 @@
+Customer: Amanda Jimenez
+Company: Martin Ltd
+Email: cjenkins@example.com | Phone: 276-816-4265
+Address: 438 Megan Gateway, South Natalie, MA 31629
+SSN: 168-51-3374
+Card: 4943537658723104 | DOB: 05/28/1956
+Last login IP: 172.27.252.220

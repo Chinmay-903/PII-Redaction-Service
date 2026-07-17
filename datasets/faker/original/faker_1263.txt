@@ -1,0 +1,7 @@
+Customer: Sheila Andrews
+Company: Roberts, Reilly and Powell
+Email: hudsonjames@example.net | Phone: 294-277-1010
+Address: 19855 Bell Light, Port Jacob, SD 46684
+SSN: 025-24-0529
+Card: 4189350587289996 | DOB: 04/10/1950
+Last login IP: 192.168.167.254

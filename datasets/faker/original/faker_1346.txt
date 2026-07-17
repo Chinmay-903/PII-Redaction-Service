@@ -1,0 +1,7 @@
+Customer: Russell Benson
+Company: Williams-Walls
+Email: cherylcarlson@example.org | Phone: 868-102-4613
+Address: 175 Kyle Junction, Lake Erik, MT 28783
+SSN: 871-90-4192
+Card: 4327654582027001 | DOB: 05/04/1980
+Last login IP: 192.168.13.183

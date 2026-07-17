@@ -1,0 +1,7 @@
+Customer: Robert Irwin
+Company: Johnson-Rivera
+Email: rebecca47@example.net | Phone: 313-800-7856
+Address: 59082 Smith Mission, Transhire, RI 21682
+SSN: 544-31-8992
+Card: 4150857512464564 | DOB: 08/10/1958
+Last login IP: 192.168.173.155

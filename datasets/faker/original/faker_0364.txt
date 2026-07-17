@@ -1,0 +1,7 @@
+Customer: Dominic Kelly
+Company: Contreras, Jacobson and Robinson
+Email: mochoa@example.com | Phone: 796-470-7332
+Address: 95029 Alexander Street, West Tina, AZ 72211
+SSN: 257-36-9197
+Card: 4755488737444972 | DOB: 07/15/1959
+Last login IP: 172.24.206.123

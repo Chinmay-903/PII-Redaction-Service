@@ -1,0 +1,7 @@
+Customer: Rachel Reed
+Company: West LLC
+Email: sabrina36@example.org | Phone: 703-394-6912
+Address: 297 Brooks Harbors, Keithborough, IL 72966
+SSN: 680-19-6733
+Card: 4713476135229021 | DOB: 11/29/1991
+Last login IP: 10.22.131.149

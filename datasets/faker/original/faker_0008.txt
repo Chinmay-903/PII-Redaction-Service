@@ -1,0 +1,7 @@
+Customer: Kathryn Bailey
+Company: Shah-Wong
+Email: jamiekeller@example.org | Phone: 035-005-2667
+Address: 5328 Adam Neck, Laurenstad, WA 35370
+SSN: 686-56-7771
+Card: 4362082896153014 | DOB: 11/04/1950
+Last login IP: 172.26.161.109

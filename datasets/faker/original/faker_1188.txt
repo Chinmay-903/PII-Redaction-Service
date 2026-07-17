@@ -1,0 +1,7 @@
+Customer: Mary Myers
+Company: Reynolds, Martinez and Gillespie
+Email: meganweiss@example.com | Phone: 552-719-7117
+Address: 86827 Brooks Estates, Stevebury, AS 58040
+SSN: 455-98-8213
+Card: 4886630507644941 | DOB: 11/09/1956
+Last login IP: 172.31.90.100

@@ -1,0 +1,7 @@
+Customer: James Gomez
+Company: Johnson, Burns and Williamson
+Email: trevor80@example.net | Phone: 807-734-6279
+Address: 96630 Smith Landing, Hessmouth, GA 01328
+SSN: 484-75-9939
+Card: 4615155921579786 | DOB: 04/09/1988
+Last login IP: 192.168.28.23

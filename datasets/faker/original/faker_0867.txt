@@ -1,0 +1,7 @@
+Customer: Deborah Ellis
+Company: Morales, Martinez and Walker
+Email: ljackson@example.com | Phone: 680-272-5676
+Address: 884 Jennifer Keys, Susanside, VI 19305
+SSN: 488-76-0956
+Card: 4515054234049945 | DOB: 07/30/1990
+Last login IP: 192.168.232.155

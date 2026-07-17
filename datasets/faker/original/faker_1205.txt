@@ -1,0 +1,7 @@
+Customer: Amber West
+Company: Matthews, Holmes and Hall
+Email: robert54@example.com | Phone: 007-030-7344
+Address: 625 Gross Burgs, Torresborough, MD 24342
+SSN: 135-37-8822
+Card: 4336989095662285 | DOB: 07/19/1983
+Last login IP: 10.151.37.150

@@ -1,0 +1,7 @@
+Customer: Debra Simpson
+Company: Arnold-Norman
+Email: uortega@example.org | Phone: 858-978-6689
+Address: 3582 Matthews Villages, New Stephenchester, AZ 83747
+SSN: 741-70-9437
+Card: 4446722274418840 | DOB: 05/11/1955
+Last login IP: 192.168.194.205

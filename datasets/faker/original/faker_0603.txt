@@ -1,0 +1,7 @@
+Customer: Melissa Walker
+Company: Wilkinson, Smith and Thomas
+Email: mariebarrett@example.net | Phone: 116-895-4476
+Address: 3261 Jones Tunnel, South Anthonymouth, MS 92628
+SSN: 314-31-4228
+Card: 4754217529903817 | DOB: 08/23/1957
+Last login IP: 10.140.181.149

@@ -1,0 +1,7 @@
+Customer: Christopher Martin
+Company: Perez PLC
+Email: danielpatterson@example.com | Phone: 960-267-8497
+Address: 02363 Randall Glens, Meaganview, AK 19678
+SSN: 082-28-9484
+Card: 4028831973796608 | DOB: 04/18/1955
+Last login IP: 192.168.226.109

@@ -1,0 +1,7 @@
+Customer: Joseph Gibson
+Company: Wright-Newman
+Email: kimberlybishop@example.net | Phone: 768-583-1292
+Address: 995 Jackson Rest, West Diana, PA 79143
+SSN: 897-84-8079
+Card: 4667960747575877 | DOB: 02/13/1953
+Last login IP: 172.29.201.167

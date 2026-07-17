@@ -1,0 +1,7 @@
+Customer: Joseph Rollins
+Company: Gonzalez-Anderson
+Email: bakerrebecca@example.org | Phone: 419-217-8303
+Address: 015 Rogers Garden, Villegaston, MH 72877
+SSN: 182-88-9360
+Card: 4685388896087676 | DOB: 02/27/1999
+Last login IP: 172.23.70.103

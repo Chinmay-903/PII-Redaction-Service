@@ -1,0 +1,7 @@
+Customer: Ralph Lane
+Company: Nelson-Le
+Email: thomasjohn@example.org | Phone: 927-663-6439
+Address: 9283 Fernandez Locks, Russellland, UT 18013
+SSN: 410-55-9534
+Card: 4779078864711525 | DOB: 02/23/1997
+Last login IP: 192.168.164.184

@@ -1,0 +1,7 @@
+Customer: Melissa Day
+Company: Rivers, Contreras and Franco
+Email: rgalloway@example.net | Phone: 158-801-1034
+Address: 393 Lori Corner, Lake Jason, LA 10701
+SSN: 345-58-6975
+Card: 4451824421714907 | DOB: 08/15/1982
+Last login IP: 172.29.78.1

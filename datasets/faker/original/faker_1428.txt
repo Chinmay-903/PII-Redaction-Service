@@ -1,0 +1,7 @@
+Customer: Gerald Miller
+Company: Lewis-Mann
+Email: ruizcindy@example.net | Phone: 762-193-4985
+Address: 95275 Cynthia Lake, New Brandonton, AL 60207
+SSN: 840-84-6856
+Card: 4429870658048856 | DOB: 07/03/1955
+Last login IP: 172.30.180.59

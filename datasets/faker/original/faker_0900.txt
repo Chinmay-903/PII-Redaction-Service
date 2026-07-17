@@ -1,0 +1,7 @@
+Customer: Kathryn Rivera
+Company: Butler, Freeman and Wood
+Email: whitewilliam@example.net | Phone: 479-437-3953
+Address: 3945 Andrew Summit, Jerryland, CA 28392
+SSN: 775-57-0043
+Card: 4224058809452188 | DOB: 02/19/1996
+Last login IP: 10.156.148.85

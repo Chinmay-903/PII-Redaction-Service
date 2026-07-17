@@ -1,0 +1,7 @@
+Customer: Jack Blair
+Company: Bishop and Sons
+Email: wadezachary@example.net | Phone: 029-606-6826
+Address: 1482 Larson Vista, East Marc, AS 87997
+SSN: 571-72-4366
+Card: 4889633401171208 | DOB: 11/23/1945
+Last login IP: 10.44.115.162

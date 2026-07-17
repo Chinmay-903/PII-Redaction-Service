@@ -1,0 +1,7 @@
+Customer: Jeffery Bell
+Company: Luna, Shaw and Mccann
+Email: georgethomas@example.org | Phone: 611-231-4347
+Address: 1964 Alicia Island, Morrisonborough, LA 23648
+SSN: 392-70-0883
+Card: 4443873085669635 | DOB: 12/02/1988
+Last login IP: 172.22.123.85

@@ -1,0 +1,7 @@
+Customer: Joseph Allen
+Company: Reed, Garcia and Sanchez
+Email: mitchelldebra@example.org | Phone: 530-452-7833
+Address: 6895 Rogers Orchard, West Kevinland, GA 64996
+SSN: 245-12-6692
+Card: 4216653266290954 | DOB: 04/14/1967
+Last login IP: 172.18.170.151

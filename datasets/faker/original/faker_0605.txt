@@ -1,0 +1,7 @@
+Customer: Sophia Bennett
+Company: Williams-Barr
+Email: salazardanielle@example.com | Phone: 993-114-6906
+Address: 575 Kathleen Neck, Davenporttown, AZ 14833
+SSN: 477-16-5455
+Card: 4085001295507733 | DOB: 05/18/1962
+Last login IP: 172.22.179.168

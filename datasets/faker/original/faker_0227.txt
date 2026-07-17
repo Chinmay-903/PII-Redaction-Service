@@ -1,0 +1,7 @@
+Customer: Jacob Vega
+Company: Lewis PLC
+Email: charleslarsen@example.net | Phone: 593-613-6481
+Address: 3788 Edward Bridge, East John, CT 80246
+SSN: 107-96-1245
+Card: 4544090602162667 | DOB: 08/16/1969
+Last login IP: 172.16.6.60

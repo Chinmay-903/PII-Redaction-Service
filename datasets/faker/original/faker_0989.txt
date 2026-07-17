@@ -1,0 +1,7 @@
+Customer: Danielle Peters
+Company: Robinson, Barajas and Roth
+Email: csaunders@example.com | Phone: 650-599-8182
+Address: 70782 Zachary Streets, New George, OH 73349
+SSN: 668-90-5898
+Card: 4007604247877255 | DOB: 12/23/1996
+Last login IP: 172.29.220.20

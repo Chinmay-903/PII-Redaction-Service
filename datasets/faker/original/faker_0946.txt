@@ -1,0 +1,7 @@
+Customer: Dr. Lauren Nguyen
+Company: Hensley, Miller and Levy
+Email: camacholee@example.net | Phone: 452-937-2795
+Address: 198 Blake Oval, Lake Daisy, MI 90769
+SSN: 388-05-9947
+Card: 4619560459262810 | DOB: 06/14/1969
+Last login IP: 172.20.189.223

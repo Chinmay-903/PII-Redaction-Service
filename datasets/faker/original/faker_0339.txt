@@ -1,0 +1,7 @@
+Customer: Kelsey Garcia
+Company: James-Newton
+Email: lopezdaniel@example.com | Phone: 722-959-2152
+Address: 239 Thomas Rapids, Ayersborough, GA 40846
+SSN: 611-01-9141
+Card: 4703410392235845 | DOB: 09/24/1986
+Last login IP: 192.168.107.136

@@ -1,0 +1,7 @@
+Customer: Theresa Ramirez
+Company: Davis, Harrison and Doyle
+Email: ana80@example.org | Phone: 354-541-4119
+Address: 53934 Miller Isle, South Brenda, CT 17935
+SSN: 680-20-2596
+Card: 4364704937286960 | DOB: 11/05/1967
+Last login IP: 192.168.138.78

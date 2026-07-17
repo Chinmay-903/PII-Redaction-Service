@@ -1,0 +1,7 @@
+Customer: Brittany Pierce
+Company: Ray, Richards and King
+Email: robinsondaniel@example.com | Phone: 390-793-1439
+Address: 740 Randall Corner, Howeside, IL 09611
+SSN: 453-62-8883
+Card: 4645410426471482 | DOB: 04/08/1974
+Last login IP: 172.25.114.243

@@ -1,0 +1,7 @@
+Customer: Joseph Yang
+Company: Williams Group
+Email: alexishines@example.net | Phone: 496-382-9107
+Address: 405 Shaw Crossing, Port Jennyshire, ND 17524
+SSN: 211-79-9620
+Card: 4154150414052570 | DOB: 09/24/1981
+Last login IP: 192.168.4.77

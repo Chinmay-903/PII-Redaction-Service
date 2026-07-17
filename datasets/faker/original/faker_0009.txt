@@ -1,0 +1,7 @@
+Customer: April Burnett
+Company: Myers-Reyes
+Email: rileyjanet@example.net | Phone: 177-279-9029
+Address: 90236 Christina Islands, North Angela, NM 99300
+SSN: 413-03-2251
+Card: 4467597348513998 | DOB: 08/17/2001
+Last login IP: 10.240.76.184

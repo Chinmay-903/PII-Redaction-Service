@@ -1,0 +1,7 @@
+Customer: Ashley Quinn
+Company: Cunningham-Jarvis
+Email: william92@example.org | Phone: 500-716-3989
+Address: 73507 Cooke Divide, Wayneland, VI 20058
+SSN: 276-11-8499
+Card: 4579263999447524 | DOB: 08/25/1963
+Last login IP: 10.112.191.246

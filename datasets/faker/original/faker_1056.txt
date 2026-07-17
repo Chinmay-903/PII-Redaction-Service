@@ -1,0 +1,7 @@
+Customer: Jeremy Savage
+Company: Wood, Gilbert and Martinez
+Email: josejackson@example.net | Phone: 314-956-2569
+Address: 2381 Daniel Land, New Barbara, PR 72676
+SSN: 018-59-3031
+Card: 4882362849723704 | DOB: 01/25/1957
+Last login IP: 192.168.150.90

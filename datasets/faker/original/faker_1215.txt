@@ -1,0 +1,7 @@
+Customer: Edward Morales
+Company: Martinez-Heath
+Email: reneegentry@example.com | Phone: 552-063-4056
+Address: 68286 West Walk, Port Dylan, WY 28203
+SSN: 169-44-1666
+Card: 4184161083470252 | DOB: 02/02/2004
+Last login IP: 10.129.221.59

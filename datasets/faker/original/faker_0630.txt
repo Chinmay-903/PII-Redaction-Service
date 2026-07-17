@@ -1,0 +1,7 @@
+Customer: Christopher Hart
+Company: Perez and Sons
+Email: andersonrobin@example.net | Phone: 601-860-6856
+Address: 82925 Joel Squares, North Jasonfurt, RI 51843
+SSN: 259-68-7830
+Card: 4656861807387414 | DOB: 03/27/1981
+Last login IP: 192.168.243.168

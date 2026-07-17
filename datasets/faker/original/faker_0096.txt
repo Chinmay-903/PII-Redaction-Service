@@ -1,0 +1,7 @@
+Customer: Tracy Garrett
+Company: Hubbard-Vincent
+Email: josephmartin@example.net | Phone: 229-602-2894
+Address: 3092 Chavez Valleys, Harrisonside, IL 92270
+SSN: 875-37-1922
+Card: 4980645596454833 | DOB: 04/22/1972
+Last login IP: 192.168.230.51

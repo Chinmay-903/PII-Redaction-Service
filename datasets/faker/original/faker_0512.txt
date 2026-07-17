@@ -1,0 +1,7 @@
+Customer: Katie Combs
+Company: Walter-Bender
+Email: shelley54@example.org | Phone: 843-502-9251
+Address: 9906 Jeffrey Fall, Port Kellybury, LA 92864
+SSN: 839-46-0167
+Card: 4250830371870444 | DOB: 01/14/1979
+Last login IP: 172.17.200.231

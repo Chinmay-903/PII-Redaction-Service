@@ -1,0 +1,7 @@
+Customer: Karen Murray
+Company: Perez, Carlson and Alexander
+Email: daybrian@example.com | Phone: 622-146-0199
+Address: 9055 Krystal Unions, Melissafurt, MT 15040
+SSN: 849-92-5485
+Card: 4731083293496059 | DOB: 09/20/1967
+Last login IP: 192.168.46.145

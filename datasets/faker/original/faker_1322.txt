@@ -1,0 +1,7 @@
+Customer: Manuel Norris
+Company: Washington, Spence and Washington
+Email: zwilcox@example.org | Phone: 161-920-4556
+Address: 834 Ralph Neck, South Sierra, MI 71922
+SSN: 731-25-9226
+Card: 4475998111112911 | DOB: 12/26/1973
+Last login IP: 10.157.107.106

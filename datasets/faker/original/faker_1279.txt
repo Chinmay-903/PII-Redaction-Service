@@ -1,0 +1,7 @@
+Customer: Jessica Mahoney
+Company: Ellison-Wright
+Email: edwinrobbins@example.com | Phone: 365-790-2109
+Address: 28569 Jackson Mission, Taylorshire, GU 83921
+SSN: 606-12-1372
+Card: 4702052558608489 | DOB: 04/07/1954
+Last login IP: 10.200.112.55

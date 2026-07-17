@@ -1,0 +1,7 @@
+Customer: Jason Murray
+Company: Ali-Welch
+Email: tlara@example.com | Phone: 984-149-7743
+Address: 9817 John Extension, East Katelynfurt, IA 86340
+SSN: 391-07-8774
+Card: 4797850114545095 | DOB: 03/12/1964
+Last login IP: 172.30.134.68

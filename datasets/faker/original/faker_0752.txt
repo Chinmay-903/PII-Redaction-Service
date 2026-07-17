@@ -1,0 +1,7 @@
+Customer: Tracy Sanchez
+Company: Jackson Inc
+Email: kbarton@example.net | Phone: 341-420-4200
+Address: 3068 Katherine Via, East Steven, VA 42985
+SSN: 045-71-0567
+Card: 4867462596750691 | DOB: 06/11/2003
+Last login IP: 10.116.194.237

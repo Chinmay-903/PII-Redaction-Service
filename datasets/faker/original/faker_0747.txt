@@ -1,0 +1,7 @@
+Customer: Jill Vincent
+Company: Miller LLC
+Email: ehunt@example.net | Phone: 887-226-3008
+Address: 1063 Baker Village, Yangborough, PW 41576
+SSN: 617-13-8030
+Card: 4737932782339135 | DOB: 08/06/1953
+Last login IP: 192.168.127.8

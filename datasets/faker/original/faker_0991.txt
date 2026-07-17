@@ -1,0 +1,7 @@
+Customer: Karen Burns
+Company: Duran Ltd
+Email: sharonbaker@example.net | Phone: 504-722-6177
+Address: 283 Brooks Terrace, Anthonyshire, GA 38333
+SSN: 735-74-0839
+Card: 4112234746010273 | DOB: 05/08/1968
+Last login IP: 10.80.149.42

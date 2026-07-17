@@ -1,0 +1,7 @@
+Customer: Curtis Thompson
+Company: Smith, Simmons and Silva
+Email: tracyburnett@example.org | Phone: 022-722-0912
+Address: 890 Kendra Lane, New Ashley, VA 69832
+SSN: 683-42-7050
+Card: 4122154154830848 | DOB: 02/03/2002
+Last login IP: 192.168.97.175

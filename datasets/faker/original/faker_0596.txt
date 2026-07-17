@@ -1,0 +1,7 @@
+Customer: Jared Johnson
+Company: Smith, Flynn and Vincent
+Email: john09@example.org | Phone: 770-063-0676
+Address: 87102 Timothy Valley, Michaelport, LA 31137
+SSN: 660-13-1067
+Card: 4416667097995084 | DOB: 10/09/2005
+Last login IP: 10.106.23.222

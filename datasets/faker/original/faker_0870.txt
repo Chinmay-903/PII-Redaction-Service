@@ -1,0 +1,7 @@
+Customer: Adam Johnson
+Company: Brewer LLC
+Email: vernon87@example.net | Phone: 999-388-8946
+Address: 49442 John Flat, New Kathleen, NV 30764
+SSN: 631-80-1475
+Card: 4140967736712673 | DOB: 06/24/2003
+Last login IP: 10.5.35.202

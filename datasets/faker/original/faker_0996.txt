@@ -1,0 +1,7 @@
+Customer: Aaron Levine
+Company: Hancock-Hickman
+Email: andrew74@example.com | Phone: 758-754-0640
+Address: 02729 Davies Island, New Darrell, PA 19527
+SSN: 541-59-9555
+Card: 4560719134682201 | DOB: 01/06/1999
+Last login IP: 10.166.183.126

@@ -1,0 +1,7 @@
+Customer: Christine Jones
+Company: Morales and Sons
+Email: ryanhall@example.com | Phone: 246-209-0625
+Address: 7424 Schroeder Port, Jameshaven, TN 09907
+SSN: 458-57-2490
+Card: 4245236337236639 | DOB: 04/22/1954
+Last login IP: 172.24.246.210

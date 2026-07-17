@@ -1,0 +1,7 @@
+Customer: Sara Bishop
+Company: Johnson-Vasquez
+Email: ecooper@example.net | Phone: 470-884-3587
+Address: 094 Felicia Burg, New Jacquelineborough, LA 00998
+SSN: 163-30-4986
+Card: 4427814258594721 | DOB: 09/14/1995
+Last login IP: 172.19.90.182

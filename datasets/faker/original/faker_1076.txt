@@ -1,0 +1,7 @@
+Customer: Whitney Bryant
+Company: Lopez, Bauer and Stone
+Email: veronica32@example.net | Phone: 921-873-1935
+Address: 974 Martinez Street, Jamesshire, OH 55744
+SSN: 145-18-9784
+Card: 4683349328793317 | DOB: 06/21/1973
+Last login IP: 172.24.63.230

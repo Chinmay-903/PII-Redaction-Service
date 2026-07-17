@@ -1,0 +1,7 @@
+Customer: Thomas Gonzalez
+Company: Fuller Inc
+Email: richardhernandez@example.net | Phone: 308-326-2877
+Address: 67298 Bradley Path, North Jennifertown, MD 70404
+SSN: 787-52-6804
+Card: 4669843453698042 | DOB: 03/29/1981
+Last login IP: 192.168.241.189

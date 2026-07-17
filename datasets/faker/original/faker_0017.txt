@@ -1,0 +1,7 @@
+Customer: Cheryl Brown
+Company: Mccormick-Randall
+Email: qwalker@example.com | Phone: 705-289-6925
+Address: 908 Gray Parks, Port Anitafort, OK 79348
+SSN: 651-42-1844
+Card: 4715080856501465 | DOB: 01/08/1988
+Last login IP: 172.21.65.21

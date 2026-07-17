@@ -1,0 +1,7 @@
+Customer: Kimberly Reed
+Company: Hodge Group
+Email: nholmes@example.org | Phone: 590-571-6535
+Address: 130 Reed Ranch, South Deborah, MS 60170
+SSN: 779-32-4355
+Card: 4754064565831308 | DOB: 07/23/1986
+Last login IP: 192.168.116.164

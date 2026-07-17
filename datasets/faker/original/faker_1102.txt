@@ -1,0 +1,7 @@
+Customer: Karen Wilkerson
+Company: Lewis-Ayala
+Email: dboyd@example.org | Phone: 228-847-3990
+Address: 176 Rowland Street, Hughesshire, FL 76012
+SSN: 729-17-4600
+Card: 4152884034819263 | DOB: 11/24/1954
+Last login IP: 192.168.132.85

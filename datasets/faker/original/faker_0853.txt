@@ -1,0 +1,7 @@
+Customer: Jessica Garcia
+Company: Neal-Wood
+Email: patrick95@example.org | Phone: 700-082-3568
+Address: 2948 Kaiser Radial, Port Jessica, DC 06377
+SSN: 874-65-2019
+Card: 4525739708285797 | DOB: 09/24/1961
+Last login IP: 172.22.40.13

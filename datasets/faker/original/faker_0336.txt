@@ -1,0 +1,7 @@
+Customer: Tracy Wilson
+Company: Taylor and Sons
+Email: daltonrhonda@example.net | Phone: 114-443-9878
+Address: 23112 Alexis Summit, Johnsonfort, PA 70138
+SSN: 437-17-0406
+Card: 4017830026187131 | DOB: 09/25/1948
+Last login IP: 10.83.200.235

@@ -1,0 +1,7 @@
+Customer: Christopher Scott
+Company: Wood, Grimes and Kim
+Email: michealhall@example.net | Phone: 380-010-6668
+Address: 260 Daniel Squares, Port Suzanne, MD 29210
+SSN: 674-11-3237
+Card: 4165124439239709 | DOB: 09/01/1968
+Last login IP: 192.168.209.149

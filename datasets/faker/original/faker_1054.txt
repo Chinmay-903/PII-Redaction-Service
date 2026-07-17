@@ -1,0 +1,7 @@
+Customer: Danielle Gibson
+Company: Moran-Moran
+Email: lopezantonio@example.com | Phone: 019-966-5871
+Address: 20542 Murphy Estates, South Jenna, ME 67596
+SSN: 546-16-6782
+Card: 4819719422066298 | DOB: 08/27/1958
+Last login IP: 172.26.183.197

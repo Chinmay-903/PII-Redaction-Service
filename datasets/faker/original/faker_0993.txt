@@ -1,0 +1,7 @@
+Customer: Willie Webb
+Company: Randolph, Johnson and West
+Email: jacquelineherman@example.net | Phone: 792-121-7151
+Address: 1147 Williams Lakes, East Elizabethville, HI 37240
+SSN: 275-28-5469
+Card: 4037825846941259 | DOB: 12/15/1977
+Last login IP: 192.168.132.40

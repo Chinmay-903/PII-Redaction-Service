@@ -1,0 +1,7 @@
+Customer: Timothy Brock
+Company: Jones, Martin and Smith
+Email: tcordova@example.org | Phone: 406-580-9344
+Address: 933 Smith Keys, North Brenda, TX 76038
+SSN: 085-68-3134
+Card: 4401677751744071 | DOB: 06/29/1982
+Last login IP: 192.168.6.247

@@ -1,0 +1,7 @@
+Customer: Kevin Taylor
+Company: Jones-Pierce
+Email: qromero@example.net | Phone: 293-617-1719
+Address: 40318 Jeffery Point, Reginaland, VI 19169
+SSN: 169-67-0515
+Card: 4150405438292618 | DOB: 04/16/1958
+Last login IP: 10.14.5.41

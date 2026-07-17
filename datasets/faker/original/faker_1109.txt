@@ -1,0 +1,7 @@
+Customer: Douglas Ritter
+Company: Jackson, Miller and Weber
+Email: tcampbell@example.net | Phone: 780-572-1544
+Address: 245 Julie Turnpike, Lake Reginaburgh, VA 26686
+SSN: 023-49-6021
+Card: 4022631072160797 | DOB: 03/29/1981
+Last login IP: 10.111.32.120

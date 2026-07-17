@@ -1,0 +1,7 @@
+Customer: Kaitlin Sawyer
+Company: Nelson, Love and Stewart
+Email: johncole@example.net | Phone: 212-380-9134
+Address: 971 Jonathan Camp, Lake James, CT 28161
+SSN: 893-48-2858
+Card: 4358401275409696 | DOB: 08/25/1960
+Last login IP: 192.168.115.59

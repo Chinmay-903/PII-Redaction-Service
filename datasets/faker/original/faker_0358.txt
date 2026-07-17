@@ -1,0 +1,7 @@
+Customer: James Williams
+Company: Simmons, Short and Anderson
+Email: cgriffin@example.com | Phone: 691-003-3666
+Address: 46329 Hector Shoals, Saramouth, TX 75523
+SSN: 561-42-9119
+Card: 4844108380021710 | DOB: 01/08/1949
+Last login IP: 192.168.211.121

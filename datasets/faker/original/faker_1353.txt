@@ -1,0 +1,7 @@
+Customer: Stephen Mendoza
+Company: Walter and Sons
+Email: richard60@example.com | Phone: 786-744-2173
+Address: 879 Danny Island, Port Danielburgh, GU 39771
+SSN: 875-94-3814
+Card: 4508629587087664 | DOB: 05/27/1972
+Last login IP: 172.20.100.77

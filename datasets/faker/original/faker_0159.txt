@@ -1,0 +1,7 @@
+Customer: Nicholas Martinez
+Company: Conley-Schwartz
+Email: monica31@example.org | Phone: 478-372-8572
+Address: 367 Shelton Fall, Kristifort, PR 83820
+SSN: 036-37-0631
+Card: 4006795592533856 | DOB: 10/12/1977
+Last login IP: 172.21.73.32

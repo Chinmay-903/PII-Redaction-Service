@@ -1,0 +1,7 @@
+Customer: Lisa Duncan
+Company: Bryant-Lewis
+Email: vthomas@example.net | Phone: 665-774-3175
+Address: 0262 John Club, East Charles, OH 24739
+SSN: 361-45-5116
+Card: 4489073296277709 | DOB: 01/09/1973
+Last login IP: 192.168.163.197

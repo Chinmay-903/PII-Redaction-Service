@@ -1,0 +1,7 @@
+Customer: Joe Reynolds
+Company: Barrera-Long
+Email: michaelbrown@example.net | Phone: 163-064-0389
+Address: 3269 Jones Groves, South Davidmouth, MA 38540
+SSN: 380-19-8183
+Card: 4198737574838133 | DOB: 12/13/2002
+Last login IP: 192.168.155.210

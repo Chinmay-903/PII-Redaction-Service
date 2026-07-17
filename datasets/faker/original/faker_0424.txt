@@ -1,0 +1,7 @@
+Customer: Kelly Morris
+Company: Diaz LLC
+Email: jessica37@example.com | Phone: 014-539-1243
+Address: 9686 Duran Cape, Adamsborough, MH 26239
+SSN: 094-05-5145
+Card: 4195964074965884 | DOB: 08/10/1968
+Last login IP: 192.168.199.128

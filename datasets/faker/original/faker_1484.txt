@@ -1,0 +1,7 @@
+Customer: Heather Ramos
+Company: Rhodes LLC
+Email: deborahhernandez@example.com | Phone: 454-695-4364
+Address: 4738 Kelly Wall, East Sonya, WI 92904
+SSN: 738-62-1632
+Card: 4151243771017931 | DOB: 03/15/1986
+Last login IP: 192.168.91.80

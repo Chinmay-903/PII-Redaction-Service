@@ -1,0 +1,7 @@
+Customer: Mr. Daniel Guerrero
+Company: Olson-Wiggins
+Email: christinejones@example.net | Phone: 561-176-4097
+Address: 59497 Moore Island, North Donna, MN 76255
+SSN: 162-47-1877
+Card: 4651455453745457 | DOB: 08/25/1991
+Last login IP: 10.202.236.125

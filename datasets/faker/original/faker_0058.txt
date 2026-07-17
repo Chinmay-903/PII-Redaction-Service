@@ -1,0 +1,7 @@
+Customer: Jeanette Peters MD
+Company: Ferguson-Swanson
+Email: grayhannah@example.org | Phone: 873-028-7471
+Address: 812 Judy Prairie, Juliamouth, PW 24015
+SSN: 098-58-8798
+Card: 4046584517388394 | DOB: 02/04/1976
+Last login IP: 10.155.200.170

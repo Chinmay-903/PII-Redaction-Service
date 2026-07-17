@@ -1,0 +1,7 @@
+Customer: Erika Jones
+Company: Leon, Hawkins and Cooper
+Email: kayla73@example.com | Phone: 787-070-0873
+Address: 2558 Kim Place, South Donna, IL 77029
+SSN: 145-20-3769
+Card: 4244486165187237 | DOB: 03/26/1989
+Last login IP: 172.18.116.28

@@ -1,0 +1,7 @@
+Customer: Tara Davila
+Company: Jackson, Perkins and Silva
+Email: john61@example.com | Phone: 714-555-2264
+Address: 148 Fisher Groves, Williamshaven, NE 97989
+SSN: 381-28-2761
+Card: 4185241587165928 | DOB: 06/21/1986
+Last login IP: 172.28.199.89

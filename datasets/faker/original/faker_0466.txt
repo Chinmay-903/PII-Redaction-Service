@@ -1,0 +1,7 @@
+Customer: Scott Jackson
+Company: Richardson and Sons
+Email: rsanders@example.org | Phone: 854-912-1083
+Address: 2785 Jennifer Lodge, North Amanda, TX 53350
+SSN: 637-16-5195
+Card: 4819782690731506 | DOB: 08/08/1962
+Last login IP: 10.145.193.194

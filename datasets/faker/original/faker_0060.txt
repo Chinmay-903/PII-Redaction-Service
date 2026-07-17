@@ -1,0 +1,7 @@
+Customer: Jeanette Adkins
+Company: Butler, Howard and Patrick
+Email: brooke67@example.com | Phone: 393-624-2056
+Address: 75280 Hayes Wells, Huffmanmouth, OR 13558
+SSN: 321-95-5369
+Card: 4082003554370442 | DOB: 12/05/1961
+Last login IP: 192.168.103.166

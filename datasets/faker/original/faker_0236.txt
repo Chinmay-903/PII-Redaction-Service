@@ -1,0 +1,7 @@
+Customer: William Daniel
+Company: Byrd, Ellison and Howell
+Email: joshua41@example.com | Phone: 806-849-5996
+Address: 124 Mallory Neck, Albertview, ID 51306
+SSN: 481-77-0482
+Card: 4787992064157760 | DOB: 09/30/1981
+Last login IP: 10.79.4.219

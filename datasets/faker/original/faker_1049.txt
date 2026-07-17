@@ -1,0 +1,7 @@
+Customer: Justin Parker
+Company: Hughes Group
+Email: wardmelissa@example.com | Phone: 845-431-7232
+Address: 498 Spencer Lock, Port Brandifurt, MA 84214
+SSN: 318-20-8462
+Card: 4927493052597654 | DOB: 12/07/1948
+Last login IP: 10.69.104.68

@@ -1,0 +1,7 @@
+Customer: James Hernandez
+Company: Maddox, Anderson and Gonzalez
+Email: ehuff@example.com | Phone: 134-678-9287
+Address: 876 Watson Lodge, Monicaport, GU 83998
+SSN: 708-67-4841
+Card: 4058721107243333 | DOB: 07/11/1956
+Last login IP: 10.43.106.11

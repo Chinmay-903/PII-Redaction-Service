@@ -1,0 +1,7 @@
+Customer: Tammy Guzman
+Company: James-Moore
+Email: taylorjacob@example.org | Phone: 056-575-6179
+Address: 696 Cameron Lake, Barrettfort, WY 64806
+SSN: 504-30-0776
+Card: 4998161307075628 | DOB: 11/11/1980
+Last login IP: 172.18.1.119

@@ -1,0 +1,7 @@
+Customer: Richard Chavez
+Company: Long-Fowler
+Email: ramoseric@example.net | Phone: 257-537-1610
+Address: 480 Mills Unions, Ricardoberg, VI 50842
+SSN: 575-41-0241
+Card: 4311721162966482 | DOB: 05/01/1973
+Last login IP: 10.92.240.160

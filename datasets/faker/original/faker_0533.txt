@@ -1,0 +1,7 @@
+Customer: Dean Miller
+Company: Rice-Haley
+Email: dixonbrian@example.net | Phone: 948-601-9692
+Address: 61701 Bates Shoals, Bakerton, OR 41382
+SSN: 171-27-4228
+Card: 4650144980218276 | DOB: 06/01/1967
+Last login IP: 192.168.149.116

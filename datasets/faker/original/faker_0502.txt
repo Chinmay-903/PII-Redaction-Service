@@ -1,0 +1,7 @@
+Customer: Christine Ramirez
+Company: Carpenter, Spence and Rush
+Email: jonesjohn@example.net | Phone: 300-965-3518
+Address: 57269 Simon Terrace, Port Nathanielfurt, SC 66609
+SSN: 506-83-1284
+Card: 4866992655312729 | DOB: 11/02/1967
+Last login IP: 10.203.107.28

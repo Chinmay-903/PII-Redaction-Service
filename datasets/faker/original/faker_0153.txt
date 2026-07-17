@@ -1,0 +1,7 @@
+Customer: Timothy Robertson
+Company: Williams, Dennis and Kennedy
+Email: mmorton@example.net | Phone: 051-532-2194
+Address: 7776 Davis Meadows, Lake Rhonda, VT 18296
+SSN: 147-48-6080
+Card: 4287196875160519 | DOB: 12/29/1948
+Last login IP: 192.168.193.109

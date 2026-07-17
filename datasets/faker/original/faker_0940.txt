@@ -1,0 +1,7 @@
+Customer: Richard Rodriguez
+Company: Morris Inc
+Email: elizabeth56@example.org | Phone: 410-717-9134
+Address: 152 Zachary Forge, East Vicki, AR 31634
+SSN: 776-39-1595
+Card: 4873965664534559 | DOB: 07/03/1995
+Last login IP: 172.28.42.130

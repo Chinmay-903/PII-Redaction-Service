@@ -1,0 +1,7 @@
+Customer: Steven Vasquez
+Company: Douglas, Miller and Coleman
+Email: abigail16@example.com | Phone: 845-129-3251
+Address: 34129 Dawson Square, Jenkinsstad, CO 93167
+SSN: 784-02-0894
+Card: 4293704154227222 | DOB: 11/08/1986
+Last login IP: 192.168.41.166

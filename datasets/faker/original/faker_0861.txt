@@ -1,0 +1,7 @@
+Customer: Taylor Washington
+Company: Mckinney-Gutierrez
+Email: martin56@example.org | Phone: 868-994-6090
+Address: 552 Henry Flats, New Christopher, GA 21827
+SSN: 867-98-1421
+Card: 4173812167012765 | DOB: 06/27/1973
+Last login IP: 10.93.249.106

@@ -1,0 +1,7 @@
+Customer: Stephanie Davis
+Company: Wilson, Kramer and Brown
+Email: summersgregg@example.com | Phone: 143-497-2345
+Address: 97691 Michelle Walk, West Melanie, WA 47363
+SSN: 314-77-8998
+Card: 4320039546772941 | DOB: 10/22/1953
+Last login IP: 172.19.223.42

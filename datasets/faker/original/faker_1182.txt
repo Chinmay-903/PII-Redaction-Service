@@ -1,0 +1,7 @@
+Customer: Crystal Taylor
+Company: Clayton, Harris and Valdez
+Email: sarajefferson@example.com | Phone: 391-721-7574
+Address: 52712 Miller Ford, Jeremyhaven, CA 65702
+SSN: 448-95-2608
+Card: 4676069145870523 | DOB: 06/07/1969
+Last login IP: 192.168.48.37

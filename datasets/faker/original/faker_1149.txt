@@ -1,0 +1,7 @@
+Customer: Jessica Blevins
+Company: Jordan-Gregory
+Email: stacey84@example.net | Phone: 686-910-1383
+Address: 64620 Alexis Parkways, Lake Valeriebury, DC 53671
+SSN: 654-53-3327
+Card: 4250771892413894 | DOB: 04/21/1997
+Last login IP: 192.168.213.83

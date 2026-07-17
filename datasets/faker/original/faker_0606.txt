@@ -1,0 +1,7 @@
+Customer: Stacey Dalton
+Company: Pena and Sons
+Email: jared70@example.net | Phone: 703-849-4669
+Address: 300 Cox Center, Lake Rebeccafurt, NE 65177
+SSN: 567-81-6172
+Card: 4450648776731880 | DOB: 10/18/1969
+Last login IP: 172.16.190.9

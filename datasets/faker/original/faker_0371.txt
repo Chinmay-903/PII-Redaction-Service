@@ -1,0 +1,7 @@
+Customer: Nicole Trevino
+Company: Daniels-Yoder
+Email: jeffreygarcia@example.com | Phone: 531-403-6084
+Address: 1706 Joseph Crest, East Michellebury, VA 68390
+SSN: 347-19-0357
+Card: 4250645726194088 | DOB: 06/16/2000
+Last login IP: 172.30.90.130

@@ -1,0 +1,7 @@
+Customer: James Evans
+Company: Arnold-Henderson
+Email: amoore@example.com | Phone: 512-898-8295
+Address: 416 Eric Springs, Williamsland, VT 21730
+SSN: 122-40-5254
+Card: 4347922182006287 | DOB: 03/23/1982
+Last login IP: 172.16.5.60

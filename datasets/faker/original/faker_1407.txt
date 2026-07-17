@@ -1,0 +1,7 @@
+Customer: Stephanie Barrera
+Company: Baker, Hale and Booker
+Email: jacquelinelopez@example.com | Phone: 619-462-0631
+Address: 377 Kelley Camp, North Meghan, OH 66340
+SSN: 531-58-9724
+Card: 4862992272190486 | DOB: 04/09/1986
+Last login IP: 192.168.74.215

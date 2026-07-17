@@ -1,0 +1,7 @@
+Customer: Brandon Ruiz
+Company: Carney-Hansen
+Email: mary44@example.org | Phone: 644-064-0124
+Address: 28161 Shepherd Union, Lake Yolanda, NJ 09541
+SSN: 673-22-2158
+Card: 4487237143487173 | DOB: 03/19/1979
+Last login IP: 10.196.17.142

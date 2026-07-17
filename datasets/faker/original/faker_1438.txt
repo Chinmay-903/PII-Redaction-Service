@@ -1,0 +1,7 @@
+Customer: Eugene Wright
+Company: Richards Inc
+Email: jessicadillon@example.org | Phone: 437-662-0669
+Address: 38953 Robert Cliff, Hughesmouth, FM 92953
+SSN: 750-29-9026
+Card: 4073137334938937 | DOB: 12/01/1978
+Last login IP: 172.22.92.0

@@ -1,0 +1,7 @@
+Customer: Rickey Williams
+Company: Klein, Randolph and Cruz
+Email: itorres@example.org | Phone: 288-180-0872
+Address: 3681 Dustin Fork, Quinnview, SC 33101
+SSN: 340-72-0730
+Card: 4275513788767160 | DOB: 09/09/1981
+Last login IP: 10.14.160.170

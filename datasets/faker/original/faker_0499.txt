@@ -1,0 +1,7 @@
+Customer: Carlos Ray
+Company: Brown-Navarro
+Email: harpersamantha@example.org | Phone: 847-803-4895
+Address: 81109 Miller Stream, Derrickfort, NC 61494
+SSN: 880-79-8883
+Card: 4395166808310258 | DOB: 03/28/1981
+Last login IP: 172.27.219.69

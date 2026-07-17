@@ -1,0 +1,7 @@
+Customer: Thomas Ferguson
+Company: Ferguson-Murphy
+Email: douglascarlos@example.net | Phone: 738-079-5849
+Address: 54062 Amber Lakes, Wilsonmouth, NJ 92598
+SSN: 078-98-4338
+Card: 4104340713562038 | DOB: 04/26/1975
+Last login IP: 172.31.40.252

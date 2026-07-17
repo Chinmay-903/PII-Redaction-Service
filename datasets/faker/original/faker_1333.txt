@@ -1,0 +1,7 @@
+Customer: Heather Palmer
+Company: Pitts-Peters
+Email: jessica84@example.org | Phone: 854-973-0910
+Address: 091 Darrell Road, West Cindyburgh, AK 06106
+SSN: 075-63-2462
+Card: 4162561925533892 | DOB: 05/31/1958
+Last login IP: 192.168.95.85

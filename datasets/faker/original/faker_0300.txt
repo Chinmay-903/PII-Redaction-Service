@@ -1,0 +1,7 @@
+Customer: Michael Brooks
+Company: Pruitt, Andrews and Sweeney
+Email: kathy00@example.com | Phone: 069-494-8063
+Address: 445 Nicole Isle, Nguyenbury, DC 15473
+SSN: 577-77-9872
+Card: 4746542846865139 | DOB: 02/05/1966
+Last login IP: 192.168.64.168

@@ -1,0 +1,7 @@
+Customer: Catherine Bowen
+Company: Morales-King
+Email: elizabethmartin@example.net | Phone: 805-344-2604
+Address: 85733 Odom Street, South David, SC 05698
+SSN: 440-65-6386
+Card: 4583931945475492 | DOB: 12/22/1984
+Last login IP: 192.168.149.7

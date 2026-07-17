@@ -1,0 +1,7 @@
+Customer: Dylan Huffman
+Company: Bennett-Santos
+Email: youngalexandra@example.com | Phone: 107-690-0294
+Address: 55399 Andrews Brooks, Adriantown, MD 43986
+SSN: 356-69-5154
+Card: 4879684349145889 | DOB: 08/20/2000
+Last login IP: 192.168.45.135

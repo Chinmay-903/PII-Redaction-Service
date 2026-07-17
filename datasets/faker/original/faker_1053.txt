@@ -1,0 +1,7 @@
+Customer: Brittany Morrow
+Company: Trevino PLC
+Email: katrina63@example.net | Phone: 959-835-0520
+Address: 5719 William Green, Valdezmouth, TX 76267
+SSN: 085-74-4077
+Card: 4133327469979511 | DOB: 05/09/1958
+Last login IP: 172.23.48.247

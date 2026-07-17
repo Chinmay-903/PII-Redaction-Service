@@ -1,0 +1,7 @@
+Customer: Leslie Brown
+Company: Goodwin-Eaton
+Email: lmorgan@example.org | Phone: 308-556-8849
+Address: 29621 Hernandez Prairie, North Carolview, LA 62644
+SSN: 606-50-6296
+Card: 4903393158503861 | DOB: 01/29/2007
+Last login IP: 10.198.196.215

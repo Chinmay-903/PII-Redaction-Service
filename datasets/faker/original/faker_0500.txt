@@ -1,0 +1,7 @@
+Customer: Elizabeth Bishop
+Company: Nelson, Gross and Hudson
+Email: mckinneyconnor@example.org | Phone: 599-940-7907
+Address: 279 Chapman Road, South Gabriel, TN 65341
+SSN: 480-89-2345
+Card: 4399836056547795 | DOB: 02/09/1978
+Last login IP: 192.168.104.52

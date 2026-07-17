@@ -1,0 +1,7 @@
+Customer: Amanda Haley
+Company: Goodman-Willis
+Email: obrooks@example.com | Phone: 926-887-6334
+Address: 450 Mitchell Parkway, New Jason, SC 05272
+SSN: 746-09-0545
+Card: 4820622165657702 | DOB: 03/05/1981
+Last login IP: 172.23.55.157

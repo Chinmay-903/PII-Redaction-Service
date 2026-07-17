@@ -1,0 +1,7 @@
+Customer: Donald Sims
+Company: Mckinney Ltd
+Email: holmesalexandra@example.com | Phone: 655-817-5556
+Address: 6346 Jones Well, Foxmouth, NJ 37294
+SSN: 785-38-5135
+Card: 4946466657551281 | DOB: 08/03/1994
+Last login IP: 172.26.242.231

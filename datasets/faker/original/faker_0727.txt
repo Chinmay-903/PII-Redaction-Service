@@ -1,0 +1,7 @@
+Customer: Amy Smith
+Company: Johnson Inc
+Email: taylorjoseph@example.com | Phone: 887-895-8402
+Address: 751 Christopher Mission, North Brenda, CO 54993
+SSN: 172-73-1126
+Card: 4383170085252823 | DOB: 11/02/1954
+Last login IP: 192.168.198.134

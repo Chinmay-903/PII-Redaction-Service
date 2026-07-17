@@ -1,0 +1,7 @@
+Customer: Stephanie Hamilton
+Company: Day, Wallace and Hunter
+Email: vicki55@example.com | Phone: 018-865-5045
+Address: 495 Elizabeth Corners, New Shawn, MO 08425
+SSN: 302-05-2911
+Card: 4088716600748527 | DOB: 09/27/1991
+Last login IP: 192.168.85.204

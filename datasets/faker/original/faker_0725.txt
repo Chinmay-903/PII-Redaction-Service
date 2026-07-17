@@ -1,0 +1,7 @@
+Customer: Dr. Elizabeth Nichols
+Company: Webb, Mason and Waller
+Email: tlopez@example.net | Phone: 426-857-7501
+Address: 1121 Miller Mission, New Shannonchester, GA 19561
+SSN: 823-89-0786
+Card: 4422047680781617 | DOB: 11/29/1994
+Last login IP: 172.29.139.231

@@ -1,0 +1,7 @@
+Customer: Marie Warren
+Company: Woodward-Price
+Email: sheilabarnes@example.net | Phone: 415-853-0771
+Address: 92709 Rivers Alley, Smallmouth, NE 14164
+SSN: 791-78-0008
+Card: 4693380738583913 | DOB: 12/03/1960
+Last login IP: 10.169.41.185

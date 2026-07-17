@@ -1,0 +1,7 @@
+Customer: Rachel Peters
+Company: Rice-Martinez
+Email: edwardsmall@example.org | Phone: 546-513-4764
+Address: 468 Stephanie Corners, Hunterview, MI 19343
+SSN: 513-87-8330
+Card: 4308234872979832 | DOB: 10/07/1996
+Last login IP: 10.168.255.100

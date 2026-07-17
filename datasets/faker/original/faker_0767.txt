@@ -1,0 +1,7 @@
+Customer: Andrew Cline
+Company: Graham and Sons
+Email: jacob44@example.net | Phone: 620-748-0403
+Address: 4827 Garcia Plains, Justinville, AK 61484
+SSN: 048-45-1973
+Card: 4196380117652430 | DOB: 06/08/1959
+Last login IP: 10.87.182.176

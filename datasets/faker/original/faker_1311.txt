@@ -1,0 +1,7 @@
+Customer: Steven Howell
+Company: Scott Inc
+Email: lstewart@example.com | Phone: 003-622-4145
+Address: 615 Belinda Haven, Newtonport, VT 15608
+SSN: 325-55-2353
+Card: 4137667776606711 | DOB: 05/03/1969
+Last login IP: 192.168.231.157

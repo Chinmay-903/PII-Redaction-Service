@@ -1,0 +1,7 @@
+Customer: Nicole Frank
+Company: Gill Group
+Email: andrew80@example.net | Phone: 255-418-4523
+Address: 09217 Sherri Estate, Richardsonbury, KY 84408
+SSN: 773-39-6992
+Card: 4764246797600373 | DOB: 12/17/1971
+Last login IP: 192.168.227.204

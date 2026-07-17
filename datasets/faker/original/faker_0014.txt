@@ -1,0 +1,7 @@
+Customer: Dawn Miles
+Company: Carter-Martin
+Email: jonathan21@example.net | Phone: 016-091-0628
+Address: 045 Hernandez Way, East Cindy, AZ 25015
+SSN: 684-30-2512
+Card: 4678755667699286 | DOB: 12/13/1946
+Last login IP: 10.90.68.253

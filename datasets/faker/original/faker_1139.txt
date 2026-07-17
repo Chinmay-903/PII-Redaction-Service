@@ -1,0 +1,7 @@
+Customer: Daniel Walters
+Company: Baker Group
+Email: riveratina@example.net | Phone: 798-257-4193
+Address: 880 Mary Mount, East Susanside, MO 61511
+SSN: 402-12-2332
+Card: 4370119062892957 | DOB: 11/25/2007
+Last login IP: 10.87.227.232

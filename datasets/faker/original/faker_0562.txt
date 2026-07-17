@@ -1,0 +1,7 @@
+Customer: Suzanne Newman
+Company: Martinez-Perkins
+Email: karennunez@example.com | Phone: 135-685-5732
+Address: 87299 Mann Plains, New Aprilhaven, NY 10997
+SSN: 312-87-1603
+Card: 4023067136642166 | DOB: 12/29/1952
+Last login IP: 172.28.38.81

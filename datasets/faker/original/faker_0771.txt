@@ -1,0 +1,7 @@
+Customer: Joseph Harrison
+Company: Marquez-Hall
+Email: amygonzalez@example.net | Phone: 133-533-4694
+Address: 97784 Antonio Turnpike, Charlesfurt, MD 91028
+SSN: 322-74-1226
+Card: 4688789224307594 | DOB: 02/09/1970
+Last login IP: 172.16.143.45

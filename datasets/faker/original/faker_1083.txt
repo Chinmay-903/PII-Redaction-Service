@@ -1,0 +1,7 @@
+Customer: Joseph Ayers
+Company: Taylor-Ortega
+Email: nicole96@example.org | Phone: 979-039-3732
+Address: 058 Choi Rue, West Sandrashire, NY 15665
+SSN: 780-36-1483
+Card: 4690399160092873 | DOB: 11/29/1997
+Last login IP: 10.174.125.67

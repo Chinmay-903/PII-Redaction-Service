@@ -1,0 +1,7 @@
+Customer: Peter Rodriguez
+Company: White-Jones
+Email: amandakrause@example.com | Phone: 238-831-3052
+Address: 46463 Dakota Locks, Jonesburgh, AR 77941
+SSN: 503-56-5540
+Card: 4609326074991783 | DOB: 11/19/1968
+Last login IP: 10.91.55.101

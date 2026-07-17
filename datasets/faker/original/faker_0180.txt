@@ -1,0 +1,7 @@
+Customer: Thomas Green
+Company: Knight, Smith and Gray
+Email: jonathanherman@example.net | Phone: 096-946-3957
+Address: 1015 Wong Brook, Johnsontown, TN 49243
+SSN: 808-93-8880
+Card: 4853404169883059 | DOB: 10/20/1964
+Last login IP: 192.168.97.104

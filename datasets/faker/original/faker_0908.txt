@@ -1,0 +1,7 @@
+Customer: Lisa Thomas
+Company: Bonilla-Franklin
+Email: ywiley@example.org | Phone: 722-783-2892
+Address: 730 David Road, New Jessicaland, PA 64771
+SSN: 783-97-4082
+Card: 4834661803626715 | DOB: 04/05/1973
+Last login IP: 192.168.102.135

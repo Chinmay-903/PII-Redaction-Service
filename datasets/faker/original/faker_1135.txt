@@ -1,0 +1,7 @@
+Customer: Brandon Watson
+Company: Keith-Gutierrez
+Email: lindsey37@example.org | Phone: 412-839-7938
+Address: 0016 Jennifer Shoals, Julieview, AS 29779
+SSN: 028-19-2552
+Card: 4093377606272070 | DOB: 02/03/2005
+Last login IP: 172.17.172.229

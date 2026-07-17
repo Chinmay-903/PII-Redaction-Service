@@ -1,0 +1,7 @@
+Customer: Elizabeth Chavez
+Company: Black-Osborne
+Email: audreynichols@example.org | Phone: 462-337-5549
+Address: 49489 Strickland Divide, Alexanderstad, IN 48364
+SSN: 015-55-6904
+Card: 4844793532624659 | DOB: 08/01/2003
+Last login IP: 192.168.172.130

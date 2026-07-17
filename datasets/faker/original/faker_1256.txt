@@ -1,0 +1,7 @@
+Customer: Michele Hayes
+Company: Richards-Ray
+Email: econley@example.net | Phone: 771-216-8458
+Address: 91232 Brown Spurs, New Brent, SD 63308
+SSN: 559-71-0317
+Card: 4340659202536920 | DOB: 10/04/1965
+Last login IP: 192.168.49.3

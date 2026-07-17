@@ -1,0 +1,7 @@
+Customer: Jasmine Guerra
+Company: Sherman, Carter and Lewis
+Email: rjacobson@example.org | Phone: 696-200-6129
+Address: 8186 James Keys, East Lisashire, MO 64499
+SSN: 878-68-0968
+Card: 4991922873330243 | DOB: 05/10/1997
+Last login IP: 172.17.98.199

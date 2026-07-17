@@ -1,0 +1,7 @@
+Customer: Ann Evans
+Company: Shaw, Perez and Williams
+Email: upruitt@example.org | Phone: 729-378-3356
+Address: 050 Clark Plains, Frazierberg, CA 55747
+SSN: 276-95-4902
+Card: 4905465685354105 | DOB: 06/10/1962
+Last login IP: 192.168.207.34

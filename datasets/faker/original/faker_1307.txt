@@ -1,0 +1,7 @@
+Customer: Christopher Gordon
+Company: Meyer, Smith and Atkins
+Email: grayyvonne@example.org | Phone: 165-022-1222
+Address: 3519 Deborah Oval, Yatesville, WI 44423
+SSN: 101-78-7177
+Card: 4792911304600069 | DOB: 08/04/1958
+Last login IP: 192.168.158.131

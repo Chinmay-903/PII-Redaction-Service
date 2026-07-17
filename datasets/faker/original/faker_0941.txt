@@ -1,0 +1,7 @@
+Customer: Renee Meyer
+Company: Foster Inc
+Email: tom95@example.org | Phone: 631-857-0290
+Address: 7911 Patrick Pine, Joshuaberg, RI 14399
+SSN: 830-80-8406
+Card: 4568611806881694 | DOB: 01/08/1955
+Last login IP: 10.185.114.87

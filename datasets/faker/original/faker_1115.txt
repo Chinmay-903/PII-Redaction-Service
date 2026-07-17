@@ -1,0 +1,7 @@
+Customer: Samantha Ross
+Company: Davis, White and Reed
+Email: cannonannette@example.net | Phone: 448-334-4613
+Address: 67317 James Canyon, Brandiberg, NY 61613
+SSN: 830-62-2485
+Card: 4357627672965770 | DOB: 02/16/1966
+Last login IP: 192.168.34.19

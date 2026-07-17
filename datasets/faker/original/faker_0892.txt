@@ -1,0 +1,7 @@
+Customer: Christopher Gonzalez
+Company: Barnes, Schmitt and Young
+Email: jason19@example.com | Phone: 605-969-4462
+Address: 45797 Randy Branch, Lisaburgh, IL 28887
+SSN: 801-94-2827
+Card: 4136297920789162 | DOB: 08/23/1960
+Last login IP: 192.168.82.129

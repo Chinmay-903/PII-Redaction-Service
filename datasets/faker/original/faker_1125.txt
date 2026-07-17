@@ -1,0 +1,7 @@
+Customer: Briana Dougherty
+Company: Wallace Ltd
+Email: qmunoz@example.org | Phone: 797-848-0126
+Address: 4678 Johnson Wall, Adamsfort, VI 71294
+SSN: 391-83-0403
+Card: 4752775129345962 | DOB: 09/07/1989
+Last login IP: 192.168.42.13

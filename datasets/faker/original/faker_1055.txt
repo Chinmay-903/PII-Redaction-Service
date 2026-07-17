@@ -1,0 +1,7 @@
+Customer: Raymond Smith
+Company: Thomas-Smith
+Email: nruiz@example.org | Phone: 425-127-7997
+Address: 06188 Paul Groves, North Robert, HI 42122
+SSN: 754-26-2107
+Card: 4020168167143000 | DOB: 06/13/1992
+Last login IP: 172.24.237.141

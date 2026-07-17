@@ -1,0 +1,7 @@
+Customer: Adam Garcia III
+Company: Brown, Valdez and Cox
+Email: fsalinas@example.net | Phone: 253-470-3742
+Address: 2275 Duncan Wall, Burnsfurt, MT 35599
+SSN: 838-31-4066
+Card: 4196509906500497 | DOB: 05/29/1965
+Last login IP: 192.168.1.232

@@ -1,0 +1,7 @@
+Customer: Michelle Barnett
+Company: Marquez, Nguyen and Phillips
+Email: raymondparker@example.com | Phone: 332-528-4010
+Address: 91830 Sydney Parkway, Randallmouth, VA 26727
+SSN: 531-48-5906
+Card: 4703883441541373 | DOB: 02/05/1964
+Last login IP: 172.27.72.77

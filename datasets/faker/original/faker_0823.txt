@@ -1,0 +1,7 @@
+Customer: Julia Jackson
+Company: Schmitt-Owen
+Email: jennifer41@example.org | Phone: 187-166-2522
+Address: 2252 Caitlyn Inlet, Bakerborough, MO 71964
+SSN: 477-47-2646
+Card: 4941130990226663 | DOB: 02/15/1973
+Last login IP: 172.29.192.96

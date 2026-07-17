@@ -1,0 +1,7 @@
+Customer: Logan Acosta
+Company: Walker and Sons
+Email: lopezjennifer@example.net | Phone: 842-062-7674
+Address: 061 Helen River, New Patrickburgh, ND 27320
+SSN: 664-23-0014
+Card: 4597517197768074 | DOB: 01/24/2008
+Last login IP: 172.23.217.74

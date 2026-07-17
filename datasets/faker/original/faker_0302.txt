@@ -1,0 +1,7 @@
+Customer: Robert Webb
+Company: Williams Inc
+Email: lucerojames@example.org | Phone: 211-572-0168
+Address: 43031 Soto Common, New Cameronborough, WA 68901
+SSN: 289-86-4155
+Card: 4407192756007817 | DOB: 07/07/1952
+Last login IP: 172.21.132.140

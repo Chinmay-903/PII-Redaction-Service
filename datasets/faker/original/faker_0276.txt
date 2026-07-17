@@ -1,0 +1,7 @@
+Customer: Alan Hammond
+Company: Delacruz LLC
+Email: nbaker@example.net | Phone: 647-753-1544
+Address: 7973 Jennifer Track, Craigbury, MI 99858
+SSN: 549-82-4617
+Card: 4433484804215494 | DOB: 07/22/1969
+Last login IP: 10.211.12.1

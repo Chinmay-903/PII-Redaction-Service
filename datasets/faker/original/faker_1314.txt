@@ -1,0 +1,7 @@
+Customer: Nicholas Munoz
+Company: Carpenter-Romero
+Email: stephaniegregory@example.org | Phone: 725-653-2668
+Address: 432 Carlos Underpass, East Amanda, WV 99950
+SSN: 287-80-0040
+Card: 4934870331499896 | DOB: 09/17/2002
+Last login IP: 192.168.170.84

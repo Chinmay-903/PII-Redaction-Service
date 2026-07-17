@@ -1,0 +1,7 @@
+Customer: Kristin Young
+Company: Johnson, Miles and Bell
+Email: melissa10@example.com | Phone: 913-067-7597
+Address: 00774 Ramirez Mission, South Gary, MD 93718
+SSN: 513-28-3701
+Card: 4510746770224189 | DOB: 11/23/1995
+Last login IP: 10.57.120.253

@@ -1,0 +1,7 @@
+Customer: Kimberly Brown
+Company: Campbell, James and Peterson
+Email: taylordiana@example.org | Phone: 638-840-9514
+Address: 2462 Lewis Field, South Cynthiamouth, LA 73847
+SSN: 583-40-3355
+Card: 4708490255835639 | DOB: 03/09/1963
+Last login IP: 10.143.205.35

@@ -1,0 +1,7 @@
+Customer: Jill Terry
+Company: Ward Ltd
+Email: terrimitchell@example.org | Phone: 270-932-0556
+Address: 14129 Cook Ferry, Lake Dianamouth, VI 03322
+SSN: 680-58-5821
+Card: 4113509181997954 | DOB: 06/02/1946
+Last login IP: 192.168.196.109

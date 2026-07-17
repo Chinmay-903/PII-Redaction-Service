@@ -1,0 +1,7 @@
+Customer: Kelly Esparza
+Company: Rogers PLC
+Email: pbutler@example.org | Phone: 523-456-1175
+Address: 4896 Baker Circles, Nicholasville, MA 74140
+SSN: 568-06-4975
+Card: 4332173473754253 | DOB: 08/02/2007
+Last login IP: 172.19.65.92

@@ -1,0 +1,7 @@
+Customer: Russell Patterson
+Company: Cruz PLC
+Email: clarkmiranda@example.net | Phone: 855-655-3235
+Address: 7459 Tina Ridges, East Sean, FM 30539
+SSN: 387-64-0148
+Card: 4456429343967693 | DOB: 05/25/1976
+Last login IP: 10.42.93.45

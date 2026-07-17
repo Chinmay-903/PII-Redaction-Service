@@ -1,0 +1,7 @@
+Customer: Tanya Davis
+Company: Hall, Perez and Jefferson
+Email: blong@example.org | Phone: 549-354-3091
+Address: 97732 Pruitt Knolls, Perryview, OR 73403
+SSN: 158-92-7638
+Card: 4236015813724883 | DOB: 07/17/1946
+Last login IP: 172.18.219.59

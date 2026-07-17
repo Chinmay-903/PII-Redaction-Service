@@ -1,0 +1,7 @@
+Customer: Emma Sutton
+Company: Reed-Dunn
+Email: laurawatkins@example.org | Phone: 066-854-3081
+Address: 6621 Jacqueline Summit, Port Michelle, ND 93893
+SSN: 303-40-3163
+Card: 4468245992630796 | DOB: 04/21/1956
+Last login IP: 192.168.74.90

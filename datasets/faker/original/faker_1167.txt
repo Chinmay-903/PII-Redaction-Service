@@ -1,0 +1,7 @@
+Customer: Elizabeth Duke
+Company: Anderson LLC
+Email: stephanie92@example.com | Phone: 845-393-3062
+Address: 477 Bush Forest, Lake Theodorebury, IL 93429
+SSN: 501-95-9768
+Card: 4251126823565016 | DOB: 02/15/1971
+Last login IP: 10.176.170.112

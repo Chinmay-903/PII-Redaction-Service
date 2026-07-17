@@ -1,0 +1,7 @@
+Customer: Brandy Sanchez
+Company: Ramos, Mcmahon and Moore
+Email: jacobjohnson@example.com | Phone: 014-698-2875
+Address: 6494 Heather Islands, North Amy, LA 83364
+SSN: 413-79-2089
+Card: 4572750585166580 | DOB: 01/13/1960
+Last login IP: 10.129.174.16

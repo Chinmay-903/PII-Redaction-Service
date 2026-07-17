@@ -1,0 +1,7 @@
+Customer: Dan Reed
+Company: Jones Ltd
+Email: shawngutierrez@example.net | Phone: 651-639-6387
+Address: 3887 Krause Port, Wangberg, IA 37065
+SSN: 551-04-0343
+Card: 4189739186153639 | DOB: 11/06/1959
+Last login IP: 172.17.228.16

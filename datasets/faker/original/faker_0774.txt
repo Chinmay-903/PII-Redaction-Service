@@ -1,0 +1,7 @@
+Customer: Janet Graves
+Company: Reid-Todd
+Email: rmanning@example.net | Phone: 616-964-1609
+Address: 530 Taylor Mall, Port Peterberg, CA 45387
+SSN: 692-26-1625
+Card: 4606853660016454 | DOB: 07/29/1948
+Last login IP: 172.30.239.222

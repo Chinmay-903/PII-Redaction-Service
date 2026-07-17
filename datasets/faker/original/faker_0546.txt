@@ -1,0 +1,7 @@
+Customer: Catherine Garcia
+Company: Simmons, Jones and Rocha
+Email: mikecoleman@example.com | Phone: 885-794-1398
+Address: 053 Christopher Trace, Terryside, NE 23843
+SSN: 716-71-3094
+Card: 4122872205164905 | DOB: 08/25/1989
+Last login IP: 192.168.163.216

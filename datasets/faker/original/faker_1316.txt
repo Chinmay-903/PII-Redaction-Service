@@ -1,0 +1,7 @@
+Customer: Randy Moore
+Company: Harmon Ltd
+Email: elizabeth41@example.org | Phone: 218-964-3739
+Address: 79502 Corey Cliff, Andradeshire, NE 05216
+SSN: 671-93-0976
+Card: 4619848095359979 | DOB: 03/14/1976
+Last login IP: 10.141.109.77

@@ -1,0 +1,7 @@
+Customer: Laurie Campbell
+Company: Hudson-Perkins
+Email: gwarner@example.com | Phone: 555-623-8699
+Address: 0739 Matthew Viaduct, Kathleenbury, IL 32303
+SSN: 879-34-1614
+Card: 4130032074346162 | DOB: 09/22/1978
+Last login IP: 10.224.66.182

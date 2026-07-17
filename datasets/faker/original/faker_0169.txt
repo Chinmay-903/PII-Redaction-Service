@@ -1,0 +1,7 @@
+Customer: Terri Norris
+Company: Spears-Hull
+Email: myerskaren@example.org | Phone: 041-337-2000
+Address: 653 Faulkner Parkway, New Shawnmouth, NV 81428
+SSN: 757-42-0892
+Card: 4465698597670661 | DOB: 07/18/1961
+Last login IP: 192.168.149.2

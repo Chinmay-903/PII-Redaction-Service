@@ -1,0 +1,7 @@
+Customer: Laura Pineda
+Company: Rogers Ltd
+Email: nicolebowman@example.net | Phone: 515-029-3281
+Address: 11449 Day Hill, Zacharymouth, GU 10499
+SSN: 017-29-6618
+Card: 4111865740993294 | DOB: 10/18/1970
+Last login IP: 10.7.242.99

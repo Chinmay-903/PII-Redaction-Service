@@ -1,0 +1,7 @@
+Customer: Christopher Eaton
+Company: Baker, Johnson and Thompson
+Email: natashabowen@example.net | Phone: 682-105-8428
+Address: 3017 Howard Bridge, West Dawnberg, WI 76229
+SSN: 447-53-8142
+Card: 4421369680196211 | DOB: 05/16/1957
+Last login IP: 10.133.195.183

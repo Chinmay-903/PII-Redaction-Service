@@ -1,0 +1,7 @@
+Customer: Alyssa Hill
+Company: Lane Group
+Email: lauren00@example.com | Phone: 917-552-6415
+Address: 70457 Bowman Manor, Port Heatherhaven, VI 47547
+SSN: 700-22-0451
+Card: 4564335189255284 | DOB: 11/17/1972
+Last login IP: 172.20.210.91

@@ -1,0 +1,7 @@
+Customer: Joseph Fernandez
+Company: Smith Ltd
+Email: ameyer@example.org | Phone: 372-631-5017
+Address: 2553 Zachary Vista, North Christopher, MS 09231
+SSN: 749-07-9332
+Card: 4659969483033199 | DOB: 09/11/2004
+Last login IP: 172.28.168.65

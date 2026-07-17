@@ -1,0 +1,7 @@
+Customer: Dr. Briana Mahoney
+Company: Carr PLC
+Email: jordan04@example.com | Phone: 078-805-3575
+Address: 70240 Clinton Orchard, Port Mikeshire, PW 48870
+SSN: 619-03-6022
+Card: 4401897419191289 | DOB: 10/14/1985
+Last login IP: 10.218.207.20

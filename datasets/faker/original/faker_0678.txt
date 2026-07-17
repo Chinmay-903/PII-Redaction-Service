@@ -1,0 +1,7 @@
+Customer: Deanna Vance
+Company: Merritt, Morris and Sullivan
+Email: bgonzalez@example.net | Phone: 103-795-4519
+Address: 91217 White Groves, New John, CO 47432
+SSN: 203-66-1371
+Card: 4265308175661700 | DOB: 05/05/1946
+Last login IP: 192.168.30.46

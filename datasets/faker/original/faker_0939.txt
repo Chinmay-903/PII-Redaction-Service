@@ -1,0 +1,7 @@
+Customer: David Brown
+Company: Jones and Sons
+Email: barajasandrew@example.net | Phone: 285-601-2123
+Address: 23004 Smith Mills, Thomasport, RI 82738
+SSN: 810-42-5917
+Card: 4370258332488863 | DOB: 09/08/1961
+Last login IP: 192.168.187.151

@@ -1,0 +1,7 @@
+Customer: Rita Lewis
+Company: Travis and Sons
+Email: dana39@example.com | Phone: 118-480-7478
+Address: 945 Farmer Springs, West Antonio, GU 15107
+SSN: 042-91-6221
+Card: 4066312082326119 | DOB: 07/21/1949
+Last login IP: 10.153.96.98

@@ -1,0 +1,7 @@
+Customer: Theresa Kennedy
+Company: Carter LLC
+Email: johngarcia@example.com | Phone: 201-261-2310
+Address: 228 Michelle Mills, East Edward, WI 46594
+SSN: 100-03-5323
+Card: 4283126975957294 | DOB: 03/11/2005
+Last login IP: 192.168.145.206

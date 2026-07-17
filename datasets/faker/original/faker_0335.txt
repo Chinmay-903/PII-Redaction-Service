@@ -1,0 +1,7 @@
+Customer: Kyle Peters
+Company: Vaughan, Foster and Phillips
+Email: kstrickland@example.net | Phone: 166-198-5067
+Address: 93951 Timothy Gardens, Lake Thomasfort, MI 79869
+SSN: 110-31-3764
+Card: 4961865705892870 | DOB: 11/03/1972
+Last login IP: 192.168.194.133

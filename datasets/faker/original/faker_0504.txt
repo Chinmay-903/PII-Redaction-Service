@@ -1,0 +1,7 @@
+Customer: Savannah Mcdaniel
+Company: Smith, Cruz and Hawkins
+Email: mcdowellangela@example.com | Phone: 653-405-6604
+Address: 621 Moreno Roads, Cochranburgh, LA 09733
+SSN: 496-74-3280
+Card: 4209658619089077 | DOB: 03/07/1958
+Last login IP: 192.168.83.202

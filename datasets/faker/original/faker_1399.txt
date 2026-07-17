@@ -1,0 +1,7 @@
+Customer: Karen Rowe
+Company: Rivera, Berry and Mcdaniel
+Email: jeremy71@example.com | Phone: 009-996-0822
+Address: 143 Jennifer Ranch, North Teresaborough, AS 20450
+SSN: 573-74-5958
+Card: 4986288675177175 | DOB: 03/21/1982
+Last login IP: 192.168.217.175

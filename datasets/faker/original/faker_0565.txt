@@ -1,0 +1,7 @@
+Customer: Matthew Johnson
+Company: Gonzales, Turner and Ward
+Email: raymondwyatt@example.com | Phone: 975-030-7101
+Address: 3540 Albert Lodge, Tuckerport, PA 08166
+SSN: 230-52-1973
+Card: 4523968150755369 | DOB: 06/08/1990
+Last login IP: 172.28.210.103

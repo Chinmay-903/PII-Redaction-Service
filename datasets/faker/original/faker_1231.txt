@@ -1,0 +1,7 @@
+Customer: Eric James
+Company: Thomas Ltd
+Email: paul35@example.net | Phone: 110-272-8725
+Address: 284 Edward Stravenue, Clarkeland, PW 19338
+SSN: 247-25-1917
+Card: 4718814676233900 | DOB: 11/18/1970
+Last login IP: 172.24.91.118

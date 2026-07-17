@@ -1,0 +1,7 @@
+Customer: Andrew Hernandez
+Company: Romero, Dominguez and Huff
+Email: sydney12@example.net | Phone: 998-139-4258
+Address: 575 Timothy Plains, Chaseburgh, MS 85199
+SSN: 868-05-3643
+Card: 4707499959373541 | DOB: 03/12/1969
+Last login IP: 192.168.185.142

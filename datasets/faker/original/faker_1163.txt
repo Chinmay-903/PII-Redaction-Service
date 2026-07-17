@@ -1,0 +1,7 @@
+Customer: Angel Stewart
+Company: Lopez, Harper and Ochoa
+Email: dannysmith@example.org | Phone: 975-616-1353
+Address: 240 Bauer Trafficway, Lake Loriland, KS 76630
+SSN: 346-13-9269
+Card: 4744982474299197 | DOB: 08/08/1951
+Last login IP: 172.22.226.226

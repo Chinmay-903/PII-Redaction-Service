@@ -1,0 +1,7 @@
+Customer: Kimberly Sims
+Company: Reed, Webster and Harris
+Email: angelabaldwin@example.net | Phone: 271-934-3751
+Address: 6982 Joyce Highway, Johnsonmouth, WI 07932
+SSN: 852-71-9499
+Card: 4593260781059014 | DOB: 10/11/1974
+Last login IP: 192.168.4.80

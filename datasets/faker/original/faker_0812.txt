@@ -1,0 +1,7 @@
+Customer: Alex Harris
+Company: Hudson, Moore and Wilson
+Email: craigkevin@example.org | Phone: 752-185-3197
+Address: 291 Kennedy Greens, Port Jessicamouth, WY 65235
+SSN: 243-28-4057
+Card: 4018600717299910 | DOB: 10/19/1957
+Last login IP: 10.14.58.206

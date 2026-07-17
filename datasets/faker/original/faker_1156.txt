@@ -1,0 +1,7 @@
+Customer: James Hernandez
+Company: Romero, Wilson and Bernard
+Email: csmith@example.org | Phone: 659-714-4650
+Address: 943 Jessica Port, Lyonston, MT 13339
+SSN: 328-25-4322
+Card: 4828965932475516 | DOB: 01/09/1954
+Last login IP: 172.16.188.61

@@ -1,0 +1,7 @@
+Customer: Andrew Johnson
+Company: Mercado LLC
+Email: alexisfrancis@example.com | Phone: 492-005-3050
+Address: 583 Mclean Light, Port Debra, IN 83924
+SSN: 192-72-9726
+Card: 4755719398687446 | DOB: 07/19/1981
+Last login IP: 172.23.123.209

@@ -1,0 +1,7 @@
+Customer: Sandra Douglas
+Company: Burns-Davis
+Email: bgiles@example.net | Phone: 076-914-9730
+Address: 0660 Johnson Viaduct, Lake Ronald, VT 18013
+SSN: 735-53-0984
+Card: 4608403679687628 | DOB: 10/07/1977
+Last login IP: 172.31.35.136

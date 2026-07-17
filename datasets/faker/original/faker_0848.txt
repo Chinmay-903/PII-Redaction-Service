@@ -1,0 +1,7 @@
+Customer: Lisa Clark
+Company: Rios-Graham
+Email: newtontammie@example.net | Phone: 067-767-3335
+Address: 3190 Boyer Knoll, Debramouth, AZ 12022
+SSN: 232-16-1499
+Card: 4855266489910831 | DOB: 09/04/1964
+Last login IP: 192.168.223.202

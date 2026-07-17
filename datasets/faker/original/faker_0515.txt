@@ -1,0 +1,7 @@
+Customer: Jay Cole
+Company: Wallace, Hernandez and Yang
+Email: lydia51@example.net | Phone: 566-642-2990
+Address: 8048 Erin Turnpike, West James, WV 52508
+SSN: 155-15-5218
+Card: 4378853154201881 | DOB: 10/01/2006
+Last login IP: 10.47.207.134

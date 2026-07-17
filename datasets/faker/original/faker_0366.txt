@@ -1,0 +1,7 @@
+Customer: Nicholas Joyce
+Company: Haas-Larson
+Email: lmiddleton@example.net | Phone: 457-211-1644
+Address: 77749 Robinson Island, Ballardshire, PW 45257
+SSN: 620-14-2636
+Card: 4596898217430726 | DOB: 02/11/1988
+Last login IP: 192.168.35.94

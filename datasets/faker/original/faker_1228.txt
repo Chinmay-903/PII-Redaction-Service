@@ -1,0 +1,7 @@
+Customer: John Berry
+Company: Trujillo-Daniel
+Email: clarencewest@example.net | Phone: 538-580-1490
+Address: 1938 Rodriguez Freeway, Marieport, NC 24929
+SSN: 769-70-1133
+Card: 4746174122382744 | DOB: 03/13/1960
+Last login IP: 10.86.200.182

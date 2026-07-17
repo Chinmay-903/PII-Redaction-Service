@@ -1,0 +1,7 @@
+Customer: Jose Maldonado
+Company: Francis-Rivas
+Email: jamesbeasley@example.com | Phone: 645-880-3112
+Address: 5988 Pope View, Port Rhonda, TX 81597
+SSN: 383-47-4252
+Card: 4511469426979606 | DOB: 10/15/1957
+Last login IP: 172.17.172.57

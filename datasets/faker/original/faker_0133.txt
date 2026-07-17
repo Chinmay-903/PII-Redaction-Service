@@ -1,0 +1,7 @@
+Customer: Sheila Martinez
+Company: Blake-Rice
+Email: jsmith@example.com | Phone: 124-242-1977
+Address: 3996 Jordan Mountain, Bradleystad, VT 56265
+SSN: 528-84-2914
+Card: 4986568502737535 | DOB: 11/30/1946
+Last login IP: 10.243.43.27

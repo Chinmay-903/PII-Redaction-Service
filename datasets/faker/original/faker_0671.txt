@@ -1,0 +1,7 @@
+Customer: Bryan Johnson
+Company: Howe-Owen
+Email: aaronrodgers@example.org | Phone: 037-086-9421
+Address: 7774 Amy Vista, North Melissa, LA 79687
+SSN: 545-08-1701
+Card: 4775147974463600 | DOB: 09/08/1977
+Last login IP: 192.168.14.137

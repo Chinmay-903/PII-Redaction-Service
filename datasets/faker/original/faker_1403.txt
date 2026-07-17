@@ -1,0 +1,7 @@
+Customer: Betty Savage
+Company: Edwards, Singh and Armstrong
+Email: turnerjennifer@example.net | Phone: 212-325-6044
+Address: 37183 Barnes Fort, New Stephanie, ND 35374
+SSN: 616-87-2836
+Card: 4317064843027943 | DOB: 12/28/1973
+Last login IP: 172.30.51.170

@@ -1,0 +1,7 @@
+Customer: Michael Jackson
+Company: Johnson-Bradford
+Email: stephanie64@example.org | Phone: 879-077-5732
+Address: 31224 Hale Pine, Brittanyfurt, ME 23146
+SSN: 343-64-5763
+Card: 4467818779269920 | DOB: 04/16/2006
+Last login IP: 172.23.212.123

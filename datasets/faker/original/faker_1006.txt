@@ -1,0 +1,7 @@
+Customer: Thomas Allen
+Company: Garcia, Lam and Clark
+Email: laurenevans@example.net | Phone: 410-914-2478
+Address: 791 Bush Forge, North Staceyport, NJ 98554
+SSN: 370-92-7246
+Card: 4919052461511290 | DOB: 08/14/1951
+Last login IP: 192.168.34.177

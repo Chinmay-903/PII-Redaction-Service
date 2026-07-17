@@ -1,0 +1,7 @@
+Customer: Robert Chavez
+Company: Lopez LLC
+Email: brownnicholas@example.org | Phone: 435-751-4337
+Address: 258 Holly Ford, North Paul, WI 06599
+SSN: 274-61-7975
+Card: 4389462737653548 | DOB: 03/20/1988
+Last login IP: 192.168.253.30

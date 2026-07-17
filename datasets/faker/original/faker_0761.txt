@@ -1,0 +1,7 @@
+Customer: Crystal Jensen
+Company: Cochran PLC
+Email: michael57@example.org | Phone: 616-569-7702
+Address: 3251 Caldwell Oval, Jasonhaven, MN 49007
+SSN: 171-57-2978
+Card: 4024276582570255 | DOB: 08/31/1978
+Last login IP: 192.168.84.87

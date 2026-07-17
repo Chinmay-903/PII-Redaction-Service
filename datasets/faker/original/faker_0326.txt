@@ -1,0 +1,7 @@
+Customer: John Green
+Company: Myers Group
+Email: whiteheadstephanie@example.org | Phone: 703-026-4054
+Address: 5900 Adams Turnpike, Jessicahaven, AK 91103
+SSN: 174-54-0047
+Card: 4896541003277615 | DOB: 12/26/1991
+Last login IP: 10.188.69.3

@@ -1,0 +1,7 @@
+Customer: Cassandra Lawson
+Company: Jefferson Group
+Email: clarkamanda@example.org | Phone: 298-600-1355
+Address: 0900 Kline Highway, Garciastad, NE 96313
+SSN: 227-79-4233
+Card: 4333254400713221 | DOB: 12/04/1972
+Last login IP: 10.14.222.183

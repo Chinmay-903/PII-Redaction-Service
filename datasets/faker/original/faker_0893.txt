@@ -1,0 +1,7 @@
+Customer: Craig Rivera
+Company: Brown, Vasquez and Castaneda
+Email: mdennis@example.org | Phone: 629-555-8116
+Address: 74588 Campbell Causeway, North Sydney, PW 35308
+SSN: 874-65-3159
+Card: 4920986479691940 | DOB: 08/01/1949
+Last login IP: 10.84.70.154

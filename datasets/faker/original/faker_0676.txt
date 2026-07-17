@@ -1,0 +1,7 @@
+Customer: Joanne Sanchez
+Company: Austin Inc
+Email: salinasjason@example.com | Phone: 942-577-3965
+Address: 5861 Brown Mills, South Kelseybury, GA 17687
+SSN: 021-95-6194
+Card: 4293023266361021 | DOB: 07/03/1949
+Last login IP: 192.168.70.125

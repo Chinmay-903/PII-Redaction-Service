@@ -1,0 +1,7 @@
+Customer: David Mitchell
+Company: Kelly Inc
+Email: marshandrew@example.net | Phone: 088-747-7644
+Address: 1951 Murphy Meadows, South Molly, GU 66005
+SSN: 747-74-2133
+Card: 4391178511691951 | DOB: 05/20/1985
+Last login IP: 192.168.68.95

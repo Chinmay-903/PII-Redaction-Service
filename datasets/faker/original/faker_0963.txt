@@ -1,0 +1,7 @@
+Customer: Dawn Smith
+Company: Schmidt, Ortiz and Parsons
+Email: jessica24@example.com | Phone: 903-762-8756
+Address: 8116 David Junctions, Port Patriciaside, IA 96752
+SSN: 114-94-4271
+Card: 4302308180812665 | DOB: 09/03/1952
+Last login IP: 192.168.149.105

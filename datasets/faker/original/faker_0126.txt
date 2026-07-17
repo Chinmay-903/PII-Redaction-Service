@@ -1,0 +1,7 @@
+Customer: Amanda Wade
+Company: Williams, Thompson and Turner
+Email: sean50@example.com | Phone: 683-811-2019
+Address: 55406 Louis Walk, East Sarahhaven, OK 49327
+SSN: 201-32-4963
+Card: 4431223158573435 | DOB: 08/31/1985
+Last login IP: 10.24.80.98

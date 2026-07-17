@@ -1,0 +1,7 @@
+Customer: Christine Walker
+Company: Patterson PLC
+Email: xsalazar@example.com | Phone: 887-073-3968
+Address: 43785 Kimberly Cove, South Kimberly, IL 06931
+SSN: 897-71-9109
+Card: 4697873114227739 | DOB: 05/31/1947
+Last login IP: 172.18.28.16

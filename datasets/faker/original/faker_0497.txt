@@ -1,0 +1,7 @@
+Customer: Andrew Nelson
+Company: Watson, Fisher and Macdonald
+Email: theresa56@example.com | Phone: 672-361-4232
+Address: 45137 Mercado Lodge, North Wandaland, ME 16197
+SSN: 218-99-3329
+Card: 4106185717323343 | DOB: 08/28/1948
+Last login IP: 10.102.211.98

@@ -1,0 +1,7 @@
+Customer: James Merritt
+Company: Hanson-Williamson
+Email: alexandraolson@example.com | Phone: 051-177-3990
+Address: 9697 Cindy Heights, New Vanessaburgh, WV 43316
+SSN: 462-90-6759
+Card: 4139120781070265 | DOB: 08/09/1970
+Last login IP: 172.31.113.236

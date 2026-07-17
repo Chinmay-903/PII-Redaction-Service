@@ -1,0 +1,7 @@
+Customer: Marvin Moore
+Company: Parker, Smith and Bennett
+Email: eileenyang@example.net | Phone: 046-125-8271
+Address: 00560 Beck Camp, South Christophermouth, IN 26339
+SSN: 278-95-5810
+Card: 4798241284142575 | DOB: 11/20/1995
+Last login IP: 10.237.222.2

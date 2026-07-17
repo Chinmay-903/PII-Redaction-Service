@@ -1,0 +1,7 @@
+Customer: Andrea Stephenson
+Company: Thompson Group
+Email: ymurphy@example.org | Phone: 881-060-8700
+Address: 4937 Dawn Stream, South Cameronside, MN 74302
+SSN: 403-13-8781
+Card: 4227301927291287 | DOB: 06/07/1994
+Last login IP: 192.168.152.138

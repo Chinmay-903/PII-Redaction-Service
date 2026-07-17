@@ -1,0 +1,7 @@
+Customer: Victor Stephens
+Company: Anderson PLC
+Email: klambert@example.org | Phone: 927-292-5496
+Address: 430 Rachel Manors, Lake Beverlychester, NH 29205
+SSN: 100-39-0187
+Card: 4543025990636477 | DOB: 10/19/1981
+Last login IP: 10.183.64.234

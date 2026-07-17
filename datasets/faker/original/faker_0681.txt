@@ -1,0 +1,7 @@
+Customer: Justin Wilson
+Company: Johnson-Rowland
+Email: mark65@example.com | Phone: 828-389-4410
+Address: 1292 Steele Greens, Matthewhaven, FL 72227
+SSN: 891-50-9938
+Card: 4042821639757898 | DOB: 12/01/2005
+Last login IP: 192.168.117.147

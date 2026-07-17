@@ -1,0 +1,7 @@
+Customer: Willie Eaton
+Company: Nelson-Thompson
+Email: sara78@example.net | Phone: 228-917-0073
+Address: 693 Teresa Light, Jonathanmouth, MH 84903
+SSN: 561-61-8427
+Card: 4247032798587380 | DOB: 09/12/1950
+Last login IP: 172.30.102.128

@@ -1,0 +1,7 @@
+Customer: Angela Butler
+Company: Tucker-Brooks
+Email: fbell@example.net | Phone: 159-202-0987
+Address: 52417 Fuller Gardens, Cooperborough, IN 47401
+SSN: 699-83-6195
+Card: 4787877069352989 | DOB: 11/25/1992
+Last login IP: 172.19.227.222

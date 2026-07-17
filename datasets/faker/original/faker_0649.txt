@@ -1,0 +1,7 @@
+Customer: Melissa Murphy
+Company: Bell-Perry
+Email: frankdaniel@example.net | Phone: 689-458-4169
+Address: 561 Schwartz Manor, New Julietown, MS 75599
+SSN: 446-36-7305
+Card: 4632447949234463 | DOB: 08/11/1949
+Last login IP: 10.120.76.120

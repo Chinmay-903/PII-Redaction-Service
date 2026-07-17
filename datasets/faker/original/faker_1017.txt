@@ -1,0 +1,7 @@
+Customer: Lisa Zuniga
+Company: Ruiz, Howard and Hicks
+Email: elizabethreynolds@example.org | Phone: 579-836-7622
+Address: 970 Susan Burgs, South April, WV 97797
+SSN: 688-99-0726
+Card: 4787295368710239 | DOB: 03/19/1947
+Last login IP: 172.24.106.201

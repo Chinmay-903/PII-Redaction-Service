@@ -1,0 +1,7 @@
+Customer: Charles Pearson
+Company: Smith Group
+Email: zclark@example.org | Phone: 192-818-3364
+Address: 0575 Emily Crossroad, Grossmouth, TN 99015
+SSN: 221-56-0111
+Card: 4423079685671179 | DOB: 11/30/1994
+Last login IP: 192.168.172.146

@@ -1,0 +1,7 @@
+Customer: Katie Baker
+Company: Jones and Sons
+Email: williammartinez@example.org | Phone: 297-408-9217
+Address: 0172 Rojas Garden, Port Jonathan, WV 79160
+SSN: 015-88-8685
+Card: 4761012276149685 | DOB: 09/28/1953
+Last login IP: 192.168.191.91

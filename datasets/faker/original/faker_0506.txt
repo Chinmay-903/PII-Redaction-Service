@@ -1,0 +1,7 @@
+Customer: Renee Wilson
+Company: Jones-Quinn
+Email: kruegercheryl@example.com | Phone: 516-945-8878
+Address: 1496 Gutierrez Underpass, South Jesusborough, PR 32368
+SSN: 326-44-8484
+Card: 4240762848240419 | DOB: 02/20/1962
+Last login IP: 192.168.52.228

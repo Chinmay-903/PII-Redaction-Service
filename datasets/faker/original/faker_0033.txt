@@ -1,0 +1,7 @@
+Customer: Brittany Ruiz
+Company: Robinson-Hammond
+Email: scott27@example.net | Phone: 360-394-0182
+Address: 2574 Jeffrey Cliff, Bradleyport, PA 89822
+SSN: 108-57-6091
+Card: 4975456659700295 | DOB: 04/17/1955
+Last login IP: 10.96.21.221

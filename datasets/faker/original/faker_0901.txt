@@ -1,0 +1,7 @@
+Customer: Brittany Campbell
+Company: Armstrong-Martinez
+Email: matthewmoore@example.org | Phone: 345-087-9340
+Address: 9001 Robinson Fords, Lake Shannon, KY 97881
+SSN: 054-86-7249
+Card: 4853847226377699 | DOB: 07/10/1968
+Last login IP: 10.133.154.51

@@ -1,0 +1,7 @@
+Customer: Pamela Mcdonald
+Company: Hudson-Sanders
+Email: cameron48@example.net | Phone: 671-712-5628
+Address: 22466 Scott Land, Aguilarstad, SC 31111
+SSN: 234-19-9182
+Card: 4892602708413626 | DOB: 07/04/1974
+Last login IP: 10.13.182.249

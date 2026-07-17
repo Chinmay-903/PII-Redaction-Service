@@ -1,0 +1,7 @@
+Customer: Jessica Hayes
+Company: Underwood-Johnson
+Email: ncabrera@example.org | Phone: 488-190-8286
+Address: 1644 Alan Mountain, West Marvin, MT 43958
+SSN: 463-79-0727
+Card: 4334051905881589 | DOB: 12/05/1975
+Last login IP: 192.168.69.3

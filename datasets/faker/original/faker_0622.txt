@@ -1,0 +1,7 @@
+Customer: Jacob Cooper
+Company: James-Bailey
+Email: marshtiffany@example.org | Phone: 336-992-0391
+Address: 509 Adams Flats, West Sandra, NH 71915
+SSN: 334-97-5696
+Card: 4272305789409873 | DOB: 03/22/1976
+Last login IP: 192.168.123.213

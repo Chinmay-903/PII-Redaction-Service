@@ -1,0 +1,7 @@
+Customer: Sherry Johnson
+Company: Garza, Bailey and Lopez
+Email: tristancollier@example.com | Phone: 436-916-9806
+Address: 34280 Rhonda Flats, Gomezside, MP 59841
+SSN: 622-47-7788
+Card: 4091779874771240 | DOB: 03/27/1956
+Last login IP: 192.168.204.118

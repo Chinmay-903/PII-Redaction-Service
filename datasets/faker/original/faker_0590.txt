@@ -1,0 +1,7 @@
+Customer: Nancy Hodges
+Company: Thomas-Bolton
+Email: liujerry@example.com | Phone: 010-220-1142
+Address: 3186 Bautista Isle, North Timothyville, MP 26281
+SSN: 859-60-1203
+Card: 4618388321617107 | DOB: 08/25/1961
+Last login IP: 192.168.200.86

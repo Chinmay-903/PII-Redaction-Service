@@ -1,0 +1,7 @@
+Customer: Jonathan Good
+Company: Martin, Martin and Spencer
+Email: michaeljohnston@example.org | Phone: 793-305-6407
+Address: 1649 Jacqueline Cliffs, North Jacquelineberg, MA 97416
+SSN: 232-03-7036
+Card: 4504765106790364 | DOB: 04/03/1959
+Last login IP: 10.10.92.114

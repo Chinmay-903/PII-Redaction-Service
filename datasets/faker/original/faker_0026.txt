@@ -1,0 +1,7 @@
+Customer: Alexandria Randall
+Company: Rogers, Ramos and Morrow
+Email: dbowen@example.net | Phone: 528-518-8367
+Address: 481 Jonathan Loaf, Dorothyton, NC 08386
+SSN: 895-18-4521
+Card: 4843929799830206 | DOB: 07/06/1986
+Last login IP: 172.24.1.113

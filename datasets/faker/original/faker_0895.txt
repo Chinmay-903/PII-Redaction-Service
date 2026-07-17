@@ -1,0 +1,7 @@
+Customer: Sarah Martin
+Company: Smith Group
+Email: williamsonbobby@example.com | Phone: 756-237-6314
+Address: 9738 Andrea Plains, Denisechester, SC 75380
+SSN: 660-51-9114
+Card: 4310246458803380 | DOB: 01/02/2000
+Last login IP: 172.25.156.31

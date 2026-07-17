@@ -1,0 +1,7 @@
+Customer: Jordan Molina
+Company: Mcknight-Mills
+Email: jennifercox@example.org | Phone: 237-624-8485
+Address: 34657 Jordan Throughway, Coffeyborough, MP 95045
+SSN: 057-45-9178
+Card: 4615424966498660 | DOB: 05/14/1980
+Last login IP: 10.71.226.150

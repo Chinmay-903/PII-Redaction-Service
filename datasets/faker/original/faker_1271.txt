@@ -1,0 +1,7 @@
+Customer: Jacob Smith
+Company: Huff, Campbell and Lee
+Email: monica11@example.org | Phone: 531-260-0484
+Address: 8981 Michael Cape, Lake Brandonville, NV 74891
+SSN: 795-57-3104
+Card: 4373518056069232 | DOB: 01/10/1989
+Last login IP: 172.16.163.16

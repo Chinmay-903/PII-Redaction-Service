@@ -1,0 +1,7 @@
+Customer: Robin Lambert
+Company: Hernandez-Turner
+Email: kellyserrano@example.net | Phone: 889-058-1644
+Address: 380 Vicki Path, Williamsshire, MS 21983
+SSN: 009-14-9803
+Card: 4227070812494468 | DOB: 07/27/1978
+Last login IP: 192.168.152.166

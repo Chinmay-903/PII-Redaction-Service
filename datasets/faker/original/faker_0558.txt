@@ -1,0 +1,7 @@
+Customer: Christopher Keller
+Company: Austin-Brown
+Email: helenjackson@example.org | Phone: 241-230-7945
+Address: 6215 Gary Village, Michellebury, MP 32389
+SSN: 067-80-3095
+Card: 4521820184309907 | DOB: 01/12/1950
+Last login IP: 10.20.212.166

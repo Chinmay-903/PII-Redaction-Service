@@ -1,0 +1,7 @@
+Customer: Patrick Buchanan
+Company: Davies PLC
+Email: zcampbell@example.com | Phone: 364-054-0795
+Address: 6903 Angie Coves, North Bethstad, FM 64299
+SSN: 050-83-4171
+Card: 4415169159632847 | DOB: 09/21/1976
+Last login IP: 172.21.6.203

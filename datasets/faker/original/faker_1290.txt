@@ -1,0 +1,7 @@
+Customer: Ashley Norman
+Company: Jones Ltd
+Email: jprice@example.net | Phone: 288-691-4940
+Address: 075 Richard Extensions, Port Megan, WI 10119
+SSN: 872-94-4519
+Card: 4870743819117551 | DOB: 08/07/1996
+Last login IP: 192.168.201.180

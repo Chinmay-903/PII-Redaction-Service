@@ -1,0 +1,7 @@
+Customer: Laura Hawkins
+Company: Cabrera, Taylor and Roy
+Email: sskinner@example.org | Phone: 352-419-9041
+Address: 3724 Wade Haven, Amyfort, IL 53196
+SSN: 623-94-2603
+Card: 4046298310214653 | DOB: 12/26/2000
+Last login IP: 10.244.246.48

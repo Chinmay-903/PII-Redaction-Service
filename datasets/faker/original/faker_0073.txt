@@ -1,0 +1,7 @@
+Customer: Diana Smith
+Company: Vazquez, Porter and Fisher
+Email: gchang@example.net | Phone: 212-050-7841
+Address: 523 Moore Valleys, Jacobshire, WV 15849
+SSN: 416-12-3690
+Card: 4733812859658795 | DOB: 02/07/2005
+Last login IP: 172.21.88.167

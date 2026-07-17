@@ -1,0 +1,7 @@
+Customer: Sophia Walsh
+Company: Buchanan, King and Gray
+Email: nhogan@example.com | Phone: 426-884-8364
+Address: 81762 Fernandez Stravenue, North Micheleburgh, NV 73576
+SSN: 597-24-3059
+Card: 4003570124472110 | DOB: 07/14/1972
+Last login IP: 192.168.78.227

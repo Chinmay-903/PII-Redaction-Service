@@ -1,0 +1,7 @@
+Customer: Daniel Hunter
+Company: Dominguez PLC
+Email: khodges@example.org | Phone: 342-989-4315
+Address: 78809 Grant Village, Oconnortown, IL 81151
+SSN: 509-96-3024
+Card: 4698656203313026 | DOB: 05/07/1955
+Last login IP: 10.159.151.200

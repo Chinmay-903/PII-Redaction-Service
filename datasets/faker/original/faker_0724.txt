@@ -1,0 +1,7 @@
+Customer: Nancy Hernandez
+Company: Barton Ltd
+Email: smithmelissa@example.org | Phone: 349-366-6158
+Address: 1694 Justin Alley, Port Sharonland, UT 92287
+SSN: 414-81-2376
+Card: 4669891648788962 | DOB: 01/05/1953
+Last login IP: 172.19.254.0

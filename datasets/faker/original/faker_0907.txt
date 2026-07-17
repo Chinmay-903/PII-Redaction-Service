@@ -1,0 +1,7 @@
+Customer: Brian Griffith
+Company: Adams-Gonzalez
+Email: keithrussell@example.org | Phone: 686-743-7633
+Address: 80390 Robert Extensions, North Sandra, AS 53161
+SSN: 584-37-4087
+Card: 4120720581624855 | DOB: 11/20/1976
+Last login IP: 172.22.234.166

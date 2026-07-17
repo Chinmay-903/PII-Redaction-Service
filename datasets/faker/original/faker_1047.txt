@@ -1,0 +1,7 @@
+Customer: Patricia Whitaker
+Company: Howard LLC
+Email: billywood@example.net | Phone: 028-691-9911
+Address: 913 Hernandez Lakes, Port Richardburgh, IL 81674
+SSN: 239-95-2339
+Card: 4287855337914512 | DOB: 07/24/1994
+Last login IP: 192.168.202.11

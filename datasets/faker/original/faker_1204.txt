@@ -1,0 +1,7 @@
+Customer: Allison Evans
+Company: Rivera LLC
+Email: anthony61@example.net | Phone: 618-849-8803
+Address: 16298 Sweeney Neck, Lake Christina, MT 28505
+SSN: 337-18-7139
+Card: 4619438706696942 | DOB: 12/05/1984
+Last login IP: 192.168.83.169

@@ -1,0 +1,7 @@
+Customer: Angela Jimenez
+Company: Mccoy and Sons
+Email: obrienchristopher@example.com | Phone: 145-267-2474
+Address: 3017 Monica Wells, Lopezborough, SC 57649
+SSN: 335-27-3043
+Card: 4302817469416246 | DOB: 09/24/1977
+Last login IP: 192.168.189.181

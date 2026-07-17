@@ -1,0 +1,7 @@
+Customer: Abigail Johnson
+Company: Weber-Hunter
+Email: prodriguez@example.org | Phone: 828-244-4911
+Address: 936 James Pass, Kramerton, CO 14119
+SSN: 195-16-0492
+Card: 4037655380070524 | DOB: 04/12/2000
+Last login IP: 10.43.104.249

@@ -1,0 +1,7 @@
+Customer: Megan Watson
+Company: Brown PLC
+Email: nathanielmorse@example.net | Phone: 560-994-5964
+Address: 38961 Bishop Grove, Denisehaven, MO 78221
+SSN: 012-03-2182
+Card: 4654442973472652 | DOB: 09/03/1967
+Last login IP: 10.181.110.104

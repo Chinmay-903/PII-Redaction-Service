@@ -1,0 +1,7 @@
+Customer: Charlotte Fowler
+Company: Adams-Williams
+Email: karendavis@example.org | Phone: 158-549-2111
+Address: 45112 Robert Throughway, Diazburgh, VA 55602
+SSN: 525-52-5699
+Card: 4413867300544538 | DOB: 11/26/1997
+Last login IP: 10.124.88.131

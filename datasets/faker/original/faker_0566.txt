@@ -1,0 +1,7 @@
+Customer: Stephanie Mueller
+Company: Lopez, Ramirez and Dixon
+Email: denisemorrison@example.com | Phone: 695-446-7630
+Address: 833 Cole Turnpike, Joannaton, IA 00543
+SSN: 312-03-7644
+Card: 4375523571764463 | DOB: 05/13/1993
+Last login IP: 10.84.26.92

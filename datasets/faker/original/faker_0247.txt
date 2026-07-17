@@ -1,0 +1,7 @@
+Customer: Alexander Wood
+Company: Watson Group
+Email: morrisonmatthew@example.net | Phone: 623-147-5725
+Address: 333 Kristen Isle, Lake Mario, PR 46872
+SSN: 825-78-9788
+Card: 4138995693651018 | DOB: 08/27/1955
+Last login IP: 192.168.125.131

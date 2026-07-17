@@ -1,0 +1,7 @@
+Customer: Dominique Carlson
+Company: Pruitt-Levy
+Email: robertmccormick@example.com | Phone: 615-416-3838
+Address: 184 Green Loaf, Aaronhaven, MI 40429
+SSN: 684-24-9088
+Card: 4589967213709828 | DOB: 06/04/2004
+Last login IP: 172.20.56.254

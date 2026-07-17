@@ -1,0 +1,7 @@
+Customer: Justin Garrett
+Company: Chavez, Alexander and Vasquez
+Email: campbelljustin@example.com | Phone: 972-733-0125
+Address: 5763 Riley Route, Brendamouth, MD 60043
+SSN: 044-67-7122
+Card: 4160053432564026 | DOB: 07/13/1960
+Last login IP: 172.28.12.159

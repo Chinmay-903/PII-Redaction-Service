@@ -1,0 +1,7 @@
+Customer: Christine White
+Company: Larson-Moss
+Email: obanks@example.org | Phone: 036-896-9655
+Address: 2029 Victor Coves, Port Gina, NJ 20653
+SSN: 737-19-5322
+Card: 4158697256830402 | DOB: 02/27/1983
+Last login IP: 172.26.195.202

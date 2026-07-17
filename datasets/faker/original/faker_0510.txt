@@ -1,0 +1,7 @@
+Customer: Kristi Elliott
+Company: Gregory LLC
+Email: usavage@example.com | Phone: 616-607-8370
+Address: 993 Victoria Points, Josephport, MI 77996
+SSN: 766-87-0148
+Card: 4873982406255260 | DOB: 08/25/1967
+Last login IP: 192.168.86.159

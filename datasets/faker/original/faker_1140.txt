@@ -1,0 +1,7 @@
+Customer: Robert Jones
+Company: Jensen, Anderson and Dickerson
+Email: rodriguezdanielle@example.org | Phone: 139-926-0262
+Address: 21085 Sarah Land, Paulton, OR 13977
+SSN: 571-14-0880
+Card: 4660795952594461 | DOB: 11/01/1958
+Last login IP: 172.18.4.242

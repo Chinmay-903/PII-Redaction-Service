@@ -1,0 +1,7 @@
+Customer: Kathleen Cisneros
+Company: Wilson-Cruz
+Email: vancesara@example.net | Phone: 884-008-3601
+Address: 7778 Rice Hill, Jerryhaven, NV 85423
+SSN: 547-62-6104
+Card: 4542980982570970 | DOB: 06/07/1961
+Last login IP: 172.31.168.87

@@ -1,0 +1,7 @@
+Customer: Tammy Salazar
+Company: Huynh LLC
+Email: fholder@example.com | Phone: 520-296-7787
+Address: 7760 Crawford Court, Lake Michaelside, NV 47673
+SSN: 257-57-1076
+Card: 4171774732699645 | DOB: 03/17/1970
+Last login IP: 172.29.120.229

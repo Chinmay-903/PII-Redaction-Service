@@ -1,0 +1,7 @@
+Customer: Craig Terry
+Company: Park, Johnson and Long
+Email: williamspatrick@example.net | Phone: 859-915-9543
+Address: 32675 Wood Lane, New Kent, WV 83748
+SSN: 109-43-6986
+Card: 4109206739089626 | DOB: 06/24/1975
+Last login IP: 172.31.59.50

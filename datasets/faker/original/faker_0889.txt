@@ -1,0 +1,7 @@
+Customer: Brian Lyons
+Company: Wagner Inc
+Email: birdmark@example.org | Phone: 078-960-4014
+Address: 0541 Gonzales Tunnel, Lake Jason, AK 19163
+SSN: 377-48-0079
+Card: 4939894447507819 | DOB: 12/13/1951
+Last login IP: 192.168.186.64

@@ -1,0 +1,7 @@
+Customer: Lindsay Arnold
+Company: Nolan, Ramos and Harris
+Email: susan75@example.com | Phone: 904-879-4453
+Address: 14727 Johnson Junction, New Elizabeth, AL 73056
+SSN: 220-77-8053
+Card: 4700777989624810 | DOB: 05/21/1998
+Last login IP: 192.168.227.219

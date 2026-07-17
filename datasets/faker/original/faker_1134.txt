@@ -1,0 +1,7 @@
+Customer: Crystal Wilkinson
+Company: Hale and Sons
+Email: daniel79@example.net | Phone: 770-479-9417
+Address: 836 Thomas Path, Port Katherine, AR 92704
+SSN: 304-66-1274
+Card: 4423482705594779 | DOB: 07/24/1962
+Last login IP: 192.168.28.130

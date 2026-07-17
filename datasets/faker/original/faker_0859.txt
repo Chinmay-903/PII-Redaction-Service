@@ -1,0 +1,7 @@
+Customer: April Hawkins
+Company: Williams, Curtis and Herring
+Email: kevincopeland@example.org | Phone: 150-587-6804
+Address: 8537 Bethany Extensions, East Heatherbury, OK 58349
+SSN: 056-05-8311
+Card: 4059884398701358 | DOB: 03/22/1946
+Last login IP: 172.16.152.141

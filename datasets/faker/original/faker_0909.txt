@@ -1,0 +1,7 @@
+Customer: Ashley George
+Company: Tucker-Johnson
+Email: carolyn16@example.org | Phone: 145-558-2798
+Address: 24058 Laura Orchard, Port Christopher, MH 15117
+SSN: 688-21-9802
+Card: 4645322266765693 | DOB: 10/18/1978
+Last login IP: 172.21.9.132

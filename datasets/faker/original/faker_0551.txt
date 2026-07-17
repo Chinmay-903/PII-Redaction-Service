@@ -1,0 +1,7 @@
+Customer: James Foley
+Company: Nicholson, Reid and Smith
+Email: holly71@example.org | Phone: 503-022-2356
+Address: 50044 Christopher Ford, Pittsmouth, VI 89502
+SSN: 103-99-1130
+Card: 4275020534147903 | DOB: 09/30/1963
+Last login IP: 192.168.53.33

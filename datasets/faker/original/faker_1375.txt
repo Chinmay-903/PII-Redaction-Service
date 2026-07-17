@@ -1,0 +1,7 @@
+Customer: Steven Herrera
+Company: Ramos-Jordan
+Email: jessealexander@example.org | Phone: 814-791-8891
+Address: 63055 Stephens Mall, Petertown, FM 26247
+SSN: 398-41-6381
+Card: 4629580562067268 | DOB: 02/11/1995
+Last login IP: 10.115.17.104

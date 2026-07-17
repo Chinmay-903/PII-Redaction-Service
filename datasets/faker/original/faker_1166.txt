@@ -1,0 +1,7 @@
+Customer: Julia Lee
+Company: Gonzalez, Kirk and Moreno
+Email: tuckerjonathan@example.net | Phone: 065-136-9228
+Address: 0264 Mitchell Fall, Stephentown, PA 98182
+SSN: 030-70-5991
+Card: 4491304746768559 | DOB: 04/17/2000
+Last login IP: 172.31.114.9

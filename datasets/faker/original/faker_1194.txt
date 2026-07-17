@@ -1,0 +1,7 @@
+Customer: Brendan Hill
+Company: Gonzalez-Tucker
+Email: cbarber@example.org | Phone: 266-337-3384
+Address: 6224 Graham Vista, West Sharonville, AK 61928
+SSN: 463-09-2165
+Card: 4004126427305108 | DOB: 08/30/1956
+Last login IP: 172.23.44.63

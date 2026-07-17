@@ -1,0 +1,7 @@
+Customer: Joyce Snyder
+Company: Jones, White and Mcclure
+Email: harrisjustin@example.com | Phone: 657-883-6536
+Address: 751 Sawyer Knolls, Lake Ethan, NC 72339
+SSN: 825-79-2313
+Card: 4596284965755731 | DOB: 01/19/1994
+Last login IP: 172.23.170.112

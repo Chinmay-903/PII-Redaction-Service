@@ -1,0 +1,7 @@
+Customer: Kimberly Pierce
+Company: Obrien, Johnson and Williams
+Email: uthomas@example.com | Phone: 843-524-3099
+Address: 3953 Kathleen Mountain, Port Dylan, ID 00946
+SSN: 086-40-5427
+Card: 4193470384190595 | DOB: 07/02/1962
+Last login IP: 192.168.27.231

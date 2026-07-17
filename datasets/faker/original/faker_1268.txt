@@ -1,0 +1,7 @@
+Customer: Rachel Le
+Company: Sanchez, Smith and Rodriguez
+Email: kevin22@example.com | Phone: 153-484-7224
+Address: 93813 Heath Turnpike, Underwoodside, OK 25350
+SSN: 586-96-2370
+Card: 4014497868817176 | DOB: 02/09/1981
+Last login IP: 10.70.66.135

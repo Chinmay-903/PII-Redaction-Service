@@ -1,0 +1,7 @@
+Customer: Bailey Bryant
+Company: Krause-Shaw
+Email: collinschristopher@example.org | Phone: 804-111-5075
+Address: 46705 Sierra Hills, Port Annette, MI 07906
+SSN: 508-61-6819
+Card: 4923350768953924 | DOB: 08/19/1990
+Last login IP: 10.114.231.21

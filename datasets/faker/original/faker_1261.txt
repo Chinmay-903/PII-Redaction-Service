@@ -1,0 +1,7 @@
+Customer: Christy Woods
+Company: Olson, Sutton and Hernandez
+Email: uferguson@example.net | Phone: 412-898-0119
+Address: 591 Lynch Station, Lake Juliaburgh, OK 23922
+SSN: 074-59-8684
+Card: 4594623974018247 | DOB: 04/20/1947
+Last login IP: 10.75.41.73

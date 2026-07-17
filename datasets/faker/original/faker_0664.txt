@@ -1,0 +1,7 @@
+Customer: Eric Sanchez
+Company: Collins, Estes and Lopez
+Email: nancy65@example.org | Phone: 891-348-8543
+Address: 938 Bailey Viaduct, South Michael, LA 92549
+SSN: 505-74-0832
+Card: 4697465665227232 | DOB: 04/06/2008
+Last login IP: 10.196.24.69

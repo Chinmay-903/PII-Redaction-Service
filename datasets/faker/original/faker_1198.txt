@@ -1,0 +1,7 @@
+Customer: Edward Turner
+Company: Brown, King and Wheeler
+Email: paul38@example.com | Phone: 543-989-8355
+Address: 569 Dean Highway, Lake Ann, VT 84364
+SSN: 202-03-8993
+Card: 4672518681897948 | DOB: 06/30/1973
+Last login IP: 172.30.100.112

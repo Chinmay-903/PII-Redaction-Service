@@ -1,0 +1,7 @@
+Customer: Eric Lucas
+Company: Sanchez, Simmons and Butler
+Email: pjennings@example.com | Phone: 716-813-7443
+Address: 3504 Thomas Rapid, Nelsonmouth, DC 35031
+SSN: 040-41-4958
+Card: 4147818773571584 | DOB: 06/23/1978
+Last login IP: 10.149.187.86

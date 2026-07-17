@@ -1,0 +1,7 @@
+Customer: Nicole Wagner
+Company: Gates, Newton and Mccoy
+Email: qjackson@example.net | Phone: 236-932-6053
+Address: 85971 Miguel Extension, Amyton, FM 91394
+SSN: 595-04-3607
+Card: 4870812912450456 | DOB: 03/10/1984
+Last login IP: 10.217.95.226

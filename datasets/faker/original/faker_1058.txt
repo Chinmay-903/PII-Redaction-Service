@@ -1,0 +1,7 @@
+Customer: Lori Leonard
+Company: Fischer and Sons
+Email: ashley06@example.org | Phone: 489-133-4718
+Address: 92683 Rasmussen Junction, Georgeside, OR 69969
+SSN: 004-05-9459
+Card: 4535170880900235 | DOB: 06/22/2001
+Last login IP: 172.19.66.233

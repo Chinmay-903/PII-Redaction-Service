@@ -1,0 +1,7 @@
+Customer: Robert Lee
+Company: Heath Inc
+Email: samuelbates@example.org | Phone: 324-867-3798
+Address: 777 Gregory Parks, Johnsonport, MP 45700
+SSN: 053-72-9321
+Card: 4007614578818182 | DOB: 01/25/1955
+Last login IP: 192.168.241.218

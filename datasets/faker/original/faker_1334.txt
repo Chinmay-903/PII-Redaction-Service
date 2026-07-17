@@ -1,0 +1,7 @@
+Customer: William Williams
+Company: Yates, Atkins and Ward
+Email: ibell@example.org | Phone: 902-352-5057
+Address: 9352 Charles Oval, North Chelseystad, NH 70808
+SSN: 834-87-1287
+Card: 4641056202307681 | DOB: 11/25/1980
+Last login IP: 192.168.191.133

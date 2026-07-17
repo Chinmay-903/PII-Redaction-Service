@@ -1,0 +1,7 @@
+Customer: Jennifer Dillon
+Company: James, Davis and Lynch
+Email: bsmith@example.net | Phone: 882-996-5770
+Address: 018 Mary Orchard, Lake Saratown, MI 43626
+SSN: 596-40-4259
+Card: 4101904555877714 | DOB: 11/24/1991
+Last login IP: 10.151.140.13

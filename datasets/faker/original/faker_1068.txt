@@ -1,0 +1,7 @@
+Customer: Curtis Smith
+Company: Galloway Inc
+Email: nhogan@example.com | Phone: 943-988-8325
+Address: 438 Tammy Estate, North Rickytown, TN 93917
+SSN: 468-36-0829
+Card: 4504135538189488 | DOB: 07/14/1978
+Last login IP: 192.168.181.202

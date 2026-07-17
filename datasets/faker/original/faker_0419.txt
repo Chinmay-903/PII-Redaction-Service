@@ -1,0 +1,7 @@
+Customer: Karen Williams
+Company: Edwards-Anderson
+Email: nicholasbrown@example.net | Phone: 502-294-1934
+Address: 0692 Phillips Road, South Craig, SD 65619
+SSN: 258-40-6563
+Card: 4747367691588795 | DOB: 05/26/1980
+Last login IP: 10.123.227.110

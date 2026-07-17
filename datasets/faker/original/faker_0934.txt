@@ -1,0 +1,7 @@
+Customer: Joseph Riddle
+Company: Brooks-Lopez
+Email: melaniecollins@example.com | Phone: 588-696-7731
+Address: 036 Victoria Course, New Amymouth, NJ 57404
+SSN: 531-04-5592
+Card: 4712898918171123 | DOB: 06/28/1991
+Last login IP: 10.84.96.97

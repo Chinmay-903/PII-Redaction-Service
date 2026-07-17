@@ -1,0 +1,7 @@
+Customer: Taylor Bradford
+Company: Collins-Walls
+Email: davisrobert@example.net | Phone: 286-931-2498
+Address: 239 Mitchell Village, Lake Derrickside, OH 38343
+SSN: 470-94-8591
+Card: 4647381446893237 | DOB: 09/08/1959
+Last login IP: 192.168.46.0

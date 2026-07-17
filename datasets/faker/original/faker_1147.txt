@@ -1,0 +1,7 @@
+Customer: Jessica Adams
+Company: Berry PLC
+Email: paulphillips@example.org | Phone: 015-273-3357
+Address: 670 Anthony Crossroad, West Christopherfort, PW 46979
+SSN: 034-36-5889
+Card: 4047122704722684 | DOB: 04/06/2001
+Last login IP: 192.168.246.169

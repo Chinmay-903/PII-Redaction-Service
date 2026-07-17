@@ -1,0 +1,7 @@
+Customer: Kristen Davis
+Company: Owens-Dickson
+Email: travis40@example.com | Phone: 343-695-7150
+Address: 990 Reyes Overpass, Port Markberg, OH 25135
+SSN: 796-23-0767
+Card: 4745405967857809 | DOB: 11/11/1949
+Last login IP: 192.168.110.39

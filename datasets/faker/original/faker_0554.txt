@@ -1,0 +1,7 @@
+Customer: Robert Newton
+Company: Scott PLC
+Email: jvaldez@example.org | Phone: 685-596-8794
+Address: 0723 Hunt Squares, Rochamouth, MD 63672
+SSN: 584-87-7619
+Card: 4794549879089348 | DOB: 04/23/1979
+Last login IP: 172.18.93.223

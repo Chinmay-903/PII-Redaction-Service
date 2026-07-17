@@ -1,0 +1,7 @@
+Customer: Nathan Boyd
+Company: Dawson-Rush
+Email: zadams@example.com | Phone: 760-808-0129
+Address: 804 Hall Lodge, Alifort, NM 79664
+SSN: 312-21-0547
+Card: 4579559946307905 | DOB: 02/04/2002
+Last login IP: 10.165.190.240

@@ -1,0 +1,7 @@
+Customer: Diana Mays
+Company: Daniels, Duarte and Jones
+Email: elizabeth85@example.com | Phone: 984-652-9613
+Address: 5509 Whitney Ferry, Jenningsberg, WA 80288
+SSN: 035-19-4084
+Card: 4250401663241288 | DOB: 01/28/2001
+Last login IP: 10.131.171.212

@@ -1,0 +1,7 @@
+Customer: Terry Herrera
+Company: White Group
+Email: piercejohn@example.com | Phone: 699-337-1214
+Address: 283 Harper Courts, West Alexisside, ME 12583
+SSN: 837-10-6633
+Card: 4409883915921769 | DOB: 04/28/1987
+Last login IP: 172.23.162.7

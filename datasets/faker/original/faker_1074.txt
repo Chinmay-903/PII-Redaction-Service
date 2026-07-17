@@ -1,0 +1,7 @@
+Customer: Antonio Singh
+Company: Gregory, Smith and Combs
+Email: doylejeremy@example.net | Phone: 745-955-5162
+Address: 871 Sophia Loaf, East Jeffreychester, FM 24746
+SSN: 651-60-2107
+Card: 4010024196682603 | DOB: 07/24/1977
+Last login IP: 192.168.50.26

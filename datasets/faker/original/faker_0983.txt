@@ -1,0 +1,7 @@
+Customer: Patricia Wheeler
+Company: Bailey and Sons
+Email: jenkinssusan@example.com | Phone: 518-096-1321
+Address: 9397 Lindsey Burg, Lake Kevin, IA 17148
+SSN: 657-52-3277
+Card: 4831470445548581 | DOB: 07/24/1955
+Last login IP: 172.29.121.224

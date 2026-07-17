@@ -1,0 +1,7 @@
+Customer: Travis Johnson
+Company: Lopez, Conley and Evans
+Email: zwhite@example.net | Phone: 821-593-5225
+Address: 251 Jennifer Village, South Jimberg, MP 09684
+SSN: 375-33-8432
+Card: 4757025511960423 | DOB: 04/23/1972
+Last login IP: 192.168.129.120

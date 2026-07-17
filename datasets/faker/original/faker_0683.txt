@@ -1,0 +1,7 @@
+Customer: Jonathan Rodriguez
+Company: Newman, Long and Davis
+Email: jhahn@example.com | Phone: 766-971-9198
+Address: 501 Mora Pike, East Bradley, OK 21949
+SSN: 621-74-8821
+Card: 4285027881253059 | DOB: 12/08/1973
+Last login IP: 192.168.40.35

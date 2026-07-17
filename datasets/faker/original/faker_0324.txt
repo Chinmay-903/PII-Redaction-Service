@@ -1,0 +1,7 @@
+Customer: Richard Collins
+Company: Castillo-Hensley
+Email: michele20@example.net | Phone: 290-889-5019
+Address: 940 Hamilton Motorway, Port Joseph, FM 30582
+SSN: 424-63-8299
+Card: 4062385462989965 | DOB: 02/12/1970
+Last login IP: 192.168.155.61

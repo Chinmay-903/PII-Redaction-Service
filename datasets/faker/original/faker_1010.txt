@@ -1,0 +1,7 @@
+Customer: Traci Adams
+Company: Freeman, Watson and Deleon
+Email: johnleach@example.com | Phone: 275-870-0565
+Address: 7080 Oliver Trafficway, East Nicholas, MP 84538
+SSN: 267-21-2947
+Card: 4746819665851717 | DOB: 09/23/1952
+Last login IP: 192.168.184.167

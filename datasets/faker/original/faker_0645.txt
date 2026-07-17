@@ -1,0 +1,7 @@
+Customer: Cheryl Burton
+Company: Allen, Mitchell and Austin
+Email: bradleynelson@example.org | Phone: 195-851-8941
+Address: 416 Lisa Street, Velasquezmouth, UT 81810
+SSN: 100-59-2615
+Card: 4602520665222890 | DOB: 05/21/2005
+Last login IP: 192.168.44.103

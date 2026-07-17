@@ -1,0 +1,7 @@
+Customer: Tiffany Lee
+Company: Shaffer, Martinez and George
+Email: maria14@example.com | Phone: 581-719-9279
+Address: 36603 Gibson Valleys, Lyonsshire, MS 79067
+SSN: 121-64-0600
+Card: 4428809461931750 | DOB: 02/08/1984
+Last login IP: 172.20.4.58

@@ -1,0 +1,7 @@
+Customer: Jonathan Miles
+Company: Campbell-Walker
+Email: vparker@example.com | Phone: 785-453-0105
+Address: 77075 Tran Road, New Sarahville, VI 62704
+SSN: 470-44-8704
+Card: 4463210235239909 | DOB: 04/24/2001
+Last login IP: 192.168.156.205

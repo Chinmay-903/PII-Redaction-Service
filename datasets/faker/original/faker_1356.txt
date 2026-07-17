@@ -1,0 +1,7 @@
+Customer: Lori Alexander
+Company: Rodriguez Group
+Email: deannawagner@example.net | Phone: 624-554-5445
+Address: 2880 Pamela Passage, East Faithfort, KS 00646
+SSN: 565-29-7669
+Card: 4621155667731742 | DOB: 02/27/1972
+Last login IP: 192.168.201.105

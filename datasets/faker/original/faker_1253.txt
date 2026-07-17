@@ -1,0 +1,7 @@
+Customer: Brian Wright
+Company: Lynch and Sons
+Email: robertshepard@example.com | Phone: 594-081-7234
+Address: 723 Debra Well, Amyfurt, NE 49810
+SSN: 279-83-1838
+Card: 4203738401510146 | DOB: 01/21/1995
+Last login IP: 10.12.119.51

@@ -1,0 +1,7 @@
+Customer: Robin Johnson
+Company: James LLC
+Email: caleb19@example.org | Phone: 918-371-6994
+Address: 649 Edward Street, Westfurt, OK 33213
+SSN: 396-17-1911
+Card: 4651811767339983 | DOB: 12/21/1996
+Last login IP: 10.69.9.114

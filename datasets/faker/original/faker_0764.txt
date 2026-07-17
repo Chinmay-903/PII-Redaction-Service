@@ -1,0 +1,7 @@
+Customer: Ralph Johnson
+Company: Rogers, Jackson and Moore
+Email: wilsonchristina@example.com | Phone: 787-111-6913
+Address: 2695 Amy Centers, East Tammy, GA 04397
+SSN: 456-28-1432
+Card: 4261805734280264 | DOB: 12/29/1957
+Last login IP: 10.238.228.171

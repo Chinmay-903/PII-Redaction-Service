@@ -1,0 +1,7 @@
+Customer: Brent Mckinney
+Company: Costa-Hartman
+Email: josephmcguire@example.net | Phone: 670-929-2438
+Address: 485 Bryant Villages, Denisestad, ND 83468
+SSN: 526-93-6833
+Card: 4711931448333896 | DOB: 05/15/1952
+Last login IP: 192.168.102.84

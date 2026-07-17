@@ -1,0 +1,7 @@
+Customer: Jasmin Owens
+Company: Chan LLC
+Email: thomas64@example.com | Phone: 730-901-6805
+Address: 56065 Antonio Ridges, Dixonburgh, MI 72110
+SSN: 485-82-5396
+Card: 4836275909213225 | DOB: 02/24/1998
+Last login IP: 10.89.73.204

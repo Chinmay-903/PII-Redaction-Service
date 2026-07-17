@@ -1,0 +1,7 @@
+Customer: Jackie Gilmore
+Company: George, Lee and Harris
+Email: jonathonlopez@example.org | Phone: 401-290-9567
+Address: 504 Victoria Mall, Thomasfurt, AK 24863
+SSN: 085-28-9576
+Card: 4069595981862708 | DOB: 06/30/1994
+Last login IP: 172.25.26.195

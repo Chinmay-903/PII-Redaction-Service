@@ -1,0 +1,7 @@
+Customer: Joshua Knight
+Company: Becker Group
+Email: apruitt@example.com | Phone: 727-438-3763
+Address: 8944 Nguyen Ville, Youngport, WY 71158
+SSN: 405-46-8887
+Card: 4950689509905289 | DOB: 11/19/1961
+Last login IP: 172.21.92.111

@@ -1,0 +1,7 @@
+Customer: Priscilla Perry
+Company: Maldonado Ltd
+Email: qwright@example.com | Phone: 139-527-8426
+Address: 2923 Nancy Course, Amandastad, VI 79936
+SSN: 760-36-4176
+Card: 4623086494158908 | DOB: 06/02/1981
+Last login IP: 10.183.110.82

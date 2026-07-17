@@ -1,0 +1,7 @@
+Customer: Charles Mclean
+Company: Dickerson LLC
+Email: brandtryan@example.com | Phone: 366-180-4057
+Address: 3969 Young Corners, Lake Laurenborough, OK 52083
+SSN: 589-84-8093
+Card: 4468436033243992 | DOB: 06/08/1973
+Last login IP: 10.106.35.186

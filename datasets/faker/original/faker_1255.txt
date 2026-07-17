@@ -1,0 +1,7 @@
+Customer: Victoria Allen
+Company: Evans, Mcfarland and White
+Email: ryanchristopher@example.com | Phone: 709-879-2961
+Address: 9514 Ward Pine, Michaelshire, DE 85811
+SSN: 399-26-8910
+Card: 4493091109042528 | DOB: 06/26/1960
+Last login IP: 10.95.154.231

@@ -1,0 +1,7 @@
+Customer: Maria Ochoa
+Company: Barry, Taylor and Travis
+Email: mitchellalejandro@example.com | Phone: 728-721-6296
+Address: 913 Michelle Garden, East Angelicaton, NH 12015
+SSN: 173-68-4831
+Card: 4587655262219110 | DOB: 01/14/1971
+Last login IP: 192.168.106.10

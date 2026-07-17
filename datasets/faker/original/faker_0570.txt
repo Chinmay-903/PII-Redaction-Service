@@ -1,0 +1,7 @@
+Customer: Emily Ryan
+Company: Lucas-Brown
+Email: sjones@example.org | Phone: 535-698-9496
+Address: 5038 Ferguson Mountain, Port Kenneth, GU 09464
+SSN: 243-99-8628
+Card: 4899888524317652 | DOB: 01/04/1982
+Last login IP: 10.118.142.235

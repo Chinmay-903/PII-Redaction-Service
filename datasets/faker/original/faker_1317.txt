@@ -1,0 +1,7 @@
+Customer: Dawn Cole
+Company: Nielsen-Mcpherson
+Email: ythompson@example.net | Phone: 516-836-4357
+Address: 1113 Shannon Isle, Kimberlyburgh, OR 25109
+SSN: 144-16-7745
+Card: 4319760432353404 | DOB: 11/19/1994
+Last login IP: 172.24.209.18

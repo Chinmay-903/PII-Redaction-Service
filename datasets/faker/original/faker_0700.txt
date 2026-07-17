@@ -1,0 +1,7 @@
+Customer: Robert Peterson
+Company: Hays, Scott and Thompson
+Email: bjackson@example.org | Phone: 278-061-0811
+Address: 604 John Overpass, Kenthaven, AS 83295
+SSN: 009-04-0707
+Card: 4045616640939205 | DOB: 04/19/1969
+Last login IP: 192.168.252.127

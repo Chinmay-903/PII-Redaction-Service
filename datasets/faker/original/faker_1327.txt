@@ -1,0 +1,7 @@
+Customer: Rachel Alexander
+Company: Jones and Sons
+Email: fblake@example.net | Phone: 192-658-9727
+Address: 888 Lori Parks, Cunninghamhaven, HI 43070
+SSN: 029-88-7663
+Card: 4992008672771628 | DOB: 01/16/1950
+Last login IP: 10.204.81.245

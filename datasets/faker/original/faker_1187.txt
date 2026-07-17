@@ -1,0 +1,7 @@
+Customer: Kenneth Williams
+Company: Lynch, Farley and Lawson
+Email: catherine89@example.com | Phone: 610-742-4152
+Address: 6833 Jeff Ford, Maddoxberg, NH 45553
+SSN: 001-82-0438
+Card: 4526314274848185 | DOB: 03/24/1962
+Last login IP: 172.16.150.38

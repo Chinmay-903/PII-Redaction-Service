@@ -1,0 +1,7 @@
+Customer: Elizabeth Russell
+Company: Austin and Sons
+Email: thomasgabriella@example.net | Phone: 699-080-4245
+Address: 568 Kirby Mills, Larrybury, WY 73518
+SSN: 536-34-1297
+Card: 4420219284883287 | DOB: 12/18/1968
+Last login IP: 172.31.26.29

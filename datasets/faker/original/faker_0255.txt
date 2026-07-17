@@ -1,0 +1,7 @@
+Customer: Bonnie Burns
+Company: Edwards-Dean
+Email: hayesmichael@example.com | Phone: 760-898-4952
+Address: 8686 Dana Summit, Port Sarahfurt, NE 87909
+SSN: 680-51-8648
+Card: 4166569898663808 | DOB: 06/03/1946
+Last login IP: 10.58.106.231

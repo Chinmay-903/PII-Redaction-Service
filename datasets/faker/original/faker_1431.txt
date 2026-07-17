@@ -1,0 +1,7 @@
+Customer: Anne Johnson
+Company: Smith-Warren
+Email: kaitlyn88@example.net | Phone: 398-757-0742
+Address: 2177 Donald Divide, North Michelle, VI 63521
+SSN: 655-11-1377
+Card: 4642150674196059 | DOB: 01/26/2000
+Last login IP: 192.168.6.41

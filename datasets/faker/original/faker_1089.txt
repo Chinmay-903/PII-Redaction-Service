@@ -1,0 +1,7 @@
+Customer: Larry Johnson
+Company: Richardson Ltd
+Email: johnromero@example.net | Phone: 221-749-8577
+Address: 0884 Gibbs Course, East Peterborough, ND 89996
+SSN: 871-60-0520
+Card: 4551391502668542 | DOB: 03/21/1961
+Last login IP: 10.175.208.23

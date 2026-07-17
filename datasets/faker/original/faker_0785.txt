@@ -1,0 +1,7 @@
+Customer: Ashley Mendez
+Company: Pittman-Sanchez
+Email: allisoncollin@example.net | Phone: 388-988-6931
+Address: 20119 Thompson Corner, North Michaelton, GU 02619
+SSN: 273-13-7030
+Card: 4329834969120169 | DOB: 02/22/1953
+Last login IP: 192.168.254.249

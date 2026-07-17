@@ -1,0 +1,7 @@
+Customer: Robert Huff
+Company: Murphy-Castillo
+Email: timothymitchell@example.org | Phone: 562-337-6067
+Address: 012 Jonathan Light, Nicoleberg, OK 66278
+SSN: 244-98-6977
+Card: 4716743740895943 | DOB: 04/14/1969
+Last login IP: 172.31.127.69

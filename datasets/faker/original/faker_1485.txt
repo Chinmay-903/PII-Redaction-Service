@@ -1,0 +1,7 @@
+Customer: Susan Gates
+Company: Garrett-Knight
+Email: kathleen38@example.org | Phone: 534-829-4707
+Address: 2595 Jones Highway, Calvinborough, NM 44851
+SSN: 604-27-3758
+Card: 4802958212722756 | DOB: 12/09/1996
+Last login IP: 172.27.172.117

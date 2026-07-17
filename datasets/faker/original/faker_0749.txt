@@ -1,0 +1,7 @@
+Customer: Thomas Middleton
+Company: Barry-Davies
+Email: christopherwood@example.net | Phone: 928-982-5424
+Address: 3026 Danielle Rue, Cherrychester, PR 90795
+SSN: 708-68-5810
+Card: 4217412551283847 | DOB: 06/18/1993
+Last login IP: 10.149.147.234

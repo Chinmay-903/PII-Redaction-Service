@@ -1,0 +1,7 @@
+Customer: Robert Kaiser
+Company: Wilson PLC
+Email: rjackson@example.org | Phone: 138-485-4218
+Address: 219 Martin Village, Millerview, AS 16313
+SSN: 399-17-4479
+Card: 4485391317977840 | DOB: 08/26/1988
+Last login IP: 192.168.255.155

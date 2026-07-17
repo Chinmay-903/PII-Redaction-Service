@@ -1,0 +1,7 @@
+Customer: Aaron Sanders
+Company: Sanchez-Wong
+Email: uwilson@example.net | Phone: 542-910-9617
+Address: 3970 Myers Ramp, Nicholasview, AZ 68739
+SSN: 519-93-3223
+Card: 4715911172935419 | DOB: 01/26/1972
+Last login IP: 192.168.225.242

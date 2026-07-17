@@ -1,0 +1,7 @@
+Customer: David Mcfarland
+Company: Anderson, Potter and Harvey
+Email: christina08@example.org | Phone: 228-796-6750
+Address: 90583 Jason Island, South Brandonburgh, NH 02974
+SSN: 259-16-7183
+Card: 4885452192440928 | DOB: 11/21/1966
+Last login IP: 192.168.169.129

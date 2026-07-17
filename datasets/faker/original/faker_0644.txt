@@ -1,0 +1,7 @@
+Customer: Jill Berry
+Company: Davis-Brooks
+Email: dsmith@example.net | Phone: 061-153-6728
+Address: 259 Walters Loop, West Tinatown, IL 93958
+SSN: 207-77-4558
+Card: 4505449005143558 | DOB: 11/09/1960
+Last login IP: 172.20.36.174

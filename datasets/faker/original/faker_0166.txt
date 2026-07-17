@@ -1,0 +1,7 @@
+Customer: Desiree Herrera
+Company: Smith, Allison and Smith
+Email: victoratkinson@example.net | Phone: 684-261-5733
+Address: 4981 Smith Curve, Rodriguezland, MA 30115
+SSN: 150-42-9540
+Card: 4152631876395989 | DOB: 04/13/1996
+Last login IP: 10.133.209.104

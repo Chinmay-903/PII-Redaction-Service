@@ -1,0 +1,7 @@
+Customer: Cindy French
+Company: Martin-Freeman
+Email: valerieholt@example.org | Phone: 346-185-3036
+Address: 06047 Jones Loaf, Scottburgh, AL 05365
+SSN: 804-41-1366
+Card: 4789573174996129 | DOB: 04/16/1982
+Last login IP: 172.27.85.77

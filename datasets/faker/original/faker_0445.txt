@@ -1,0 +1,7 @@
+Customer: Alejandro Fernandez
+Company: Martinez Group
+Email: onealkevin@example.net | Phone: 479-872-2629
+Address: 81172 Orr Flats, Pollardview, OK 18466
+SSN: 891-36-5383
+Card: 4679261061821005 | DOB: 10/18/1948
+Last login IP: 192.168.129.62

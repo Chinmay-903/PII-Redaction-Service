@@ -1,0 +1,7 @@
+Customer: Ryan Wagner
+Company: Knox, Phillips and Moran
+Email: ediaz@example.net | Phone: 598-433-1597
+Address: 294 Monique Canyon, Port Andrechester, OR 46976
+SSN: 541-87-4538
+Card: 4570158149995704 | DOB: 11/18/1993
+Last login IP: 172.23.127.210

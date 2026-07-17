@@ -1,0 +1,7 @@
+Customer: Brandon Garcia
+Company: Martinez-Jackson
+Email: heathergraham@example.net | Phone: 413-316-8702
+Address: 70632 Hill Neck, Port Miguel, MN 14772
+SSN: 447-04-8669
+Card: 4678650221661551 | DOB: 06/24/1981
+Last login IP: 10.252.116.164

@@ -1,0 +1,7 @@
+Customer: Shane Lee
+Company: Zavala LLC
+Email: hayley52@example.org | Phone: 061-979-4669
+Address: 065 Smith Shores, Joshuaton, NJ 52726
+SSN: 374-17-8840
+Card: 4467763529865611 | DOB: 07/29/2004
+Last login IP: 10.46.178.79

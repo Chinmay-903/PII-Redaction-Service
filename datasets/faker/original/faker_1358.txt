@@ -1,0 +1,7 @@
+Customer: Mackenzie Larson
+Company: Curry, Arnold and Clark
+Email: brian19@example.org | Phone: 891-859-4281
+Address: 921 Vicki Crescent, Jeffreymouth, ME 96589
+SSN: 653-65-6759
+Card: 4235048040721431 | DOB: 03/29/1992
+Last login IP: 10.231.109.222

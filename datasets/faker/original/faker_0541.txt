@@ -1,0 +1,7 @@
+Customer: Matthew Garcia
+Company: Blanchard-Jones
+Email: jennifer16@example.net | Phone: 228-896-0425
+Address: 019 Lambert Mills, Mackenziechester, TX 91605
+SSN: 769-04-9411
+Card: 4080417804915412 | DOB: 06/02/1958
+Last login IP: 192.168.21.185

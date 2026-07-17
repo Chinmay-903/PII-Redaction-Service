@@ -1,0 +1,7 @@
+Customer: Ms. Nina Fernandez
+Company: Nelson Ltd
+Email: amandapayne@example.org | Phone: 651-740-9784
+Address: 9185 Barbara Circles, Herreramouth, IN 38771
+SSN: 565-25-3112
+Card: 4377759274278538 | DOB: 12/01/1957
+Last login IP: 10.246.111.115

@@ -1,0 +1,7 @@
+Customer: Jacob Maldonado
+Company: George, Miller and Huerta
+Email: deannamartin@example.net | Phone: 956-312-7033
+Address: 560 Fuller Brooks, Kimberlychester, MI 08576
+SSN: 892-50-7282
+Card: 4120514770966767 | DOB: 12/26/1987
+Last login IP: 192.168.34.132

@@ -1,0 +1,7 @@
+Customer: Sandy Carpenter
+Company: Becker, Orozco and Ramirez
+Email: angelayoung@example.net | Phone: 395-688-1688
+Address: 066 Sheryl Burgs, Jenniferstad, AR 62897
+SSN: 154-09-0225
+Card: 4017192675306417 | DOB: 07/13/1986
+Last login IP: 172.17.239.222

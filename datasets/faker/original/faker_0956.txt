@@ -1,0 +1,7 @@
+Customer: Kevin Kline
+Company: Dixon Group
+Email: abigailstone@example.org | Phone: 305-913-9547
+Address: 41198 Gomez Port, Port Danielchester, PA 06682
+SSN: 575-34-4749
+Card: 4292695121826834 | DOB: 06/01/2003
+Last login IP: 192.168.128.240

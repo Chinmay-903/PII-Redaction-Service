@@ -1,0 +1,7 @@
+Customer: Alexandra Howell MD
+Company: Clark Ltd
+Email: jonathan93@example.org | Phone: 372-599-6587
+Address: 9460 Shari Ville, Hernandezshire, AL 38428
+SSN: 845-21-8443
+Card: 4586873018548440 | DOB: 07/29/2001
+Last login IP: 192.168.44.210

@@ -1,0 +1,7 @@
+Customer: Andrew Moore
+Company: Smith-Jenkins
+Email: joshuahale@example.net | Phone: 688-766-1861
+Address: 231 John Route, Ricehaven, MO 37980
+SSN: 623-90-2189
+Card: 4577134908550389 | DOB: 10/20/1986
+Last login IP: 10.171.5.65

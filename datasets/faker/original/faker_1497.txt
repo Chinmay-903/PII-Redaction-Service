@@ -1,0 +1,7 @@
+Customer: Amy Davenport
+Company: Ware PLC
+Email: camposstephen@example.net | Phone: 527-201-1812
+Address: 27195 Randall Overpass, Gutierrezbury, MN 85163
+SSN: 422-37-6895
+Card: 4758717515816598 | DOB: 01/03/1967
+Last login IP: 10.12.155.136

@@ -1,0 +1,7 @@
+Customer: Thomas Martinez
+Company: Stevens-Guzman
+Email: dsmith@example.org | Phone: 774-155-1943
+Address: 632 Chan Tunnel, Evansport, RI 41545
+SSN: 050-31-4700
+Card: 4244005846503073 | DOB: 11/26/1968
+Last login IP: 172.22.197.2

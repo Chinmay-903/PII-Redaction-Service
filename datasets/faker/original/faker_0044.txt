@@ -1,0 +1,7 @@
+Customer: Veronica Ball
+Company: Castaneda PLC
+Email: porterronald@example.net | Phone: 321-891-2048
+Address: 4412 Taylor Walk, South Hannahstad, DE 08992
+SSN: 589-49-6456
+Card: 4976179242123986 | DOB: 04/17/1966
+Last login IP: 172.25.65.198

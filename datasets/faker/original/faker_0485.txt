@@ -1,0 +1,7 @@
+Customer: Pamela Flores
+Company: Sanchez Group
+Email: delgadojessica@example.com | Phone: 386-358-0364
+Address: 1538 Rivera Flats, Saraland, MS 06891
+SSN: 436-02-0370
+Card: 4824219936768417 | DOB: 01/13/1982
+Last login IP: 192.168.230.169

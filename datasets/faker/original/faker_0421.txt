@@ -1,0 +1,7 @@
+Customer: Taylor Weber
+Company: Adams, Johnson and Rose
+Email: ashley32@example.com | Phone: 444-918-5168
+Address: 0786 Martinez Road, North Ashleychester, PW 17498
+SSN: 545-93-6395
+Card: 4863058645706223 | DOB: 12/15/1978
+Last login IP: 10.43.110.4

@@ -1,0 +1,7 @@
+Customer: Stephen Vazquez
+Company: Lucas PLC
+Email: andreacooper@example.com | Phone: 745-112-2189
+Address: 8692 Cassandra Plains, South Edwardside, DC 79544
+SSN: 486-06-5932
+Card: 4878800848195784 | DOB: 01/22/1957
+Last login IP: 192.168.155.207

@@ -1,0 +1,7 @@
+Customer: Elizabeth Sanchez
+Company: Kelly-Garza
+Email: mmiles@example.net | Phone: 915-313-0077
+Address: 0986 Gilmore Street, Port Coreymouth, PR 24055
+SSN: 772-38-6016
+Card: 4261137998627265 | DOB: 11/25/1993
+Last login IP: 192.168.104.232

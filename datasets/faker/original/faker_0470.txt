@@ -1,0 +1,7 @@
+Customer: Sara Washington
+Company: Knight-Jenkins
+Email: barnettjudy@example.net | Phone: 749-244-4704
+Address: 5606 Lynch Village, Reyesbury, AL 43791
+SSN: 022-17-0065
+Card: 4251957685501750 | DOB: 12/02/1978
+Last login IP: 192.168.218.100

@@ -1,0 +1,7 @@
+Customer: Jessica Garcia
+Company: Rangel, Thomas and Cross
+Email: christinamartinez@example.org | Phone: 821-185-4584
+Address: 4086 Stephanie Hills, Jesseport, VI 87149
+SSN: 189-82-7335
+Card: 4261366558574068 | DOB: 09/26/1985
+Last login IP: 10.188.117.180

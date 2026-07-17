@@ -1,0 +1,7 @@
+Customer: Erik Schneider
+Company: Gonzales-Nguyen
+Email: normandavidson@example.com | Phone: 833-197-7949
+Address: 12906 April Terrace, Dillonton, ND 71066
+SSN: 669-90-7072
+Card: 4823408388381073 | DOB: 04/06/1946
+Last login IP: 172.25.147.159

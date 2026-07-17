@@ -1,0 +1,7 @@
+Customer: Timothy Phillips
+Company: Fowler, Neal and Perez
+Email: jennifer36@example.org | Phone: 314-639-4598
+Address: 311 Franco Rest, Jimenezfort, CT 45795
+SSN: 364-22-5649
+Card: 4148220727944745 | DOB: 02/25/1968
+Last login IP: 192.168.113.118

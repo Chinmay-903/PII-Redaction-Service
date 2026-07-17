@@ -1,0 +1,7 @@
+Customer: Anna Garcia
+Company: Bailey, Hicks and Luna
+Email: james35@example.com | Phone: 174-039-8745
+Address: 4755 Parsons Harbors, Port Tamimouth, TN 37957
+SSN: 377-75-7848
+Card: 4006281178165132 | DOB: 03/13/1981
+Last login IP: 10.101.45.67

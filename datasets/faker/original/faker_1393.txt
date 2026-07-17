@@ -1,0 +1,7 @@
+Customer: Michael Bennett
+Company: Flynn Ltd
+Email: katieferguson@example.com | Phone: 635-692-4545
+Address: 348 Bell Lake, East Timothyview, DE 95605
+SSN: 766-91-5381
+Card: 4379568488026973 | DOB: 08/29/1990
+Last login IP: 192.168.31.173

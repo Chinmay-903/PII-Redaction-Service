@@ -1,0 +1,7 @@
+Customer: Austin Walters
+Company: Howard-Aguirre
+Email: vmitchell@example.org | Phone: 376-270-7759
+Address: 5276 Sharon Court, Harmonshire, IL 90437
+SSN: 775-43-3188
+Card: 4576593640859104 | DOB: 02/25/1963
+Last login IP: 10.130.157.176

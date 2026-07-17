@@ -1,0 +1,7 @@
+Customer: James Aguirre
+Company: Duncan Group
+Email: elizabeth69@example.org | Phone: 082-185-1134
+Address: 561 Marshall Burg, Taylorfort, AZ 39087
+SSN: 043-54-6659
+Card: 4031579305322149 | DOB: 06/17/1953
+Last login IP: 172.18.131.72

@@ -1,0 +1,7 @@
+Customer: Jesse Smith Jr.
+Company: Butler Ltd
+Email: christian11@example.net | Phone: 681-242-2774
+Address: 6698 Huynh Club, New Ashleyberg, OH 80249
+SSN: 234-47-4001
+Card: 4080760620936264 | DOB: 12/24/1975
+Last login IP: 192.168.175.222

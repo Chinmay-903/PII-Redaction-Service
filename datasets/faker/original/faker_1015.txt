@@ -1,0 +1,7 @@
+Customer: Julie Blake
+Company: Olsen-Wong
+Email: cknight@example.net | Phone: 773-589-0933
+Address: 459 Jessica Villages, West Brandonton, MS 09937
+SSN: 468-14-6977
+Card: 4266830181597320 | DOB: 08/19/1961
+Last login IP: 10.121.215.114

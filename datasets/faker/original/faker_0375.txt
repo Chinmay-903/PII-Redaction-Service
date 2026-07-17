@@ -1,0 +1,7 @@
+Customer: Kevin Foster
+Company: Scott-Ross
+Email: christopher10@example.org | Phone: 883-937-4974
+Address: 376 Marshall Meadows, East Alyssaland, MH 18409
+SSN: 394-47-7075
+Card: 4742953726509701 | DOB: 10/05/1996
+Last login IP: 10.46.5.149

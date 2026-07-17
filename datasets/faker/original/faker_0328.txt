@@ -1,0 +1,7 @@
+Customer: Eric Vazquez
+Company: Larson-Mason
+Email: dunnscott@example.net | Phone: 654-815-0328
+Address: 044 Daniel Village, East Robertfurt, DE 03303
+SSN: 544-92-6788
+Card: 4812382179248036 | DOB: 08/26/1997
+Last login IP: 10.230.229.182

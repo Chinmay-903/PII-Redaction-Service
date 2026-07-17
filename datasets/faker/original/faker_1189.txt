@@ -1,0 +1,7 @@
+Customer: Kendra Johnson
+Company: White PLC
+Email: vgarcia@example.net | Phone: 958-480-4272
+Address: 846 Byrd Cape, Lindseychester, WA 31824
+SSN: 195-40-3378
+Card: 4516491020340063 | DOB: 03/23/2007
+Last login IP: 172.30.20.110

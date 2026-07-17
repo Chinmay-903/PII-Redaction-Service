@@ -1,0 +1,7 @@
+Customer: Traci Lowe
+Company: Bentley, Conley and Rangel
+Email: pfarley@example.com | Phone: 777-997-1733
+Address: 83198 Carol Islands, Russellland, IL 51138
+SSN: 837-10-8306
+Card: 4452691134752444 | DOB: 11/20/1954
+Last login IP: 172.29.215.191

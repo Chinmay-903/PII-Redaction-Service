@@ -1,0 +1,7 @@
+Customer: Jeremy Mendez
+Company: Berg Group
+Email: fordhannah@example.com | Phone: 062-355-7900
+Address: 7704 Stacey Landing, Danielhaven, VI 77189
+SSN: 197-89-4725
+Card: 4804883775758369 | DOB: 03/07/1967
+Last login IP: 10.22.11.179

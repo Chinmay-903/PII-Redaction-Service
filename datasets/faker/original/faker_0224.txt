@@ -1,0 +1,7 @@
+Customer: Debra Shaw
+Company: Nichols Group
+Email: gmanning@example.com | Phone: 721-746-1554
+Address: 315 Stephen Flat, North Jacquelinefurt, CO 64356
+SSN: 153-79-6499
+Card: 4457318455402756 | DOB: 11/04/1973
+Last login IP: 172.22.189.159

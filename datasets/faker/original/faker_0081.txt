@@ -1,0 +1,7 @@
+Customer: Monica Elliott
+Company: Stevens Group
+Email: nweber@example.com | Phone: 348-079-5985
+Address: 050 Jeremy Drives, New Kimberlyfurt, MP 48064
+SSN: 477-13-0297
+Card: 4694773549990013 | DOB: 03/23/1949
+Last login IP: 172.19.204.75

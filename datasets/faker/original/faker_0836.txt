@@ -1,0 +1,7 @@
+Customer: Benjamin Perez
+Company: Mayer Inc
+Email: aliciapeterson@example.net | Phone: 565-657-5840
+Address: 30328 Dennis Ranch, Andrewberg, SC 09541
+SSN: 575-23-1153
+Card: 4111845103852147 | DOB: 02/12/1951
+Last login IP: 10.246.156.253

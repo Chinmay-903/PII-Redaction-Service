@@ -1,0 +1,7 @@
+Customer: Melanie Alexander
+Company: Zuniga, Chen and Mitchell
+Email: melindamorrison@example.org | Phone: 913-310-1916
+Address: 8323 Jenkins Pine, Francostad, TN 89602
+SSN: 331-50-9620
+Card: 4341513573371228 | DOB: 03/23/1971
+Last login IP: 10.173.183.53

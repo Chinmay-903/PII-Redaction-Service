@@ -1,0 +1,7 @@
+Customer: Tracy Ray
+Company: Juarez LLC
+Email: angelaking@example.org | Phone: 288-032-8197
+Address: 7660 Cynthia Plains, Bowmanville, WI 09103
+SSN: 478-31-8321
+Card: 4869274812899865 | DOB: 09/03/1945
+Last login IP: 172.21.8.147

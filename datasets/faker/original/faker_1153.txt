@@ -1,0 +1,7 @@
+Customer: Mrs. Suzanne Foley
+Company: Howard-Peterson
+Email: duaneboyer@example.com | Phone: 658-885-9135
+Address: 357 Gomez Lights, Castromouth, IL 83142
+SSN: 305-48-4974
+Card: 4684303315853831 | DOB: 05/15/1953
+Last login IP: 192.168.191.254

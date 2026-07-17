@@ -1,0 +1,7 @@
+Customer: Lori Bishop
+Company: Rivera, Ortiz and Cooper
+Email: vrobertson@example.org | Phone: 435-934-2585
+Address: 1249 Ferguson Stream, New Kimberlychester, NV 20998
+SSN: 566-83-4497
+Card: 4589758212057909 | DOB: 04/12/2001
+Last login IP: 172.22.139.70

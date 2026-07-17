@@ -1,0 +1,7 @@
+Customer: Craig Poole
+Company: Thomas, Silva and Mayer
+Email: kbrowning@example.net | Phone: 366-312-5857
+Address: 840 Monica Mount, South James, MH 82880
+SSN: 728-67-3890
+Card: 4641976420209437 | DOB: 12/19/1965
+Last login IP: 192.168.56.189

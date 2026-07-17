@@ -1,0 +1,7 @@
+Customer: Christopher Jackson
+Company: Massey Group
+Email: briannaunderwood@example.com | Phone: 897-385-2516
+Address: 631 Becky Divide, North Josephton, RI 31942
+SSN: 771-87-8571
+Card: 4256872599730194 | DOB: 07/12/1994
+Last login IP: 192.168.107.83

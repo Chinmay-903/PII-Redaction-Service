@@ -1,0 +1,7 @@
+Customer: Andrea Wright
+Company: Mcpherson-Lowe
+Email: aaron66@example.net | Phone: 658-092-1772
+Address: 524 Margaret Crescent, Kelleyville, HI 43312
+SSN: 067-82-4590
+Card: 4125742153530018 | DOB: 09/07/1969
+Last login IP: 10.15.175.8

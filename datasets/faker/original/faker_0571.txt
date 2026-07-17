@@ -1,0 +1,7 @@
+Customer: Alison Ruiz
+Company: Booth, Allen and Hernandez
+Email: welchsarah@example.net | Phone: 644-110-6541
+Address: 9876 Martinez Forest, Mortonborough, ID 17040
+SSN: 570-98-2264
+Card: 4197806577090629 | DOB: 09/03/1949
+Last login IP: 192.168.162.215

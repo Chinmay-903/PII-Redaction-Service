@@ -1,0 +1,7 @@
+Customer: Casey Fowler
+Company: Williams and Sons
+Email: robinsoncharles@example.org | Phone: 046-580-1789
+Address: 85205 Douglas Circles, East Kathleen, NC 02770
+SSN: 200-48-0058
+Card: 4965857042836344 | DOB: 02/04/1957
+Last login IP: 172.27.177.223

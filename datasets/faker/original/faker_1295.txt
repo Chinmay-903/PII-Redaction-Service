@@ -1,0 +1,7 @@
+Customer: Cathy Campbell
+Company: Patterson-Weber
+Email: nicolebauer@example.net | Phone: 012-876-4888
+Address: 4886 Miller Ports, Lake Jesseberg, PW 80933
+SSN: 044-33-4878
+Card: 4416665920414174 | DOB: 02/16/1996
+Last login IP: 192.168.165.98

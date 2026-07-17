@@ -1,0 +1,7 @@
+Customer: Jonathan Mitchell
+Company: Little-Boyd
+Email: kayleeknox@example.net | Phone: 876-413-1420
+Address: 2005 Susan Row, Lake Jacob, KS 70333
+SSN: 331-96-7569
+Card: 4524764663306108 | DOB: 12/13/1978
+Last login IP: 10.121.83.140

@@ -1,0 +1,7 @@
+Customer: Joe Mckee
+Company: Jones-Reed
+Email: jocelyn18@example.com | Phone: 007-113-8646
+Address: 486 Christine Views, West Andrea, IN 56617
+SSN: 279-34-2324
+Card: 4703422590920714 | DOB: 07/24/2001
+Last login IP: 192.168.110.168

@@ -1,0 +1,7 @@
+Customer: Deborah Hinton
+Company: Brennan, Wright and Hunter
+Email: anthonywillis@example.com | Phone: 491-156-7354
+Address: 4131 Kelly Mountain, Markview, RI 06777
+SSN: 616-62-4287
+Card: 4732273783247836 | DOB: 06/18/2001
+Last login IP: 192.168.47.63

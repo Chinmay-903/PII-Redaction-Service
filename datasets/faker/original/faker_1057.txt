@@ -1,0 +1,7 @@
+Customer: Alexandra Francis
+Company: Hall, Bailey and Novak
+Email: claytonjessica@example.com | Phone: 229-629-6194
+Address: 840 Rhodes Burgs, New Audrey, WI 48834
+SSN: 674-61-8074
+Card: 4678344479763950 | DOB: 12/21/1962
+Last login IP: 192.168.128.21

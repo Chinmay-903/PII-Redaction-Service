@@ -1,0 +1,7 @@
+Customer: Jacqueline Miller
+Company: Peterson and Sons
+Email: rodriguezsusan@example.org | Phone: 316-932-1484
+Address: 4077 James Center, West Alanstad, IA 12225
+SSN: 440-07-2363
+Card: 4486782301356208 | DOB: 04/10/1982
+Last login IP: 10.132.230.171

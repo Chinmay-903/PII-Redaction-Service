@@ -1,0 +1,7 @@
+Customer: Theresa Estrada
+Company: Thompson-Sanchez
+Email: kim51@example.org | Phone: 753-822-9759
+Address: 8737 Patricia Cove, Port Marilyn, WV 74083
+SSN: 657-05-7009
+Card: 4097332038945112 | DOB: 05/13/1970
+Last login IP: 10.148.13.43

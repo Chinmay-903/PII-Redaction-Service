@@ -1,0 +1,7 @@
+Customer: Charles Bradley
+Company: Delgado and Sons
+Email: ureynolds@example.net | Phone: 048-489-2502
+Address: 3311 Denise Ramp, Rachaelton, CO 71640
+SSN: 217-70-5067
+Card: 4472029842182347 | DOB: 02/23/1989
+Last login IP: 172.16.160.151

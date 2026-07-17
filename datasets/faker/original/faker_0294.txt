@@ -1,0 +1,7 @@
+Customer: Mrs. Courtney Johnson
+Company: Lopez, Ingram and Kennedy
+Email: christophermayo@example.com | Phone: 375-674-9142
+Address: 14674 Walton Grove, North Luis, MI 61359
+SSN: 726-93-2201
+Card: 4560648927345314 | DOB: 09/03/1965
+Last login IP: 172.17.204.158

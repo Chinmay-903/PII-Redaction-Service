@@ -1,0 +1,7 @@
+Customer: Karen Stevens
+Company: Hampton-Graves
+Email: michelle96@example.net | Phone: 844-436-1520
+Address: 2351 Linda Hills, Susanstad, ND 29136
+SSN: 718-07-3784
+Card: 4955737321197687 | DOB: 01/26/1999
+Last login IP: 10.79.241.26

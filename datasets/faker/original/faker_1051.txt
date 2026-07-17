@@ -1,0 +1,7 @@
+Customer: Ryan Jones
+Company: Patterson Ltd
+Email: ystewart@example.net | Phone: 062-580-3009
+Address: 406 Moore Harbors, Moralesshire, ME 37682
+SSN: 841-08-4936
+Card: 4364410594679527 | DOB: 02/15/1947
+Last login IP: 10.218.220.37

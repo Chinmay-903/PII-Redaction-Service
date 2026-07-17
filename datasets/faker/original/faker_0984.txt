@@ -1,0 +1,7 @@
+Customer: Douglas Holt
+Company: Mathis, Jackson and Wright
+Email: steven80@example.com | Phone: 241-832-8137
+Address: 4149 Daniel Coves, Williamland, OH 22573
+SSN: 823-61-2684
+Card: 4473488147299041 | DOB: 04/17/1992
+Last login IP: 192.168.8.1

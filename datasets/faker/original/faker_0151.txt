@@ -1,0 +1,7 @@
+Customer: Pamela Hinton
+Company: Johnson Ltd
+Email: ahaas@example.org | Phone: 655-856-8756
+Address: 29074 Gardner Course, Tiffanyland, CT 23465
+SSN: 152-76-1536
+Card: 4482938160798344 | DOB: 05/15/1947
+Last login IP: 172.19.50.255

@@ -1,0 +1,7 @@
+Customer: Spencer Reed
+Company: Lawson, Perez and Mcclain
+Email: bobby22@example.org | Phone: 897-001-7228
+Address: 64951 Lamb Springs, North Paigebury, SD 75469
+SSN: 779-76-9767
+Card: 4311402425630989 | DOB: 03/17/1997
+Last login IP: 10.206.196.223

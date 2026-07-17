@@ -1,0 +1,7 @@
+Customer: Elizabeth Santos
+Company: Hutchinson-Barrera
+Email: smithelizabeth@example.net | Phone: 359-077-5033
+Address: 339 Brandi Mills, Beckview, AS 67078
+SSN: 252-59-7819
+Card: 4875617059746466 | DOB: 11/24/1992
+Last login IP: 10.133.99.98

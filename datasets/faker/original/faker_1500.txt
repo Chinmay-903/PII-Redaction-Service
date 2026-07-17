@@ -1,0 +1,7 @@
+Customer: Kara Reyes
+Company: Day, Robles and Browning
+Email: william94@example.net | Phone: 106-703-0530
+Address: 5002 James Port, Hernandezfurt, MT 08762
+SSN: 347-41-3441
+Card: 4497539248958794 | DOB: 02/24/1947
+Last login IP: 192.168.138.171

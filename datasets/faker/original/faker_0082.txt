@@ -1,0 +1,7 @@
+Customer: David Miller
+Company: Merritt and Sons
+Email: whitereginald@example.org | Phone: 323-096-3982
+Address: 4544 Cox Lights, West Sandraborough, FM 38975
+SSN: 094-98-7212
+Card: 4210908434887677 | DOB: 11/03/1948
+Last login IP: 172.24.80.245

@@ -1,0 +1,7 @@
+Customer: Shawn Wilson
+Company: Romero Inc
+Email: nicole93@example.com | Phone: 898-639-1342
+Address: 4106 Clark Square, Port Moniqueville, FM 55550
+SSN: 548-06-8236
+Card: 4457167224132008 | DOB: 06/02/1989
+Last login IP: 172.30.226.229

@@ -1,0 +1,7 @@
+Customer: Amy Brady
+Company: Hernandez, Combs and Deleon
+Email: iyang@example.org | Phone: 026-408-2310
+Address: 611 Elizabeth Manors, Curryview, MO 85908
+SSN: 527-85-4235
+Card: 4255060567123573 | DOB: 12/06/1948
+Last login IP: 172.20.42.201

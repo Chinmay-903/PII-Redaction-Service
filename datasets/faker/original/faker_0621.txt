@@ -1,0 +1,7 @@
+Customer: Charles Glover
+Company: Sherman, Nichols and Patel
+Email: alexandriamccullough@example.net | Phone: 897-661-8954
+Address: 2935 Anthony Causeway, South Sheilaberg, NH 09545
+SSN: 298-36-9935
+Card: 4213821065142931 | DOB: 03/06/1955
+Last login IP: 10.230.57.150

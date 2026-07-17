@@ -1,0 +1,7 @@
+Customer: Peter Weeks
+Company: Henderson-Brewer
+Email: kaitlinwise@example.com | Phone: 747-490-4443
+Address: 9905 Rodriguez Centers, Lake Steven, MP 27081
+SSN: 861-89-5362
+Card: 4518591021031088 | DOB: 07/25/1986
+Last login IP: 192.168.51.198

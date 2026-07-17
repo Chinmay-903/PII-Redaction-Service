@@ -1,0 +1,7 @@
+Customer: Adam Jones
+Company: Wang LLC
+Email: ostephens@example.org | Phone: 188-732-9841
+Address: 69828 Smith Grove, Wattsberg, CA 34467
+SSN: 118-47-7876
+Card: 4408215251739979 | DOB: 11/06/1989
+Last login IP: 192.168.193.172

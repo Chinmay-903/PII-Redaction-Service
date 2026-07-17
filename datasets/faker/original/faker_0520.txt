@@ -1,0 +1,7 @@
+Customer: Michael Skinner
+Company: Jones-Mills
+Email: olsencrystal@example.org | Phone: 125-296-9639
+Address: 997 Shannon Crest, New Brendanbury, AR 71967
+SSN: 078-85-8944
+Card: 4197672787786798 | DOB: 12/16/2007
+Last login IP: 192.168.124.111

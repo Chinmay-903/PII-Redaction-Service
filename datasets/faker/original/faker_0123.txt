@@ -1,0 +1,7 @@
+Customer: Laurie Quinn
+Company: Valenzuela LLC
+Email: aturner@example.com | Phone: 036-687-3056
+Address: 6236 Andrea Locks, East Amy, IA 04678
+SSN: 215-38-1263
+Card: 4110558759354356 | DOB: 08/22/2005
+Last login IP: 10.244.235.170

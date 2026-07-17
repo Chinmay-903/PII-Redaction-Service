@@ -1,0 +1,7 @@
+Customer: Michael Vance
+Company: Peters Ltd
+Email: joseph61@example.net | Phone: 225-636-6409
+Address: 614 Diana Springs, Ericafort, PA 10418
+SSN: 892-58-5899
+Card: 4567408604399180 | DOB: 08/12/1996
+Last login IP: 192.168.18.164

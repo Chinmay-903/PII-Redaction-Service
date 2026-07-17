@@ -1,0 +1,7 @@
+Customer: Sara Koch
+Company: Watkins, Blair and Velez
+Email: torresrobert@example.com | Phone: 437-483-9347
+Address: 112 Adam Pines, New Jeffreytown, MI 28423
+SSN: 588-38-1116
+Card: 4455870652463124 | DOB: 08/24/1961
+Last login IP: 10.207.172.126

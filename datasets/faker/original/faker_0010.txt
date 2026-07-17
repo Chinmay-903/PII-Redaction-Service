@@ -1,0 +1,7 @@
+Customer: William Esparza
+Company: Rice, Prince and Reynolds
+Email: tanya44@example.org | Phone: 201-204-4852
+Address: 5720 Michelle Ramp, New Laura, IA 05776
+SSN: 174-86-7959
+Card: 4427071179945280 | DOB: 02/05/1967
+Last login IP: 172.28.168.24

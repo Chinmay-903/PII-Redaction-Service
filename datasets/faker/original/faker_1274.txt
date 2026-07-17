@@ -1,0 +1,7 @@
+Customer: Lisa Reynolds
+Company: Wilson, Haley and Sandoval
+Email: pamela75@example.org | Phone: 863-404-2507
+Address: 2369 Dunn Flats, New Melanieshire, IL 70630
+SSN: 708-96-1478
+Card: 4305143646800393 | DOB: 01/25/1977
+Last login IP: 192.168.68.138

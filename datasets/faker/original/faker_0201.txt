@@ -1,0 +1,7 @@
+Customer: Joseph Thompson
+Company: Clarke Inc
+Email: zhaney@example.net | Phone: 032-672-6957
+Address: 10449 Schaefer Fords, New Davidhaven, ID 64252
+SSN: 874-16-8131
+Card: 4986295081061083 | DOB: 04/11/1999
+Last login IP: 172.22.252.6

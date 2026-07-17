@@ -1,0 +1,7 @@
+Customer: Brandon Foster
+Company: Keith-Schroeder
+Email: lopezapril@example.com | Phone: 866-884-8383
+Address: 9555 William Ridge, Brianborough, MT 04751
+SSN: 764-12-5563
+Card: 4218534248739870 | DOB: 07/04/1991
+Last login IP: 172.21.249.76

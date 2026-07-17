@@ -1,0 +1,7 @@
+Customer: Jennifer Ferguson
+Company: Kelly-Edwards
+Email: ariaschristina@example.net | Phone: 280-217-3860
+Address: 831 Walter Roads, Eatonview, CA 44579
+SSN: 865-69-5470
+Card: 4742186279529723 | DOB: 08/31/1962
+Last login IP: 192.168.60.28

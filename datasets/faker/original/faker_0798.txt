@@ -1,0 +1,7 @@
+Customer: Kayla Jones
+Company: Johnson-Peck
+Email: jessica41@example.net | Phone: 176-828-2928
+Address: 513 Marsh Turnpike, New Justin, KY 88695
+SSN: 043-01-3088
+Card: 4962777330573628 | DOB: 04/08/1999
+Last login IP: 172.19.238.59

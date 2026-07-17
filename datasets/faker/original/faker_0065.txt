@@ -1,0 +1,7 @@
+Customer: Andrea Daniels
+Company: Bass-Harrison
+Email: burtonjames@example.com | Phone: 018-799-2392
+Address: 570 Kylie Locks, Leachbury, MO 51499
+SSN: 636-32-5694
+Card: 4562860638981091 | DOB: 12/12/1952
+Last login IP: 10.134.204.213

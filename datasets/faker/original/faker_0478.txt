@@ -1,0 +1,7 @@
+Customer: Eric Smith
+Company: James and Sons
+Email: yshields@example.org | Phone: 512-093-7562
+Address: 3436 Steven Falls, North Carolynburgh, MD 07274
+SSN: 750-28-2728
+Card: 4976831864210059 | DOB: 11/07/1998
+Last login IP: 172.18.116.153

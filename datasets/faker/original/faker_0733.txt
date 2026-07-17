@@ -1,0 +1,7 @@
+Customer: Cheryl Gilmore
+Company: Hamilton-Robinson
+Email: kristinejenkins@example.com | Phone: 916-302-6686
+Address: 22632 Booth Courts, Mooremouth, ND 91523
+SSN: 118-25-1266
+Card: 4243987672123459 | DOB: 04/05/1969
+Last login IP: 10.160.2.26

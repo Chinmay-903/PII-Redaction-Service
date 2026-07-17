@@ -1,0 +1,7 @@
+Customer: Jamie Blair
+Company: Hoffman-Ramirez
+Email: johnbeasley@example.net | Phone: 413-294-9651
+Address: 44949 Katie Avenue, North Raymond, OH 58891
+SSN: 705-63-8811
+Card: 4729832810322220 | DOB: 01/04/1991
+Last login IP: 192.168.250.189

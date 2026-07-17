@@ -1,0 +1,7 @@
+Customer: Maxwell Garcia
+Company: Curtis Ltd
+Email: reginacabrera@example.org | Phone: 672-254-6649
+Address: 667 Rodriguez Cape, West Jacquelinemouth, NC 69627
+SSN: 482-02-5543
+Card: 4481566463869305 | DOB: 08/08/1990
+Last login IP: 10.205.92.84

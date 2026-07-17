@@ -1,0 +1,7 @@
+Customer: Theresa Williams
+Company: Smith LLC
+Email: sabrinahayden@example.net | Phone: 895-452-9111
+Address: 3101 Newman Dale, Lake Shannonville, FM 65991
+SSN: 204-51-1450
+Card: 4132791146990285 | DOB: 06/04/1956
+Last login IP: 172.27.19.185

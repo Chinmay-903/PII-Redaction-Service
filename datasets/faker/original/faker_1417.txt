@@ -1,0 +1,7 @@
+Customer: Scott Smith
+Company: Bell, Lucas and Delgado
+Email: garciaguy@example.com | Phone: 549-176-5972
+Address: 690 Monroe Mall, East James, LA 49258
+SSN: 834-97-6006
+Card: 4751395569677526 | DOB: 04/08/1962
+Last login IP: 192.168.236.237

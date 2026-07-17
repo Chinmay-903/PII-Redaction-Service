@@ -1,0 +1,7 @@
+Customer: Jennifer Bennett
+Company: Flores-Meyers
+Email: saraharris@example.net | Phone: 982-469-0497
+Address: 08224 Lisa Heights, West Robertville, KY 08388
+SSN: 469-82-3551
+Card: 4437297241530325 | DOB: 07/14/1995
+Last login IP: 192.168.150.148

@@ -1,0 +1,7 @@
+Customer: Jamie Smith
+Company: Lucero, Gonzalez and Sanford
+Email: joshuaharris@example.net | Phone: 622-413-0524
+Address: 39168 King Dale, North Brandon, VA 56486
+SSN: 163-48-4713
+Card: 4365138302348767 | DOB: 08/20/1993
+Last login IP: 192.168.100.154

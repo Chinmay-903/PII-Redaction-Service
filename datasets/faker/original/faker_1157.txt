@@ -1,0 +1,7 @@
+Customer: Taylor Washington
+Company: Leblanc-Burton
+Email: meghan62@example.org | Phone: 494-259-7368
+Address: 112 Mary Mission, Adamhaven, AL 24336
+SSN: 014-36-0218
+Card: 4406906179963350 | DOB: 06/06/1961
+Last login IP: 192.168.145.133

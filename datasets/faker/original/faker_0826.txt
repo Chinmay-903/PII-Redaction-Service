@@ -1,0 +1,7 @@
+Customer: Daniel Chase
+Company: Hansen-Williams
+Email: tbarnes@example.org | Phone: 501-892-6507
+Address: 4837 Nicholas Drives, Taylorbury, KS 63231
+SSN: 613-56-3599
+Card: 4115690949658282 | DOB: 07/24/1959
+Last login IP: 10.154.74.206

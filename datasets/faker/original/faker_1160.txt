@@ -1,0 +1,7 @@
+Customer: Kaylee Garcia
+Company: Thompson-Woods
+Email: harrispatricia@example.net | Phone: 736-135-7202
+Address: 6650 Harris Parkways, Jensenhaven, ME 27836
+SSN: 860-64-8261
+Card: 4569574771225355 | DOB: 05/30/1976
+Last login IP: 172.26.108.79

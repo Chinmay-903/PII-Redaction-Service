@@ -1,0 +1,7 @@
+Customer: William Green
+Company: Davis, Torres and Smith
+Email: nicole64@example.net | Phone: 366-693-6228
+Address: 237 Jeffrey Shoal, Ruizville, HI 76581
+SSN: 474-95-0203
+Card: 4505041620607115 | DOB: 04/08/1979
+Last login IP: 192.168.136.78

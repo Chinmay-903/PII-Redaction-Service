@@ -1,0 +1,7 @@
+Customer: Allen Williams
+Company: Lamb-Davis
+Email: aguilartina@example.com | Phone: 542-873-8572
+Address: 10176 Adams Fall, West Samantha, VI 92093
+SSN: 239-98-0629
+Card: 4300267552692844 | DOB: 09/20/1951
+Last login IP: 192.168.28.123

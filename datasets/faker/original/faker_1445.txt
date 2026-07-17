@@ -1,0 +1,7 @@
+Customer: Debra Holmes
+Company: Brown-Montoya
+Email: schneiderbrenda@example.net | Phone: 060-032-2452
+Address: 5631 Jennifer Walk, Blackburnstad, OK 72887
+SSN: 508-18-1434
+Card: 4714345603439611 | DOB: 03/25/2000
+Last login IP: 172.28.195.243

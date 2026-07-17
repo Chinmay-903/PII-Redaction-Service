@@ -1,0 +1,7 @@
+Customer: Andrea Nelson
+Company: Peterson, Williams and Miller
+Email: trevinocarol@example.org | Phone: 684-251-8036
+Address: 683 Alexandria Springs, Port Christinahaven, CA 62680
+SSN: 020-76-0300
+Card: 4537555953276315 | DOB: 04/16/1973
+Last login IP: 172.18.21.234

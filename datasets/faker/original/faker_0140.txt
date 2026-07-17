@@ -1,0 +1,7 @@
+Customer: Matthew Moore
+Company: Wood, Freeman and Jones
+Email: rileyamanda@example.net | Phone: 811-224-5403
+Address: 8600 Stein Port, Cruzside, MN 22397
+SSN: 252-12-5967
+Card: 4907920877843685 | DOB: 01/31/1950
+Last login IP: 172.28.163.66

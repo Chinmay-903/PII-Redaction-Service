@@ -1,0 +1,7 @@
+Customer: Phillip Rodgers
+Company: Jones, Williams and Russell
+Email: xcraig@example.com | Phone: 428-434-0211
+Address: 8397 Cole Road, Lake Toddborough, LA 95898
+SSN: 425-88-5508
+Card: 4764296470406861 | DOB: 12/27/1964
+Last login IP: 192.168.167.24

@@ -1,0 +1,7 @@
+Customer: James Esparza
+Company: Reid, Johnson and Fletcher
+Email: watsonrebecca@example.org | Phone: 158-645-4869
+Address: 002 Yolanda Viaduct, Lake Michaelfort, IN 93937
+SSN: 157-74-1215
+Card: 4358964843102499 | DOB: 06/12/1948
+Last login IP: 192.168.92.29

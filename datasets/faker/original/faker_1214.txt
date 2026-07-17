@@ -1,0 +1,7 @@
+Customer: Patricia Chapman
+Company: Thomas-Hill
+Email: vincentdodson@example.com | Phone: 917-548-4150
+Address: 593 Sampson Ridge, Morseside, AL 59061
+SSN: 351-45-5986
+Card: 4216132128955724 | DOB: 12/06/1980
+Last login IP: 172.19.21.157

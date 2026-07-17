@@ -1,0 +1,7 @@
+Customer: Ryan Harris
+Company: Young-Bennett
+Email: williamhudson@example.com | Phone: 227-259-5662
+Address: 543 Bowman Camp, Millerfurt, DE 36137
+SSN: 174-13-3861
+Card: 4809417241609768 | DOB: 07/22/1978
+Last login IP: 172.20.240.96

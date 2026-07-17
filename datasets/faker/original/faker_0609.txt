@@ -1,0 +1,7 @@
+Customer: Jessica Harper
+Company: Moore, Davis and Long
+Email: johnthompson@example.com | Phone: 609-128-2460
+Address: 534 Destiny Islands, Clintonbury, GA 52703
+SSN: 366-22-4292
+Card: 4417230457891861 | DOB: 05/27/1958
+Last login IP: 10.198.222.253

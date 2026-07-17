@@ -1,0 +1,7 @@
+Customer: Holly Skinner
+Company: Simmons-Morales
+Email: michaelsimpson@example.net | Phone: 212-313-5687
+Address: 42879 Johnson Fields, Kellyside, AS 32601
+SSN: 811-20-7178
+Card: 4504456764679046 | DOB: 09/17/1987
+Last login IP: 10.206.98.54

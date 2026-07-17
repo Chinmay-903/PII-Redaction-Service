@@ -1,0 +1,7 @@
+Customer: Frank Le
+Company: Smith-Schmitt
+Email: heathertaylor@example.net | Phone: 379-558-6294
+Address: 7522 Jessica Glen, Nicolestad, OH 70619
+SSN: 544-59-5705
+Card: 4232033075903479 | DOB: 08/21/1947
+Last login IP: 172.28.30.104

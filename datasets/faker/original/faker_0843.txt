@@ -1,0 +1,7 @@
+Customer: Kari Martinez MD
+Company: Johnson-Harris
+Email: samantha90@example.org | Phone: 747-718-9455
+Address: 7633 Tammy Drive, Susanport, LA 22561
+SSN: 642-89-0082
+Card: 4690379931827427 | DOB: 05/13/1973
+Last login IP: 172.31.24.109

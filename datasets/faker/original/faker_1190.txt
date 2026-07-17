@@ -1,0 +1,7 @@
+Customer: Colleen Mcfarland
+Company: Wilson, Rodriguez and Haas
+Email: matthewjohnson@example.net | Phone: 734-053-0301
+Address: 1070 Melissa Wall, West Mitchellmouth, CO 19210
+SSN: 588-66-8051
+Card: 4480967907742648 | DOB: 08/18/1998
+Last login IP: 192.168.117.210

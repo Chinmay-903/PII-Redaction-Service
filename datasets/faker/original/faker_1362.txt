@@ -1,0 +1,7 @@
+Customer: Kimberly Villarreal
+Company: Lewis Inc
+Email: helen28@example.com | Phone: 837-165-3543
+Address: 8924 Daugherty Isle, Mariamouth, DE 82667
+SSN: 280-31-5185
+Card: 4122348735299347 | DOB: 03/06/1971
+Last login IP: 192.168.2.84

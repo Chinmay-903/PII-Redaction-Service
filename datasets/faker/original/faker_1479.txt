@@ -1,0 +1,7 @@
+Customer: William Jackson
+Company: Hayes, Ellis and Hammond
+Email: katherine38@example.net | Phone: 914-862-7914
+Address: 54370 Sarah Road, Perrymouth, TN 56127
+SSN: 329-30-1345
+Card: 4973043363141628 | DOB: 08/04/1991
+Last login IP: 10.110.197.191

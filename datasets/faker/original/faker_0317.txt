@@ -1,0 +1,7 @@
+Customer: Pamela Marsh
+Company: Harris, Phillips and Diaz
+Email: hmorales@example.net | Phone: 735-255-9831
+Address: 77240 Joshua Vista, South Peterbury, NV 65377
+SSN: 763-25-8816
+Card: 4351198755625893 | DOB: 06/25/1958
+Last login IP: 10.206.125.226

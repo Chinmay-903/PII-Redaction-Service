@@ -1,0 +1,7 @@
+Customer: Chelsea Chandler
+Company: Davis and Sons
+Email: alan23@example.org | Phone: 987-321-8196
+Address: 403 Andersen Unions, New Marystad, NC 32636
+SSN: 455-30-0868
+Card: 4229138111500018 | DOB: 01/16/1980
+Last login IP: 172.21.34.191

@@ -1,0 +1,7 @@
+Customer: Amanda Alvarez
+Company: Rangel Group
+Email: qconrad@example.com | Phone: 883-395-6534
+Address: 697 Carr Mall, Victoriaville, TN 64646
+SSN: 144-54-3379
+Card: 4958236856870716 | DOB: 01/14/1977
+Last login IP: 10.101.181.236

@@ -1,0 +1,7 @@
+Customer: Andrew Smith
+Company: Adkins PLC
+Email: angela01@example.com | Phone: 968-834-4067
+Address: 60216 Clark Coves, West Christopher, AZ 97816
+SSN: 831-98-0516
+Card: 4964642534319673 | DOB: 01/27/1984
+Last login IP: 192.168.168.102

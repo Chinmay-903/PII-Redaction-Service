@@ -1,0 +1,7 @@
+Customer: Benjamin Lowe
+Company: Smith Inc
+Email: tjohnson@example.com | Phone: 058-187-3378
+Address: 681 William Island, East Derekshire, CA 58002
+SSN: 369-22-4718
+Card: 4351304513493141 | DOB: 08/29/1946
+Last login IP: 10.2.88.227

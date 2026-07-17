@@ -1,0 +1,7 @@
+Customer: Lisa Phillips
+Company: Hughes and Sons
+Email: craigelizabeth@example.org | Phone: 599-789-7201
+Address: 02976 Sarah Islands, Taylorton, MP 51442
+SSN: 533-62-7699
+Card: 4099656416854134 | DOB: 07/05/1990
+Last login IP: 172.25.213.45

@@ -1,0 +1,7 @@
+Customer: Jennifer Ruiz
+Company: Andersen LLC
+Email: mackenziejohnson@example.com | Phone: 402-786-0788
+Address: 33197 Williams Lake, Ramoschester, TN 94452
+SSN: 866-64-0750
+Card: 4584988322143704 | DOB: 09/25/2005
+Last login IP: 10.52.85.17

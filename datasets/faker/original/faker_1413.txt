@@ -1,0 +1,7 @@
+Customer: Wendy Jackson
+Company: Moore-Martinez
+Email: robert58@example.org | Phone: 060-467-8544
+Address: 7855 Lopez Mission, Michaelville, PW 48341
+SSN: 337-12-4607
+Card: 4043514763518652 | DOB: 04/03/1955
+Last login IP: 192.168.232.133

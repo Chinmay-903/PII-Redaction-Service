@@ -1,0 +1,7 @@
+Customer: Sandra Mccall
+Company: Kent, Thomas and Hess
+Email: eparker@example.com | Phone: 302-505-5324
+Address: 754 Spencer Motorway, Port Kelseyfurt, OR 83864
+SSN: 594-42-3720
+Card: 4120827589644270 | DOB: 05/04/1995
+Last login IP: 10.63.160.96

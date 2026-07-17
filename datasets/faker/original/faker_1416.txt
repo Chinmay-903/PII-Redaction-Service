@@ -1,0 +1,7 @@
+Customer: Steven Henderson
+Company: Mejia Ltd
+Email: vjohnson@example.net | Phone: 827-677-5383
+Address: 4782 Shannon Ramp, South Cameronmouth, FL 44606
+SSN: 855-15-6438
+Card: 4529714800012577 | DOB: 11/04/1995
+Last login IP: 10.61.137.224

@@ -1,0 +1,7 @@
+Customer: Kerry Villanueva
+Company: Roberts, Wilkerson and Larsen
+Email: imorrison@example.net | Phone: 752-285-9623
+Address: 48849 Elizabeth Parks, Christopherchester, WA 66451
+SSN: 741-57-3548
+Card: 4813243318262867 | DOB: 05/10/2005
+Last login IP: 10.143.133.137

@@ -1,0 +1,7 @@
+Customer: Sandra Moran
+Company: Bates Inc
+Email: owatson@example.net | Phone: 287-733-2503
+Address: 96468 Holmes Ports, West Anthonyton, MT 52860
+SSN: 802-26-3965
+Card: 4872497625371229 | DOB: 04/15/1966
+Last login IP: 172.25.1.44

@@ -1,0 +1,7 @@
+Customer: John Maxwell
+Company: Johnson, Lee and Wheeler
+Email: stephanie04@example.com | Phone: 898-598-1318
+Address: 5265 Bell Way, Marquezhaven, IL 62595
+SSN: 834-20-1491
+Card: 4323662563657948 | DOB: 11/09/1968
+Last login IP: 192.168.217.109

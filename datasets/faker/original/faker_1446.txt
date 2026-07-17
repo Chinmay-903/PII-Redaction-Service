@@ -1,0 +1,7 @@
+Customer: Joshua West
+Company: Gonzales-Foley
+Email: mathew50@example.net | Phone: 168-152-4381
+Address: 32217 Floyd Harbors, Smithshire, MT 83340
+SSN: 810-07-1939
+Card: 4782102713062008 | DOB: 10/28/1957
+Last login IP: 192.168.146.17

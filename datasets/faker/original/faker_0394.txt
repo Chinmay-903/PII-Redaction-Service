@@ -1,0 +1,7 @@
+Customer: Matthew Wilson
+Company: Burns, Harris and Scott
+Email: elliskimberly@example.com | Phone: 798-918-2957
+Address: 52811 Stephanie Mill, West Stacey, AZ 90228
+SSN: 179-47-9391
+Card: 4692548046504190 | DOB: 05/10/1981
+Last login IP: 192.168.191.170

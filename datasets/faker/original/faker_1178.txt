@@ -1,0 +1,7 @@
+Customer: Sharon Valentine
+Company: Adkins-Williams
+Email: zsmith@example.com | Phone: 082-128-9751
+Address: 328 Alan Hills, Coleshire, LA 40094
+SSN: 396-96-6013
+Card: 4936541626681013 | DOB: 05/21/1969
+Last login IP: 10.49.229.68

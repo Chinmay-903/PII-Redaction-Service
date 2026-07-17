@@ -1,0 +1,7 @@
+Customer: John Sandoval
+Company: Hess-Nunez
+Email: ncasey@example.org | Phone: 473-276-1126
+Address: 26513 Cardenas Prairie, Williamshire, SD 38691
+SSN: 088-30-6929
+Card: 4092898002392668 | DOB: 02/22/1974
+Last login IP: 192.168.96.200

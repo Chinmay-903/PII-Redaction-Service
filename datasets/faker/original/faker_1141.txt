@@ -1,0 +1,7 @@
+Customer: Penny Williams
+Company: Brennan, Adams and Smith
+Email: qturner@example.net | Phone: 117-242-1746
+Address: 67694 Jeremy Walks, Shawburgh, DC 67454
+SSN: 445-26-7775
+Card: 4878339573139360 | DOB: 03/23/1987
+Last login IP: 172.26.80.125

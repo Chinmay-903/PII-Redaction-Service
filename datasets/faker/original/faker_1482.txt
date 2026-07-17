@@ -1,0 +1,7 @@
+Customer: Patricia Robinson
+Company: Moore-Gallagher
+Email: nathan63@example.net | Phone: 385-399-8078
+Address: 5827 Fernandez Burgs, Port Breanna, ME 55146
+SSN: 330-10-5729
+Card: 4030688250015557 | DOB: 06/29/1984
+Last login IP: 10.96.84.199

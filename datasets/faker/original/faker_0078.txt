@@ -1,0 +1,7 @@
+Customer: Tyrone Wade
+Company: Anderson PLC
+Email: jeff70@example.net | Phone: 129-526-3411
+Address: 3665 Allen Inlet, Edgarland, FM 95846
+SSN: 230-42-9497
+Card: 4407405935154148 | DOB: 05/10/1948
+Last login IP: 192.168.225.249

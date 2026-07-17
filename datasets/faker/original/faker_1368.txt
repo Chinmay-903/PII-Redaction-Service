@@ -1,0 +1,7 @@
+Customer: Caitlin Patterson
+Company: Holder, Ross and Simon
+Email: watsonronald@example.org | Phone: 365-226-6673
+Address: 06488 Regina Union, Avilastad, SC 00988
+SSN: 211-04-6396
+Card: 4721365869527546 | DOB: 10/22/1969
+Last login IP: 10.245.184.192

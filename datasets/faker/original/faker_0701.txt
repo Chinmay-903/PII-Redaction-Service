@@ -1,0 +1,7 @@
+Customer: Katherine Allen
+Company: Frazier, Jensen and Kennedy
+Email: qrivera@example.net | Phone: 206-892-3188
+Address: 902 Gates Dam, Sarahfort, NY 77725
+SSN: 836-14-0533
+Card: 4151676530995931 | DOB: 01/09/1994
+Last login IP: 172.28.55.48

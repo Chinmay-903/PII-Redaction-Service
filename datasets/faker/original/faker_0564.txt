@@ -1,0 +1,7 @@
+Customer: Amanda Moore
+Company: Mills-Rodriguez
+Email: pmalone@example.org | Phone: 607-898-2099
+Address: 454 Trujillo Light, Lake Michael, AR 86881
+SSN: 267-10-0199
+Card: 4714633206601574 | DOB: 12/01/2005
+Last login IP: 172.17.59.192

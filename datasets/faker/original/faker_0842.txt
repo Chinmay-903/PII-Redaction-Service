@@ -1,0 +1,7 @@
+Customer: David Trevino
+Company: Rodriguez, Hamilton and Maldonado
+Email: kwilson@example.net | Phone: 310-513-6348
+Address: 815 Lisa Burgs, Devinbury, NV 23486
+SSN: 009-64-6734
+Card: 4489855614014198 | DOB: 04/15/1950
+Last login IP: 192.168.11.94

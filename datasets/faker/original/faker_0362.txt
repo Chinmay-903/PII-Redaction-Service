@@ -1,0 +1,7 @@
+Customer: Brandon Washington
+Company: Becker-Hudson
+Email: sherri60@example.net | Phone: 761-621-1456
+Address: 25327 Anderson Gateway, Reyesshire, NC 89909
+SSN: 454-71-5049
+Card: 4800332939485059 | DOB: 03/17/1968
+Last login IP: 172.31.79.175

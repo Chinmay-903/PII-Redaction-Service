@@ -1,0 +1,7 @@
+Customer: Tracy Graham
+Company: Sandoval PLC
+Email: jason76@example.com | Phone: 069-781-5864
+Address: 12364 Steven Row, Novaktown, GU 92260
+SSN: 153-54-9828
+Card: 4943540987954440 | DOB: 07/14/1989
+Last login IP: 192.168.186.112

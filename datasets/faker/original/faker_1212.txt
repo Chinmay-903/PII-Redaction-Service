@@ -1,0 +1,7 @@
+Customer: Mr. Terry Lawson MD
+Company: Russo, Cruz and Johnson
+Email: julie62@example.com | Phone: 342-184-8312
+Address: 525 Rhonda Dale, Rebeccabury, ID 84544
+SSN: 561-86-7221
+Card: 4425071229510789 | DOB: 11/19/1968
+Last login IP: 10.243.236.222

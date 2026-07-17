@@ -1,0 +1,7 @@
+Customer: Kathryn Clayton
+Company: Wang-Freeman
+Email: carla62@example.org | Phone: 269-908-1293
+Address: 03719 Hernandez Summit, Fitzgeraldland, NM 78576
+SSN: 558-22-7616
+Card: 4777480155008664 | DOB: 11/13/1998
+Last login IP: 192.168.145.120

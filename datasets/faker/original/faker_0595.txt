@@ -1,0 +1,7 @@
+Customer: Mackenzie Smith
+Company: Gardner PLC
+Email: smyers@example.com | Phone: 387-006-6520
+Address: 19861 Seth Prairie, Franklinmouth, AS 51695
+SSN: 382-29-4815
+Card: 4149608725150977 | DOB: 02/11/1949
+Last login IP: 172.27.166.140

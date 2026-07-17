@@ -1,0 +1,7 @@
+Customer: William Woods
+Company: Delgado, Smith and Brooks
+Email: joe72@example.org | Phone: 510-321-0030
+Address: 198 Charles Manor, West Katherine, TN 79785
+SSN: 222-59-2509
+Card: 4758967062614496 | DOB: 07/18/1946
+Last login IP: 172.22.236.209

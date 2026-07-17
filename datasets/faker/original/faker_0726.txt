@@ -1,0 +1,7 @@
+Customer: Jenna Wilson
+Company: David LLC
+Email: austinsmith@example.net | Phone: 089-040-5123
+Address: 007 Christine Corner, Cuevasland, SC 79438
+SSN: 007-48-4705
+Card: 4196987283907719 | DOB: 01/20/1946
+Last login IP: 192.168.149.200

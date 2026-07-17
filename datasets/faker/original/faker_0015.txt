@@ -1,0 +1,7 @@
+Customer: Jessica Adams
+Company: Mcbride Ltd
+Email: danielwilliams@example.com | Phone: 961-407-6275
+Address: 053 Andre Isle, Millerton, MP 41592
+SSN: 715-41-0539
+Card: 4871962673419312 | DOB: 06/24/1970
+Last login IP: 172.31.233.0

@@ -1,0 +1,7 @@
+Customer: Christopher Robinson
+Company: Williams, George and Sanchez
+Email: kathleen59@example.com | Phone: 429-442-8976
+Address: 60098 Sara Shores, Floreston, KY 01785
+SSN: 862-41-0299
+Card: 4563385961198914 | DOB: 04/04/1995
+Last login IP: 192.168.245.26

@@ -1,0 +1,7 @@
+Customer: Ashley Huynh
+Company: Davis and Sons
+Email: kirsten89@example.net | Phone: 764-986-8224
+Address: 8034 Rose Unions, Harrismouth, SC 18789
+SSN: 221-04-4485
+Card: 4352395710829680 | DOB: 11/16/2004
+Last login IP: 10.205.201.159

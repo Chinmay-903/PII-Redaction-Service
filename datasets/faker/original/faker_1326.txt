@@ -1,0 +1,7 @@
+Customer: Benjamin Clark
+Company: Orozco-Castillo
+Email: rhondalamb@example.net | Phone: 520-356-1082
+Address: 2055 Mike Village, Andrewmouth, DE 24057
+SSN: 079-67-4681
+Card: 4255487012423730 | DOB: 08/14/1971
+Last login IP: 192.168.94.179

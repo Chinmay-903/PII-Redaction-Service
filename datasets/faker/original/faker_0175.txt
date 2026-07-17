@@ -1,0 +1,7 @@
+Customer: Rebekah Weber
+Company: Whitaker-Peterson
+Email: johnsonbrian@example.net | Phone: 794-066-8143
+Address: 593 Jones Ferry, Rachelville, NC 94339
+SSN: 237-22-3787
+Card: 4794198723469775 | DOB: 08/30/2002
+Last login IP: 10.114.177.230

@@ -1,0 +1,7 @@
+Customer: William Joseph
+Company: Reed, Garcia and Garcia
+Email: bentonjoseph@example.net | Phone: 744-031-3481
+Address: 046 Bryant Streets, Sawyerberg, WV 45142
+SSN: 087-35-8119
+Card: 4808075449075769 | DOB: 06/28/1988
+Last login IP: 172.26.84.20

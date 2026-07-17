@@ -1,0 +1,7 @@
+Customer: Stephanie Hansen
+Company: Smith, Salas and Fletcher
+Email: williamsmichael@example.org | Phone: 397-408-2512
+Address: 79904 Lopez Trail, North Mistyport, NH 19142
+SSN: 332-78-8582
+Card: 4853785405517877 | DOB: 02/18/1985
+Last login IP: 192.168.57.196

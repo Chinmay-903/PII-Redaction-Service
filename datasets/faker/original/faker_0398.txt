@@ -1,0 +1,7 @@
+Customer: Richard Owens
+Company: Hebert, Ramirez and Moore
+Email: nharmon@example.org | Phone: 761-712-1404
+Address: 20729 Eric Rapids, Moodyport, DC 88109
+SSN: 051-78-0117
+Card: 4031615032208670 | DOB: 03/27/1955
+Last login IP: 192.168.179.139

@@ -1,0 +1,7 @@
+Customer: Nicole Smith
+Company: Williamson PLC
+Email: erinhall@example.com | Phone: 184-504-5134
+Address: 4702 Taylor Mount, Deannachester, PA 27863
+SSN: 659-58-8769
+Card: 4726776867351652 | DOB: 11/15/1974
+Last login IP: 172.31.221.191

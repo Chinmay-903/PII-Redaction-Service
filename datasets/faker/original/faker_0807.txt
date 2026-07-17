@@ -1,0 +1,7 @@
+Customer: Christine Keller
+Company: Rodriguez-Ibarra
+Email: wgomez@example.net | Phone: 854-399-3775
+Address: 99230 Bailey Common, Bowerstown, GA 79349
+SSN: 253-62-7364
+Card: 4187508866906158 | DOB: 01/02/1989
+Last login IP: 10.102.14.26

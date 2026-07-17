@@ -1,0 +1,7 @@
+Customer: Elizabeth White
+Company: Lawrence-Eaton
+Email: wlee@example.com | Phone: 176-706-1758
+Address: 1520 Carolyn Turnpike, West Raven, MP 82478
+SSN: 065-28-0201
+Card: 4654368099115794 | DOB: 06/02/1970
+Last login IP: 10.20.128.162

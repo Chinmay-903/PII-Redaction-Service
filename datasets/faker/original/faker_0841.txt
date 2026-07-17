@@ -1,0 +1,7 @@
+Customer: Curtis Martinez
+Company: Garcia Group
+Email: rickywatson@example.net | Phone: 093-617-2675
+Address: 97920 Jesus View, Kimtown, SD 04759
+SSN: 560-71-4904
+Card: 4194919609123137 | DOB: 08/25/1950
+Last login IP: 192.168.96.16

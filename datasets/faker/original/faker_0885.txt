@@ -1,0 +1,7 @@
+Customer: Kathryn Ortiz
+Company: Gutierrez, King and Snow
+Email: smithwesley@example.net | Phone: 611-233-0812
+Address: 2500 Jennifer Prairie, Eugenefurt, NC 85122
+SSN: 337-53-8038
+Card: 4019495945542994 | DOB: 06/10/1956
+Last login IP: 10.34.67.36

@@ -1,0 +1,7 @@
+Customer: Joshua Carter
+Company: Torres, Adkins and Kim
+Email: pharris@example.com | Phone: 352-546-9778
+Address: 539 Wilson Station, Russellberg, MA 31665
+SSN: 337-09-0292
+Card: 4801272364546489 | DOB: 05/31/1977
+Last login IP: 172.18.11.251

@@ -1,0 +1,7 @@
+Customer: Allison Mcmillan
+Company: Austin-Davis
+Email: wcantrell@example.org | Phone: 471-126-4508
+Address: 4863 Vega Summit, West Joseph, VA 65888
+SSN: 693-22-0076
+Card: 4426609657500779 | DOB: 08/22/1983
+Last login IP: 172.21.62.62

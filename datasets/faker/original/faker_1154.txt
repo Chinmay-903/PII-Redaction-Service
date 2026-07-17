@@ -1,0 +1,7 @@
+Customer: Molly Boyle
+Company: Jones-Parker
+Email: mparrish@example.org | Phone: 464-002-6221
+Address: 02422 Lisa Streets, Thomasland, NJ 25104
+SSN: 105-92-4381
+Card: 4530876825593993 | DOB: 11/13/1962
+Last login IP: 10.168.3.205

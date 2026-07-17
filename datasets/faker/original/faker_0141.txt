@@ -1,0 +1,7 @@
+Customer: Nicholas Brown
+Company: Kelly-Valenzuela
+Email: lrose@example.org | Phone: 928-381-9289
+Address: 65555 Odom Union, Lake Melissa, WV 35430
+SSN: 674-78-5782
+Card: 4812984059934047 | DOB: 09/06/1973
+Last login IP: 192.168.210.106

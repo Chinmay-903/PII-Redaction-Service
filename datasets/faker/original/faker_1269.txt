@@ -1,0 +1,7 @@
+Customer: John Mitchell
+Company: Snyder Group
+Email: steven41@example.net | Phone: 627-010-2494
+Address: 27543 Andrea Isle, Peggyside, PW 91845
+SSN: 515-95-0004
+Card: 4015821891864815 | DOB: 07/23/2003
+Last login IP: 10.16.192.171

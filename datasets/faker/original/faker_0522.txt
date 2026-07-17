@@ -1,0 +1,7 @@
+Customer: Rodney Salazar
+Company: Lopez-Silva
+Email: tuckerbrittany@example.net | Phone: 314-575-7012
+Address: 04809 Jennifer Ranch, West Joshuaside, OR 26465
+SSN: 279-19-4123
+Card: 4050018926436562 | DOB: 11/05/1974
+Last login IP: 10.122.56.182

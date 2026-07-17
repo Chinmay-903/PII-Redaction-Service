@@ -1,0 +1,7 @@
+Customer: Chelsea Bennett
+Company: White Ltd
+Email: powellalicia@example.org | Phone: 713-627-9887
+Address: 799 Nicholas Streets, Elizabethstad, NE 22081
+SSN: 129-63-2003
+Card: 4160166791845669 | DOB: 02/17/1989
+Last login IP: 172.30.136.228

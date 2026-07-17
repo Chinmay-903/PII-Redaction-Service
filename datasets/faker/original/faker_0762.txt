@@ -1,0 +1,7 @@
+Customer: Matthew Stout
+Company: Cortez Group
+Email: ortizjohn@example.net | Phone: 084-410-1087
+Address: 88658 Turner Ferry, Colemouth, NM 85604
+SSN: 295-96-5305
+Card: 4085697069834763 | DOB: 04/14/1996
+Last login IP: 10.56.46.141

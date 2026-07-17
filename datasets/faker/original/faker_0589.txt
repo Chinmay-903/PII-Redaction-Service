@@ -1,0 +1,7 @@
+Customer: Edward Jimenez
+Company: Hernandez-Miller
+Email: lbarrett@example.net | Phone: 977-035-6884
+Address: 129 Alexander Crescent, New Robertport, PA 42734
+SSN: 854-41-2405
+Card: 4538724488864289 | DOB: 11/29/1986
+Last login IP: 10.202.91.168

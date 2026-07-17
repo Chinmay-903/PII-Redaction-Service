@@ -1,0 +1,7 @@
+Customer: Paul Walters
+Company: Marquez-Lewis
+Email: holderlisa@example.org | Phone: 837-933-7314
+Address: 5411 Cruz Prairie, Port Richard, NH 10097
+SSN: 704-44-0066
+Card: 4209510524076535 | DOB: 03/04/1969
+Last login IP: 172.19.63.193

@@ -1,0 +1,7 @@
+Customer: Michael Pineda
+Company: Becker Group
+Email: garrettdiane@example.net | Phone: 394-930-4120
+Address: 4502 Conway Wall, North Joann, OH 55465
+SSN: 165-73-4354
+Card: 4495128738806770 | DOB: 05/25/1981
+Last login IP: 10.166.141.155

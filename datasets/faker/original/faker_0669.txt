@@ -1,0 +1,7 @@
+Customer: Kristen Anderson
+Company: Dunn, Christian and Young
+Email: melissaedwards@example.org | Phone: 337-834-3614
+Address: 5775 Bates Mews, Ramirezhaven, MS 39554
+SSN: 184-18-3131
+Card: 4155221713274972 | DOB: 04/21/1978
+Last login IP: 10.175.112.146

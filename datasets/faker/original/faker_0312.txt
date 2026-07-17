@@ -1,0 +1,7 @@
+Customer: Trevor Johnson
+Company: Rodgers, Chase and Jones
+Email: rhonda94@example.org | Phone: 096-147-1073
+Address: 615 Stevenson Street, New Tammybury, GU 05914
+SSN: 439-01-6657
+Card: 4753233963191794 | DOB: 06/10/1995
+Last login IP: 192.168.33.172

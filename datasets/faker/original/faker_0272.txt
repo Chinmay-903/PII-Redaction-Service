@@ -1,0 +1,7 @@
+Customer: Valerie Mahoney
+Company: Cole Group
+Email: cheryldoyle@example.com | Phone: 600-625-4465
+Address: 303 Garrett Avenue, Danielletown, ND 62524
+SSN: 303-33-9787
+Card: 4894741882458649 | DOB: 07/23/1965
+Last login IP: 10.166.147.41

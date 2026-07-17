@@ -1,0 +1,7 @@
+Customer: James Armstrong
+Company: Murray-Wright
+Email: thomasjoseph@example.org | Phone: 354-932-9755
+Address: 55479 Shannon Center, Bennettport, ME 81897
+SSN: 421-99-8935
+Card: 4414960059177029 | DOB: 05/18/2008
+Last login IP: 192.168.16.13

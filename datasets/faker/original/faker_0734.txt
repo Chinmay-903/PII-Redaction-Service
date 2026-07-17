@@ -1,0 +1,7 @@
+Customer: Gary Turner
+Company: Santiago-Clark
+Email: shannonallen@example.net | Phone: 039-750-1518
+Address: 39242 Campos Plain, Valenciaview, ND 07544
+SSN: 539-91-6363
+Card: 4564169308438087 | DOB: 12/03/1992
+Last login IP: 10.93.99.231

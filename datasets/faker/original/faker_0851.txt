@@ -1,0 +1,7 @@
+Customer: Barbara Stephens
+Company: Crane-Oconnor
+Email: allenbrenda@example.com | Phone: 644-388-8919
+Address: 05453 Armstrong Grove, North Davidfurt, WV 75371
+SSN: 039-87-7761
+Card: 4483570016496390 | DOB: 07/27/2003
+Last login IP: 172.28.246.126

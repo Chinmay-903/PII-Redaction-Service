@@ -1,0 +1,7 @@
+Customer: Anthony Lambert
+Company: Moore, Harris and Valdez
+Email: mortonchristopher@example.org | Phone: 761-090-2152
+Address: 4667 Thomas Plains, Lake Kellyshire, IA 22958
+SSN: 801-07-0027
+Card: 4948721294334014 | DOB: 06/30/1990
+Last login IP: 10.30.159.176

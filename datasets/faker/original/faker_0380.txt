@@ -1,0 +1,7 @@
+Customer: Steven Lopez
+Company: Riley, Smith and Nelson
+Email: andrewmorgan@example.com | Phone: 359-034-5574
+Address: 009 Allen Bridge, Lake Monica, KY 82676
+SSN: 418-43-6377
+Card: 4555354920289628 | DOB: 10/29/1990
+Last login IP: 192.168.196.9

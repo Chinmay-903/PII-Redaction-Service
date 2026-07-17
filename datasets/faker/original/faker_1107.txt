@@ -1,0 +1,7 @@
+Customer: James Dickerson
+Company: Rodriguez, Phillips and Macdonald
+Email: jbryan@example.net | Phone: 057-144-8151
+Address: 7907 Amy Vista, West Tannerborough, WV 96407
+SSN: 167-02-1009
+Card: 4349411433710366 | DOB: 08/09/1979
+Last login IP: 172.23.163.11

@@ -1,0 +1,7 @@
+Customer: Mark Taylor
+Company: Pugh Ltd
+Email: joel60@example.org | Phone: 643-020-6484
+Address: 4528 Steele Station, Salasborough, VT 59495
+SSN: 758-98-4869
+Card: 4530774252668315 | DOB: 11/23/1993
+Last login IP: 10.13.236.147

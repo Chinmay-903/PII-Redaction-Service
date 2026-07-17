@@ -1,0 +1,7 @@
+Customer: Kathleen Smith
+Company: Ingram Group
+Email: ptanner@example.net | Phone: 530-579-5988
+Address: 155 Lisa Ford, West Miaton, MP 81775
+SSN: 646-87-6793
+Card: 4331227708679122 | DOB: 09/17/1989
+Last login IP: 192.168.137.76

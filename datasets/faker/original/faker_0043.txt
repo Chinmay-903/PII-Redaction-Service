@@ -1,0 +1,7 @@
+Customer: Russell Fisher
+Company: Maxwell PLC
+Email: keith91@example.org | Phone: 100-063-7201
+Address: 66326 Samantha Parkways, Lake Nicholas, MN 73637
+SSN: 081-82-8757
+Card: 4009563833906605 | DOB: 03/24/1962
+Last login IP: 192.168.100.242

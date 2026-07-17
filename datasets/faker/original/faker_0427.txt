@@ -1,0 +1,7 @@
+Customer: Nicholas House
+Company: Lee Ltd
+Email: beckerbrenda@example.org | Phone: 960-665-3962
+Address: 0609 Pamela Expressway, Lake David, ID 28565
+SSN: 716-43-3420
+Card: 4162682382577097 | DOB: 09/23/1990
+Last login IP: 172.16.139.153

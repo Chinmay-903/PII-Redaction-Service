@@ -1,0 +1,7 @@
+Customer: Audrey Allen
+Company: Cox, Stokes and Romero
+Email: melissachase@example.net | Phone: 258-773-7221
+Address: 9496 Gardner Road, Espinozachester, MI 29280
+SSN: 893-78-8165
+Card: 4871557814993231 | DOB: 12/08/1949
+Last login IP: 172.30.0.65

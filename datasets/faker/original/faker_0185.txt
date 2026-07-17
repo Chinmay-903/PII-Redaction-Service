@@ -1,0 +1,7 @@
+Customer: Steven Horton
+Company: Garcia Inc
+Email: jholland@example.com | Phone: 148-200-6686
+Address: 7595 Alexander Land, Perezmouth, MS 26797
+SSN: 773-57-2537
+Card: 4628378303399962 | DOB: 02/09/1983
+Last login IP: 172.23.19.21

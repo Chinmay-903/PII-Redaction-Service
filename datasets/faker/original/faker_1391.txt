@@ -1,0 +1,7 @@
+Customer: Brian Hubbard
+Company: Watson LLC
+Email: martintara@example.com | Phone: 132-662-7588
+Address: 660 Bright Highway, Andrewport, ND 42171
+SSN: 088-54-0735
+Card: 4144655328581020 | DOB: 06/01/1968
+Last login IP: 172.29.96.167

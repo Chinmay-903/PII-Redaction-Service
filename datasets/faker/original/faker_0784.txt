@@ -1,0 +1,7 @@
+Customer: Michael Johnson
+Company: Hernandez-Zimmerman
+Email: pcastro@example.org | Phone: 745-178-6665
+Address: 08214 Darren Highway, Markmouth, OH 04905
+SSN: 822-07-6270
+Card: 4769797879467490 | DOB: 06/25/1988
+Last login IP: 10.249.169.32

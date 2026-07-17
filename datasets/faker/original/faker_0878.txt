@@ -1,0 +1,7 @@
+Customer: Anthony Adams
+Company: Chaney PLC
+Email: hrodriguez@example.org | Phone: 423-051-7125
+Address: 41226 Matthew Freeway, East Kennethstad, MP 16536
+SSN: 123-19-3163
+Card: 4205960509742698 | DOB: 11/14/1962
+Last login IP: 192.168.31.248

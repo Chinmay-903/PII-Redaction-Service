@@ -1,0 +1,7 @@
+Customer: Francisco Arnold
+Company: Galvan-Lopez
+Email: jeffrey61@example.org | Phone: 143-177-2560
+Address: 6473 Michelle Radial, East Sheilabury, NY 81115
+SSN: 111-93-3938
+Card: 4646163130688995 | DOB: 01/25/1954
+Last login IP: 172.16.198.144

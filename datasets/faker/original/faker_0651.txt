@@ -1,0 +1,7 @@
+Customer: Sherry Marks
+Company: Green-Peters
+Email: johnmartinez@example.com | Phone: 701-141-2094
+Address: 3889 Simpson Courts, Reyesfort, MA 30364
+SSN: 217-33-1161
+Card: 4228941686953582 | DOB: 03/11/1973
+Last login IP: 192.168.190.77

@@ -1,0 +1,7 @@
+Customer: Justin Brown
+Company: Turner-Trujillo
+Email: martinezerin@example.com | Phone: 406-524-2471
+Address: 42300 William Route, North Catherinefurt, PR 75110
+SSN: 298-16-7044
+Card: 4632809878668849 | DOB: 12/29/1984
+Last login IP: 10.214.58.112

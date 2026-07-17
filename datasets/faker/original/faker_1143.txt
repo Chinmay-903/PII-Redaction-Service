@@ -1,0 +1,7 @@
+Customer: Thomas Phillips
+Company: Doyle Group
+Email: cbrown@example.com | Phone: 360-876-0169
+Address: 6671 Young Shoal, Lake Erik, TN 58459
+SSN: 249-51-3292
+Card: 4694460042609650 | DOB: 07/11/1967
+Last login IP: 10.254.66.50

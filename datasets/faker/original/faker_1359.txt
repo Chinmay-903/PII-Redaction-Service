@@ -1,0 +1,7 @@
+Customer: Michael Smith
+Company: Meyer Ltd
+Email: antoniosmith@example.org | Phone: 924-714-8579
+Address: 69160 Armstrong Forks, East Vickieville, DC 75095
+SSN: 327-39-1545
+Card: 4469902291679713 | DOB: 07/17/1982
+Last login IP: 10.153.138.26

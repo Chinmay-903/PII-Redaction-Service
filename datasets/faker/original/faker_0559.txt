@@ -1,0 +1,7 @@
+Customer: David Willis
+Company: King-Bryant
+Email: salazarmichele@example.net | Phone: 156-119-1817
+Address: 43944 Neal Fort, South Marialand, PA 21727
+SSN: 060-70-7834
+Card: 4818124602830640 | DOB: 09/02/1956
+Last login IP: 192.168.240.106

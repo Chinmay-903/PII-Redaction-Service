@@ -1,0 +1,7 @@
+Customer: Christina Campos
+Company: Rivas, Morris and Wallace
+Email: mwilliams@example.org | Phone: 663-669-6804
+Address: 0969 Singleton Centers, Randallland, NH 79910
+SSN: 880-29-8679
+Card: 4690668403004949 | DOB: 04/06/2007
+Last login IP: 10.147.235.108

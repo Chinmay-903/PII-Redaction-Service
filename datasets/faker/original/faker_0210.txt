@@ -1,0 +1,7 @@
+Customer: Kevin Shepherd
+Company: Smith-Schneider
+Email: melendezmichael@example.com | Phone: 991-628-9688
+Address: 59419 Miller Streets, Mccarthymouth, SD 45484
+SSN: 854-40-0005
+Card: 4372860089510209 | DOB: 06/30/1986
+Last login IP: 172.29.206.186

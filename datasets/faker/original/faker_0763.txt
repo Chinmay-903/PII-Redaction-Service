@@ -1,0 +1,7 @@
+Customer: Tina James
+Company: Frazier-Becker
+Email: qwilliams@example.org | Phone: 677-038-0912
+Address: 093 Kimberly Turnpike, West Jeremiah, MO 60002
+SSN: 745-26-1519
+Card: 4133177731240519 | DOB: 01/13/1977
+Last login IP: 10.141.99.168

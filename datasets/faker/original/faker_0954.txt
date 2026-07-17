@@ -1,0 +1,7 @@
+Customer: Derek Reyes
+Company: Ramsey and Sons
+Email: ctran@example.com | Phone: 712-984-4154
+Address: 1939 John Point, Saraberg, SD 48282
+SSN: 831-26-0977
+Card: 4838333070416388 | DOB: 10/14/1978
+Last login IP: 10.110.117.9

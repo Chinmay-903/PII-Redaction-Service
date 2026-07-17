@@ -1,0 +1,7 @@
+Customer: Keith Rodriguez
+Company: Martin-Gardner
+Email: dtaylor@example.com | Phone: 173-899-8696
+Address: 18729 Andrew Club, Taylorfurt, GU 23103
+SSN: 364-36-5211
+Card: 4071087436168309 | DOB: 10/14/1983
+Last login IP: 172.24.158.55

@@ -1,0 +1,7 @@
+Customer: Kevin Brown
+Company: Jordan and Sons
+Email: nixonashley@example.net | Phone: 829-177-9102
+Address: 17050 Allison Meadow, Port Gregoryberg, NM 88611
+SSN: 661-73-5896
+Card: 4935402966468100 | DOB: 09/28/1996
+Last login IP: 172.16.231.59

@@ -1,0 +1,7 @@
+Customer: Shane Williams
+Company: Smith-Reyes
+Email: daniel16@example.com | Phone: 776-066-7294
+Address: 83370 Lee Branch, East Christopher, ME 83605
+SSN: 159-90-7197
+Card: 4946911515430483 | DOB: 10/25/1967
+Last login IP: 192.168.75.74

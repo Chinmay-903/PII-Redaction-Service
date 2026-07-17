@@ -1,0 +1,7 @@
+Customer: Michael Cunningham
+Company: Johnson-Reyes
+Email: troy97@example.org | Phone: 060-896-3249
+Address: 0668 Lozano Well, New Amber, VA 61105
+SSN: 091-98-6004
+Card: 4244372346053557 | DOB: 05/07/1969
+Last login IP: 172.16.245.97

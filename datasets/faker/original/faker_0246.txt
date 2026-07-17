@@ -1,0 +1,7 @@
+Customer: Leah Baker
+Company: Harvey, Sanchez and Stewart
+Email: nhenry@example.net | Phone: 835-925-6234
+Address: 65681 Max Rest, Lake Lori, NY 92884
+SSN: 190-42-9583
+Card: 4232225795156483 | DOB: 03/19/2004
+Last login IP: 192.168.37.12

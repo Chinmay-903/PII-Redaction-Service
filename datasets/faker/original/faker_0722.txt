@@ -1,0 +1,7 @@
+Customer: Stacie Woodward
+Company: Harper LLC
+Email: troywilson@example.org | Phone: 890-369-5339
+Address: 894 Peter Burg, Johnfort, NV 00574
+SSN: 570-31-8402
+Card: 4723317788851554 | DOB: 02/13/1999
+Last login IP: 172.24.121.231

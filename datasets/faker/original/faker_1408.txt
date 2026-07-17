@@ -1,0 +1,7 @@
+Customer: Anthony Yu
+Company: Sims PLC
+Email: richardpope@example.org | Phone: 598-182-5072
+Address: 9740 Reed Meadow, Lake Katie, WA 80196
+SSN: 564-92-5330
+Card: 4791988162613468 | DOB: 11/28/1946
+Last login IP: 192.168.0.106

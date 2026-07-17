@@ -1,0 +1,7 @@
+Customer: Marc Mckenzie
+Company: Day LLC
+Email: armstrongmichael@example.net | Phone: 956-906-2755
+Address: 005 Kevin Mills, North Steven, MI 97679
+SSN: 270-71-3680
+Card: 4714480364606189 | DOB: 11/24/1993
+Last login IP: 192.168.125.211

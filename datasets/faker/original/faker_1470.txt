@@ -1,0 +1,7 @@
+Customer: Michael Newton Jr.
+Company: Watkins Group
+Email: kenneth87@example.org | Phone: 516-263-0615
+Address: 8156 Gregory Port, Olsenbury, OH 84589
+SSN: 818-24-8530
+Card: 4657100612736641 | DOB: 08/30/1999
+Last login IP: 172.28.9.110

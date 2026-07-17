@@ -1,0 +1,7 @@
+Customer: Kathy Lamb
+Company: Pugh-Webster
+Email: maureenduncan@example.org | Phone: 239-553-0160
+Address: 31778 Kelly Parks, North Tiffanymouth, AZ 60584
+SSN: 794-61-9002
+Card: 4798105897601154 | DOB: 04/10/1953
+Last login IP: 172.19.131.180

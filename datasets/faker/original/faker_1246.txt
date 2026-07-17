@@ -1,0 +1,7 @@
+Customer: Christopher Fox
+Company: Mccoy, Barnett and Carroll
+Email: bwarren@example.org | Phone: 210-775-3501
+Address: 0191 Good Locks, North Arielhaven, IA 46151
+SSN: 209-65-6782
+Card: 4059547498368044 | DOB: 04/12/1949
+Last login IP: 192.168.87.204

@@ -1,0 +1,7 @@
+Customer: Ashley Ross
+Company: Simpson, Hill and Santana
+Email: amy48@example.net | Phone: 074-310-3978
+Address: 0512 Jason Stravenue, Anneport, MO 76112
+SSN: 725-47-3284
+Card: 4598454746517456 | DOB: 02/11/1961
+Last login IP: 10.214.7.27

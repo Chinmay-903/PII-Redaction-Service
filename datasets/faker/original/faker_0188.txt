@@ -1,0 +1,7 @@
+Customer: Christine Miller
+Company: Porter PLC
+Email: melissamoore@example.com | Phone: 339-956-1026
+Address: 661 Emily Walks, Nicoleborough, KY 90924
+SSN: 803-97-4286
+Card: 4037518150534022 | DOB: 03/03/1961
+Last login IP: 10.134.158.163

@@ -1,0 +1,7 @@
+Customer: Elizabeth Joseph
+Company: Hill PLC
+Email: terrianthony@example.com | Phone: 347-828-7795
+Address: 48758 Ashley Landing, Millermouth, NM 78253
+SSN: 075-90-6500
+Card: 4218138563354677 | DOB: 07/19/1945
+Last login IP: 172.18.184.11

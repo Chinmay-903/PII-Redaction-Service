@@ -1,0 +1,7 @@
+Customer: Danny Walker
+Company: Morgan, Benjamin and Price
+Email: bmurphy@example.org | Phone: 072-009-2283
+Address: 3721 Smith Manor, Peterburgh, NJ 01129
+SSN: 086-10-4804
+Card: 4223572568574306 | DOB: 05/13/1980
+Last login IP: 192.168.166.11

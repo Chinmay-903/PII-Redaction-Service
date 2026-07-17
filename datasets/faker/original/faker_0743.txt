@@ -1,0 +1,7 @@
+Customer: Frederick Taylor
+Company: Thornton-Rivera
+Email: rojaswendy@example.com | Phone: 062-502-3057
+Address: 6066 Joanna Parkways, Melissaborough, MO 75150
+SSN: 363-62-7637
+Card: 4551055042167667 | DOB: 06/05/1956
+Last login IP: 10.234.205.45

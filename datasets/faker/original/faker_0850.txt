@@ -1,0 +1,7 @@
+Customer: Karen Vargas
+Company: Wolf Ltd
+Email: bjohnston@example.com | Phone: 556-866-8836
+Address: 72826 Bonilla Lake, North Christopher, LA 14921
+SSN: 675-03-8768
+Card: 4163959538816614 | DOB: 06/07/2007
+Last login IP: 192.168.192.26

@@ -1,0 +1,7 @@
+Customer: Shannon Crawford
+Company: Davis-Jimenez
+Email: whitneygutierrez@example.org | Phone: 448-091-7200
+Address: 1341 Durham Lights, Garyside, NV 47068
+SSN: 336-58-7840
+Card: 4425347922070036 | DOB: 03/08/1982
+Last login IP: 192.168.167.169

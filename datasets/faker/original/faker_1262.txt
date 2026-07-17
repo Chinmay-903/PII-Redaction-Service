@@ -1,0 +1,7 @@
+Customer: Blake Jones
+Company: Mercado, Doyle and Lucero
+Email: zachary45@example.com | Phone: 325-212-8562
+Address: 1332 Smith Stream, North Tiffany, NC 14434
+SSN: 262-19-6733
+Card: 4859296549051413 | DOB: 03/13/1985
+Last login IP: 10.186.20.164

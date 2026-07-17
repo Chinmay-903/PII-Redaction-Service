@@ -1,0 +1,7 @@
+Customer: Erin Andrews
+Company: Evans, Dawson and Taylor
+Email: john44@example.com | Phone: 978-114-4361
+Address: 974 Cynthia Brooks, New Michaelfurt, OK 62344
+SSN: 591-17-0513
+Card: 4481346347632652 | DOB: 04/21/1996
+Last login IP: 172.23.82.38

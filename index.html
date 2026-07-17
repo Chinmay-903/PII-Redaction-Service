@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>PII Redaction Service</title>
+  <style>
+    *{box-sizing:border-box} body{margin:0;background:#f4f7fb;color:#172033;font:16px/1.5 system-ui,sans-serif}
+    main{max-width:700px;margin:9vh auto;padding:36px;background:#fff;border-radius:14px;box-shadow:0 12px 30px #15234d18}
+    h1{margin:0 0 6px} h2{font-size:18px;margin:28px 0 10px} p{color:#5a6578} section{padding:20px 0;border-top:1px solid #e6eaf0}
+    input{width:100%;padding:11px;border:1px solid #cad2df;border-radius:7px;margin:10px 0 12px} button{border:0;border-radius:7px;background:#2563eb;color:#fff;padding:11px 18px;font-weight:650;cursor:pointer} button:disabled{opacity:.6;cursor:wait}
+    #status{min-height:24px;margin:10px 0 0;color:#2855a4} #metrics{display:none;margin-top:16px;border-collapse:collapse;width:100%} th,td{padding:8px;text-align:left;border-bottom:1px solid #e6eaf0} th{font-size:13px;color:#5a6578}
+  </style>
+</head>
+<body><main>
+  <h1>PII Redaction Service</h1><p>Detect sensitive details and replace them with consistent, realistic fake data.</p>
+  <section>
+    <h2>Redact File</h2><input id="file" type="file" accept=".docx,.doc,.pdf,.txt,.csv,.xlsx,.xls,.json,.xml"><button id="redact">Redact &amp; Download</button><div id="status"></div>
+  </section>
+  <section>
+    <h2>Evaluate Accuracy</h2><p>Runs the included Faker and Presidio-style labelled source datasets.</p><button id="evaluate">Run Accuracy Evaluation</button>
+    <table id="metrics"><thead><tr><th>Metric</th><th>Value</th></tr></thead><tbody></tbody></table>
+  </section>
+</main>
+<script>
+const status = document.querySelector('#status'), redact = document.querySelector('#redact'), evaluate = document.querySelector('#evaluate');
+const message = text => status.textContent = text;
+redact.onclick = async () => {
+  const file = document.querySelector('#file').files[0]; if (!file) return message('Choose a file first.');
+  const controller = new AbortController(), timeout = setTimeout(() => controller.abort(), 120000);
+  redact.disabled = true; message('Redacting…'); const body = new FormData(); body.append('file', file);
+  try {
+    const response = await fetch('/redact', {method:'POST', body, signal:controller.signal});
+    if (!response.ok) {
+      const data = await response.json().catch(() => ({}));
+      throw new Error(data.error || `The redaction endpoint returned HTTP ${response.status}. Open this page through Flask on port 5000.`);
+    }
+    const link = Object.assign(document.createElement('a'), {href:URL.createObjectURL(await response.blob()), download:`redacted_${file.name}`});
+    link.click(); setTimeout(() => URL.revokeObjectURL(link.href), 1000); message('Your redacted file is ready.');
+  } catch (error) {
+    message(error.name === 'AbortError' ? 'Redaction timed out after two minutes. Try a smaller text-based file.' : `Redaction failed: ${error.message}`);
+  } finally {
+    clearTimeout(timeout); redact.disabled = false;
+  }
+};
+evaluate.onclick = async () => {
+  evaluate.disabled = true; evaluate.textContent = 'Evaluating…';
+  const response = await fetch('/evaluate',{method:'POST'}), data = await response.json(); evaluate.disabled = false; evaluate.textContent = 'Run Accuracy Evaluation';
+  const rows = ['documents','entities','true_positives','false_positives','false_negatives','precision','recall','f1_score','accuracy'];
+  document.querySelector('#metrics tbody').innerHTML = rows.map(key => `<tr><td>${key.replaceAll('_',' ')}</td><td>${data[key]}</td></tr>`).join(''); document.querySelector('#metrics').style.display = 'table';
+};
+</script></body></html>

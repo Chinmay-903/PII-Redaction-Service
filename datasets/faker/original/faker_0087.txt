@@ -1,0 +1,7 @@
+Customer: Kendra Brown
+Company: Lamb-Welch
+Email: jodimartin@example.net | Phone: 013-238-1186
+Address: 36979 Tracy Cove, Mooreville, VA 17609
+SSN: 486-96-3024
+Card: 4517700003871699 | DOB: 05/23/1984
+Last login IP: 172.28.53.93

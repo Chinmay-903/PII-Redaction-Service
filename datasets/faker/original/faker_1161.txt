@@ -1,0 +1,7 @@
+Customer: Francisco Kline
+Company: Bowen and Sons
+Email: aconway@example.net | Phone: 696-809-1923
+Address: 228 Byrd Grove, North Edward, CT 96422
+SSN: 578-93-5942
+Card: 4888015531846811 | DOB: 06/21/1997
+Last login IP: 192.168.104.206

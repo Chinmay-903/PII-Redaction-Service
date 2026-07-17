@@ -1,0 +1,7 @@
+Customer: Christina Williams
+Company: Miller-Rodgers
+Email: rebecca06@example.com | Phone: 742-597-2879
+Address: 94012 Andrea Island, Lake Tami, CO 28509
+SSN: 149-74-7347
+Card: 4892584591263690 | DOB: 07/30/1971
+Last login IP: 10.212.221.152

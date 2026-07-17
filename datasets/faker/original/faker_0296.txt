@@ -1,0 +1,7 @@
+Customer: Angel Kirby
+Company: Bridges-Lewis
+Email: thomas66@example.org | Phone: 959-722-0837
+Address: 97967 Campbell Ville, Coffeyport, NY 61321
+SSN: 296-75-8220
+Card: 4574597853728049 | DOB: 05/05/1956
+Last login IP: 172.25.168.167

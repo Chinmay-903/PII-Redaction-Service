@@ -1,0 +1,7 @@
+Customer: Terri Gordon
+Company: Peterson Group
+Email: pwalker@example.org | Phone: 140-691-5461
+Address: 1444 Elizabeth Key, North Jacob, IN 15365
+SSN: 271-23-3871
+Card: 4664049449010798 | DOB: 08/21/1951
+Last login IP: 172.27.141.221

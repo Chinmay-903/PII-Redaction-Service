@@ -1,0 +1,7 @@
+Customer: Lisa Stevens
+Company: Rivera, Coleman and Allen
+Email: feliciacollins@example.com | Phone: 616-917-8843
+Address: 121 James Lane, Lake Elizabethland, VT 40192
+SSN: 449-37-2142
+Card: 4281852011023260 | DOB: 06/25/2007
+Last login IP: 192.168.123.11

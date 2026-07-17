@@ -1,0 +1,7 @@
+Customer: Monica Brown
+Company: Phelps Inc
+Email: juanfitzgerald@example.org | Phone: 434-384-1789
+Address: 85810 Dalton Skyway, New Debra, WY 45649
+SSN: 504-85-3606
+Card: 4912760523915534 | DOB: 11/29/1979
+Last login IP: 192.168.20.96

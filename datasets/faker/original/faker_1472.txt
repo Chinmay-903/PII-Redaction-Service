@@ -1,0 +1,7 @@
+Customer: Angela Oneill
+Company: Oconnor Ltd
+Email: djohnson@example.net | Phone: 345-031-9427
+Address: 8788 Kathy Pass, Chavezville, KY 15726
+SSN: 829-36-6959
+Card: 4161535997198025 | DOB: 09/17/1989
+Last login IP: 10.52.23.33

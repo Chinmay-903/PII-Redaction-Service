@@ -1,0 +1,7 @@
+Customer: Elizabeth Aguilar
+Company: Acosta, Bryan and Jones
+Email: martinbarbara@example.net | Phone: 323-737-5318
+Address: 5275 Nolan Valley, North Jerryville, CO 21502
+SSN: 115-15-5471
+Card: 4873280217150162 | DOB: 07/16/1964
+Last login IP: 10.178.17.100

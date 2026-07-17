@@ -1,0 +1,7 @@
+Customer: Francisco Sanchez
+Company: Turner-Charles
+Email: melissaclayton@example.org | Phone: 166-158-7549
+Address: 5825 Rebecca Green, Port Martinberg, AL 20277
+SSN: 860-27-7036
+Card: 4283931728572229 | DOB: 03/07/1983
+Last login IP: 10.17.68.134

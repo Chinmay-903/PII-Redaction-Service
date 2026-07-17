@@ -1,0 +1,7 @@
+Customer: Jose Nelson
+Company: Lester-Morrison
+Email: brittanyharmon@example.com | Phone: 628-203-3848
+Address: 4068 Owens Village, Amandabury, AZ 10969
+SSN: 088-35-5360
+Card: 4711449071707823 | DOB: 08/07/1981
+Last login IP: 192.168.227.72

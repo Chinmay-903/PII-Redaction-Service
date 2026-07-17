@@ -1,0 +1,7 @@
+Customer: Tamara Taylor
+Company: Riley PLC
+Email: dbaldwin@example.net | Phone: 409-330-4922
+Address: 7715 Lewis Street, South Andreahaven, DC 94124
+SSN: 221-84-3000
+Card: 4369371089506952 | DOB: 07/02/1977
+Last login IP: 10.77.29.58

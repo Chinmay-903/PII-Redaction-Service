@@ -1,0 +1,7 @@
+Customer: Dawn Mcdonald
+Company: Jackson-Salas
+Email: taylorandrew@example.net | Phone: 008-570-4066
+Address: 0694 Melissa Forges, Stevenville, NY 14307
+SSN: 242-25-8368
+Card: 4952442370736286 | DOB: 11/03/1983
+Last login IP: 192.168.178.149

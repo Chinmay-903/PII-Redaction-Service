@@ -1,0 +1,7 @@
+Customer: Laura Lopez
+Company: Merritt, Swanson and Adams
+Email: jjohnson@example.org | Phone: 197-374-3876
+Address: 9512 Franklin Stream, East Matthewborough, DC 96165
+SSN: 801-85-4885
+Card: 4032508248490506 | DOB: 12/22/1973
+Last login IP: 192.168.47.174

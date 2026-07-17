@@ -1,0 +1,7 @@
+Customer: Alexandra Pearson
+Company: Quinn, Raymond and Nguyen
+Email: davisdanny@example.org | Phone: 909-923-3713
+Address: 793 Morton Falls, Port Jimmy, AR 14654
+SSN: 731-26-8774
+Card: 4337549801753593 | DOB: 01/20/1973
+Last login IP: 10.169.29.242

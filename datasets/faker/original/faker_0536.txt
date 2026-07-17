@@ -1,0 +1,7 @@
+Customer: Nicole Boyle
+Company: Stephens and Sons
+Email: pateldaniel@example.org | Phone: 687-957-9320
+Address: 81884 Victor Camp, Meganland, IL 23087
+SSN: 261-96-0502
+Card: 4935954781090279 | DOB: 11/19/2004
+Last login IP: 192.168.100.62

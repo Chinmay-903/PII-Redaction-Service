@@ -1,0 +1,7 @@
+Customer: Christian Young
+Company: Lopez PLC
+Email: ellisnancy@example.net | Phone: 695-747-7092
+Address: 078 Brittany Shoal, Lake Carriefort, WY 47525
+SSN: 827-20-7641
+Card: 4635616298981703 | DOB: 06/03/1969
+Last login IP: 192.168.142.190

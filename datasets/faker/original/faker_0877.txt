@@ -1,0 +1,7 @@
+Customer: Lydia Clay
+Company: Dudley-Whitehead
+Email: fordjoy@example.net | Phone: 600-285-2435
+Address: 483 Adkins Harbor, Bauerstad, WY 43427
+SSN: 712-73-4920
+Card: 4151240917111453 | DOB: 12/07/1955
+Last login IP: 10.92.37.180

@@ -1,0 +1,7 @@
+Customer: Matthew Ward
+Company: Berg, Castro and Sanchez
+Email: kara76@example.org | Phone: 773-620-9547
+Address: 20412 Stewart Prairie, Richardstad, FM 33047
+SSN: 555-39-9715
+Card: 4211823502276878 | DOB: 09/27/1952
+Last login IP: 10.20.185.222

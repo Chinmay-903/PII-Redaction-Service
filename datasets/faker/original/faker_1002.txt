@@ -1,0 +1,7 @@
+Customer: Emma Cox
+Company: Smith and Sons
+Email: mary69@example.org | Phone: 918-760-2886
+Address: 912 Scott Village, Lauraport, OK 51238
+SSN: 114-89-1065
+Card: 4859452910320024 | DOB: 03/06/1946
+Last login IP: 192.168.239.196

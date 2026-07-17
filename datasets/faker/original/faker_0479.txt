@@ -1,0 +1,7 @@
+Customer: Pamela Bean
+Company: Reese, Cook and Davis
+Email: pricejennifer@example.org | Phone: 915-335-1804
+Address: 5039 Gonzalez Manor, Paulshire, MO 74033
+SSN: 742-22-6557
+Card: 4324476979634154 | DOB: 08/27/1986
+Last login IP: 10.246.78.189

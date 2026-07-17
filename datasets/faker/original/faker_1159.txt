@@ -1,0 +1,7 @@
+Customer: John Finley
+Company: Black-Velazquez
+Email: ucastro@example.org | Phone: 077-999-5874
+Address: 15878 Salazar Island, Nicholsshire, NH 98861
+SSN: 849-85-9101
+Card: 4408490856429777 | DOB: 10/16/1950
+Last login IP: 172.22.119.220

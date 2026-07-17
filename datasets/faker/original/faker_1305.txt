@@ -1,0 +1,7 @@
+Customer: Richard Hughes
+Company: Armstrong PLC
+Email: michaelmorton@example.com | Phone: 091-712-9640
+Address: 68738 Christopher Lakes, West Jamesshire, MA 55239
+SSN: 624-12-9641
+Card: 4194950582016253 | DOB: 02/25/1952
+Last login IP: 192.168.88.15

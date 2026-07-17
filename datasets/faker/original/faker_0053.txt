@@ -1,0 +1,7 @@
+Customer: Joel Nguyen
+Company: James PLC
+Email: john52@example.org | Phone: 351-733-1564
+Address: 1987 Brittany Harbor, Robertbury, SD 80159
+SSN: 803-81-3140
+Card: 4634943855989007 | DOB: 08/26/1961
+Last login IP: 172.20.12.184

@@ -1,0 +1,7 @@
+Customer: Brenda Cortez
+Company: Lowe, Donaldson and Nguyen
+Email: russellbrenda@example.org | Phone: 963-583-7405
+Address: 7497 Lisa Row, Sheilafort, KS 51643
+SSN: 596-28-0469
+Card: 4219652267132998 | DOB: 11/11/1960
+Last login IP: 192.168.73.16

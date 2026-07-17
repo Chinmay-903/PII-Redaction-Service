@@ -1,0 +1,7 @@
+Customer: Mark Ramos
+Company: Garcia Inc
+Email: elizabetholsen@example.org | Phone: 529-206-3942
+Address: 660 Patricia Valley, Avilaland, NJ 41846
+SSN: 610-74-4170
+Card: 4518697010259919 | DOB: 08/21/1974
+Last login IP: 192.168.138.163

@@ -1,0 +1,7 @@
+Customer: Michael Brown
+Company: Davis LLC
+Email: willie96@example.org | Phone: 092-051-2343
+Address: 43920 Nicole Hill, Jeanneton, KY 08043
+SSN: 602-27-7008
+Card: 4564602573603258 | DOB: 10/30/1974
+Last login IP: 10.51.156.122

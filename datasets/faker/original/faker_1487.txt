@@ -1,0 +1,7 @@
+Customer: Matthew Coleman
+Company: Martinez-Huff
+Email: scottlaura@example.com | Phone: 915-938-7133
+Address: 033 Rodriguez Loop, New Michelle, WA 07811
+SSN: 350-17-9682
+Card: 4150503286141513 | DOB: 08/01/1964
+Last login IP: 172.21.29.8

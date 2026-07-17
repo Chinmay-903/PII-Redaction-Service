@@ -1,0 +1,7 @@
+Customer: James Jones
+Company: Robinson LLC
+Email: nicole00@example.com | Phone: 801-891-7945
+Address: 09020 Howard Mission, Michellechester, MD 63006
+SSN: 869-78-9212
+Card: 4177643015727486 | DOB: 10/29/1971
+Last login IP: 10.199.221.188

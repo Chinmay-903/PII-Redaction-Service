@@ -1,0 +1,7 @@
+Customer: Henry Duffy
+Company: Lewis-Johnson
+Email: michelesalazar@example.org | Phone: 512-841-2812
+Address: 448 Schneider Skyway, Lake Robert, ID 32112
+SSN: 564-94-3872
+Card: 4688823510310531 | DOB: 03/21/1950
+Last login IP: 172.31.124.113

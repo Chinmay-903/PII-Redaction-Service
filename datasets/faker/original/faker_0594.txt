@@ -1,0 +1,7 @@
+Customer: Ernest Hawkins
+Company: Young, Robbins and Lucas
+Email: yturner@example.net | Phone: 218-325-2757
+Address: 614 Robert Valley, East Kathy, NE 71655
+SSN: 064-91-0603
+Card: 4912849343216643 | DOB: 08/11/1984
+Last login IP: 10.37.23.19

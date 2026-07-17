@@ -1,0 +1,7 @@
+Customer: Juan Smith
+Company: Holmes-Harris
+Email: bherrera@example.net | Phone: 253-529-1408
+Address: 7983 Austin Coves, Vickiefurt, GU 14541
+SSN: 278-61-0147
+Card: 4195898638224547 | DOB: 01/28/1968
+Last login IP: 172.20.37.254

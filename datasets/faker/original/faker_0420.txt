@@ -1,0 +1,7 @@
+Customer: Joshua Joseph
+Company: Phillips-Smith
+Email: marshalldaniel@example.net | Phone: 089-637-7975
+Address: 7084 Hood Flat, Lake John, AL 48735
+SSN: 632-93-8923
+Card: 4757002193647230 | DOB: 05/01/1972
+Last login IP: 192.168.147.219

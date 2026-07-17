@@ -1,0 +1,7 @@
+Customer: Rachel Luna
+Company: Rodriguez Inc
+Email: rodriguezjeffrey@example.net | Phone: 061-442-7512
+Address: 6613 Marshall Locks, Wilsonstad, SC 42455
+SSN: 729-02-4854
+Card: 4294721532519970 | DOB: 04/28/2000
+Last login IP: 10.30.112.182

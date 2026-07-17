@@ -1,0 +1,7 @@
+Customer: Lauren Ray
+Company: Guerrero-Schaefer
+Email: barbara34@example.net | Phone: 167-376-0794
+Address: 2186 Christopher Views, Port Jessicamouth, NC 01352
+SSN: 475-30-8488
+Card: 4616720754526540 | DOB: 04/28/1981
+Last login IP: 172.26.234.136

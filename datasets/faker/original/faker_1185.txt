@@ -1,0 +1,7 @@
+Customer: Jennifer Baker
+Company: Martinez-Benjamin
+Email: richard76@example.net | Phone: 982-513-7434
+Address: 722 Elizabeth Rapid, Lake Valerie, HI 92731
+SSN: 279-07-4483
+Card: 4106722557660515 | DOB: 06/08/2003
+Last login IP: 172.23.111.85

@@ -1,0 +1,7 @@
+Customer: James Ball
+Company: Mckay-Cabrera
+Email: tayloraaron@example.net | Phone: 825-384-2948
+Address: 48640 Sydney Shoals, Ellisport, NJ 35701
+SSN: 342-59-5981
+Card: 4712507561800686 | DOB: 06/11/1988
+Last login IP: 10.68.119.72

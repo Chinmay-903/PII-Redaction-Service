@@ -1,0 +1,7 @@
+Customer: Donna Olson
+Company: White-Gonzales
+Email: johnsoncatherine@example.org | Phone: 321-259-3242
+Address: 88563 Eric Canyon, North Darrell, AZ 80629
+SSN: 230-87-5332
+Card: 4990837640797162 | DOB: 05/19/1994
+Last login IP: 10.108.85.5

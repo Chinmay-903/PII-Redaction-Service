@@ -1,0 +1,7 @@
+Customer: Maria Cox
+Company: Brooks-Wright
+Email: markparrish@example.com | Phone: 869-366-3425
+Address: 285 Moyer Valleys, Lake Jacob, AR 63911
+SSN: 209-58-5943
+Card: 4373865239694216 | DOB: 03/25/1990
+Last login IP: 10.200.65.241

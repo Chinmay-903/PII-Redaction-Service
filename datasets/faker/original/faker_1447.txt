@@ -1,0 +1,7 @@
+Customer: Allison Daniels
+Company: Warren, Campbell and Moore
+Email: mitchell73@example.net | Phone: 974-250-1716
+Address: 627 Henry River, North Kristi, GA 10342
+SSN: 149-22-1395
+Card: 4160592200583957 | DOB: 04/18/1987
+Last login IP: 172.18.242.28

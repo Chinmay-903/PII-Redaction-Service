@@ -1,0 +1,7 @@
+Customer: Kayla Thomas
+Company: Schwartz LLC
+Email: deborahdyer@example.org | Phone: 392-692-3809
+Address: 7311 John Keys, Kellerland, PA 26252
+SSN: 757-67-4987
+Card: 4224963052055606 | DOB: 03/26/1969
+Last login IP: 192.168.134.183

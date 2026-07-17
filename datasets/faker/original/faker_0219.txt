@@ -1,0 +1,7 @@
+Customer: Vanessa Roberts
+Company: Torres Group
+Email: kristinlee@example.net | Phone: 612-411-1016
+Address: 97955 Young Road, North Jenniferborough, OR 68163
+SSN: 786-64-6575
+Card: 4858199190066766 | DOB: 11/03/2003
+Last login IP: 172.17.48.239

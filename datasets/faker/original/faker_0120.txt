@@ -1,0 +1,7 @@
+Customer: Jasmine Carson
+Company: Price, Hernandez and Black
+Email: laura18@example.net | Phone: 962-845-0077
+Address: 64433 Perry Summit, New Jon, MN 84672
+SSN: 864-28-3193
+Card: 4885336296091739 | DOB: 09/17/1984
+Last login IP: 10.229.255.243

@@ -1,0 +1,7 @@
+Customer: Michael Clay
+Company: Hall-Lopez
+Email: stevensdeborah@example.net | Phone: 960-052-7275
+Address: 88797 Swanson Stravenue, Markville, CA 30200
+SSN: 617-29-9373
+Card: 4958587457351278 | DOB: 11/05/1976
+Last login IP: 10.99.91.169

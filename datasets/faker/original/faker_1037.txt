@@ -1,0 +1,7 @@
+Customer: James Gonzalez
+Company: Robles Group
+Email: johnjohnson@example.net | Phone: 230-285-0747
+Address: 5986 Kim Cape, Peterside, MT 04068
+SSN: 251-05-9901
+Card: 4876840310617370 | DOB: 01/10/1970
+Last login IP: 10.190.60.189

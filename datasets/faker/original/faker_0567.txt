@@ -1,0 +1,7 @@
+Customer: Christina Parker
+Company: Stevens, Newton and Kim
+Email: kperkins@example.net | Phone: 956-984-5897
+Address: 369 Jon Burg, Port Rebecca, DE 17830
+SSN: 162-86-9461
+Card: 4777704948724539 | DOB: 01/13/1957
+Last login IP: 192.168.70.30

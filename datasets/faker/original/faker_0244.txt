@@ -1,0 +1,7 @@
+Customer: Emily Byrd
+Company: Hancock-Garcia
+Email: tricia35@example.com | Phone: 018-439-5246
+Address: 7407 Michael Views, East Crystalfurt, KY 31082
+SSN: 585-73-1887
+Card: 4161770838821085 | DOB: 06/21/1987
+Last login IP: 192.168.42.224

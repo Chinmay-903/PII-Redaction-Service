@@ -1,0 +1,7 @@
+Customer: Alejandro Peterson
+Company: Jordan-Castillo
+Email: josephnelson@example.net | Phone: 768-422-2100
+Address: 50033 Lewis Forge, South Ericshire, CT 09672
+SSN: 426-25-6597
+Card: 4399432717027953 | DOB: 05/18/1959
+Last login IP: 10.154.61.151

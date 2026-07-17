@@ -1,0 +1,7 @@
+Customer: Daniel Avila
+Company: Sanchez-Lynn
+Email: xavierwu@example.com | Phone: 205-728-8821
+Address: 4793 Jacob Wall, South Christine, ID 34202
+SSN: 504-34-8076
+Card: 4090590274754574 | DOB: 04/22/1986
+Last login IP: 192.168.179.76

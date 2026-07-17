@@ -1,0 +1,7 @@
+Customer: Jared Evans
+Company: Allen-Webb
+Email: diana31@example.org | Phone: 311-477-3459
+Address: 01154 Brian Forest, Rodriguezfurt, LA 74255
+SSN: 123-16-6477
+Card: 4226794187296338 | DOB: 07/08/1952
+Last login IP: 192.168.249.253

@@ -1,0 +1,7 @@
+Customer: Kathleen Nelson
+Company: Rogers, Chase and Park
+Email: hharris@example.net | Phone: 994-104-3899
+Address: 47297 Carolyn Place, Parkerbury, CA 90313
+SSN: 780-19-8104
+Card: 4094182386858893 | DOB: 05/23/1964
+Last login IP: 172.17.171.227

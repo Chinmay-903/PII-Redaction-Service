@@ -1,0 +1,7 @@
+Customer: Jennifer Jones
+Company: Martinez, Phillips and Welch
+Email: vasquezkari@example.org | Phone: 546-087-3300
+Address: 580 Sherry Land, West Tracey, NM 76026
+SSN: 153-70-4708
+Card: 4391534184936901 | DOB: 01/22/2001
+Last login IP: 172.26.151.118

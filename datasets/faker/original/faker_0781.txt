@@ -1,0 +1,7 @@
+Customer: Joann Stokes
+Company: Clarke Inc
+Email: huntergabriel@example.org | Phone: 696-775-9498
+Address: 55113 David Ridges, Port Jose, PR 10528
+SSN: 592-14-4389
+Card: 4875720422710746 | DOB: 08/16/1953
+Last login IP: 172.26.252.255

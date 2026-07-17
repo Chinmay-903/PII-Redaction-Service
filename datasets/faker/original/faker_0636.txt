@@ -1,0 +1,7 @@
+Customer: Jacob Jacobs
+Company: Everett LLC
+Email: rodriguezdavid@example.org | Phone: 013-487-0040
+Address: 93318 Mcdonald Valley, North Emily, LA 31705
+SSN: 266-57-8633
+Card: 4970953205532714 | DOB: 03/25/2004
+Last login IP: 192.168.101.234

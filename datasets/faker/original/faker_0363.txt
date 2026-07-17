@@ -1,0 +1,7 @@
+Customer: Heather Curry
+Company: Nguyen PLC
+Email: martineznicole@example.com | Phone: 671-718-7224
+Address: 590 Michelle Streets, New Elizabethfort, MI 21623
+SSN: 132-35-1230
+Card: 4208488362174939 | DOB: 04/23/1964
+Last login IP: 192.168.201.164

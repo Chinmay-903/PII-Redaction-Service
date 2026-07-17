@@ -1,0 +1,7 @@
+Customer: John Thomas
+Company: Anderson and Sons
+Email: matthew35@example.net | Phone: 598-709-9546
+Address: 24412 Lisa Terrace, Danielleside, VA 69127
+SSN: 728-93-3726
+Card: 4291635393120756 | DOB: 02/15/1975
+Last login IP: 192.168.21.235

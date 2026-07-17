@@ -1,0 +1,7 @@
+Customer: Lawrence Mendoza
+Company: Henson PLC
+Email: kennethtaylor@example.org | Phone: 656-442-7781
+Address: 59199 Harper Wall, Laurafort, RI 73019
+SSN: 528-08-4044
+Card: 4645865293104716 | DOB: 09/06/1970
+Last login IP: 192.168.99.221

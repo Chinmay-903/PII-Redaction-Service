@@ -1,0 +1,7 @@
+Customer: Jessica Clements
+Company: Young-Fernandez
+Email: arthurdean@example.org | Phone: 263-631-8423
+Address: 91218 Newman Walk, Brownborough, IA 50938
+SSN: 718-26-1506
+Card: 4200718742146670 | DOB: 12/05/1948
+Last login IP: 10.58.186.193

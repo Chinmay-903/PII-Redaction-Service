@@ -1,0 +1,7 @@
+Customer: Louis Leonard
+Company: Stewart-Reyes
+Email: rodriguezanne@example.net | Phone: 105-951-5848
+Address: 03306 Armstrong Village, West Paul, MH 76559
+SSN: 726-64-8867
+Card: 4611908686256972 | DOB: 05/31/1951
+Last login IP: 172.18.99.112

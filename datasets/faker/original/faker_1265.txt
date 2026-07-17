@@ -1,0 +1,7 @@
+Customer: Sarah Morrison
+Company: Peterson and Sons
+Email: troberts@example.org | Phone: 902-834-3549
+Address: 8581 Charles Brook, New Linda, MA 84353
+SSN: 183-63-4627
+Card: 4550842937842343 | DOB: 12/30/1985
+Last login IP: 192.168.173.95

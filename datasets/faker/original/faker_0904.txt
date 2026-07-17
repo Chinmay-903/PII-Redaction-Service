@@ -1,0 +1,7 @@
+Customer: Megan Goodman
+Company: Coleman-Skinner
+Email: ahayden@example.com | Phone: 106-546-4368
+Address: 256 Nathan Walk, New David, MH 86183
+SSN: 250-01-4412
+Card: 4137194268192407 | DOB: 07/22/1988
+Last login IP: 172.20.234.11

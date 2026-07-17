@@ -1,0 +1,7 @@
+Customer: Jack Hudson
+Company: Sanchez, Patton and Figueroa
+Email: kristenthomas@example.com | Phone: 308-256-9441
+Address: 156 Lowe Underpass, New Jesse, WA 24730
+SSN: 660-14-0205
+Card: 4475830340647468 | DOB: 11/25/1992
+Last login IP: 172.21.250.204

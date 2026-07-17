@@ -1,0 +1,7 @@
+Customer: James Griffin
+Company: Garcia-Brown
+Email: nmiller@example.net | Phone: 286-861-5529
+Address: 7084 Gabriella Drive, Hansenfurt, GA 55369
+SSN: 203-83-0673
+Card: 4407247859477992 | DOB: 07/21/1963
+Last login IP: 192.168.182.249

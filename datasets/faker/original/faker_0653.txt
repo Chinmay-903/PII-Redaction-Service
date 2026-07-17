@@ -1,0 +1,7 @@
+Customer: Pamela Chan
+Company: Aguilar Inc
+Email: andrew04@example.net | Phone: 182-932-8759
+Address: 4694 Berger Flat, East Katrinahaven, RI 87377
+SSN: 891-14-9148
+Card: 4030175055281253 | DOB: 06/21/1980
+Last login IP: 192.168.90.148

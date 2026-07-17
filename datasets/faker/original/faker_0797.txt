@@ -1,0 +1,7 @@
+Customer: Ricardo Cannon
+Company: Taylor-Maldonado
+Email: mendozaaustin@example.net | Phone: 821-095-6368
+Address: 816 Leonard Valleys, Johnsonborough, MO 16282
+SSN: 350-59-0687
+Card: 4724616787442128 | DOB: 06/06/1977
+Last login IP: 10.228.73.27

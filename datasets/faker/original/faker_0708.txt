@@ -1,0 +1,7 @@
+Customer: Joshua Harrison
+Company: Hanson-Taylor
+Email: williamskenneth@example.com | Phone: 223-965-2536
+Address: 2051 Jeremy Lakes, Burnettstad, CA 44253
+SSN: 592-56-4074
+Card: 4235858456336817 | DOB: 07/30/1997
+Last login IP: 10.140.87.173

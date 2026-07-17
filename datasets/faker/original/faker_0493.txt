@@ -1,0 +1,7 @@
+Customer: Barbara Ramirez
+Company: Barrett, Dickerson and Mcpherson
+Email: suttoncharles@example.org | Phone: 120-800-6312
+Address: 575 Susan Corners, Lucaschester, WV 02984
+SSN: 840-12-9157
+Card: 4125514989356409 | DOB: 09/29/1990
+Last login IP: 10.111.20.11

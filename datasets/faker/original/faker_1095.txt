@@ -1,0 +1,7 @@
+Customer: Thomas Campbell
+Company: Rodriguez Group
+Email: jessica73@example.org | Phone: 344-615-6646
+Address: 624 Gray Corners, Lake Monicashire, MP 27457
+SSN: 245-01-1546
+Card: 4376815334682779 | DOB: 12/15/1970
+Last login IP: 192.168.197.93

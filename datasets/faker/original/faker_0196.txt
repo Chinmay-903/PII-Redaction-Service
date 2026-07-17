@@ -1,0 +1,7 @@
+Customer: Morgan Eaton
+Company: Mcclain LLC
+Email: brian41@example.com | Phone: 008-929-3556
+Address: 930 Emily Ways, East Christopher, PR 65131
+SSN: 149-61-2415
+Card: 4340543729225169 | DOB: 05/05/1959
+Last login IP: 10.10.19.80

@@ -1,0 +1,7 @@
+Customer: Rhonda Hale
+Company: Williams-Bradshaw
+Email: nwoodward@example.com | Phone: 879-206-9639
+Address: 2042 Christopher Meadow, Rochahaven, NY 11811
+SSN: 821-64-4091
+Card: 4888220768065107 | DOB: 03/20/2000
+Last login IP: 192.168.85.196

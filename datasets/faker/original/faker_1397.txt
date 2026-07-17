@@ -1,0 +1,7 @@
+Customer: Seth Collier
+Company: Williams, Bell and Hess
+Email: gabrielahuang@example.net | Phone: 473-883-7868
+Address: 0374 Harris Flats, Lake Caitlynhaven, CO 14358
+SSN: 685-60-3435
+Card: 4686503849785676 | DOB: 02/03/2006
+Last login IP: 192.168.108.34

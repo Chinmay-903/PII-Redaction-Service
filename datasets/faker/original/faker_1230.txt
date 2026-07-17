@@ -1,0 +1,7 @@
+Customer: Tiffany Yu
+Company: Wiggins-Heath
+Email: uvasquez@example.com | Phone: 214-717-1502
+Address: 0974 May Union, South Jose, MS 84079
+SSN: 874-22-1835
+Card: 4157376161894024 | DOB: 05/16/2007
+Last login IP: 10.206.202.192

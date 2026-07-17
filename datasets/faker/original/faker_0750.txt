@@ -1,0 +1,7 @@
+Customer: Jennifer Pollard
+Company: Jensen, Hernandez and Diaz
+Email: sweeneyanthony@example.org | Phone: 706-081-2840
+Address: 6595 Jackson Overpass, South Luis, FM 47440
+SSN: 232-95-0832
+Card: 4671288476624896 | DOB: 06/27/1993
+Last login IP: 10.12.221.63

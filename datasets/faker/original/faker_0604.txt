@@ -1,0 +1,7 @@
+Customer: Linda Cruz
+Company: Robinson-Shah
+Email: jramirez@example.net | Phone: 601-194-9232
+Address: 2445 Sawyer Flats, West Christine, VA 72204
+SSN: 184-90-4952
+Card: 4223526878904504 | DOB: 04/22/1998
+Last login IP: 192.168.100.236

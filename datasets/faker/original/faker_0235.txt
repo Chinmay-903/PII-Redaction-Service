@@ -1,0 +1,7 @@
+Customer: Sandra Cook
+Company: Hunter Inc
+Email: emilybowen@example.org | Phone: 887-154-1828
+Address: 64209 Scott Squares, Emilyland, NE 17771
+SSN: 353-23-8849
+Card: 4515108608363108 | DOB: 07/25/1997
+Last login IP: 10.132.82.195

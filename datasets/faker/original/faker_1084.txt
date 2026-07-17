@@ -1,0 +1,7 @@
+Customer: Robert Hoffman
+Company: Weber-Woods
+Email: clarkpatrick@example.org | Phone: 809-288-8906
+Address: 87857 Kramer Lights, Huntermouth, NH 86566
+SSN: 041-23-8297
+Card: 4003973949525403 | DOB: 10/14/1948
+Last login IP: 192.168.42.45

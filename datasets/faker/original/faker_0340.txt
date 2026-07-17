@@ -1,0 +1,7 @@
+Customer: Mackenzie Fowler
+Company: Sloan, Bradshaw and Foster
+Email: tnelson@example.com | Phone: 399-312-5138
+Address: 77117 Stephanie Falls, Jacquelineview, GU 95649
+SSN: 138-14-9372
+Card: 4134727026907534 | DOB: 08/03/1958
+Last login IP: 172.24.66.202

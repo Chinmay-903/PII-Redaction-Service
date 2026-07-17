@@ -1,0 +1,7 @@
+Customer: Phillip Drake
+Company: Best PLC
+Email: gprice@example.net | Phone: 885-121-9480
+Address: 4751 Nichols Glen, Careyshire, PR 27577
+SSN: 395-06-6716
+Card: 4730123562366095 | DOB: 01/17/2007
+Last login IP: 10.228.159.203

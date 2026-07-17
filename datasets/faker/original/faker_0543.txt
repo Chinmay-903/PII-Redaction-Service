@@ -1,0 +1,7 @@
+Customer: Jennifer Vaughan
+Company: Brown Inc
+Email: toddlopez@example.net | Phone: 196-090-0297
+Address: 73829 Andrea Locks, East Matthewville, OK 44437
+SSN: 448-59-9066
+Card: 4464134964270944 | DOB: 12/15/1990
+Last login IP: 10.27.251.156

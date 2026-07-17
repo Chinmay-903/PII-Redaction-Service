@@ -1,0 +1,7 @@
+Customer: Brandi Nelson
+Company: Evans, West and Garcia
+Email: allenwilliam@example.com | Phone: 223-765-4429
+Address: 30341 Amanda Cove, Kristastad, PR 49664
+SSN: 674-87-5569
+Card: 4847566668313009 | DOB: 07/26/1961
+Last login IP: 10.126.0.197

@@ -1,0 +1,7 @@
+Customer: Robert Watson
+Company: Joseph, Vang and Chen
+Email: jack89@example.net | Phone: 968-071-0260
+Address: 66957 Montgomery Motorway, South Rebecca, DC 25466
+SSN: 237-53-0745
+Card: 4512728933665993 | DOB: 01/23/1995
+Last login IP: 10.239.73.176

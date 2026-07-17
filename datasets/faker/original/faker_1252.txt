@@ -1,0 +1,7 @@
+Customer: Haley Salas
+Company: Hughes, Deleon and Gonzales
+Email: olawson@example.org | Phone: 137-194-2530
+Address: 1507 Thomas Cape, Roblesmouth, SC 39000
+SSN: 534-79-4133
+Card: 4574680579415420 | DOB: 09/08/1974
+Last login IP: 10.68.177.148

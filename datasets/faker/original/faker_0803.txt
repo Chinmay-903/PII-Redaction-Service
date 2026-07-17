@@ -1,0 +1,7 @@
+Customer: Michael Russell
+Company: Mills-Hughes
+Email: johnsummers@example.net | Phone: 196-815-7311
+Address: 3050 Brown Wall, New Carlachester, MI 49089
+SSN: 216-97-3003
+Card: 4541960758548757 | DOB: 11/03/1955
+Last login IP: 10.43.38.120

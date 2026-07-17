@@ -1,0 +1,7 @@
+Customer: Renee Brown
+Company: Thompson Inc
+Email: leejacqueline@example.net | Phone: 178-622-2126
+Address: 22347 Kimberly Trace, New Jenniferbury, WY 47900
+SSN: 048-81-9024
+Card: 4811973205243727 | DOB: 09/03/1987
+Last login IP: 10.69.240.84

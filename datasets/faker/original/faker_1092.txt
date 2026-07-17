@@ -1,0 +1,7 @@
+Customer: Angela May
+Company: Larson, Gutierrez and Hansen
+Email: janetwinters@example.com | Phone: 016-696-4062
+Address: 63625 Hailey Spurs, Willisbury, IN 68227
+SSN: 861-90-7032
+Card: 4050596130785379 | DOB: 10/30/1947
+Last login IP: 172.18.247.56

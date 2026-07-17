@@ -1,0 +1,7 @@
+Customer: Gregory Charles
+Company: Manning Group
+Email: odawson@example.com | Phone: 834-738-0632
+Address: 5160 Kenneth Manors, Lake Natalieside, ME 29389
+SSN: 699-95-0946
+Card: 4503250006246099 | DOB: 08/03/1958
+Last login IP: 10.93.43.57

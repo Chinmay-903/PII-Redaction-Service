@@ -1,0 +1,7 @@
+Customer: Claudia Rice
+Company: Stuart PLC
+Email: iellis@example.net | Phone: 853-745-9646
+Address: 95414 Charles Spring, West Benjamin, AK 54483
+SSN: 873-18-7068
+Card: 4013415882850461 | DOB: 04/05/1951
+Last login IP: 172.18.141.0

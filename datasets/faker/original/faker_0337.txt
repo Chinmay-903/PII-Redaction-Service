@@ -1,0 +1,7 @@
+Customer: Judith Chan
+Company: Cox, Martinez and Zamora
+Email: kiara89@example.org | Phone: 245-709-4147
+Address: 7134 Moyer Green, Jamesview, NM 75870
+SSN: 753-17-2541
+Card: 4138478491024035 | DOB: 07/03/1980
+Last login IP: 192.168.210.126

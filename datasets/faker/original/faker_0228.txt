@@ -1,0 +1,7 @@
+Customer: Ariel Clark
+Company: Cuevas-Miller
+Email: sarah98@example.net | Phone: 339-226-7483
+Address: 0769 Reginald Unions, Mcfarlandstad, DE 55297
+SSN: 485-68-1925
+Card: 4561235593451672 | DOB: 01/05/1969
+Last login IP: 172.25.58.53

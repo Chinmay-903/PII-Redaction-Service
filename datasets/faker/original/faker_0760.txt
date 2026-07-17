@@ -1,0 +1,7 @@
+Customer: Regina Figueroa
+Company: Johnson, Castillo and Chung
+Email: sharper@example.com | Phone: 208-104-1288
+Address: 111 Meghan Light, East Cheryltown, MH 35074
+SSN: 774-20-3603
+Card: 4439431510281512 | DOB: 11/07/2000
+Last login IP: 172.27.202.82

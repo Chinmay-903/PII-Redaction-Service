@@ -1,0 +1,7 @@
+Customer: Suzanne Garcia
+Company: Hill, Pruitt and Yang
+Email: destinyhorton@example.net | Phone: 836-502-8639
+Address: 950 Bryant Village, Lindafurt, ND 22411
+SSN: 493-01-1989
+Card: 4417616248194526 | DOB: 09/17/1983
+Last login IP: 192.168.174.166

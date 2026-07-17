@@ -1,0 +1,7 @@
+Customer: Mr. Ryan Little
+Company: Alvarez-Rios
+Email: wagnermatthew@example.org | Phone: 398-754-0406
+Address: 7350 Frost Union, Aprilport, MS 23129
+SSN: 823-95-1981
+Card: 4210594418871901 | DOB: 03/30/1949
+Last login IP: 10.108.47.12

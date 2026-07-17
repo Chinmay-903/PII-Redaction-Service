@@ -1,0 +1,7 @@
+Customer: Mary Green
+Company: Mullins and Sons
+Email: mgalvan@example.com | Phone: 373-899-9972
+Address: 89213 Kevin Village, East Jennifer, TN 23948
+SSN: 054-94-4110
+Card: 4128276003683211 | DOB: 11/14/1954
+Last login IP: 10.72.241.91

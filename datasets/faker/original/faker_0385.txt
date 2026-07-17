@@ -1,0 +1,7 @@
+Customer: Mrs. Kristina English
+Company: Johnson-Schultz
+Email: evelyncruz@example.net | Phone: 612-261-7433
+Address: 9907 Jackson Lock, Moorefurt, CA 14862
+SSN: 062-10-1060
+Card: 4522078195873341 | DOB: 01/19/1953
+Last login IP: 172.30.18.84

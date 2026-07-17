@@ -1,0 +1,7 @@
+Customer: William Vega
+Company: Vargas-Henry
+Email: charlesbonnie@example.com | Phone: 642-088-4203
+Address: 666 Roberts Neck, Thompsonbury, NV 50763
+SSN: 116-39-2640
+Card: 4211825516089015 | DOB: 07/18/1953
+Last login IP: 10.191.136.54

@@ -1,0 +1,7 @@
+Customer: Trevor Stephenson
+Company: Castro, Anderson and Ritter
+Email: scottjeremiah@example.net | Phone: 060-763-1131
+Address: 5976 Myers Point, Dukeville, WI 74500
+SSN: 896-09-6674
+Card: 4686353279724070 | DOB: 12/23/1990
+Last login IP: 172.17.193.112

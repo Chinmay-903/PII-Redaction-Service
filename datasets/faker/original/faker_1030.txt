@@ -1,0 +1,7 @@
+Customer: Daniel Sandoval
+Company: Smith Ltd
+Email: curtis56@example.net | Phone: 550-349-1814
+Address: 899 Alexander Land, Port Melissafurt, KS 02589
+SSN: 377-80-8497
+Card: 4678186736153180 | DOB: 04/23/2005
+Last login IP: 172.29.81.145

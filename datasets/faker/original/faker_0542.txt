@@ -1,0 +1,7 @@
+Customer: Amanda Richardson
+Company: Burke-Sanchez
+Email: andersonmicheal@example.org | Phone: 021-170-1020
+Address: 86013 Travis Loaf, Murrayton, NH 73983
+SSN: 712-63-0990
+Card: 4415847189450815 | DOB: 01/29/1960
+Last login IP: 10.18.239.215

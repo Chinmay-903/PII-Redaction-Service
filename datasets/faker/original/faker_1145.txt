@@ -1,0 +1,7 @@
+Customer: Jennifer Moore
+Company: Hahn, Schmidt and Cannon
+Email: jefferyrussell@example.com | Phone: 319-656-6107
+Address: 836 Jordan Terrace, Meganside, NC 73385
+SSN: 113-74-6310
+Card: 4925999207571941 | DOB: 08/22/1978
+Last login IP: 10.111.186.174

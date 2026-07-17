@@ -1,0 +1,7 @@
+Customer: Rachel Nguyen
+Company: Torres, Davies and Santana
+Email: kelleralison@example.org | Phone: 191-283-8562
+Address: 3275 Smith Neck, Brycefort, VT 62394
+SSN: 379-50-5092
+Card: 4007481147136508 | DOB: 11/18/1960
+Last login IP: 172.21.98.212

@@ -1,0 +1,7 @@
+Customer: Jonathan Martinez
+Company: Ponce, Green and Wood
+Email: xatkinson@example.org | Phone: 072-658-4661
+Address: 6270 Page Parkways, Schultzport, MO 73774
+SSN: 182-70-3425
+Card: 4096282989851382 | DOB: 12/03/1956
+Last login IP: 192.168.227.76

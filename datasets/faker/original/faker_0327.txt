@@ -1,0 +1,7 @@
+Customer: Brian Simmons
+Company: Morris-Rangel
+Email: gardnermathew@example.org | Phone: 374-035-5225
+Address: 9464 Melissa View, Norrischester, FM 25488
+SSN: 269-60-1733
+Card: 4045427613317456 | DOB: 06/06/1987
+Last login IP: 172.29.78.227

@@ -1,0 +1,7 @@
+Customer: Julie Houston DVM
+Company: Flores-Miles
+Email: qward@example.com | Phone: 378-785-5695
+Address: 43057 Brian Mountain, Lake Jacobport, ND 57221
+SSN: 369-20-5958
+Card: 4656372433967801 | DOB: 01/29/1953
+Last login IP: 192.168.50.32

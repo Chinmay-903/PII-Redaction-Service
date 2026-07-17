@@ -1,0 +1,7 @@
+Customer: Raymond Hinton
+Company: Sanchez Group
+Email: carolrivera@example.org | Phone: 690-855-7351
+Address: 34342 Jonathan Lock, Teresabury, AL 53495
+SSN: 152-59-9039
+Card: 4906218715267584 | DOB: 05/12/1986
+Last login IP: 172.26.165.72
