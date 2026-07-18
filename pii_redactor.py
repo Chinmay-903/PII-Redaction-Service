@@ -1,7 +1,9 @@
 """Small Flask service for detecting and replacing PII in common documents."""
 from __future__ import annotations
 
+import gc
 import json
+import logging
 import os
 import re
 import shutil
@@ -30,6 +32,14 @@ BASE_DIR = Path(__file__).resolve().parent
 INPUT_DIR, OUTPUT_DIR, DATASETS_DIR = (BASE_DIR / name for name in ("input", "output", "datasets"))
 ALLOWED_EXTENSIONS = {".docx", ".doc", ".pdf", ".txt", ".csv", ".xlsx", ".xls", ".json", ".xml"}
 PII_TYPES = ("PERSON", "EMAIL", "PHONE", "COMPANY", "ADDRESS", "SSN", "CREDIT_CARD", "DOB", "IP_ADDRESS", "LINKEDIN", "GITHUB", "WEBSITE")
+
+LOGGER = logging.getLogger(__name__)
+if not LOGGER.handlers:
+    handler = logging.StreamHandler()
+    handler.setFormatter(logging.Formatter("%(asctime)s %(levelname)s %(message)s"))
+    LOGGER.addHandler(handler)
+LOGGER.setLevel(logging.INFO)
+LOGGER.propagate = False
 
 
 @dataclass(frozen=True)
@@ -182,7 +192,8 @@ class PIIDetector:
         return [entity for source in sources for entity in source]
 
     def _load_model(self) -> tuple[Any, str]:
-        for name in self.MODEL_NAMES:
+        model_names = ("en_core_web_sm",) if os.environ.get("RENDER", "").lower() == "true" else self.MODEL_NAMES
+        for name in model_names:
             try:
                 return spacy.load(name, exclude=["tagger", "parser", "lemmatizer", "attribute_ruler"]), name
             except OSError:
@@ -415,19 +426,30 @@ class FileWriter:
     def _pdf(document: DocumentData, output: Path, detector: PIIDetector, replacer: PIIReplacer) -> None:
         pdf = fitz.open(document.path)
         try:
-            # spaCy's batch API greatly reduces NER overhead for multi-page PDFs
-            # while each page retains its own redaction coordinates.
-            page_texts = [page.get_text("text") for page in pdf]
-            page_entities = detector.detect_many(page_texts)
-            for page, entities in zip(pdf, page_entities):
-                replacements = FileWriter._pdf_replacements(page, entities, replacer)
-                for rect, _ in replacements:
-                    page.add_redact_annot(rect, fill=(1, 1, 1), cross_out=False)
-                if replacements:
-                    page.apply_redactions()
-                    for rect, value in replacements:
-                        FileWriter._insert_pdf_text(page, rect, value)
+            page_count = len(pdf)
+            LOGGER.info("Loading PDF with %s pages", page_count)
+            for page_number in range(page_count):
+                page = page_text = entities = replacements = None
+                try:
+                    LOGGER.info("Processing page %s/%s", page_number + 1, page_count)
+                    page = pdf.load_page(page_number)
+                    page_text = page.get_text("text")
+                    entities = detector.detect(page_text)
+                    replacements = FileWriter._pdf_replacements(page, entities, replacer)
+                    for rect, _ in replacements:
+                        page.add_redact_annot(rect, fill=(1, 1, 1), cross_out=False)
+                    if replacements:
+                        page.apply_redactions()
+                        for rect, value in replacements:
+                            FileWriter._insert_pdf_text(page, rect, value)
+                finally:
+                    # Do not retain text, entities, or PyMuPDF page references
+                    # after the page has been written.
+                    del replacements, entities, page_text, page
+                    gc.collect()
+            LOGGER.info("Saving PDF")
             pdf.save(output, garbage=4, deflate=True)
+            LOGGER.info("Completed PDF redaction successfully")
         finally:
             pdf.close()
 

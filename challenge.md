@@ -1,5 +1,45 @@
 # Detection Improvement Log
 
+## Memory Optimization for Cloud Deployment
+
+### Previous implementation
+
+PDF processing extracted the text for every page into `page_texts`, then used
+`detect_many()` to create a second document-wide collection of entity lists
+before any page redactions were applied.
+
+### Identified memory bottlenecks
+
+For a large PDF, all extracted page strings and all detected entities remained
+live at once, in addition to PyMuPDF's open document. The production model
+loader also attempted progressively larger spaCy model names before selecting a
+model.
+
+### Modifications made
+
+The PDF writer now loads, extracts, detects, redacts, and releases one page at
+a time. It calls `detector.detect()` per page, deletes that page's temporary
+text, entity, replacement, and page objects, and runs garbage collection once
+after the page completes. On Render, the documented `RENDER=true` environment
+variable selects only `en_core_web_sm`; local development retains the existing
+transformer/large/small fallback order. Progress logs record page numbers and
+save completion without recording document contents.
+
+### Estimated memory reduction
+
+The page-text and entity working set changes from proportional to the entire
+document to proportional to one page. For similarly sized pages, a 127-page
+PDF no longer retains up to 127 pages of these temporary objects at once.
+PyMuPDF's document and spaCy's single loaded model still contribute fixed
+resident memory, so the exact reduction depends on the source PDF.
+
+### Render deployment stability
+
+Streaming prevents accumulated extracted text and NER entities from competing
+with the PDF renderer and spaCy model for Render's limited memory. This reduces
+the chance of a worker being killed while preserving page order, detection,
+replacement mapping, coordinates, formatting, filenames, and API responses.
+
 ## Challenge
 
 Contextual PII recall collapsed to zero after selecting `en_core_web_trf`.
