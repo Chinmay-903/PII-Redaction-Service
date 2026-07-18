@@ -18,7 +18,7 @@ python -m spacy download en_core_web_sm
 python pii_redactor.py
 ```
 
-Open `https://pii-redaction-service.onrender.com`. Upload a supported document and use **Redact & Download**, or click **Run Accuracy Evaluation** for the included 1,500-record Faker dataset and 1,500-record Presidio Research dataset. Dataset provenance and label mapping are recorded in [datasets/faker/SOURCE.md](datasets/faker/SOURCE.md) and [datasets/presidio/SOURCE.md](datasets/presidio/SOURCE.md).
+Open `[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://pii-redaction-service.onrender.com/)`. Upload a supported document and use **Redact & Download**, or click **Run Accuracy Evaluation** for the included 1,500-record Faker dataset and 1,500-record Presidio Research dataset. Dataset provenance and label mapping are recorded in [datasets/faker/SOURCE.md](datasets/faker/SOURCE.md) and [datasets/presidio/SOURCE.md](datasets/presidio/SOURCE.md).
 
 ## Deploy on Render
 
