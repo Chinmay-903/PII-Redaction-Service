@@ -17,21 +17,32 @@ model.
 
 ### Modifications made
 
-The PDF writer now loads, extracts, detects, redacts, and releases one page at
-a time. It calls `detector.detect()` per page, deletes that page's temporary
-text, entity, replacement, and page objects, and runs garbage collection once
-after the page completes. On Render, the documented `RENDER=true` environment
-variable selects only `en_core_web_sm`; local development retains the existing
-transformer/large/small fallback order. Progress logs record page numbers and
-save completion without recording document contents.
+PDFs of 20 pages or fewer retain fast batch processing; larger PDFs load,
+extract, detect, redact, and release one page at a time. The streaming path
+deletes each page's temporary text, entity, replacement, and page objects and
+runs garbage collection once after the page completes. DOCX files now avoid a
+second full paragraph/cell text copy and switch to incremental writes above a
+target-count threshold. Large CSV files stream through bounded dataframe
+chunks; large in-memory tables process bounded cell chunks without a full
+flattened value list. JSON is redacted in place, XML updates attributes without
+a temporary attribute dictionary, and evaluation processes 64-document batches
+instead of retaining every benchmark source at once. A small bounded detection
+cache prevents repeated values in low-memory paths from rerunning NER. On
+Render, the documented `RENDER=true` environment variable selects only
+`en_core_web_sm`; local development retains the existing transformer/large/small
+fallback order. Progress logs record units and save completion without recording
+document contents.
 
 ### Estimated memory reduction
 
 The page-text and entity working set changes from proportional to the entire
-document to proportional to one page. For similarly sized pages, a 127-page
-PDF no longer retains up to 127 pages of these temporary objects at once.
-PyMuPDF's document and spaCy's single loaded model still contribute fixed
-resident memory, so the exact reduction depends on the source PDF.
+document to proportional to one page for large PDFs. For similarly sized
+pages, a 127-page PDF no longer retains up to 127 pages of these temporary
+objects at once. DOCX avoids duplicate target/text/redaction lists for large
+files, and tabular processing limits its temporary value and replacement lists
+to 10,000 cells. PyMuPDF, python-docx, pandas workbook readers, and spaCy's
+single loaded model still contribute fixed resident memory, so the exact
+reduction depends on the source file.
 
 ### Render deployment stability
 

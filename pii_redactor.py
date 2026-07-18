@@ -32,6 +32,13 @@ BASE_DIR = Path(__file__).resolve().parent
 INPUT_DIR, OUTPUT_DIR, DATASETS_DIR = (BASE_DIR / name for name in ("input", "output", "datasets"))
 ALLOWED_EXTENSIONS = {".docx", ".doc", ".pdf", ".txt", ".csv", ".xlsx", ".xls", ".json", ".xml"}
 PII_TYPES = ("PERSON", "EMAIL", "PHONE", "COMPANY", "ADDRESS", "SSN", "CREDIT_CARD", "DOB", "IP_ADDRESS", "LINKEDIN", "GITHUB", "WEBSITE")
+PDF_BATCH_PAGE_LIMIT = 20
+DOCX_BATCH_TARGET_LIMIT = 1_000
+TABLE_BATCH_CELL_LIMIT = 10_000
+TABLE_CHUNK_ROWS = 1_000
+TABLE_CHUNK_CELLS = 10_000
+CSV_STREAMING_BYTES = 8 * 1024 * 1024
+STREAM_DETECTION_CACHE_LIMIT = 512
 
 LOGGER = logging.getLogger(__name__)
 if not LOGGER.handlers:
@@ -61,46 +68,55 @@ class DocumentData:
 class FileExtractor:
     """Reads supported files and exposes their textual content."""
 
-    def read(self, path: Path) -> DocumentData:
+    def read(self, path: Path, include_text: bool = True) -> DocumentData:
         kind = path.suffix.lower()
         if kind not in ALLOWED_EXTENSIONS:
             raise ValueError(f"Unsupported format: {kind}")
         readers = {".txt": self._text, ".docx": self._docx, ".pdf": self._pdf,
                    ".csv": self._table, ".xlsx": self._table, ".xls": self._table,
                    ".json": self._json, ".xml": self._xml, ".doc": self._legacy_doc}
-        return readers[kind](path)
+        return readers[kind](path, include_text=include_text)
 
-    def _text(self, path: Path) -> DocumentData:
+    def _text(self, path: Path, include_text: bool = True) -> DocumentData:
         text = path.read_text(encoding="utf-8", errors="replace")
         return DocumentData(path, ".txt", text, text)
 
-    def _docx(self, path: Path) -> DocumentData:
+    def _docx(self, path: Path, include_text: bool = True) -> DocumentData:
         document = Document(path)
+        if not include_text:
+            # The writer traverses the document directly, so retaining a second
+            # complete text representation only increases peak memory.
+            return DocumentData(path, ".docx", "", document)
         parts = [paragraph.text for paragraph in document.paragraphs]
         parts += [cell.text for table in document.tables for row in table.rows for cell in row.cells]
         return DocumentData(path, ".docx", "\n".join(parts), document)
 
-    def _pdf(self, path: Path) -> DocumentData:
+    def _pdf(self, path: Path, include_text: bool = True) -> DocumentData:
         # PDF writing extracts text from each page below. Avoid doing a second,
         # otherwise unused, full-document extraction before that work starts.
         return DocumentData(path, ".pdf", "")
 
-    def _table(self, path: Path) -> DocumentData:
+    def _table(self, path: Path, include_text: bool = True) -> DocumentData:
+        if not include_text and path.suffix.lower() == ".csv" and path.stat().st_size > CSV_STREAMING_BYTES:
+            # Large CSV files are read in writer-owned chunks instead of being
+            # represented by both a DataFrame and a concatenated text string.
+            return DocumentData(path, ".csv", "")
         table = pd.read_csv(path, dtype=str, keep_default_na=False) if path.suffix == ".csv" else pd.read_excel(path, dtype=str, keep_default_na=False)
-        return DocumentData(path, path.suffix.lower(), "\n".join(table.astype(str).stack()), table)
+        text = "\n".join(table.astype(str).stack()) if include_text else ""
+        return DocumentData(path, path.suffix.lower(), text, table)
 
-    def _json(self, path: Path) -> DocumentData:
+    def _json(self, path: Path, include_text: bool = True) -> DocumentData:
         content = json.loads(path.read_text(encoding="utf-8"))
-        return DocumentData(path, ".json", self._values(content), content)
+        return DocumentData(path, ".json", self._values(content) if include_text else "", content)
 
-    def _xml(self, path: Path) -> DocumentData:
+    def _xml(self, path: Path, include_text: bool = True) -> DocumentData:
         root = ET.parse(path).getroot()
-        text = "\n".join(value for node in root.iter() for value in (node.text, *node.attrib.values()) if value)
+        text = "\n".join(value for node in root.iter() for value in (node.text, *node.attrib.values()) if value) if include_text else ""
         return DocumentData(path, ".xml", text, root)
 
-    def _legacy_doc(self, path: Path) -> DocumentData:
+    def _legacy_doc(self, path: Path, include_text: bool = True) -> DocumentData:
         converted = self._office_convert(path, "docx", path.parent)
-        data = self._docx(converted)
+        data = self._docx(converted, include_text=include_text)
         return DocumentData(path, ".doc", data.text, data.content)
 
     @staticmethod
@@ -362,6 +378,7 @@ class PIIReplacer:
     def __init__(self) -> None:
         self.fake = Faker()
         self.mapping: dict[tuple[str, str], str] = {}
+        self._streaming_entities: dict[str, list[Entity]] = {}
         self.generators = {
             "PERSON": self.fake.name, "EMAIL": self.fake.email, "PHONE": self.fake.phone_number,
             "COMPANY": self.fake.company, "ADDRESS": self.fake.address, "SSN": self.fake.ssn,
@@ -377,7 +394,19 @@ class PIIReplacer:
         return text
 
     def redact_value(self, value: Any, detector: PIIDetector) -> Any:
-        return self.replace(value, detector.detect(value)) if isinstance(value, str) else value
+        if not isinstance(value, str):
+            return value
+        # Low-memory writers may encounter repeated cell or paragraph values.
+        # Keep only a small, bounded cache so they avoid rerunning NER without
+        # retaining the document-wide value/entity lists used by batch mode.
+        if len(value) <= 4_096 and value in self._streaming_entities:
+            return self.replace(value, self._streaming_entities[value])
+        entities = detector.detect(value)
+        if len(value) <= 4_096:
+            if len(self._streaming_entities) >= STREAM_DETECTION_CACHE_LIMIT:
+                self._streaming_entities.clear()
+            self._streaming_entities[value] = entities
+        return self.replace(value, entities)
 
     def redact_many(self, values: list[str], detector: PIIDetector) -> list[str]:
         unique_values = list(dict.fromkeys(values))
@@ -416,10 +445,35 @@ class FileWriter:
 
     @staticmethod
     def _docx(document: DocumentData, output: Path, detector: PIIDetector, replacer: PIIReplacer) -> None:
-        targets = list(document.content.paragraphs)
-        targets += [cell for table in document.content.tables for row in table.rows for cell in row.cells]
-        for target, text in zip(targets, replacer.redact_many([target.text for target in targets], detector)):
-            target.text = text
+        paragraph_count = len(document.content.paragraphs)
+        cell_count = sum(1 for table in document.content.tables for row in table.rows for cell in row.cells)
+        target_count = paragraph_count + cell_count
+        if target_count <= DOCX_BATCH_TARGET_LIMIT:
+            LOGGER.info("Processing DOCX in fast batch mode (%s targets)", target_count)
+            targets = list(document.content.paragraphs)
+            targets += [cell for table in document.content.tables for row in table.rows for cell in row.cells]
+            for target, text in zip(targets, replacer.redact_many([target.text for target in targets], detector)):
+                target.text = text
+        else:
+            LOGGER.info("Processing DOCX in low-memory mode (%s targets)", target_count)
+            for index, paragraph in enumerate(document.content.paragraphs, start=1):
+                paragraph.text = replacer.redact_value(paragraph.text, detector)
+                if index % TABLE_CHUNK_ROWS == 0:
+                    LOGGER.info("Processed %s/%s DOCX paragraphs", index, paragraph_count)
+                    gc.collect()
+            gc.collect()
+            cell_index = 0
+            for table_number, table in enumerate(document.content.tables, start=1):
+                for row in table.rows:
+                    for cell in row.cells:
+                        cell.text = replacer.redact_value(cell.text, detector)
+                        cell_index += 1
+                        if cell_index % TABLE_CHUNK_ROWS == 0:
+                            LOGGER.info("Processed %s/%s DOCX cells", cell_index, cell_count)
+                            gc.collect()
+                LOGGER.info("Completed DOCX table %s", table_number)
+                gc.collect()
+        LOGGER.info("Saving DOCX")
         document.content.save(output)
 
     @staticmethod
@@ -428,30 +482,46 @@ class FileWriter:
         try:
             page_count = len(pdf)
             LOGGER.info("Loading PDF with %s pages", page_count)
-            for page_number in range(page_count):
-                page = page_text = entities = replacements = None
-                try:
-                    LOGGER.info("Processing page %s/%s", page_number + 1, page_count)
-                    page = pdf.load_page(page_number)
-                    page_text = page.get_text("text")
-                    entities = detector.detect(page_text)
-                    replacements = FileWriter._pdf_replacements(page, entities, replacer)
-                    for rect, _ in replacements:
-                        page.add_redact_annot(rect, fill=(1, 1, 1), cross_out=False)
-                    if replacements:
-                        page.apply_redactions()
-                        for rect, value in replacements:
-                            FileWriter._insert_pdf_text(page, rect, value)
-                finally:
-                    # Do not retain text, entities, or PyMuPDF page references
-                    # after the page has been written.
-                    del replacements, entities, page_text, page
-                    gc.collect()
+            if page_count <= PDF_BATCH_PAGE_LIMIT:
+                LOGGER.info("Processing PDF in fast batch mode")
+                page_texts = [page.get_text("text") for page in pdf]
+                page_entities = detector.detect_many(page_texts)
+                for page_number, (page, entities) in enumerate(zip(pdf, page_entities), start=1):
+                    LOGGER.info("Processing page %s/%s", page_number, page_count)
+                    FileWriter._apply_pdf_redactions(page, entities, replacer)
+            else:
+                LOGGER.info("Processing PDF in low-memory mode")
+                for page_number in range(page_count):
+                    page = page_text = entities = None
+                    try:
+                        LOGGER.info("Processing page %s/%s", page_number + 1, page_count)
+                        page = pdf.load_page(page_number)
+                        page_text = page.get_text("text")
+                        entities = detector.detect(page_text)
+                        FileWriter._apply_pdf_redactions(page, entities, replacer)
+                    finally:
+                        # Do not retain text, entities, or PyMuPDF page references
+                        # after the page has been written.
+                        del entities, page_text, page
+                        gc.collect()
             LOGGER.info("Saving PDF")
             pdf.save(output, garbage=4, deflate=True)
             LOGGER.info("Completed PDF redaction successfully")
         finally:
             pdf.close()
+
+    @staticmethod
+    def _apply_pdf_redactions(page: Any, entities: list[Entity], replacer: PIIReplacer) -> None:
+        replacements = FileWriter._pdf_replacements(page, entities, replacer)
+        try:
+            for rect, _ in replacements:
+                page.add_redact_annot(rect, fill=(1, 1, 1), cross_out=False)
+            if replacements:
+                page.apply_redactions()
+                for rect, value in replacements:
+                    FileWriter._insert_pdf_text(page, rect, value)
+        finally:
+            del replacements
 
     @staticmethod
     def _pdf_replacements(page: Any, entities: list[Entity], replacer: PIIReplacer) -> list[tuple[Any, str]]:
@@ -493,31 +563,78 @@ class FileWriter:
 
     @staticmethod
     def _table(document: DocumentData, output: Path, detector: PIIDetector, replacer: PIIReplacer) -> None:
-        table = document.content.copy()
-        values = table.astype(str).to_numpy().ravel().tolist()
-        redacted = replacer.redact_many(values, detector)
-        rows = [redacted[index:index + len(table.columns)]
-                for index in range(0, len(redacted), len(table.columns))]
-        table = pd.DataFrame(rows, columns=table.columns, index=table.index)
+        if document.kind == ".csv" and document.content is None:
+            FileWriter._stream_csv(document.path, output, detector, replacer)
+            return
+        table = document.content
+        if table.size <= TABLE_BATCH_CELL_LIMIT:
+            LOGGER.info("Processing dataframe in fast batch mode (%s cells)", table.size)
+            values = table.astype(str).to_numpy().ravel().tolist()
+            redacted = replacer.redact_many(values, detector)
+            rows = [redacted[index:index + len(table.columns)]
+                    for index in range(0, len(redacted), len(table.columns))]
+            table = pd.DataFrame(rows, columns=table.columns, index=table.index)
+        else:
+            LOGGER.info("Processing dataframe in low-memory mode (%s cells)", table.size)
+            FileWriter._redact_table_incrementally(table, detector, replacer)
         if document.kind == ".csv":
+            LOGGER.info("Saving CSV")
             table.to_csv(output, index=False)
         elif document.kind == ".xls":
+            LOGGER.info("Saving XLS")
             import xlwt
             workbook = xlwt.Workbook()
             sheet = workbook.add_sheet("Redacted")
-            for row, values in enumerate([table.columns.tolist(), *table.values.tolist()]):
+            for column, value in enumerate(table.columns):
+                sheet.write(0, column, value)
+            for row, values in enumerate(table.itertuples(index=False, name=None), start=1):
                 for column, value in enumerate(values): sheet.write(row, column, value)
             workbook.save(str(output))
         else:
+            LOGGER.info("Saving XLSX")
             table.to_excel(output, index=False)
 
+    @staticmethod
+    def _stream_csv(source: Path, output: Path, detector: PIIDetector, replacer: PIIReplacer) -> None:
+        for chunk_number, table in enumerate(pd.read_csv(source, dtype=str, keep_default_na=False, chunksize=TABLE_CHUNK_ROWS), start=1):
+            LOGGER.info("Processing CSV dataframe chunk %s", chunk_number)
+            FileWriter._redact_table_incrementally(table, detector, replacer)
+            table.to_csv(output, index=False, mode="w" if chunk_number == 1 else "a", header=chunk_number == 1)
+            del table
+            gc.collect()
+
+    @staticmethod
+    def _redact_table_incrementally(table: Any, detector: PIIDetector, replacer: PIIReplacer) -> None:
+        columns = len(table.columns)
+        rows_per_chunk = max(1, TABLE_CHUNK_CELLS // max(1, columns))
+        for start in range(0, len(table.index), rows_per_chunk):
+            end = min(start + rows_per_chunk, len(table.index))
+            values = [str(table.iat[row, column])
+                      for row in range(start, end)
+                      for column in range(columns)]
+            redacted = replacer.redact_many(values, detector)
+            redacted_index = 0
+            for row in range(start, end):
+                for column in range(columns):
+                    table.iat[row, column] = redacted[redacted_index]
+                    redacted_index += 1
+            LOGGER.info("Processed dataframe rows %s-%s", start + 1, end)
+            del values, redacted
+            gc.collect()
+
     def _json(self, document: DocumentData, output: Path, detector: PIIDetector, replacer: PIIReplacer) -> None:
+        LOGGER.info("Saving JSON")
         output.write_text(json.dumps(self._walk(document.content, detector, replacer), indent=2), encoding="utf-8")
 
     def _xml(self, document: DocumentData, output: Path, detector: PIIDetector, replacer: PIIReplacer) -> None:
-        for node in document.content.iter():
+        for index, node in enumerate(document.content.iter(), start=1):
             node.text = replacer.redact_value(node.text, detector)
-            node.attrib.update({key: replacer.redact_value(value, detector) for key, value in node.attrib.items()})
+            for key, value in node.attrib.items():
+                node.attrib[key] = replacer.redact_value(value, detector)
+            if index % TABLE_CHUNK_ROWS == 0:
+                LOGGER.info("Processed %s XML nodes", index)
+                gc.collect()
+        LOGGER.info("Saving XML")
         ET.ElementTree(document.content).write(output, encoding="utf-8", xml_declaration=True)
 
     def _legacy_doc(self, document: DocumentData, output: Path, detector: PIIDetector, replacer: PIIReplacer) -> None:
@@ -527,8 +644,14 @@ class FileWriter:
         temporary_docx.unlink(missing_ok=True)
 
     def _walk(self, value: Any, detector: PIIDetector, replacer: PIIReplacer) -> Any:
-        if isinstance(value, dict): return {key: self._walk(item, detector, replacer) for key, item in value.items()}
-        if isinstance(value, list): return [self._walk(item, detector, replacer) for item in value]
+        if isinstance(value, dict):
+            for key, item in value.items():
+                value[key] = self._walk(item, detector, replacer)
+            return value
+        if isinstance(value, list):
+            for index, item in enumerate(value):
+                value[index] = self._walk(item, detector, replacer)
+            return value
         return replacer.redact_value(value, detector)
 
 
@@ -541,16 +664,27 @@ class Evaluator:
     def evaluate(self, datasets: Path = DATASETS_DIR) -> dict[str, Any]:
         totals, by_type = defaultdict(int), defaultdict(lambda: defaultdict(int))
         label_files = [datasets / "labels.json"] if (datasets / "labels.json").exists() else datasets.glob("*/labels.json")
-        samples = []
+        texts, expectations = [], []
+
+        def evaluate_batch() -> None:
+            if not texts:
+                return
+            for expected, entities in zip(expectations, self.detector.detect_many(texts)):
+                found = Counter((entity.label, self._normalise(entity.text)) for entity in entities)
+                self._count(expected, found, totals, by_type)
+                totals["documents"] += 1
+            texts.clear()
+            expectations.clear()
+
         for labels_path in label_files:
             for item in json.loads(labels_path.read_text(encoding="utf-8")):
                 text = self.extractor.read(labels_path.parent / "original" / item["file"]).text
                 expected = Counter((entity["label"], self._normalise(entity["text"])) for entity in item["entities"])
-                samples.append((text, expected))
-        for (_, expected), entities in zip(samples, self.detector.detect_many([text for text, _ in samples])):
-            found = Counter((entity.label, self._normalise(entity.text)) for entity in entities)
-            self._count(expected, found, totals, by_type)
-            totals["documents"] += 1
+                texts.append(text)
+                expectations.append(expected)
+                if len(texts) == 64:
+                    evaluate_batch()
+        evaluate_batch()
         report = self._metrics(totals)
         report["by_type"] = {label: self._metrics(by_type[label]) for label in PII_TYPES}
         return report
@@ -602,8 +736,10 @@ def redact():
         return jsonify(error="This file format is not supported."), 400
     source = INPUT_DIR / f"{uuid.uuid4().hex}_{filename}"
     try:
+        LOGGER.info("Upload received (%s)", Path(filename).suffix.lower())
         upload.save(source)
-        document = extractor.read(source)
+        LOGGER.info("Reading document")
+        document = extractor.read(source, include_text=False)
         result = writer.write(document, detector, PIIReplacer())
         response = send_file(result, as_attachment=True, download_name=f"redacted_{filename}")
 
